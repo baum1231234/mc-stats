@@ -40,7 +40,14 @@
 
   <footer>Stats werden alle paar Minuten vom Server geholt · Online-Status live · Klick auf eine Spalte sortiert</footer>
 </main>
-<script src="config.js"></script>
-<script src="app.js"></script>
+<script>
+// Skripte mit Zeitstempel laden, damit der Browser nach einem Update keine alte Version zeigt
+for (const file of ["config.js", "app.js"]) {
+  const s = document.createElement("script");
+  s.src = `${file}?v=${Math.floor(Date.now() / 60000)}`;
+  s.async = false;
+  document.body.append(s);
+}
+</script>
 </body>
 </html>
