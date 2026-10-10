@@ -94,6 +94,7 @@ class FtpSource:
 
     def _exists(self, path):
         try:
+            self.ftp.voidcmd("TYPE I")  # SIZE geht bei vielen Servern nur im Binärmodus
             self.ftp.size(path)
             return True
         except all_errors:
@@ -114,14 +115,16 @@ class FtpSource:
         fixed = os.environ.get("SERVER_DIR")
         if fixed:
             return fixed.strip("/")
-        level = [""]
+        level, seen = [""], []
         for _ in range(3):
             nxt = []
             for d in level:
                 if self._exists(f"{d}/server.properties".lstrip("/")):
                     return d
                 nxt += [f"{d}/{s}".lstrip("/") for s in self._dirs(d or ".")]
+            seen += nxt
             level = nxt
+        print("Durchsuchte Ordner:", ", ".join(seen) or "keine")
         sys.exit("server.properties nicht gefunden – bitte SERVER_DIR als Secret setzen")
 
     def _p(self, path):
