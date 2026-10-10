@@ -44,7 +44,7 @@ jobs:
           while [ $SECONDS -lt $end ]; do
             git pull -q --rebase || true
             python3 scripts/sync.py || echo "Sync fehlgeschlagen, nächster Versuch folgt"
-            git add data/stats.json
+            git add data
             git diff --cached --quiet || git commit -q -m "Stats aktualisiert"
             git push -q || true
             sleep "$INTERVAL"
