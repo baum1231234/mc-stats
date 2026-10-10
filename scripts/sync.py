@@ -259,9 +259,14 @@ def read_bases(src, world, uuids, old, now):
         except Exception:
             continue
     if raw is None:
+        print("Bases: keine lesbare Storage-Datei gefunden")
         return None  # Datei fehlt oder wird gerade geschrieben – alten Stand behalten
+    # der Storage heißt kbk:bases und enthält selbst wieder den Schlüssel "bases" – bis zu den Einträgen absteigen
+    entries = find_key(raw, "bases") or {}
+    while isinstance(entries.get("bases"), dict) and "pos" not in entries["bases"]:
+        entries = entries["bases"]
     bases = []
-    for player, entry in (find_key(raw, "bases") or {}).items():
+    for player, entry in entries.items():
         pos = entry.get("pos") if isinstance(entry, dict) else None
         if not pos or len(pos) != 3:
             continue
