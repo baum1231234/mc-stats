@@ -1,25 +1,260 @@
 {
- "updated": "2026-10-10T21:31:51Z",
+ "updated": "2026-10-10T21:34:29Z",
+ "source": "minecraftotherpacks/world2/players/stats",
  "players": [
+  {
+   "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
+   "name": "4rtjom",
+   "firstSeen": null,
+   "lastSeen": "2026-10-10T21:31:44Z",
+   "playTicks": 293510,
+   "deaths": 0,
+   "mobKills": 373,
+   "playerKills": 0,
+   "damageDealt": 47646,
+   "damageTaken": 3510,
+   "distanceCm": 3083402,
+   "walkCm": 1289613,
+   "flyCm": 806092,
+   "jumps": 5805,
+   "mined": 1573,
+   "topMined": [
+    [
+     "packed_ice",
+     432
+    ],
+    [
+     "stone",
+     261
+    ],
+    [
+     "grass_block",
+     111
+    ]
+   ],
+   "crafted": 632,
+   "topCrafted": [
+    [
+     "spruce_planks",
+     284
+    ],
+    [
+     "spruce_slab",
+     60
+    ],
+    [
+     "iron_ingot",
+     47
+    ]
+   ],
+   "topKilled": [
+    [
+     "slime",
+     123
+    ]
+   ]
+  },
   {
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-10T16:51:38Z",
-   "playTicks": 268,
+   "lastSeen": "2026-10-10T21:31:44Z",
+   "playTicks": 227748,
+   "deaths": 2,
+   "mobKills": 144,
+   "playerKills": 0,
+   "damageDealt": 27597,
+   "damageTaken": 3213,
+   "distanceCm": 2550488,
+   "walkCm": 974952,
+   "flyCm": 687785,
+   "jumps": 3209,
+   "mined": 698,
+   "topMined": [
+    [
+     "dirt",
+     107
+    ],
+    [
+     "deepslate",
+     68
+    ],
+    [
+     "coal_ore",
+     64
+    ]
+   ],
+   "crafted": 476,
+   "topCrafted": [
+    [
+     "wheat",
+     108
+    ],
+    [
+     "iron_ingot",
+     82
+    ],
+    [
+     "diamond",
+     45
+    ]
+   ],
+   "topKilled": [
+    [
+     "zombie",
+     50
+    ]
+   ]
+  },
+  {
+   "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
+   "name": "Ahxibrause",
+   "firstSeen": null,
+   "lastSeen": "2026-10-10T21:31:44Z",
+   "playTicks": 189467,
+   "deaths": 1,
+   "mobKills": 87,
+   "playerKills": 0,
+   "damageDealt": 13211,
+   "damageTaken": 2767,
+   "distanceCm": 1589317,
+   "walkCm": 512517,
+   "flyCm": 825827,
+   "jumps": 4139,
+   "mined": 978,
+   "topMined": [
+    [
+     "short_grass",
+     175
+    ],
+    [
+     "deepslate",
+     95
+    ],
+    [
+     "stone",
+     89
+    ]
+   ],
+   "crafted": 289,
+   "topCrafted": [
+    [
+     "iron_ingot",
+     56
+    ],
+    [
+     "gold_ingot",
+     48
+    ],
+    [
+     "stick",
+     32
+    ]
+   ],
+   "topKilled": [
+    [
+     "skeleton",
+     21
+    ]
+   ]
+  },
+  {
+   "uuid": "e0716f67-b0d0-4d15-b374-ed3a090ab96a",
+   "name": "Bensen1405",
+   "firstSeen": null,
+   "lastSeen": "2026-10-10T20:07:51Z",
+   "playTicks": 186683,
+   "deaths": 0,
+   "mobKills": 45,
+   "playerKills": 0,
+   "damageDealt": 5990,
+   "damageTaken": 1252,
+   "distanceCm": 2154472,
+   "walkCm": 1022913,
+   "flyCm": 840141,
+   "jumps": 3818,
+   "mined": 1235,
+   "topMined": [
+    [
+     "stone",
+     442
+    ],
+    [
+     "coal_ore",
+     143
+    ],
+    [
+     "iron_ore",
+     136
+    ]
+   ],
+   "crafted": 492,
+   "topCrafted": [
+    [
+     "torch",
+     180
+    ],
+    [
+     "birch_planks",
+     92
+    ],
+    [
+     "stick",
+     76
+    ]
+   ],
+   "topKilled": [
+    [
+     "zombie",
+     12
+    ]
+   ]
+  },
+  {
+   "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
+   "name": "Eingepacktt",
+   "firstSeen": null,
+   "lastSeen": "2026-10-10T21:31:44Z",
+   "playTicks": 9698,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
-   "damageDealt": 0,
-   "damageTaken": 0,
-   "distanceCm": 1929,
-   "walkCm": 1903,
-   "flyCm": 26,
-   "jumps": 6,
-   "mined": 0,
-   "topMined": [],
-   "crafted": 0,
-   "topCrafted": [],
+   "damageDealt": 35,
+   "damageTaken": 20,
+   "distanceCm": 201692,
+   "walkCm": 37998,
+   "flyCm": 46845,
+   "jumps": 205,
+   "mined": 35,
+   "topMined": [
+    [
+     "sweet_berry_bush",
+     14
+    ],
+    [
+     "oak_log",
+     6
+    ],
+    [
+     "large_fern",
+     6
+    ]
+   ],
+   "crafted": 37,
+   "topCrafted": [
+    [
+     "oak_planks",
+     24
+    ],
+    [
+     "stick",
+     8
+    ],
+    [
+     "oak_sign",
+     3
+    ]
+   ],
    "topKilled": []
   }
  ]
