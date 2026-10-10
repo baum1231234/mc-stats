@@ -62,7 +62,7 @@ const TABS = [
 const DIMS = { overworld: "Overworld", the_nether: "Nether", the_end: "End" };
 const dimName = (d) => DIMS[d] || pretty(d);
 
-const state = { players: [], bases: [], updated: null, demo: false, online: null, tab: TABS[0], sortCol: 0, dim: null, base: null, detail: false, date: null };
+const state = { players: [], bases: [], tiles: null, updated: null, demo: false, online: null, tab: TABS[0], sortCol: 0, dim: null, base: null, detail: false, date: null };
 const $ = (id) => document.getElementById(id);
 
 function el(tag, props = {}, ...children) {
@@ -110,16 +110,28 @@ const baseKey = (b) => `${b.dim}/${b.player}`;
 
 // Karte: Norden oben, Osten rechts – wie eine Minecraft-Karte (X nach rechts, Z nach unten)
 function baseMap(bases, selected) {
-  const SIZE = 600, PAD = 46;
-  const xs = [0, ...bases.map((b) => b.x)], zs = [0, ...bases.map((b) => b.z)];
-  const span = Math.max(400, Math.max(...xs) - Math.min(...xs), Math.max(...zs) - Math.min(...zs)) * 1.3;
+  const SIZE = 600;
+  // Ausschnitt: alle Bases mit Rand – dieselbe Rechnung wie view_regions() in scripts/maps.py
+  const xs = bases.map((b) => b.x), zs = bases.map((b) => b.z);
+  const span = Math.max(512, Math.max(...xs) - Math.min(...xs), Math.max(...zs) - Math.min(...zs)) * 1.3;
   const cx = (Math.max(...xs) + Math.min(...xs)) / 2, cz = (Math.max(...zs) + Math.min(...zs)) / 2;
-  const scale = (SIZE - 2 * PAD) / span;
+  const scale = SIZE / span;
   const px = (x) => SIZE / 2 + (x - cx) * scale, pz = (z) => SIZE / 2 + (z - cz) * scale;
 
   const step = [50, 100, 250, 500, 1000, 2500, 5000, 10000, 25000].find((s) => span / s <= 7) || 50000;
   const root = svg("svg", { viewBox: `0 0 ${SIZE} ${SIZE}`, role: "img", "aria-label": "Karte der markierten Bases" });
   root.append(svg("rect", { width: SIZE, height: SIZE, class: "map-bg" }));
+
+  // echtes Gelände: eine Kachel pro Region (512 × 512 Blöcke); wo noch keine da ist, bleibt Papier
+  const tiles = bases[0].dim === "overworld" ? state.tiles : null;
+  for (const [key, info] of Object.entries(tiles?.regions || {})) {
+    const [rx, rz] = key.split(".").map(Number);
+    // einen Hauch größer zeichnen, damit zwischen den Kacheln keine Haarlinien bleiben
+    root.append(svg("image", {
+      href: `${tiles.dir}/r.${key}.png?t=${encodeURIComponent(info.rendered)}`, class: "map-patch",
+      x: px(rx * 512), y: pz(rz * 512), width: 512 * scale + 0.5, height: 512 * scale + 0.5,
+    }));
+  }
   for (let v = Math.ceil((cx - span / 2) / step) * step; v <= cx + span / 2; v += step) {
     root.append(svg("line", { x1: px(v), x2: px(v), y1: 0, y2: SIZE, class: v ? "map-grid" : "map-axis" }));
     root.append(svg("text", { x: px(v) + 4, y: 16, class: "map-tick" }, String(v)));
@@ -129,13 +141,6 @@ function baseMap(bases, selected) {
     root.append(svg("text", { x: 4, y: pz(v) - 4, class: "map-tick" }, String(v)));
   }
   root.append(svg("text", { x: SIZE - 10, y: SIZE - 10, class: "map-tick", "text-anchor": "end" }, "N ▲ · X → · Z ▼"));
-
-  // echtes Gelände rund um jede Base, maßstabsgetreu auf dem Raster
-  for (const b of bases) {
-    if (!b.map) continue;
-    const side = b.map.size * scale;
-    root.append(svg("image", { href: mapUrl(b), x: px(b.map.origin[0]), y: pz(b.map.origin[1]), width: side, height: side, class: "map-patch" }));
-  }
 
   // ausgewählte Base zuletzt zeichnen, damit sie oben liegt
   for (const b of [...bases].sort((a, c) => (a === selected) - (c === selected))) {
@@ -273,7 +278,7 @@ async function loadStats() {
   try {
     const res = await fetch(`data/stats.json?t=${Date.now()}`, { cache: "no-store" });
     const data = await res.json();
-    Object.assign(state, { players: data.players || [], bases: data.bases || [], updated: data.updated, demo: !!data.demo });
+    Object.assign(state, { players: data.players || [], bases: data.bases || [], tiles: data.tiles || null, updated: data.updated, demo: !!data.demo });
   } catch (err) {
     console.error("Stats konnten nicht geladen werden", err);
   }

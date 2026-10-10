@@ -311,13 +311,14 @@ def main():
     except Exception:
         pass
 
-    old, old_bases = {}, []
+    old, old_bases, old_tiles = {}, [], {}
     if OUT.exists():
         prev = json.loads(OUT.read_text(encoding="utf-8"))
         # nach einem Wechsel des Serverordners gilt der Lauf wieder als erster (niemand ist "neu")
         if not prev.get("demo") and prev.get("source") == source:
             old = {p["uuid"]: p for p in prev.get("players", [])}
             old_bases = prev.get("bases", [])
+            old_tiles = prev.get("tiles", {})
     first_run = not old
     now = now_iso()
 
@@ -347,6 +348,7 @@ def main():
     uuids = {p["name"].lower(): p["uuid"] for p in players}
     uuids.update({name.lower(): uuid for uuid, name in names.items()})
     world = stats_dir.split("/")[0]
+    tiles = old_tiles
     bases = read_bases(src, world, uuids, {b["player"]: b for b in old_bases}, now)
     if bases is None:
         bases = old_bases
@@ -354,17 +356,20 @@ def main():
         try:
             sys.path.insert(0, str(Path(__file__).resolve().parent))
             import maps
-            print(f"Karten: {maps.update(src, world, bases, old_bases, now, read_nbt)} neu gezeichnet")
+            cache = {}  # Region-Dateien, die Base-Bilder und Kacheln gemeinsam brauchen
+            drawn = maps.update(src, world, bases, old_bases, now, read_nbt, cache)
+            tiles, drawn_tiles = maps.update_tiles(src, world, bases, old_tiles, now, read_nbt, cache)
+            print(f"Karten: {drawn} Base-Bilder, {drawn_tiles} Kacheln neu gezeichnet")
             # ein bereits laufender Sync-Job merkt nur data/stats.json vor – die Bilder hier selbst vormerken
-            subprocess.run(["git", "add", "data/maps"], cwd=OUT.parent.parent, capture_output=True)
+            subprocess.run(["git", "add", "data/maps", "data/tiles"], cwd=OUT.parent.parent, capture_output=True)
         except Exception as err:
             print("Karten fehlgeschlagen:", err)  # die Stats sollen trotzdem geschrieben werden
 
-    if OUT.exists() and players == list(old.values()) and bases == old_bases:
+    if OUT.exists() and players == list(old.values()) and bases == old_bases and tiles == old_tiles:
         print("Keine Änderung")
         return
     OUT.parent.mkdir(exist_ok=True)
-    out = {"updated": now, "source": source, "players": players, "bases": bases}
+    out = {"updated": now, "source": source, "players": players, "bases": bases, "tiles": tiles}
     OUT.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"{len(players)} Spieler, {len(bases)} Bases geschrieben")
 

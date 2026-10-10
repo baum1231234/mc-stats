@@ -1,5 +1,6 @@
-"""Zeichnet für jede markierte Base die Umgebung von oben (ein Pixel pro Block).
+"""Zeichnet die Welt von oben: ein Bild je Base und Kacheln für die Übersichtskarte.
 
+Übersicht: eine Kachel pro Region unter data/tiles/overworld/r.<x>.<z>.png.
 Pro Base und Tag entsteht ein Bild unter data/maps/<Spieler>_<x>_<z>/<Datum>.png.
 Neu gezeichnet wird nur, wenn sich eine der Region-Dateien geändert hat, und am selben
 Tag höchstens alle RENDER_HOURS Stunden. Ältere Tage bleiben als Verlauf liegen.
@@ -10,8 +11,13 @@ import zlib
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-SIZE = 256  # Kantenlänge in Blöcken (Vielfaches von 16)
+SIZE = 256  # Kantenlänge der Base-Bilder in Blöcken (Vielfaches von 16)
 RENDER_HOURS = 3
+TILE_STEP = 2  # Übersichtskacheln: Blöcke pro Pixel
+TILE_HOURS = 12  # eine Kachel höchstens so oft neu zeichnen
+TILES_PER_RUN = 4  # Rest folgt im nächsten Lauf, damit kein Sync minutenlang hängt
+MAX_TILES = 36
+VIEW_MIN, VIEW_PAD = 512, 1.3  # Ausschnitt der Übersicht – muss zu baseMap() in app.js passen
 ROOT = Path(__file__).resolve().parent.parent
 PAPER = (217, 197, 147)  # ungeladene Chunks: Farbe des Kartenpapiers
 U64 = 0xFFFFFFFFFFFFFFFF
@@ -175,12 +181,12 @@ def region_dir(src, world, dim):
     return None
 
 
-def draw(src, folder, base, origin, cache, read_nbt):
-    """Zeichnet das Bild einer Base. origin = Block oben links (Nordwest)."""
-    n = SIZE // 16
-    cx0, cz0 = origin[0] >> 4, origin[1] >> 4
-    heights = [[None] * SIZE for _ in range(SIZE)]
-    colors = [[None] * SIZE for _ in range(SIZE)]
+def draw(src, folder, cx0, cz0, n, step, cache, read_nbt):
+    """Zeichnet n × n Chunks ab Chunk (cx0, cz0) von oben; step = Blöcke pro Pixel."""
+    size = n * 16 // step
+    picked = [i for i in range(256) if not (i & 15) % step and not (i >> 4) % step]
+    heights = [[None] * size for _ in range(size)]
+    colors = [[None] * size for _ in range(size)]
     for cz in range(cz0, cz0 + n):
         for cx in range(cx0, cx0 + n):
             name = f"r.{cx >> 5}.{cz >> 5}.mca"
@@ -195,15 +201,15 @@ def draw(src, folder, base, origin, cache, read_nbt):
                 cols = None  # Chunk wird gerade geschrieben oder ist beschädigt
             if not cols:
                 continue
-            for i in range(256):
-                x, z = (cx - cx0) * 16 + (i & 15), (cz - cz0) * 16 + (i >> 4)
+            for i in picked:
+                x, z = ((cx - cx0) * 16 + (i & 15)) // step, ((cz - cz0) * 16 + (i >> 4)) // step
                 heights[z][x], colors[z][x] = cols[0][i], cols[1][i]
 
     if not any(rgb for row in colors for rgb in row):
         return None  # dort ist noch nichts erkundet
     pixels = bytearray()
-    for z in range(SIZE):
-        for x in range(SIZE):
+    for z in range(size):
+        for x in range(size):
             rgb = colors[z][x]
             if rgb is None:
                 pixels += bytes(PAPER)
@@ -212,15 +218,77 @@ def draw(src, folder, base, origin, cache, read_nbt):
             north = heights[z - 1][x] if z and heights[z - 1][x] is not None else heights[z][x]
             shade = 255 if heights[z][x] > north else 180 if heights[z][x] < north else 220
             pixels += bytes(c * shade // 255 for c in rgb)
-    return png(pixels, SIZE)
+    return png(pixels, size)
 
 
-def update(src, world, bases, old_bases, now, read_nbt):
+def parse(iso):
+    return datetime.strptime(iso, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+
+
+def view_regions(bases):
+    """Regionen, die die Übersichtskarte zeigt – dieselbe Rechnung wie baseMap() in app.js."""
+    xs, zs = [b["x"] for b in bases], [b["z"] for b in bases]
+    span = max(VIEW_MIN, max(xs) - min(xs), max(zs) - min(zs)) * VIEW_PAD
+    x0, z0 = (max(xs) + min(xs)) / 2 - span / 2, (max(zs) + min(zs)) / 2 - span / 2
+    regions = [(rx, rz) for rx in range(int(x0 // 512), int((x0 + span) // 512) + 1)
+               for rz in range(int(z0 // 512), int((z0 + span) // 512) + 1)]
+
+    def distance(region):
+        mx, mz = region[0] * 512 + 256, region[1] * 512 + 256
+        return min(abs(b["x"] - mx) + abs(b["z"] - mz) for b in bases)
+
+    # liegen die Bases sehr weit auseinander, gibt es nur rund um die Bases Gelände
+    return sorted(regions, key=distance)[:MAX_TILES]
+
+
+def update_tiles(src, world, bases, old, now, read_nbt, cache):
+    """Kacheln der Übersichtskarte: ein Bild pro Region (512 × 512 Blöcke, 2 Blöcke pro Pixel).
+
+    Gibt (Zustand für stats.json, Zahl neu gezeichneter Kacheln) zurück.
+    """
+    bases = [b for b in bases if b["dim"] == "overworld"]
+    folder = region_dir(src, world, "overworld") if bases else None
+    if not folder:
+        return old or {}, 0
+    stamp, out = parse(now), "data/tiles/overworld"
+    known = (old or {}).get("regions", {})
+    regions, drawn = {}, 0
+    for rx, rz in view_regions(bases):
+        key, name = f"{rx}.{rz}", f"r.{rx}.{rz}.mca"
+        info = known.get(key)
+        if info:
+            regions[key] = info
+        try:
+            mtime = src.mtime(f"{folder}/{name}")
+        except Exception:
+            mtime = None
+        if not mtime or drawn >= TILES_PER_RUN:
+            continue  # Region gibt es (noch) nicht, oder der Rest folgt im nächsten Lauf
+        if info and (info["mtime"] == mtime or stamp - parse(info["rendered"]) < timedelta(hours=TILE_HOURS)):
+            continue
+        try:
+            image = draw(src, folder, rx * 32, rz * 32, 32, TILE_STEP, cache, read_nbt)
+        except Exception as err:
+            print(f"Kachel {key} fehlgeschlagen: {err}")
+            image = None
+        cache.pop(name, None)  # jede Region ist rund 10 MB groß – nicht alle im Speicher halten
+        if image is None:
+            continue
+        path = ROOT / out / f"r.{key}.png"
+        path.parent.mkdir(parents=True, exist_ok=True)
+        if not path.exists() or path.read_bytes() != image:
+            path.write_bytes(image)
+        drawn += 1
+        regions[key] = {"mtime": mtime, "rendered": now}
+    return {"dir": out, "regions": regions}, drawn
+
+
+def update(src, world, bases, old_bases, now, read_nbt, cache):
     """Ergänzt jede Overworld-Base um base["map"] und schreibt neue Bilder. Gibt die Zahl neuer Bilder zurück."""
-    stamp = datetime.strptime(now, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+    stamp = parse(now)
     today = stamp.astimezone(TZ).strftime("%Y-%m-%d")
     old = {(b["player"], b["x"], b["z"], b["dim"]): b.get("map") for b in old_bases}
-    folders, cache, drawn = {}, {}, 0
+    folders, drawn = {}, 0
     for base in bases:
         info = dict(old.get((base["player"], base["x"], base["z"], base["dim"])) or {})
         if info:
@@ -242,13 +310,13 @@ def update(src, world, bases, old_bases, now, read_nbt):
                 mtimes[name] = None  # Region gibt es noch nicht
 
         last = info.get("rendered")
-        fresh = last and stamp - datetime.strptime(last, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc) < timedelta(hours=RENDER_HOURS)
+        fresh = last and stamp - parse(last) < timedelta(hours=RENDER_HOURS)
         # ohne Änderungszeit vom Server lässt sich "unverändert" nicht erkennen
         unchanged = all(mtimes.values()) and mtimes == info.get("regions")
         if info.get("dates") and (unchanged or (fresh and today in info["dates"])):
             continue
         try:
-            image = draw(src, folder, base, origin, cache, read_nbt)
+            image = draw(src, folder, origin[0] >> 4, origin[1] >> 4, SIZE // 16, 1, cache, read_nbt)
         except Exception as err:
             print(f"Karte für {base['player']} fehlgeschlagen: {err}")
             continue

@@ -132,9 +132,10 @@ td small { display: block; font-size: 18px; color: #e0e0e0; }
 .base-map { background: #d9c593; border: var(--px) solid #3b2a1e; outline: var(--px) solid #000; line-height: 0; }
 .base-map svg { width: 100%; height: auto; display: block; font-family: inherit; }
 .map-bg { fill: #d9c593; }
-.map-grid { stroke: #3b2a1e; stroke-opacity: .18; stroke-width: 1; }
-.map-axis { stroke: #3b2a1e; stroke-opacity: .55; stroke-width: 2; }
-.map-tick { fill: #3b2a1e; fill-opacity: .7; font-size: 15px; }
+.map-grid { stroke: #000; stroke-opacity: .16; stroke-width: 1; }
+.map-axis { stroke: #000; stroke-opacity: .4; stroke-width: 2; }
+/* heller Rand, damit die Zahlen auch auf dunklem Gelände lesbar bleiben */
+.map-tick { fill: #2a1d14; font-size: 15px; paint-order: stroke; stroke: #d9c593; stroke-width: 3px; }
 .map-base { cursor: pointer; }
 .map-base rect { fill: #000; }
 .map-base image { image-rendering: pixelated; }
