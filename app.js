@@ -43,7 +43,6 @@ const TABS = [
   { id: "bewegung", label: "Bewegung", cols: [
     ["Strecke gesamt", (p) => km(p.distanceCm), (p) => p.distanceCm],
     ["Zu Fuß", (p) => km(p.walkCm), (p) => p.walkCm],
-    ["Geflogen", (p) => km(p.flyCm), (p) => p.flyCm],
     ["Sprünge", (p) => num(p.jumps), (p) => p.jumps],
   ] },
   { id: "bloecke", label: "Blöcke & Items", cols: [
