@@ -12,6 +12,7 @@ import io
 import json
 import os
 import struct
+import subprocess
 import sys
 import urllib.request
 from datetime import datetime, timezone
@@ -345,9 +346,19 @@ def main():
 
     uuids = {p["name"].lower(): p["uuid"] for p in players}
     uuids.update({name.lower(): uuid for uuid, name in names.items()})
-    bases = read_bases(src, stats_dir.split("/")[0], uuids, {b["player"]: b for b in old_bases}, now)
+    world = stats_dir.split("/")[0]
+    bases = read_bases(src, world, uuids, {b["player"]: b for b in old_bases}, now)
     if bases is None:
         bases = old_bases
+    else:
+        try:
+            sys.path.insert(0, str(Path(__file__).resolve().parent))
+            import maps
+            print(f"Karten: {maps.update(src, world, bases, old_bases, now, read_nbt)} neu gezeichnet")
+            # ein bereits laufender Sync-Job merkt nur data/stats.json vor – die Bilder hier selbst vormerken
+            subprocess.run(["git", "add", "data/maps"], cwd=OUT.parent.parent, capture_output=True)
+        except Exception as err:
+            print("Karten fehlgeschlagen:", err)  # die Stats sollen trotzdem geschrieben werden
 
     if OUT.exists() and players == list(old.values()) and bases == old_bases:
         print("Keine Änderung")

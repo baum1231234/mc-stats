@@ -104,10 +104,15 @@ td small { display: block; font-size: 18px; color: #e0e0e0; }
 .poster-name { font-size: 28px; margin-top: 6px; overflow-wrap: anywhere; }
 .poster-rank { margin-top: 6px; border-top: 2px dashed #3b2a1e; padding-top: 4px; }
 
-.base-dims, .base-list { display: flex; flex-wrap: wrap; gap: 8px; }
+.base-dims, .base-list, .base-time { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
 .base-dims { margin-bottom: 10px; }
-.base-list { margin-top: 12px; }
-.base-dims button, .base-list button {
+.base-list, .base-time { margin-top: 12px; }
+.base-time input { flex: 1; min-width: 120px; accent-color: var(--xp); }
+.base-open { width: 100%; justify-content: center; margin-top: 10px; }
+.map-patch { image-rendering: pixelated; }
+.map-pin { fill: none; stroke: #ffe14a; stroke-width: 1; }
+.map-pin-edge { stroke: #000; stroke-width: 2.5; }
+.base-dims button, .base-list button, .base-time button, .base-open {
   font: inherit; color: #fff; cursor: pointer;
   display: flex; align-items: center; gap: 8px;
   background: var(--slot);

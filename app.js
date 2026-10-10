@@ -62,7 +62,7 @@ const TABS = [
 const DIMS = { overworld: "Overworld", the_nether: "Nether", the_end: "End" };
 const dimName = (d) => DIMS[d] || pretty(d);
 
-const state = { players: [], bases: [], updated: null, demo: false, online: null, tab: TABS[0], sortCol: 0, dim: null, base: null };
+const state = { players: [], bases: [], updated: null, demo: false, online: null, tab: TABS[0], sortCol: 0, dim: null, base: null, detail: false, date: null };
 const $ = (id) => document.getElementById(id);
 
 function el(tag, props = {}, ...children) {
@@ -130,6 +130,13 @@ function baseMap(bases, selected) {
   }
   root.append(svg("text", { x: SIZE - 10, y: SIZE - 10, class: "map-tick", "text-anchor": "end" }, "N ▲ · X → · Z ▼"));
 
+  // echtes Gelände rund um jede Base, maßstabsgetreu auf dem Raster
+  for (const b of bases) {
+    if (!b.map) continue;
+    const side = b.map.size * scale;
+    root.append(svg("image", { href: mapUrl(b), x: px(b.map.origin[0]), y: pz(b.map.origin[1]), width: side, height: side, class: "map-patch" }));
+  }
+
   // ausgewählte Base zuletzt zeichnen, damit sie oben liegt
   for (const b of [...bases].sort((a, c) => (a === selected) - (c === selected))) {
     const g = svg("g", { class: "map-base" + (b === selected ? " sel" : ""), tabindex: 0, role: "button", "aria-label": `${b.name} von ${b.player}` });
@@ -138,11 +145,43 @@ function baseMap(bases, selected) {
       svg("image", { href: head(b, 48), x: px(b.x) - 12, y: pz(b.z) - 12, width: 24, height: 24 }),
       svg("text", { x: px(b.x), y: pz(b.z) + 32, "text-anchor": "middle" }, b.name),
     );
-    g.onclick = () => { state.base = baseKey(b); render(); };
+    // zweiter Klick auf die gewählte Base öffnet die Nahansicht
+    g.onclick = () => { state.detail = b === selected && !!b.map; state.base = baseKey(b); state.date = null; render(); };
     g.onkeydown = (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); g.onclick(); } };
     root.append(g);
   }
   return root;
+}
+
+const mapUrl = (b, date) => `${b.map.dir}/${date || b.map.dates.at(-1)}.png?t=${encodeURIComponent(b.map.rendered)}`;
+const dayLabel = (d) => new Date(d + "T12:00").toLocaleDateString("de-DE", { day: "2-digit", month: "2-digit", year: "numeric" });
+
+// Nahansicht einer Base: ein Pixel pro Block, mit Zeitleiste über die gespeicherten Tage
+function baseDetail(b) {
+  const { size, origin, dates } = b.map;
+  const date = dates.includes(state.date) ? state.date : dates.at(-1);
+  const img = svg("image", { href: mapUrl(b, date), width: size, height: size, class: "map-patch" });
+  const view = svg("svg", { viewBox: `0 0 ${size} ${size}`, role: "img", "aria-label": `${b.name} von oben` },
+    svg("rect", { width: size, height: size, class: "map-bg" }), img,
+    svg("rect", { x: b.x - origin[0] - 3, y: b.z - origin[1] - 3, width: 7, height: 7, class: "map-pin map-pin-edge" }),
+    svg("rect", { x: b.x - origin[0] - 3, y: b.z - origin[1] - 3, width: 7, height: 7, class: "map-pin" }),
+  );
+
+  const label = el("span", {}, dayLabel(date));
+  const time = [el("button", { type: "button", onclick: () => { state.detail = false; render(); } }, "◀ Übersicht")];
+  if (dates.length > 1) {
+    const slider = el("input", { type: "range", min: 0, max: dates.length - 1, value: dates.indexOf(date), ariaLabel: "Tag wählen" });
+    // nur Bild und Datum tauschen – ein kompletter Neuaufbau würde das Ziehen abbrechen
+    slider.oninput = () => {
+      state.date = dates[slider.value];
+      img.setAttribute("href", mapUrl(b, state.date));
+      label.textContent = dayLabel(state.date);
+    };
+    time.push(slider);
+  }
+  time.push(label);
+  $("base-time").replaceChildren(...time);
+  return view;
 }
 
 function renderBases() {
@@ -152,15 +191,17 @@ function renderBases() {
   const selected = bases.find((b) => baseKey(b) === state.base) || bases[0];
 
   $("no-bases").hidden = state.bases.length > 0;
-  for (const id of ["base-dims", "base-map", "base-info", "base-list"]) $(id).hidden = !state.bases.length;
+  for (const id of ["base-dims", "base-map", "base-time", "base-info", "base-list"]) $(id).hidden = !state.bases.length;
   if (!state.bases.length) return;
 
   $("base-dims").hidden = dims.length < 2;
   $("base-dims").replaceChildren(...dims.map((d) => el("button", {
-    type: "button", ariaPressed: String(d === state.dim), onclick: () => { state.dim = d; state.base = null; render(); },
+    type: "button", ariaPressed: String(d === state.dim), onclick: () => { state.dim = d; state.base = null; state.detail = false; render(); },
   }, dimName(d))));
 
-  $("base-map").replaceChildren(baseMap(bases, selected));
+  const detail = state.detail && !!selected.map;
+  $("base-time").hidden = !detail;
+  $("base-map").replaceChildren(detail ? baseDetail(selected) : baseMap(bases, selected));
   $("base-info").replaceChildren(
     el("img", { alt: "", src: head(selected, 96) }),
     el("div", { className: "base-name" }, selected.name),
@@ -169,8 +210,13 @@ function renderBases() {
     el("div", {}, dimName(selected.dim)),
     el("div", { className: "base-since" }, `markiert ${ago(selected.since)}`),
   );
+  if (selected.map && !detail) {
+    $("base-info").append(el("button", { type: "button", className: "base-open", onclick: () => { state.detail = true; render(); } }, "Base ansehen ▶"));
+  } else if (!selected.map) {
+    $("base-info").append(el("div", { className: "base-since" }, selected.dim === "overworld" ? "Kartenbild folgt in ein paar Minuten" : "Kartenbild nur in der Overworld"));
+  }
   $("base-list").replaceChildren(...bases.map((b) => el("button", {
-    type: "button", ariaPressed: String(b === selected), onclick: () => { state.base = baseKey(b); render(); },
+    type: "button", ariaPressed: String(b === selected), onclick: () => { state.base = baseKey(b); state.date = null; render(); },
   }, el("img", { alt: "", loading: "lazy", src: head(b, 32) }), el("span", {}, b.name), el("small", {}, b.player))));
 }
 
