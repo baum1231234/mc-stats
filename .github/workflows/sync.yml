@@ -1,12 +1,21 @@
 name: Stats synchronisieren
 
+# GitHubs Zeitplan ist unzuverlässig. Deshalb läuft ein Job als Dauerschleife,
+# holt alle paar Minuten die Stats und startet sich vor dem Zeitlimit selbst neu.
+# Der Zeitplan dient nur als Rettung, falls die Kette einmal abreißt.
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/sync.yml"
+      - "scripts/**"
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: sync
@@ -15,22 +24,29 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 345
     steps:
       - uses: actions/checkout@v4
 
-      - name: Stats vom Server holen
-        run: python3 scripts/sync.py
+      - name: Stats alle 3 Minuten holen
         env:
           FTP_HOST: ${{ secrets.FTP_HOST }}
           FTP_USER: ${{ secrets.FTP_USER }}
           FTP_PASS: ${{ secrets.FTP_PASS }}
           FTP_PORT: ${{ secrets.FTP_PORT }}
           SERVER_DIR: ${{ secrets.SERVER_DIR }}
-
-      - name: Änderungen speichern
+          GH_TOKEN: ${{ github.token }}
+          INTERVAL: 180
         run: |
           git config user.name "stats-bot"
           git config user.email "stats-bot@users.noreply.github.com"
-          git add data/stats.json
-          git diff --cached --quiet || (git commit -m "Stats aktualisiert" && git push)
+          end=$((SECONDS + 5 * 3600))
+          while [ $SECONDS -lt $end ]; do
+            git pull -q --rebase || true
+            python3 scripts/sync.py || echo "Sync fehlgeschlagen, nächster Versuch folgt"
+            git add data/stats.json
+            git diff --cached --quiet || git commit -q -m "Stats aktualisiert"
+            git push -q || true
+            sleep "$INTERVAL"
+          done
+          gh workflow run sync.yml --ref main
