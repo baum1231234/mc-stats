@@ -62,6 +62,7 @@ def summarize(raw):
 class LocalSource:
     def __init__(self, root):
         self.root = Path(root)
+        self.roots = [self.root]
 
     def read(self, path):
         return (self.root / path).read_bytes()
@@ -89,8 +90,8 @@ class FtpSource:
             ftp.connect(host, port)
             ftp.login(user, pw)
         self.ftp = ftp
-        self.root = self._find_server_dir()
-        print("Serverordner:", self.root or "/")
+        self.roots = self._find_server_dirs()
+        self.root = self.roots[0]
 
     def _exists(self, path):
         try:
@@ -111,21 +112,25 @@ class FtpSource:
             out = [n.rsplit("/", 1)[-1] for n in self.ftp.nlst(path) if "." not in n.rsplit("/", 1)[-1]]
         return out
 
-    def _find_server_dir(self):
+    def _find_server_dirs(self):
+        # Nitrado legt je Spielvariante einen eigenen Ordner an (minecraft, minecraftforge, ...)
         fixed = os.environ.get("SERVER_DIR")
         if fixed:
-            return fixed.strip("/")
-        level, seen = [""], []
-        for _ in range(3):
+            return [fixed.strip("/")]
+        level, seen, found = [""], [], []
+        for _ in range(2):
             nxt = []
             for d in level:
                 if self._exists(f"{d}/server.properties".lstrip("/")):
-                    return d
-                nxt += [f"{d}/{s}".lstrip("/") for s in self._dirs(d or ".")]
+                    found.append(d)
+                else:
+                    nxt += [f"{d}/{s}".lstrip("/") for s in self._dirs(d or ".")]
             seen += nxt
             level = nxt
-        print("Durchsuchte Ordner:", ", ".join(seen) or "keine")
-        sys.exit("server.properties nicht gefunden – bitte SERVER_DIR als Secret setzen")
+        if not found:
+            print("Durchsuchte Ordner:", ", ".join(seen) or "keine")
+            sys.exit("server.properties nicht gefunden – bitte SERVER_DIR als Secret setzen")
+        return found
 
     def _p(self, path):
         return f"{self.root}/{path}".lstrip("/")
@@ -155,13 +160,42 @@ def mojang_name(uuid):
         return None
 
 
+def locate(src):
+    """Findet den Stats-Ordner im aktuellen Serverordner."""
+    world = "world"
+    try:
+        for line in src.read("server.properties").decode("utf-8", "replace").splitlines():
+            if line.startswith("level-name="):
+                world = line.split("=", 1)[1].strip() or world
+    except Exception:
+        return None, []
+    # neuere Minecraft-Versionen legen die Stats unter players/stats ab
+    for cand in (f"{world}/stats", f"{world}/players/stats"):
+        try:
+            return cand, src.list(cand)
+        except Exception:
+            continue
+    return None, []
+
+
 def main():
     src = LocalSource(sys.argv[2]) if sys.argv[1:2] == ["--local"] else FtpSource()
 
-    world = "world"
-    for line in src.read("server.properties").decode("utf-8", "replace").splitlines():
-        if line.startswith("level-name="):
-            world = line.split("=", 1)[1].strip() or world
+    # den Serverordner mit den meisten Spieler-Stats nehmen
+    best = None
+    for root in src.roots:
+        src.root = root
+        stats_dir, files = locate(src)
+        count = len([f for f in files if f.endswith(".json")])
+        print(f"Serverordner '{root or '/'}': {stats_dir or 'keine Stats'} ({count} Spieler)")
+        if stats_dir and (best is None or count > best[3]):
+            best = (root, stats_dir, files, count)
+    if best is None:
+        sys.exit("Kein Stats-Ordner gefunden")
+    src.root, stats_dir, files, _ = best
+
+    source = f"{src.root}/{stats_dir}"
+    print("Quelle:", source)
 
     names = {}
     try:
@@ -173,28 +207,11 @@ def main():
     old = {}
     if OUT.exists():
         prev = json.loads(OUT.read_text(encoding="utf-8"))
-        if not prev.get("demo"):
+        # nach einem Wechsel des Serverordners gilt der Lauf wieder als erster (niemand ist "neu")
+        if not prev.get("demo") and prev.get("source") == source:
             old = {p["uuid"]: p for p in prev.get("players", [])}
     first_run = not old
     now = now_iso()
-
-    # neuere Minecraft-Versionen legen die Stats unter players/stats ab
-    stats_dir, files = None, []
-    for cand in (f"{world}/stats", f"{world}/players/stats"):
-        try:
-            files = src.list(cand)
-            stats_dir = cand
-            break
-        except Exception:
-            continue
-    if stats_dir is None:
-        for d in ("", world):
-            try:
-                print(f"Inhalt von '{d or '.'}':", ", ".join(src.list(d)))
-            except Exception as err:
-                print(f"'{d}' nicht lesbar: {err}")
-        sys.exit(f"Stats-Ordner nicht gefunden (Welt: {world})")
-    print("Stats-Ordner:", stats_dir)
 
     players = []
     for fname in files:
@@ -222,7 +239,7 @@ def main():
         print("Keine Änderung")
         return
     OUT.parent.mkdir(exist_ok=True)
-    OUT.write_text(json.dumps({"updated": now, "players": players}, ensure_ascii=False, indent=1), encoding="utf-8")
+    OUT.write_text(json.dumps({"updated": now, "source": source, "players": players}, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"{len(players)} Spieler geschrieben")
 
 
