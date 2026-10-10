@@ -7,9 +7,11 @@ Zugangsdaten kommen aus Umgebungsvariablen (GitHub Secrets), nie aus dem Code:
 
 Lokaler Test ohne FTP:  python scripts/sync.py --local <Serverordner>
 """
+import gzip
 import io
 import json
 import os
+import struct
 import sys
 import urllib.request
 from datetime import datetime, timezone
@@ -180,6 +182,103 @@ def locate(src):
     return None, []
 
 
+def read_nbt(data):
+    """Liest eine (meist gzip-gepackte) NBT-Datei in verschachtelte dicts/listen."""
+    if data[:2] == b"\x1f\x8b":
+        data = gzip.decompress(data)
+    pos = 0
+
+    def take(fmt):
+        nonlocal pos
+        size = struct.calcsize(fmt)
+        val = struct.unpack_from(fmt, data, pos)
+        pos += size
+        return val[0] if len(val) == 1 else val
+
+    def string():
+        nonlocal pos
+        n = take(">H")
+        s = data[pos:pos + n].decode("utf-8", "replace")
+        pos += n
+        return s
+
+    def payload(tag):
+        nonlocal pos
+        if tag in NBT_NUMBERS:
+            return take(NBT_NUMBERS[tag])
+        if tag == 8:
+            return string()
+        if tag in NBT_ARRAYS:
+            fmt = f">{take('>i')}{NBT_ARRAYS[tag]}"
+            vals = struct.unpack_from(fmt, data, pos)
+            pos += struct.calcsize(fmt)
+            return list(vals)
+        if tag == 9:
+            inner, n = take(">b"), take(">i")
+            return [payload(inner) for _ in range(n)]
+        if tag == 10:
+            out = {}
+            while (inner := take(">b")) != 0:
+                key = string()
+                out[key] = payload(inner)
+            return out
+        raise ValueError(f"unbekannter NBT-Typ {tag}")
+
+    tag = take(">b")
+    string()  # Name der Wurzel
+    return payload(tag)
+
+
+NBT_NUMBERS = {1: ">b", 2: ">h", 3: ">i", 4: ">q", 5: ">f", 6: ">d"}
+NBT_ARRAYS = {7: "b", 11: "i", 12: "q"}
+STORAGE = "kbk"  # Namensraum aus /base: data modify storage kbk:bases ...
+
+
+def find_key(node, key):
+    """Sucht einen Schlüssel beliebig tief – das Speicherformat ändert sich je nach Version."""
+    if isinstance(node, dict):
+        if isinstance(node.get(key), dict):
+            return node[key]
+        node = list(node.values())
+    if isinstance(node, list):
+        for child in node:
+            hit = find_key(child, key)
+            if hit is not None:
+                return hit
+    return None
+
+
+def read_bases(src, world, uuids, old, now):
+    """Bases, die Spieler im Spiel mit /base markiert haben (ein Eintrag pro Spieler)."""
+    raw = None
+    # neuere Versionen: data/<Namensraum>/command_storage.dat, ältere: data/command_storage_<Namensraum>.dat
+    for path in (f"{world}/data/{STORAGE}/command_storage.dat", f"{world}/data/command_storage_{STORAGE}.dat"):
+        try:
+            raw = read_nbt(src.read(path))
+            break
+        except Exception:
+            continue
+    if raw is None:
+        return None  # Datei fehlt oder wird gerade geschrieben – alten Stand behalten
+    bases = []
+    for player, entry in (find_key(raw, "bases") or {}).items():
+        pos = entry.get("pos") if isinstance(entry, dict) else None
+        if not pos or len(pos) != 3:
+            continue
+        base = {
+            "player": player,
+            "uuid": uuids.get(player.lower()),
+            "name": str(entry.get("name") or "Base")[:32],
+            "x": round(pos[0]), "y": round(pos[1]), "z": round(pos[2]),
+            "dim": str(entry.get("dim") or "minecraft:overworld").removeprefix(PREFIX),
+        }
+        known = old.get(player, {})
+        same = all(known.get(k) == base[k] for k in ("name", "x", "y", "z", "dim"))
+        base["since"] = known.get("since", now) if same else now
+        bases.append(base)
+    return sorted(bases, key=lambda b: b["player"].lower())
+
+
 def main():
     src = LocalSource(sys.argv[2]) if sys.argv[1:2] == ["--local"] else FtpSource()
 
@@ -206,12 +305,13 @@ def main():
     except Exception:
         pass
 
-    old = {}
+    old, old_bases = {}, []
     if OUT.exists():
         prev = json.loads(OUT.read_text(encoding="utf-8"))
         # nach einem Wechsel des Serverordners gilt der Lauf wieder als erster (niemand ist "neu")
         if not prev.get("demo") and prev.get("source") == source:
             old = {p["uuid"]: p for p in prev.get("players", [])}
+            old_bases = prev.get("bases", [])
     first_run = not old
     now = now_iso()
 
@@ -237,12 +337,20 @@ def main():
         players.append(player)
 
     players.sort(key=lambda p: p["playTicks"], reverse=True)
-    if OUT.exists() and players == list(old.values()):
+
+    uuids = {p["name"].lower(): p["uuid"] for p in players}
+    uuids.update({name.lower(): uuid for uuid, name in names.items()})
+    bases = read_bases(src, stats_dir.split("/")[0], uuids, {b["player"]: b for b in old_bases}, now)
+    if bases is None:
+        bases = old_bases
+
+    if OUT.exists() and players == list(old.values()) and bases == old_bases:
         print("Keine Änderung")
         return
     OUT.parent.mkdir(exist_ok=True)
-    OUT.write_text(json.dumps({"updated": now, "source": source, "players": players}, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"{len(players)} Spieler geschrieben")
+    out = {"updated": now, "source": source, "players": players, "bases": bases}
+    OUT.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"{len(players)} Spieler, {len(bases)} Bases geschrieben")
 
 
 if __name__ == "__main__":

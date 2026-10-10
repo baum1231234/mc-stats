@@ -104,6 +104,49 @@ td small { display: block; font-size: 18px; color: #e0e0e0; }
 .poster-name { font-size: 28px; margin-top: 6px; overflow-wrap: anywhere; }
 .poster-rank { margin-top: 6px; border-top: 2px dashed #3b2a1e; padding-top: 4px; }
 
+.base-dims, .base-list { display: flex; flex-wrap: wrap; gap: 8px; }
+.base-dims { margin-bottom: 10px; }
+.base-list { margin-top: 12px; }
+.base-dims button, .base-list button {
+  font: inherit; color: #fff; cursor: pointer;
+  display: flex; align-items: center; gap: 8px;
+  background: var(--slot);
+  border: var(--px) solid;
+  border-color: var(--gui-light) var(--slot-dark) var(--slot-dark) var(--gui-light);
+  padding: 4px 10px;
+}
+.base-dims button[aria-pressed="true"], .base-list button[aria-pressed="true"] {
+  background: var(--slot-dark);
+  border-color: var(--slot-dark) var(--gui-light) var(--gui-light) var(--slot-dark);
+}
+.base-list img { width: 24px; height: 24px; image-rendering: pixelated; border: 2px solid #000; }
+.base-list small { font-size: 18px; color: #e0e0e0; }
+
+.base-layout { display: grid; grid-template-columns: minmax(0, 1fr) 230px; gap: 12px; align-items: start; }
+/* Papier wie die Steckbriefe – eine Karte, die im Inventar liegt */
+.base-map { background: #d9c593; border: var(--px) solid #3b2a1e; outline: var(--px) solid #000; line-height: 0; }
+.base-map svg { width: 100%; height: auto; display: block; font-family: inherit; }
+.map-bg { fill: #d9c593; }
+.map-grid { stroke: #3b2a1e; stroke-opacity: .18; stroke-width: 1; }
+.map-axis { stroke: #3b2a1e; stroke-opacity: .55; stroke-width: 2; }
+.map-tick { fill: #3b2a1e; fill-opacity: .7; font-size: 15px; }
+.map-base { cursor: pointer; }
+.map-base rect { fill: #000; }
+.map-base image { image-rendering: pixelated; }
+.map-base text { fill: #3b2a1e; font-size: 20px; paint-order: stroke; stroke: #d9c593; stroke-width: 4px; }
+.map-base.sel rect { fill: #ffe14a; stroke: #000; stroke-width: 2; }
+.map-base:focus-visible rect { fill: #fff; }
+
+.base-info {
+  background: var(--slot); color: #fff; padding: 12px; text-align: center;
+  border: var(--px) solid;
+  border-color: var(--slot-dark) var(--gui-light) var(--gui-light) var(--slot-dark);
+}
+.base-info img { width: 96px; height: 96px; image-rendering: pixelated; border: var(--px) solid #000; background: #555; }
+.base-name { font-size: 30px; margin-top: 6px; overflow-wrap: anywhere; text-shadow: 2px 2px 0 #3f3f3f; }
+.base-coords { margin: 8px 0 2px; padding: 4px; background: var(--slot-dark); }
+.base-since { margin-top: 6px; font-size: 18px; color: #e0e0e0; }
+
 .empty { text-align: center; margin: 20px 0; }
 footer { margin-top: 18px; color: #e8dccf; font-size: 18px; text-align: center; }
 
@@ -112,4 +155,5 @@ footer { margin-top: 18px; color: #e8dccf; font-size: 18px; text-align: center; 
   h1 { font-size: 32px; }
   .slots { grid-template-columns: repeat(2, 1fr); }
   .slot-value { font-size: 24px; }
+  .base-layout { grid-template-columns: 1fr; }
 }

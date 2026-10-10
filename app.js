@@ -56,9 +56,13 @@ const TABS = [
     ["Gecraftet", (p) => num(p.crafted), (p) => p.crafted],
     ["Top-Item", (p) => topEntry(p.topCrafted), null],
   ] },
+  { id: "bases", label: "Bases", bases: true, cols: [] },
 ];
 
-const state = { players: [], updated: null, demo: false, online: null, tab: TABS[0], sortCol: 0 };
+const DIMS = { overworld: "Overworld", the_nether: "Nether", the_end: "End" };
+const dimName = (d) => DIMS[d] || pretty(d);
+
+const state = { players: [], bases: [], updated: null, demo: false, online: null, tab: TABS[0], sortCol: 0, dim: null, base: null };
 const $ = (id) => document.getElementById(id);
 
 function el(tag, props = {}, ...children) {
@@ -93,11 +97,89 @@ function poster(p, rank) {
   );
 }
 
+const SVG = "http://www.w3.org/2000/svg";
+function svg(tag, attrs = {}, ...children) {
+  const node = document.createElementNS(SVG, tag);
+  for (const [k, v] of Object.entries(attrs)) node.setAttribute(k, v);
+  node.append(...children);
+  return node;
+}
+
+const head = (b, size) => `https://mc-heads.net/avatar/${encodeURIComponent(b.uuid || b.player)}/${size}`;
+const baseKey = (b) => `${b.dim}/${b.player}`;
+
+// Karte: Norden oben, Osten rechts – wie eine Minecraft-Karte (X nach rechts, Z nach unten)
+function baseMap(bases, selected) {
+  const SIZE = 600, PAD = 46;
+  const xs = [0, ...bases.map((b) => b.x)], zs = [0, ...bases.map((b) => b.z)];
+  const span = Math.max(400, Math.max(...xs) - Math.min(...xs), Math.max(...zs) - Math.min(...zs)) * 1.3;
+  const cx = (Math.max(...xs) + Math.min(...xs)) / 2, cz = (Math.max(...zs) + Math.min(...zs)) / 2;
+  const scale = (SIZE - 2 * PAD) / span;
+  const px = (x) => SIZE / 2 + (x - cx) * scale, pz = (z) => SIZE / 2 + (z - cz) * scale;
+
+  const step = [50, 100, 250, 500, 1000, 2500, 5000, 10000, 25000].find((s) => span / s <= 7) || 50000;
+  const root = svg("svg", { viewBox: `0 0 ${SIZE} ${SIZE}`, role: "img", "aria-label": "Karte der markierten Bases" });
+  root.append(svg("rect", { width: SIZE, height: SIZE, class: "map-bg" }));
+  for (let v = Math.ceil((cx - span / 2) / step) * step; v <= cx + span / 2; v += step) {
+    root.append(svg("line", { x1: px(v), x2: px(v), y1: 0, y2: SIZE, class: v ? "map-grid" : "map-axis" }));
+    root.append(svg("text", { x: px(v) + 4, y: 16, class: "map-tick" }, String(v)));
+  }
+  for (let v = Math.ceil((cz - span / 2) / step) * step; v <= cz + span / 2; v += step) {
+    root.append(svg("line", { y1: pz(v), y2: pz(v), x1: 0, x2: SIZE, class: v ? "map-grid" : "map-axis" }));
+    root.append(svg("text", { x: 4, y: pz(v) - 4, class: "map-tick" }, String(v)));
+  }
+  root.append(svg("text", { x: SIZE - 10, y: SIZE - 10, class: "map-tick", "text-anchor": "end" }, "N ▲ · X → · Z ▼"));
+
+  // ausgewählte Base zuletzt zeichnen, damit sie oben liegt
+  for (const b of [...bases].sort((a, c) => (a === selected) - (c === selected))) {
+    const g = svg("g", { class: "map-base" + (b === selected ? " sel" : ""), tabindex: 0, role: "button", "aria-label": `${b.name} von ${b.player}` });
+    g.append(
+      svg("rect", { x: px(b.x) - 15, y: pz(b.z) - 15, width: 30, height: 30 }),
+      svg("image", { href: head(b, 48), x: px(b.x) - 12, y: pz(b.z) - 12, width: 24, height: 24 }),
+      svg("text", { x: px(b.x), y: pz(b.z) + 32, "text-anchor": "middle" }, b.name),
+    );
+    g.onclick = () => { state.base = baseKey(b); render(); };
+    g.onkeydown = (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); g.onclick(); } };
+    root.append(g);
+  }
+  return root;
+}
+
+function renderBases() {
+  const dims = [...new Set(state.bases.map((b) => b.dim))].sort((a, b) => Object.keys(DIMS).indexOf(a) - Object.keys(DIMS).indexOf(b));
+  if (!dims.includes(state.dim)) state.dim = dims[0] || null;
+  const bases = state.bases.filter((b) => b.dim === state.dim);
+  const selected = bases.find((b) => baseKey(b) === state.base) || bases[0];
+
+  $("no-bases").hidden = state.bases.length > 0;
+  for (const id of ["base-dims", "base-map", "base-info", "base-list"]) $(id).hidden = !state.bases.length;
+  if (!state.bases.length) return;
+
+  $("base-dims").hidden = dims.length < 2;
+  $("base-dims").replaceChildren(...dims.map((d) => el("button", {
+    type: "button", ariaPressed: String(d === state.dim), onclick: () => { state.dim = d; state.base = null; render(); },
+  }, dimName(d))));
+
+  $("base-map").replaceChildren(baseMap(bases, selected));
+  $("base-info").replaceChildren(
+    el("img", { alt: "", src: head(selected, 96) }),
+    el("div", { className: "base-name" }, selected.name),
+    el("div", {}, `von ${selected.player}`),
+    el("div", { className: "base-coords" }, `X ${num(selected.x)} · Y ${num(selected.y)} · Z ${num(selected.z)}`),
+    el("div", {}, dimName(selected.dim)),
+    el("div", { className: "base-since" }, `markiert ${ago(selected.since)}`),
+  );
+  $("base-list").replaceChildren(...bases.map((b) => el("button", {
+    type: "button", ariaPressed: String(b === selected), onclick: () => { state.base = baseKey(b); render(); },
+  }, el("img", { alt: "", loading: "lazy", src: head(b, 32) }), el("span", {}, b.name), el("small", {}, b.player))));
+}
+
 function render() {
   const onlineNames = new Set((state.online?.names || []).map((n) => n.toLowerCase()));
   const players = state.players.map((p) => ({ ...p, online: onlineNames.has(p.name.toLowerCase()) }));
   const { cols } = state.tab;
-  const sortBy = cols[state.sortCol][2];
+  const showBases = !!state.tab.bases;
+  const sortBy = cols[state.sortCol]?.[2] || ((p) => p.playTicks);
   players.sort((a, b) => sortBy(b) - sortBy(a));
   const maxTicks = Math.max(0, ...players.map((p) => p.playTicks));
 
@@ -105,6 +187,10 @@ function render() {
     type: "button", role: "tab", ariaSelected: String(t === state.tab),
     onclick: () => { state.tab = t; state.sortCol = 0; render(); },
   }, t.label)));
+
+  $("bases").hidden = !showBases;
+  $("table").hidden = showBases;
+  if (showBases) renderBases();
 
   $("thead").replaceChildren(el("th", {}, "#"), el("th", {}, "Spieler"), ...cols.map(([title, , sort], i) => {
     if (!sort) return el("th", {}, title);
@@ -118,7 +204,7 @@ function render() {
     el("td", {}, playerCell(p)),
     ...cols.map(([, show]) => el("td", {}, show(p, maxTicks))),
   )));
-  $("empty").hidden = players.length > 0;
+  $("empty").hidden = showBases || players.length > 0;
 
   const wanted = [...players].filter((p) => p.playerKills > 0).sort((a, b) => b.playerKills - a.playerKills).slice(0, 3);
   $("posters").hidden = !state.tab.posters || !wanted.length;
@@ -141,7 +227,7 @@ async function loadStats() {
   try {
     const res = await fetch(`data/stats.json?t=${Date.now()}`, { cache: "no-store" });
     const data = await res.json();
-    Object.assign(state, { players: data.players || [], updated: data.updated, demo: !!data.demo });
+    Object.assign(state, { players: data.players || [], bases: data.bases || [], updated: data.updated, demo: !!data.demo });
   } catch (err) {
     console.error("Stats konnten nicht geladen werden", err);
   }
