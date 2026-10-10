@@ -136,7 +136,7 @@ class FtpSource:
         return buf.getvalue()
 
     def list(self, path):
-        return [n.rsplit("/", 1)[-1] for n in self.ftp.nlst(self._p(path))]
+        return [n.rsplit("/", 1)[-1] for n in self.ftp.nlst(self._p(path) or ".")]
 
     def mtime(self, path):
         try:
@@ -178,12 +178,30 @@ def main():
     first_run = not old
     now = now_iso()
 
+    # neuere Minecraft-Versionen legen die Stats unter players/stats ab
+    stats_dir, files = None, []
+    for cand in (f"{world}/stats", f"{world}/players/stats"):
+        try:
+            files = src.list(cand)
+            stats_dir = cand
+            break
+        except Exception:
+            continue
+    if stats_dir is None:
+        for d in ("", world):
+            try:
+                print(f"Inhalt von '{d or '.'}':", ", ".join(src.list(d)))
+            except Exception as err:
+                print(f"'{d}' nicht lesbar: {err}")
+        sys.exit(f"Stats-Ordner nicht gefunden (Welt: {world})")
+    print("Stats-Ordner:", stats_dir)
+
     players = []
-    for fname in src.list(f"{world}/stats"):
+    for fname in files:
         if not fname.endswith(".json"):
             continue
         uuid = fname[:-5]
-        path = f"{world}/stats/{fname}"
+        path = f"{stats_dir}/{fname}"
         try:
             raw = json.loads(src.read(path))
         except ValueError:
