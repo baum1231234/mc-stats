@@ -250,7 +250,7 @@ def find_key(node, key):
 
 
 def read_bases(src, world, uuids, old, now):
-    """Bases, die Spieler im Spiel mit /base markiert haben (ein Eintrag pro Spieler)."""
+    """Bases, die Spieler im Spiel mit /base markiert haben (bis zu drei pro Spieler)."""
     raw = None
     # neuere Versionen: data/<Namensraum>/command_storage.dat, ältere: data/command_storage_<Namensraum>.dat
     for path in (f"{world}/data/{STORAGE}/command_storage.dat", f"{world}/data/command_storage_{STORAGE}.dat"):
@@ -267,22 +267,24 @@ def read_bases(src, world, uuids, old, now):
     while isinstance(entries.get("bases"), dict) and "pos" not in entries["bases"]:
         entries = entries["bases"]
     bases = []
-    for player, entry in entries.items():
-        pos = entry.get("pos") if isinstance(entry, dict) else None
-        if not pos or len(pos) != 3:
-            continue
-        base = {
-            "player": player,
-            "uuid": uuids.get(player.lower()),
-            "name": str(entry.get("name") or "Base")[:32],
-            "x": round(pos[0]), "y": round(pos[1]), "z": round(pos[2]),
-            "dim": str(entry.get("dim") or "minecraft:overworld").removeprefix(PREFIX),
-        }
-        known = old.get(player, {})
-        same = all(known.get(k) == base[k] for k in ("name", "x", "y", "z", "dim"))
-        base["since"] = known.get("since", now) if same else now
-        bases.append(base)
-    return sorted(bases, key=lambda b: b["player"].lower())
+    for player, owned in entries.items():
+        # je Spieler eine Liste von Bases; ganz am Anfang war es ein einzelner Eintrag
+        for entry in owned if isinstance(owned, list) else [owned]:
+            pos = entry.get("pos") if isinstance(entry, dict) else None
+            if not pos or len(pos) != 3:
+                continue
+            base = {
+                "player": player,
+                "uuid": uuids.get(player.lower()),
+                "name": str(entry.get("name") or "Base")[:32],
+                "x": round(pos[0]), "y": round(pos[1]), "z": round(pos[2]),
+                "dim": str(entry.get("dim") or "minecraft:overworld").removeprefix(PREFIX),
+            }
+            known = old.get((player, base["name"]), {})
+            same = all(known.get(k) == base[k] for k in ("x", "y", "z", "dim"))
+            base["since"] = known.get("since", now) if same else now
+            bases.append(base)
+    return sorted(bases, key=lambda b: (b["player"].lower(), b["name"].lower()))
 
 
 def main():
@@ -349,7 +351,7 @@ def main():
     uuids.update({name.lower(): uuid for uuid, name in names.items()})
     world = stats_dir.split("/")[0]
     tiles = old_tiles
-    bases = read_bases(src, world, uuids, {b["player"]: b for b in old_bases}, now)
+    bases = read_bases(src, world, uuids, {(b["player"], b["name"]): b for b in old_bases}, now)
     if bases is None:
         bases = old_bases
     else:

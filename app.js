@@ -106,7 +106,7 @@ function svg(tag, attrs = {}, ...children) {
 }
 
 const head = (b, size) => `https://mc-heads.net/avatar/${encodeURIComponent(b.uuid || b.player)}/${size}`;
-const baseKey = (b) => `${b.dim}/${b.player}`;
+const baseKey = (b) => `${b.dim}/${b.player}/${b.name}`;
 
 // Karte: Norden oben, Osten rechts – wie eine Minecraft-Karte (X nach rechts, Z nach unten)
 function baseMap(bases, selected) {
