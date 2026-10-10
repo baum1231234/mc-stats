@@ -1,0 +1,104 @@
+:root {
+  --gui: #c6c6c6;
+  --gui-light: #ffffff;
+  --gui-dark: #555555;
+  --slot: #8b8b8b;
+  --slot-dark: #373737;
+  --text: #3f3f3f;
+  --xp: #7fc41c;
+  --xp-dark: #2c4a0a;
+  --px: 3px;
+}
+
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+
+body {
+  margin: 0;
+  font-family: "VT323", "Courier New", monospace;
+  font-size: 22px;
+  line-height: 1.15;
+  color: var(--text);
+  /* grobes Erdblock-Muster */
+  background-color: #5b4330;
+  background-image:
+    linear-gradient(45deg, #513b2a 25%, transparent 25%, transparent 75%, #513b2a 75%),
+    linear-gradient(45deg, #644a35 25%, transparent 25%, transparent 75%, #644a35 75%);
+  background-size: 32px 32px;
+  background-position: 0 0, 16px 16px;
+}
+
+main { max-width: 1040px; margin: 0 auto; padding: 24px 16px 40px; }
+
+.panel {
+  background: var(--gui);
+  border: var(--px) solid;
+  border-color: var(--gui-light) var(--gui-dark) var(--gui-dark) var(--gui-light);
+  outline: var(--px) solid #000;
+  padding: 14px;
+}
+
+.head-row { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 16px; }
+h1 { margin: 0; font-size: 40px; font-weight: 400; }
+
+.status { display: flex; align-items: center; gap: 8px; }
+.lamp { width: 14px; height: 14px; background: #7a1f1f; border: 2px solid #000; }
+.status.on .lamp { background: var(--xp); }
+
+.slots { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-top: 12px; }
+.slot {
+  background: var(--slot);
+  border: var(--px) solid;
+  border-color: var(--slot-dark) var(--gui-light) var(--gui-light) var(--slot-dark);
+  padding: 6px 10px;
+  display: flex; flex-direction: column;
+  color: #fff;
+}
+.slot-label { font-size: 18px; color: #e0e0e0; }
+.slot-value { font-size: 28px; text-shadow: 2px 2px 0 #3f3f3f; }
+
+.note { margin: 14px 0 0; padding: 6px 10px; background: #000; color: #ffe14a; }
+
+.tabs { display: flex; flex-wrap: wrap; gap: 6px; margin: 22px 0 0 var(--px); }
+.tabs button {
+  font: inherit; color: var(--text); cursor: pointer;
+  background: #a0a0a0;
+  border: var(--px) solid;
+  border-color: var(--gui-light) var(--gui-dark) transparent var(--gui-light);
+  outline: var(--px) solid #000;
+  padding: 6px 14px 8px;
+  margin-bottom: 0;
+}
+.tabs button[aria-selected="true"] { background: var(--gui); position: relative; z-index: 1; padding-bottom: 11px; margin-bottom: -3px; }
+.tabs button:focus-visible { outline-color: #fff; }
+
+.table-panel { padding: 10px; }
+.table-wrap { overflow-x: auto; }
+table { width: 100%; border-collapse: separate; border-spacing: 0 4px; }
+th, td { padding: 6px 10px; text-align: right; white-space: nowrap; }
+th:nth-child(-n+2), td:nth-child(-n+2) { text-align: left; }
+th { font-weight: 400; font-size: 20px; }
+th button { font: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; }
+th button:hover, th button[data-active] { text-decoration: underline; }
+td { background: var(--slot); color: #fff; border-top: var(--px) solid var(--slot-dark); border-bottom: var(--px) solid var(--gui-light); }
+td:first-child { border-left: var(--px) solid var(--slot-dark); width: 1%; color: #e0e0e0; }
+td:last-child { border-right: var(--px) solid var(--gui-light); }
+td small { display: block; font-size: 18px; color: #e0e0e0; }
+
+.player { display: flex; align-items: center; gap: 10px; }
+.player img { width: 32px; height: 32px; image-rendering: pixelated; border: 2px solid #000; background: #555; flex: none; }
+.dot { width: 10px; height: 10px; background: var(--xp); border: 2px solid #000; flex: none; }
+.badge { background: #ffe14a; color: #3f3f3f; padding: 0 6px; font-size: 18px; }
+
+.bar { height: 10px; min-width: 120px; margin-top: 4px; background: #1c1c1c; border: 2px solid #000; }
+.bar i { display: block; height: 100%; background: var(--xp); border-bottom: 2px solid var(--xp-dark); }
+
+.empty { text-align: center; margin: 20px 0; }
+footer { margin-top: 18px; color: #e8dccf; font-size: 18px; text-align: center; }
+
+@media (max-width: 640px) {
+  body { font-size: 20px; }
+  h1 { font-size: 32px; }
+  .slots { grid-template-columns: repeat(2, 1fr); }
+  .slot-value { font-size: 24px; }
+}

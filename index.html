@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Server-Stats</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+  <header class="panel">
+    <div class="head-row">
+      <h1 id="server-name">Server-Stats</h1>
+      <div id="status" class="status" hidden><span class="lamp"></span><span id="status-text"></span></div>
+    </div>
+    <div class="slots">
+      <div class="slot"><span class="slot-label">Spieler</span><span class="slot-value" id="sum-players">–</span></div>
+      <div class="slot"><span class="slot-label">Gesamte Spielzeit</span><span class="slot-value" id="sum-time">–</span></div>
+      <div class="slot"><span class="slot-label">Gerade online</span><span class="slot-value" id="sum-online">–</span></div>
+      <div class="slot"><span class="slot-label">Stats-Stand</span><span class="slot-value" id="sum-updated">–</span></div>
+    </div>
+  </header>
+
+  <p id="demo-note" class="note" hidden>Demo-Daten – sobald der erste Sync gelaufen ist, stehen hier die echten Spieler.</p>
+
+  <nav id="tabs" class="tabs" role="tablist"></nav>
+  <section class="panel table-panel">
+    <div class="table-wrap">
+      <table>
+        <thead><tr id="thead"></tr></thead>
+        <tbody id="tbody"></tbody>
+      </table>
+    </div>
+    <p id="empty" class="empty" hidden>Noch keine Spieler-Stats vorhanden.</p>
+  </section>
+
+  <footer>Stats werden alle paar Minuten vom Server geholt · Online-Status live · Klick auf eine Spalte sortiert</footer>
+</main>
+<script src="config.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
