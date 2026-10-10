@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T22:50:53Z",
+ "updated": "2026-10-10T22:54:08Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
@@ -218,19 +218,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-10T22:49:12Z",
-   "playTicks": 98009,
+   "lastSeen": "2026-10-10T22:54:12Z",
+   "playTicks": 104009,
    "deaths": 0,
-   "mobKills": 19,
+   "mobKills": 20,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 2582,
-   "damageTaken": 184,
-   "distanceCm": 811049,
-   "walkCm": 310832,
-   "flyCm": 204735,
-   "jumps": 1305,
-   "mined": 2398,
+   "damageDealt": 2742,
+   "damageTaken": 188,
+   "distanceCm": 865518,
+   "walkCm": 345376,
+   "flyCm": 218910,
+   "jumps": 1395,
+   "mined": 2607,
    "topMined": [
     [
      "dark_oak_log",
@@ -242,7 +242,7 @@
     ],
     [
      "stone",
-     229
+     303
     ]
    ],
    "crafted": 273,
@@ -277,7 +277,23 @@
    "y": 65,
    "z": -553,
    "dim": "overworld",
-   "since": "2026-10-10T22:37:54Z"
+   "since": "2026-10-10T22:37:54Z",
+   "map": {
+    "dir": "data/maps/4rtjom_168_-553",
+    "size": 256,
+    "origin": [
+     32,
+     -688
+    ],
+    "dates": [
+     "2026-10-11"
+    ],
+    "rendered": "2026-10-10T22:54:08Z",
+    "regions": {
+     "r.0.-1.mca": "2026-10-10T22:54:12Z",
+     "r.0.-2.mca": "2026-10-10T22:54:14Z"
+    }
+   }
   }
  ]
 }
