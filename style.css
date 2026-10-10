@@ -93,6 +93,17 @@ td small { display: block; font-size: 18px; color: #e0e0e0; }
 .bar { height: 10px; min-width: 120px; margin-top: 4px; background: #1c1c1c; border: 2px solid #000; }
 .bar i { display: block; height: 100%; background: var(--xp); border-bottom: 2px solid var(--xp-dark); }
 
+.posters { display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin: 8px 0 14px; }
+.poster {
+  width: 190px; padding: 10px 10px 12px; text-align: center;
+  background: #d9c593; color: #3b2a1e;
+  border: var(--px) solid #3b2a1e; outline: var(--px) solid #000;
+}
+.poster-title { font-size: 44px; line-height: 1; letter-spacing: 2px; border-bottom: var(--px) solid #3b2a1e; margin-bottom: 10px; }
+.poster img { width: 96px; height: 96px; image-rendering: pixelated; border: var(--px) solid #3b2a1e; background: #555; }
+.poster-name { font-size: 28px; margin-top: 6px; overflow-wrap: anywhere; }
+.poster-rank { margin-top: 6px; border-top: 2px dashed #3b2a1e; padding-top: 4px; }
+
 .empty { text-align: center; margin: 20px 0; }
 footer { margin-top: 18px; color: #e8dccf; font-size: 18px; text-align: center; }
 

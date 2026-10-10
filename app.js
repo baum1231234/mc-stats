@@ -40,6 +40,11 @@ const TABS = [
     ["Schaden kassiert", (p) => hearts(p.damageTaken), (p) => p.damageTaken],
     ["Meistgetötet", (p) => topEntry(p.topKilled), null],
   ] },
+  { id: "wanted", label: "Most Wanted", posters: true, cols: [
+    ["Spieler-Kills", (p) => num(p.playerKills), (p) => p.playerKills || 0],
+    ["Von Spielern getötet", (p) => num(p.killedByPlayers), (p) => p.killedByPlayers || 0],
+    ["Tode gesamt", (p) => num(p.deaths), (p) => p.deaths || 0],
+  ] },
   { id: "bewegung", label: "Bewegung", cols: [
     ["Strecke gesamt", (p) => km(p.distanceCm), (p) => p.distanceCm],
     ["Zu Fuß", (p) => km(p.walkCm), (p) => p.walkCm],
@@ -77,6 +82,17 @@ function playerCell(p) {
   return cell;
 }
 
+function poster(p, rank) {
+  const img = el("img", { alt: "", src: `https://mc-heads.net/avatar/${encodeURIComponent(p.uuid)}/96` });
+  return el("div", { className: "poster" },
+    el("div", { className: "poster-title" }, "WANTED"),
+    img,
+    el("div", { className: "poster-name" }, p.name),
+    el("div", {}, `${num(p.playerKills)} Spieler-Kills`),
+    el("div", { className: "poster-rank" }, `Nr. ${rank}`),
+  );
+}
+
 function render() {
   const onlineNames = new Set((state.online?.names || []).map((n) => n.toLowerCase()));
   const players = state.players.map((p) => ({ ...p, online: onlineNames.has(p.name.toLowerCase()) }));
@@ -103,6 +119,11 @@ function render() {
     ...cols.map(([, show]) => el("td", {}, show(p, maxTicks))),
   )));
   $("empty").hidden = players.length > 0;
+
+  const wanted = [...players].filter((p) => p.playerKills > 0).sort((a, b) => b.playerKills - a.playerKills).slice(0, 3);
+  $("posters").hidden = !state.tab.posters || !wanted.length;
+  $("posters").replaceChildren(...wanted.map((p, i) => poster(p, i + 1)));
+  $("no-wanted").hidden = !state.tab.posters || wanted.length > 0 || !players.length;
 
   $("sum-players").textContent = num(players.length);
   $("sum-time").textContent = playtime(players.reduce((s, p) => s + p.playTicks, 0));

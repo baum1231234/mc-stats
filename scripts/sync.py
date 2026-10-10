@@ -35,6 +35,7 @@ def summarize(raw):
     mined = stats.get(PREFIX + "mined", {})
     crafted = stats.get(PREFIX + "crafted", {})
     killed = stats.get(PREFIX + "killed", {})
+    killed_by = stats.get(PREFIX + "killed_by", {})
 
     def c(key):
         return custom.get(PREFIX + key, 0)
@@ -45,6 +46,7 @@ def summarize(raw):
         "deaths": c("deaths"),
         "mobKills": c("mob_kills"),
         "playerKills": c("player_kills"),
+        "killedByPlayers": killed_by.get(PREFIX + "player", 0),
         "damageDealt": c("damage_dealt"),
         "damageTaken": c("damage_taken"),
         "distanceCm": sum(v for k, v in custom.items() if k.endswith("_one_cm")),
