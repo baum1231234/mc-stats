@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T22:34:39Z",
+ "updated": "2026-10-10T22:37:54Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
@@ -268,5 +268,16 @@
    ]
   }
  ],
- "bases": []
+ "bases": [
+  {
+   "player": "4rtjom",
+   "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
+   "name": "cyclopic",
+   "x": 168,
+   "y": 65,
+   "z": -553,
+   "dim": "overworld",
+   "since": "2026-10-10T22:37:54Z"
+  }
+ ]
 }
