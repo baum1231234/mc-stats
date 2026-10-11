@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-11T21:52:14Z",
+ "updated": "2026-10-11T21:55:16Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1526462,
+ "serverTicks": 1532462,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T21:49:17Z",
-   "playTicks": 1372035,
+   "lastSeen": "2026-10-11T21:54:17Z",
+   "playTicks": 1378035,
    "deaths": 0,
-   "mobKills": 856,
+   "mobKills": 857,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 125980,
-   "damageTaken": 14977,
-   "distanceCm": 16018492,
-   "walkCm": 5385089,
-   "flyCm": 5456978,
-   "jumps": 27093,
-   "mined": 5527,
+   "damageDealt": 126180,
+   "damageTaken": 15157,
+   "distanceCm": 16068815,
+   "walkCm": 5402993,
+   "flyCm": 5478534,
+   "jumps": 27201,
+   "mined": 5575,
    "topMined": [
     [
      "packed_ice",
@@ -34,7 +34,7 @@
      494
     ]
    ],
-   "crafted": 17266,
+   "crafted": 17326,
    "topCrafted": [
     [
      "stick",
@@ -225,19 +225,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T21:49:17Z",
-   "playTicks": 836581,
+   "lastSeen": "2026-10-11T21:54:17Z",
+   "playTicks": 842581,
    "deaths": 0,
    "mobKills": 412,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 94320,
-   "damageTaken": 15218,
-   "distanceCm": 12644847,
-   "walkCm": 2663049,
-   "flyCm": 5656169,
-   "jumps": 19807,
-   "mined": 6400,
+   "damageTaken": 15305,
+   "distanceCm": 12682721,
+   "walkCm": 2679954,
+   "flyCm": 5668461,
+   "jumps": 19869,
+   "mined": 6459,
    "topMined": [
     [
      "spruce_log",
@@ -245,26 +245,26 @@
     ],
     [
      "spruce_leaves",
-     1419
+     1466
     ],
     [
      "oak_leaves",
      277
     ]
    ],
-   "crafted": 25430,
+   "crafted": 29202,
    "topCrafted": [
     [
      "stick",
-     15503
+     17956
     ],
     [
      "spruce_planks",
-     8114
+     9346
     ],
     [
      "emerald",
-     586
+     665
     ]
    ],
    "topKilled": [
@@ -1051,9 +1051,9 @@
     "dates": [
      "2026-10-11"
     ],
-    "rendered": "2026-10-11T18:54:50Z",
+    "rendered": "2026-10-11T21:55:16Z",
     "regions": {
-     "r.2.0.mca": "2026-10-11T18:55:09Z"
+     "r.2.0.mca": "2026-10-11T20:59:25Z"
     }
    }
   },
