@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-11T16:57:08Z",
+ "updated": "2026-10-11T16:58:43Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T16:51:51Z",
-   "playTicks": 1047832,
+   "lastSeen": "2026-10-11T16:58:06Z",
+   "playTicks": 1053832,
    "deaths": 0,
-   "mobKills": 765,
+   "mobKills": 770,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 110151,
-   "damageTaken": 11881,
-   "distanceCm": 11349816,
-   "walkCm": 4319347,
-   "flyCm": 3457718,
-   "jumps": 19157,
-   "mined": 4857,
+   "damageDealt": 111921,
+   "damageTaken": 12013,
+   "distanceCm": 11555904,
+   "walkCm": 4339973,
+   "flyCm": 3507545,
+   "jumps": 19326,
+   "mined": 4901,
    "topMined": [
     [
      "packed_ice",
@@ -26,22 +26,22 @@
     ],
     [
      "spruce_log",
-     977
+     1016
     ],
     [
      "stone",
      432
     ]
    ],
-   "crafted": 14721,
+   "crafted": 15965,
    "topCrafted": [
     [
      "stick",
-     8355
+     9127
     ],
     [
      "spruce_planks",
-     4308
+     4756
     ],
     [
      "oak_planks",
@@ -110,31 +110,31 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T16:51:51Z",
-   "playTicks": 927397,
+   "lastSeen": "2026-10-11T16:58:06Z",
+   "playTicks": 933397,
    "deaths": 2,
    "mobKills": 270,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 53008,
    "damageTaken": 5789,
-   "distanceCm": 10538883,
-   "walkCm": 4246122,
-   "flyCm": 2570193,
-   "jumps": 11175,
-   "mined": 10255,
+   "distanceCm": 10702401,
+   "walkCm": 4339040,
+   "flyCm": 2581540,
+   "jumps": 11216,
+   "mined": 11740,
    "topMined": [
     [
      "grass_block",
-     4377
+     5216
     ],
     [
      "sand",
-     2042
+     2059
     ],
     [
      "dirt",
-     1341
+     1960
     ]
    ],
    "crafted": 3037,
@@ -224,19 +224,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T16:51:51Z",
-   "playTicks": 524340,
+   "lastSeen": "2026-10-11T16:58:06Z",
+   "playTicks": 530340,
    "deaths": 0,
    "mobKills": 179,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 32170,
-   "damageTaken": 5723,
-   "distanceCm": 5214207,
-   "walkCm": 1570897,
-   "flyCm": 2642272,
-   "jumps": 11417,
-   "mined": 4231,
+   "damageTaken": 5783,
+   "distanceCm": 5282158,
+   "walkCm": 1593155,
+   "flyCm": 2675689,
+   "jumps": 11608,
+   "mined": 4233,
    "topMined": [
     [
      "spruce_log",
@@ -244,7 +244,7 @@
     ],
     [
      "spruce_leaves",
-     1102
+     1103
     ],
     [
      "oak_leaves",
@@ -328,19 +328,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T16:51:51Z",
-   "playTicks": 497023,
+   "lastSeen": "2026-10-11T16:58:06Z",
+   "playTicks": 503023,
    "deaths": 0,
-   "mobKills": 107,
+   "mobKills": 117,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 11909,
+   "damageDealt": 12236,
    "damageTaken": 2277,
-   "distanceCm": 4775621,
-   "walkCm": 2031243,
-   "flyCm": 1504879,
-   "jumps": 7739,
-   "mined": 8161,
+   "distanceCm": 4877240,
+   "walkCm": 2067705,
+   "flyCm": 1556772,
+   "jumps": 7943,
+   "mined": 8184,
    "topMined": [
     [
      "grass_block",
@@ -355,7 +355,7 @@
      1281
     ]
    ],
-   "crafted": 10407,
+   "crafted": 10409,
    "topCrafted": [
     [
      "stick",
@@ -373,7 +373,7 @@
    "topKilled": [
     [
      "cod",
-     35
+     44
     ],
     [
      "sheep",
@@ -432,19 +432,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-11T16:51:51Z",
-   "playTicks": 381737,
+   "lastSeen": "2026-10-11T16:58:06Z",
+   "playTicks": 387737,
    "deaths": 2,
-   "mobKills": 111,
+   "mobKills": 113,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 20177,
+   "damageDealt": 20377,
    "damageTaken": 4942,
-   "distanceCm": 3504722,
-   "walkCm": 1715412,
-   "flyCm": 1095933,
-   "jumps": 7252,
-   "mined": 4907,
+   "distanceCm": 3704742,
+   "walkCm": 1739100,
+   "flyCm": 1125203,
+   "jumps": 7420,
+   "mined": 4920,
    "topMined": [
     [
      "spruce_log",
@@ -649,19 +649,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-11T16:51:51Z",
-   "playTicks": 153673,
+   "lastSeen": "2026-10-11T16:58:06Z",
+   "playTicks": 159673,
    "deaths": 4,
    "mobKills": 20,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 2152,
    "damageTaken": 1868,
-   "distanceCm": 995133,
-   "walkCm": 733519,
-   "flyCm": 74267,
-   "jumps": 1310,
-   "mined": 1499,
+   "distanceCm": 1052540,
+   "walkCm": 787651,
+   "flyCm": 77217,
+   "jumps": 1326,
+   "mined": 1834,
    "topMined": [
     [
      "stone",
@@ -669,7 +669,7 @@
     ],
     [
      "grass_block",
-     153
+     413
     ],
     [
      "coal_ore",
@@ -766,23 +766,23 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-11T16:51:51Z",
-   "playTicks": 144137,
+   "lastSeen": "2026-10-11T16:58:06Z",
+   "playTicks": 150137,
    "deaths": 8,
    "mobKills": 20,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 2514,
-   "damageTaken": 2873,
-   "distanceCm": 1847514,
-   "walkCm": 599941,
-   "flyCm": 327507,
-   "jumps": 2028,
-   "mined": 550,
+   "damageTaken": 2883,
+   "distanceCm": 1900896,
+   "walkCm": 625435,
+   "flyCm": 333875,
+   "jumps": 2156,
+   "mined": 592,
    "topMined": [
     [
      "stone",
-     263
+     271
     ],
     [
      "oak_log",
@@ -790,10 +790,10 @@
     ],
     [
      "spruce_log",
-     62
+     72
     ]
    ],
-   "crafted": 531,
+   "crafted": 534,
    "topCrafted": [
     [
      "oak_planks",
