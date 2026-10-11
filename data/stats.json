@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-11T13:26:14Z",
+ "updated": "2026-10-11T13:30:54Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T13:25:54Z",
-   "playTicks": 830419,
+   "lastSeen": "2026-10-11T13:30:54Z",
+   "playTicks": 836419,
    "deaths": 0,
    "mobKills": 566,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 79803,
-   "damageTaken": 7176,
-   "distanceCm": 8169223,
-   "walkCm": 3499572,
-   "flyCm": 2424419,
-   "jumps": 14183,
-   "mined": 3922,
+   "damageTaken": 7269,
+   "distanceCm": 8228263,
+   "walkCm": 3538598,
+   "flyCm": 2439235,
+   "jumps": 14281,
+   "mined": 3925,
    "topMined": [
     [
      "packed_ice",
@@ -110,18 +110,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T13:25:54Z",
-   "playTicks": 690944,
+   "lastSeen": "2026-10-11T13:30:54Z",
+   "playTicks": 696916,
    "deaths": 2,
    "mobKills": 234,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 46483,
-   "damageTaken": 5355,
-   "distanceCm": 8305678,
-   "walkCm": 2978457,
-   "flyCm": 1993922,
-   "jumps": 8994,
+   "damageTaken": 5359,
+   "distanceCm": 8387188,
+   "walkCm": 2987305,
+   "flyCm": 2022134,
+   "jumps": 9080,
    "mined": 4865,
    "topMined": [
     [
@@ -137,7 +137,7 @@
      287
     ]
    ],
-   "crafted": 2180,
+   "crafted": 2181,
    "topCrafted": [
     [
      "emerald",
@@ -328,19 +328,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T13:25:54Z",
-   "playTicks": 262071,
+   "lastSeen": "2026-10-11T13:30:54Z",
+   "playTicks": 268071,
    "deaths": 0,
    "mobKills": 47,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 4843,
-   "damageTaken": 780,
-   "distanceCm": 2051939,
-   "walkCm": 955988,
-   "flyCm": 529709,
-   "jumps": 3208,
-   "mined": 4530,
+   "damageDealt": 4931,
+   "damageTaken": 870,
+   "distanceCm": 2077150,
+   "walkCm": 972507,
+   "flyCm": 534882,
+   "jumps": 3246,
+   "mined": 4531,
    "topMined": [
     [
      "dark_oak_log",
@@ -355,11 +355,11 @@
      596
     ]
    ],
-   "crafted": 7623,
+   "crafted": 7886,
    "topCrafted": [
     [
      "stick",
-     4006
+     4262
     ],
     [
      "dark_oak_planks",
@@ -432,19 +432,19 @@
    "uuid": "e0716f67-b0d0-4d15-b374-ed3a090ab96a",
    "name": "Bensen1405",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T13:25:54Z",
-   "playTicks": 217927,
+   "lastSeen": "2026-10-11T13:30:54Z",
+   "playTicks": 223927,
    "deaths": 0,
    "mobKills": 45,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 5990,
-   "damageTaken": 1352,
-   "distanceCm": 2461389,
-   "walkCm": 1175274,
-   "flyCm": 977216,
-   "jumps": 4302,
-   "mined": 1269,
+   "damageTaken": 1392,
+   "distanceCm": 2585313,
+   "walkCm": 1234560,
+   "flyCm": 1028648,
+   "jumps": 4538,
+   "mined": 1270,
    "topMined": [
     [
      "stone",
@@ -536,19 +536,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-11T13:25:54Z",
-   "playTicks": 173029,
+   "lastSeen": "2026-10-11T13:30:54Z",
+   "playTicks": 179029,
    "deaths": 1,
-   "mobKills": 65,
+   "mobKills": 66,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 10056,
-   "damageTaken": 1931,
-   "distanceCm": 1358235,
-   "walkCm": 675789,
-   "flyCm": 324168,
-   "jumps": 2861,
-   "mined": 2261,
+   "damageDealt": 10156,
+   "damageTaken": 2021,
+   "distanceCm": 1477846,
+   "walkCm": 718510,
+   "flyCm": 385650,
+   "jumps": 3126,
+   "mined": 2271,
    "topMined": [
     [
      "spruce_log",
@@ -599,13 +599,17 @@
     ]
    ],
    "adv": {
-    "count": 16,
+    "count": 17,
     "byTab": {
      "story": 9,
-     "husbandry": 2,
+     "husbandry": 3,
      "adventure": 5
     },
     "recent": [
+     [
+      "husbandry/breed_an_animal",
+      "2026-10-11T13:26:06Z"
+     ],
      [
       "adventure/trade",
       "2026-10-11T12:08:56Z"
@@ -632,10 +636,6 @@
      ],
      [
       "adventure/kill_a_mob",
-      "2026-10-11T10:52:40Z"
-     ],
-     [
-      "adventure/root",
       "2026-10-11T10:52:40Z"
      ]
     ]
