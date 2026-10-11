@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-11T16:38:21Z",
+ "updated": "2026-10-11T16:41:30Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T16:35:56Z",
-   "playTicks": 1029832,
+   "lastSeen": "2026-10-11T16:41:05Z",
+   "playTicks": 1035832,
    "deaths": 0,
    "mobKills": 765,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 110151,
-   "damageTaken": 11840,
-   "distanceCm": 10862458,
-   "walkCm": 4271930,
-   "flyCm": 3370751,
-   "jumps": 18750,
-   "mined": 4765,
+   "damageTaken": 11851,
+   "distanceCm": 11048281,
+   "walkCm": 4279930,
+   "flyCm": 3415647,
+   "jumps": 18921,
+   "mined": 4769,
    "topMined": [
     [
      "packed_ice",
@@ -110,23 +110,23 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T16:35:56Z",
-   "playTicks": 909700,
+   "lastSeen": "2026-10-11T16:41:05Z",
+   "playTicks": 915700,
    "deaths": 2,
-   "mobKills": 268,
+   "mobKills": 270,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 52647,
-   "damageTaken": 5778,
-   "distanceCm": 10244844,
-   "walkCm": 4072095,
-   "flyCm": 2526957,
-   "jumps": 11006,
-   "mined": 9664,
+   "damageDealt": 53008,
+   "damageTaken": 5785,
+   "distanceCm": 10363656,
+   "walkCm": 4132903,
+   "flyCm": 2539539,
+   "jumps": 11071,
+   "mined": 10249,
    "topMined": [
     [
      "grass_block",
-     3927
+     4377
     ],
     [
      "sand",
@@ -134,7 +134,7 @@
     ],
     [
      "dirt",
-     1202
+     1336
     ]
    ],
    "crafted": 3037,
@@ -155,7 +155,7 @@
    "topKilled": [
     [
      "zombie",
-     94
+     95
     ],
     [
      "skeleton",
@@ -163,7 +163,7 @@
     ],
     [
      "spider",
-     31
+     32
     ]
    ],
    "topKilledBy": [
@@ -224,19 +224,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T16:35:56Z",
-   "playTicks": 506340,
+   "lastSeen": "2026-10-11T16:41:05Z",
+   "playTicks": 512340,
    "deaths": 0,
    "mobKills": 173,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 31640,
    "damageTaken": 5653,
-   "distanceCm": 4808451,
-   "walkCm": 1484895,
-   "flyCm": 2421591,
-   "jumps": 10497,
-   "mined": 4180,
+   "distanceCm": 4982277,
+   "walkCm": 1517208,
+   "flyCm": 2504755,
+   "jumps": 10796,
+   "mined": 4186,
    "topMined": [
     [
      "spruce_log",
@@ -248,7 +248,7 @@
     ],
     [
      "oak_leaves",
-     268
+     269
     ]
    ],
    "crafted": 13450,
@@ -328,8 +328,8 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T16:35:56Z",
-   "playTicks": 479023,
+   "lastSeen": "2026-10-11T16:41:05Z",
+   "playTicks": 485023,
    "deaths": 0,
    "mobKills": 107,
    "playerKills": 1,
@@ -432,19 +432,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-11T16:35:56Z",
-   "playTicks": 363737,
+   "lastSeen": "2026-10-11T16:41:05Z",
+   "playTicks": 369737,
    "deaths": 2,
    "mobKills": 111,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 20177,
-   "damageTaken": 4892,
-   "distanceCm": 3326071,
-   "walkCm": 1638055,
-   "flyCm": 1029739,
-   "jumps": 6847,
-   "mined": 4557,
+   "damageTaken": 4902,
+   "distanceCm": 3384559,
+   "walkCm": 1662311,
+   "flyCm": 1052572,
+   "jumps": 7038,
+   "mined": 4576,
    "topMined": [
     [
      "spruce_log",
@@ -459,7 +459,7 @@
      430
     ]
    ],
-   "crafted": 16994,
+   "crafted": 17108,
    "topCrafted": [
     [
      "stick",
@@ -649,16 +649,16 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-11T16:20:30Z",
-   "playTicks": 139691,
+   "lastSeen": "2026-10-11T16:41:05Z",
+   "playTicks": 141673,
    "deaths": 4,
    "mobKills": 20,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 2142,
    "damageTaken": 1866,
-   "distanceCm": 911406,
-   "walkCm": 669846,
+   "distanceCm": 911710,
+   "walkCm": 670150,
    "flyCm": 55888,
    "jumps": 1194,
    "mined": 1499,
@@ -766,23 +766,23 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-11T16:38:28Z",
-   "playTicks": 130987,
+   "lastSeen": "2026-10-11T16:41:05Z",
+   "playTicks": 132137,
    "deaths": 8,
    "mobKills": 18,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 2354,
    "damageTaken": 2843,
-   "distanceCm": 1704851,
-   "walkCm": 523030,
-   "flyCm": 297327,
-   "jumps": 1769,
-   "mined": 515,
+   "distanceCm": 1711130,
+   "walkCm": 527020,
+   "flyCm": 298741,
+   "jumps": 1821,
+   "mined": 537,
    "topMined": [
     [
      "stone",
-     257
+     263
     ],
     [
      "oak_log",
@@ -887,23 +887,23 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-11T16:35:56Z",
-   "playTicks": 51220,
+   "lastSeen": "2026-10-11T16:41:05Z",
+   "playTicks": 57220,
    "deaths": 1,
    "mobKills": 21,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 1760,
-   "damageTaken": 418,
-   "distanceCm": 804786,
-   "walkCm": 246482,
-   "flyCm": 239740,
-   "jumps": 1159,
-   "mined": 131,
+   "damageTaken": 428,
+   "distanceCm": 959378,
+   "walkCm": 275156,
+   "flyCm": 297041,
+   "jumps": 1382,
+   "mined": 137,
    "topMined": [
     [
      "stone",
-     40
+     43
     ],
     [
      "spruce_log",
@@ -950,13 +950,17 @@
     ]
    ],
    "adv": {
-    "count": 5,
+    "count": 6,
     "byTab": {
      "story": 3,
-     "adventure": 1,
+     "adventure": 2,
      "husbandry": 1
     },
     "recent": [
+     [
+      "adventure/sleep_in_bed",
+      "2026-10-11T16:39:21Z"
+     ],
      [
       "husbandry/root",
       "2026-10-11T16:00:45Z"
