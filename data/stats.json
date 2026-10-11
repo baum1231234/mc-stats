@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-11T11:33:19Z",
+ "updated": "2026-10-11T11:37:00Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T11:31:11Z",
-   "playTicks": 717113,
+   "lastSeen": "2026-10-11T11:35:54Z",
+   "playTicks": 722773,
    "deaths": 0,
    "mobKills": 560,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 78017,
-   "damageTaken": 6718,
-   "distanceCm": 7091274,
-   "walkCm": 3052092,
-   "flyCm": 1994427,
-   "jumps": 12265,
-   "mined": 3777,
+   "damageTaken": 6728,
+   "distanceCm": 7122902,
+   "walkCm": 3074737,
+   "flyCm": 2002728,
+   "jumps": 12340,
+   "mined": 3782,
    "topMined": [
     [
      "packed_ice",
-     1401
+     1403
     ],
     [
      "spruce_log",
@@ -33,7 +33,7 @@
      366
     ]
    ],
-   "crafted": 6872,
+   "crafted": 6886,
    "topCrafted": [
     [
      "stick",
@@ -110,8 +110,8 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T11:31:19Z",
-   "playTicks": 559030,
+   "lastSeen": "2026-10-11T11:35:54Z",
+   "playTicks": 559096,
    "deaths": 2,
    "mobKills": 224,
    "playerKills": 0,
@@ -224,18 +224,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T11:29:08Z",
-   "playTicks": 503957,
+   "lastSeen": "2026-10-11T11:34:00Z",
+   "playTicks": 505634,
    "deaths": 0,
    "mobKills": 173,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 31640,
    "damageTaken": 5653,
-   "distanceCm": 4803622,
-   "walkCm": 1480306,
-   "flyCm": 2421351,
-   "jumps": 10493,
+   "distanceCm": 4805721,
+   "walkCm": 1482332,
+   "flyCm": 2421424,
+   "jumps": 10496,
    "mined": 4180,
    "topMined": [
     [
@@ -536,23 +536,23 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-11T11:31:25Z",
-   "playTicks": 64358,
+   "lastSeen": "2026-10-11T11:35:54Z",
+   "playTicks": 69448,
    "deaths": 0,
-   "mobKills": 40,
+   "mobKills": 43,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 6065,
-   "damageTaken": 1202,
-   "distanceCm": 508808,
-   "walkCm": 262768,
-   "flyCm": 123937,
-   "jumps": 1152,
-   "mined": 475,
+   "damageDealt": 6435,
+   "damageTaken": 1296,
+   "distanceCm": 530988,
+   "walkCm": 281827,
+   "flyCm": 125110,
+   "jumps": 1230,
+   "mined": 498,
    "topMined": [
     [
      "deepslate",
-     89
+     101
     ],
     [
      "iron_ore",
@@ -563,7 +563,7 @@
      40
     ]
    ],
-   "crafted": 136,
+   "crafted": 141,
    "topCrafted": [
     [
      "iron_ingot",
@@ -581,11 +581,11 @@
    "topKilled": [
     [
      "zombie",
-     24
+     25
     ],
     [
      "skeleton",
-     4
+     6
     ],
     [
      "cave_spider",
@@ -596,9 +596,9 @@
    "adv": {
     "count": 13,
     "byTab": {
-     "adventure": 3,
+     "story": 8,
      "husbandry": 2,
-     "story": 8
+     "adventure": 3
     },
     "recent": [
      [
@@ -640,42 +640,42 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-11T11:31:11Z",
-   "playTicks": 26897,
+   "lastSeen": "2026-10-11T11:35:54Z",
+   "playTicks": 32557,
    "deaths": 2,
    "mobKills": 8,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 1010,
-   "damageTaken": 961,
-   "distanceCm": 318946,
-   "walkCm": 114096,
-   "flyCm": 44929,
-   "jumps": 283,
-   "mined": 80,
+   "damageTaken": 971,
+   "distanceCm": 418099,
+   "walkCm": 118926,
+   "flyCm": 53744,
+   "jumps": 319,
+   "mined": 92,
    "topMined": [
     [
      "spruce_log",
-     30
+     36
     ],
     [
      "stone",
-     23
+     28
     ],
     [
      "oak_leaves",
      7
     ]
    ],
-   "crafted": 98,
+   "crafted": 133,
    "topCrafted": [
     [
      "spruce_planks",
-     52
+     76
     ],
     [
      "stick",
-     16
+     24
     ],
     [
      "oak_planks",
