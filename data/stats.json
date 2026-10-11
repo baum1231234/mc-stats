@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T18:32:36Z",
+ "updated": "2026-10-11T18:34:10Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1288973,
+ "serverTicks": 1292462,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -650,18 +650,18 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-11T18:31:23Z",
-   "playTicks": 270184,
+   "lastSeen": "2026-10-11T18:34:17Z",
+   "playTicks": 273673,
    "deaths": 4,
-   "mobKills": 28,
+   "mobKills": 30,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 2788,
-   "damageTaken": 2031,
-   "distanceCm": 1866768,
-   "walkCm": 1555268,
-   "flyCm": 116193,
-   "jumps": 1795,
+   "damageDealt": 2898,
+   "damageTaken": 2041,
+   "distanceCm": 1895094,
+   "walkCm": 1579730,
+   "flyCm": 119132,
+   "jumps": 1811,
    "mined": 4089,
    "topMined": [
     [
@@ -695,7 +695,7 @@
    "topKilled": [
     [
      "sheep",
-     12
+     13
     ],
     [
      "rabbit",
