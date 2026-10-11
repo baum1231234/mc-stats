@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-11T09:16:55Z",
+ "updated": "2026-10-11T09:23:40Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T09:15:54Z",
-   "playTicks": 554773,
+   "lastSeen": "2026-10-11T09:20:54Z",
+   "playTicks": 560773,
    "deaths": 0,
-   "mobKills": 400,
+   "mobKills": 434,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 50536,
-   "damageTaken": 4223,
-   "distanceCm": 5487580,
-   "walkCm": 2303647,
-   "flyCm": 1409729,
-   "jumps": 9253,
-   "mined": 2977,
+   "damageDealt": 54754,
+   "damageTaken": 4378,
+   "distanceCm": 5563457,
+   "walkCm": 2357246,
+   "flyCm": 1428122,
+   "jumps": 9382,
+   "mined": 2983,
    "topMined": [
     [
      "packed_ice",
@@ -51,7 +51,7 @@
    "topKilled": [
     [
      "slime",
-     134
+     148
     ]
    ]
   },
