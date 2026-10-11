@@ -152,6 +152,7 @@ td small { display: block; font-size: 18px; color: #e0e0e0; }
 /* eigene Bilder: zuschneiden statt verzerren, und nicht verpixeln wie die Köpfe */
 img.custom { object-fit: cover; image-rendering: auto; }
 .map-base image.custom { image-rendering: auto; }
+.waypoint { width: 100%; margin-top: 6px; padding: 4px; font: inherit; font-size: 16px; color: #fff; background: var(--slot-dark); border: 2px solid #000; }
 .base-name { font-size: 30px; margin-top: 6px; overflow-wrap: anywhere; text-shadow: 2px 2px 0 #3f3f3f; }
 .base-coords { margin: 8px 0 2px; padding: 4px; background: var(--slot-dark); }
 .base-since { margin-top: 6px; font-size: 18px; color: #e0e0e0; }

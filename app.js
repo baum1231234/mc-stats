@@ -63,7 +63,7 @@ const TABS = [
 const DIMS = { overworld: "Overworld", the_nether: "Nether", the_end: "End" };
 const dimName = (d) => DIMS[d] || pretty(d);
 
-const state = { players: [], bases: [], tiles: null, updated: null, demo: false, online: null, tab: TABS[0], sortCol: 0, dim: null, base: null, detail: false, date: null, view: null, profile: null };
+const state = { players: [], bases: [], tiles: null, updated: null, demo: false, online: null, tab: TABS[0], sortCol: 0, dim: null, base: null, detail: false, date: null, view: null, profile: null, waypoint: null, copied: false };
 const $ = (id) => document.getElementById(id);
 
 function el(tag, props = {}, ...children) {
@@ -111,6 +111,18 @@ function svg(tag, attrs = {}, ...children) {
 const head = (b, size) => b.icon || `https://mc-heads.net/avatar/${encodeURIComponent(b.uuid || b.player)}/${size}`;
 const iconClass = (b) => (b.icon ? "custom" : "");
 const baseKey = (b) => `${b.dim}/${b.player}/${b.name}`;
+
+// Xaero's Minimap erkennt diese Zeile im Chat und bietet den Wegpunkt dort zum Anklicken an:
+// xaero-waypoint:Name:Kürzel:x:y:z:Farbe:Drehung:Winkel:Wegpunkt-Satz
+const XAERO_DIMS = { overworld: "overworld", the_nether: "the-nether", the_end: "the-end" };
+function waypoint(b) {
+  const name = b.name.replace(/:/g, "^col^"); // Doppelpunkte trennen die Felder
+  // eine der 15 Chat-Farben (ohne Schwarz) je Besitzer, damit sich die Bases im Spiel unterscheiden
+  const color = ([...b.player].reduce((sum, c) => sum + c.charCodeAt(0), 0) % 15) + 1;
+  // Dimensionen aus Mods schreibt Xaero als dim%namensraum$name
+  const set = XAERO_DIMS[b.dim] || "dim%" + (b.dim.includes(":") ? b.dim : `minecraft:${b.dim}`).replace(":", "$").replace(/_/g, "-");
+  return `xaero-waypoint:${name}:${name[0].toUpperCase()}:${b.x}:${b.y}:${b.z}:${color}:false:0:Internal-${set}-waypoints`;
+}
 
 // Ausschnitt, der alle Bases mit Rand zeigt – dieselbe Rechnung wie view_regions() in scripts/maps.py
 function mapFit(bases) {
@@ -296,6 +308,24 @@ function renderBases() {
     $("base-info").append(el("button", { type: "button", className: "base-open", onclick: () => { state.detail = true; render(); } }, "Base ansehen ▶"));
   } else if (!selected.map) {
     $("base-info").append(el("div", { className: "base-since" }, selected.dim === "overworld" ? "Kartenbild folgt in ein paar Minuten" : "Kartenbild nur in der Overworld"));
+  }
+  $("base-info").append(el("button", {
+    type: "button", className: "base-open",
+    onclick: async () => {
+      state.waypoint = baseKey(selected);
+      // ohne Zwischenablage (altes Handy, kein https) bleibt die Zeile zum Markieren stehen
+      try { await navigator.clipboard.writeText(waypoint(selected)); state.copied = true; } catch { state.copied = false; }
+      render();
+    },
+  }, "Get Waypoint"));
+  if (state.waypoint === baseKey(selected)) {
+    $("base-info").append(
+      el("div", { className: "base-since" }, state.copied
+        ? "Kopiert! Im Spiel den Chat öffnen (T), mit Strg+V einfügen, Enter. Dann die Nachricht im Chat anklicken."
+        : "Diese Zeile kopieren, im Spiel in den Chat einfügen und die Nachricht anklicken:"),
+      el("input", { className: "waypoint", readOnly: true, value: waypoint(selected), ariaLabel: "Wegpunkt für Xaero's Minimap", onfocus: (e) => e.target.select() }),
+      el("div", { className: "base-since" }, "Braucht Xaero's Minimap."),
+    );
   }
   $("base-list").replaceChildren(...bases.map((b) => el("button", {
     // liegt die Base außerhalb des gezoomten Ausschnitts, springt die Karte hin
