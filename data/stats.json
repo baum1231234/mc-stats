@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-11T20:04:56Z",
+ "updated": "2026-10-11T20:09:14Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1400462,
+ "serverTicks": 1406462,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T20:04:17Z",
+   "lastSeen": "2026-10-11T20:09:17Z",
    "playTicks": 1246495,
    "deaths": 0,
    "mobKills": 830,
@@ -329,19 +329,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T20:04:17Z",
-   "playTicks": 604477,
+   "lastSeen": "2026-10-11T20:09:17Z",
+   "playTicks": 610477,
    "deaths": 0,
    "mobKills": 124,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 13430,
    "damageTaken": 2471,
-   "distanceCm": 6391414,
-   "walkCm": 2624994,
+   "distanceCm": 6419067,
+   "walkCm": 2652647,
    "flyCm": 2292259,
    "jumps": 10798,
-   "mined": 8749,
+   "mined": 8759,
    "topMined": [
     [
      "dark_oak_log",
@@ -356,7 +356,7 @@
      1288
     ]
    ],
-   "crafted": 19684,
+   "crafted": 19940,
    "topCrafted": [
     [
      "stick",
@@ -364,7 +364,7 @@
     ],
     [
      "dark_oak_planks",
-     6876
+     7132
     ],
     [
      "stone",
@@ -888,18 +888,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-11T20:04:17Z",
-   "playTicks": 99372,
+   "lastSeen": "2026-10-11T20:09:17Z",
+   "playTicks": 105372,
    "deaths": 1,
    "mobKills": 28,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 2380,
-   "damageTaken": 878,
-   "distanceCm": 1741765,
-   "walkCm": 480998,
-   "flyCm": 668945,
-   "jumps": 2886,
+   "damageTaken": 898,
+   "distanceCm": 1925664,
+   "walkCm": 506010,
+   "flyCm": 736131,
+   "jumps": 3094,
    "mined": 206,
    "topMined": [
     [
@@ -1661,6 +1661,11 @@
     "rendered": "2026-10-11T19:33:11Z",
     "empty": true
    },
+   "-7.6": {
+    "mtime": "2026-10-11T20:09:27Z",
+    "rendered": "2026-10-11T20:09:14Z",
+    "empty": true
+   },
    "-5.1": {
     "mtime": "2026-10-10T19:48:47Z",
     "rendered": "2026-10-11T19:34:48Z"
@@ -1718,6 +1723,11 @@
    "-6.8": {
     "mtime": "2026-10-11T17:20:04Z",
     "rendered": "2026-10-11T19:39:44Z"
+   },
+   "-7.7": {
+    "mtime": "2026-10-11T20:09:27Z",
+    "rendered": "2026-10-11T20:09:14Z",
+    "empty": true
    },
    "-6.1": {
     "mtime": "2026-10-10T19:48:47Z",
