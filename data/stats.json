@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-11T00:57:52Z",
+ "updated": "2026-10-11T01:01:23Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T00:57:31Z",
-   "playTicks": 533945,
+   "lastSeen": "2026-10-11T01:01:23Z",
+   "playTicks": 538594,
    "deaths": 0,
    "mobKills": 389,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 50296,
    "damageTaken": 4211,
-   "distanceCm": 5288249,
-   "walkCm": 2174888,
-   "flyCm": 1348339,
-   "jumps": 8953,
-   "mined": 2905,
+   "distanceCm": 5322310,
+   "walkCm": 2202361,
+   "flyCm": 1354927,
+   "jumps": 8979,
+   "mined": 2911,
    "topMined": [
     [
      "packed_ice",
@@ -33,7 +33,7 @@
      169
     ]
    ],
-   "crafted": 2259,
+   "crafted": 2263,
    "topCrafted": [
     [
      "stick",
@@ -218,19 +218,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T00:57:31Z",
-   "playTicks": 177576,
+   "lastSeen": "2026-10-11T00:59:54Z",
+   "playTicks": 180452,
    "deaths": 0,
    "mobKills": 31,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 3853,
-   "damageTaken": 350,
-   "distanceCm": 1364497,
-   "walkCm": 684992,
-   "flyCm": 339904,
-   "jumps": 2233,
-   "mined": 4109,
+   "damageTaken": 380,
+   "distanceCm": 1389144,
+   "walkCm": 694528,
+   "flyCm": 341646,
+   "jumps": 2253,
+   "mined": 4265,
    "topMined": [
     [
      "dark_oak_log",
@@ -242,7 +242,7 @@
     ],
     [
      "stone",
-     490
+     491
     ]
    ],
    "crafted": 619,
