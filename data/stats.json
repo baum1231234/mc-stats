@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-11T10:16:52Z",
+ "updated": "2026-10-11T10:23:59Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T10:15:54Z",
-   "playTicks": 626773,
+   "lastSeen": "2026-10-11T10:20:54Z",
+   "playTicks": 632773,
    "deaths": 0,
-   "mobKills": 498,
+   "mobKills": 504,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 63799,
+   "damageDealt": 64951,
    "damageTaken": 4851,
-   "distanceCm": 6339685,
-   "walkCm": 2740384,
-   "flyCm": 1711911,
-   "jumps": 10927,
-   "mined": 3268,
+   "distanceCm": 6404392,
+   "walkCm": 2764543,
+   "flyCm": 1739429,
+   "jumps": 11030,
+   "mined": 3280,
    "topMined": [
     [
      "packed_ice",
-     1392
+     1393
     ],
     [
      "stone",
@@ -59,27 +59,27 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T10:15:54Z",
-   "playTicks": 468782,
+   "lastSeen": "2026-10-11T10:20:54Z",
+   "playTicks": 474782,
    "deaths": 2,
    "mobKills": 191,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 37332,
    "damageTaken": 3992,
-   "distanceCm": 5302010,
-   "walkCm": 1975120,
+   "distanceCm": 5330710,
+   "walkCm": 2003820,
    "flyCm": 1376653,
-   "jumps": 6441,
-   "mined": 2164,
+   "jumps": 6443,
+   "mined": 2431,
    "topMined": [
     [
      "grass_block",
-     630
+     867
     ],
     [
      "dirt",
-     209
+     239
     ],
     [
      "short_grass",
@@ -112,19 +112,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T10:15:54Z",
-   "playTicks": 451076,
+   "lastSeen": "2026-10-11T10:20:54Z",
+   "playTicks": 457076,
    "deaths": 0,
-   "mobKills": 131,
+   "mobKills": 133,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 19950,
-   "damageTaken": 4772,
-   "distanceCm": 4045596,
-   "walkCm": 1329246,
-   "flyCm": 1985152,
-   "jumps": 9034,
-   "mined": 4063,
+   "damageDealt": 21259,
+   "damageTaken": 4806,
+   "distanceCm": 4090089,
+   "walkCm": 1337941,
+   "flyCm": 2011038,
+   "jumps": 9127,
+   "mined": 4064,
    "topMined": [
     [
      "spruce_log",
