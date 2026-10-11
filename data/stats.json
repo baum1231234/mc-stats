@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-11T22:15:07Z",
+ "updated": "2026-10-11T22:16:37Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1556462,
+ "serverTicks": 1559216,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T22:14:17Z",
-   "playTicks": 1402035,
+   "lastSeen": "2026-10-11T22:16:35Z",
+   "playTicks": 1404789,
    "deaths": 0,
    "mobKills": 858,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 126415,
    "damageTaken": 15197,
-   "distanceCm": 16359825,
+   "distanceCm": 16450696,
    "walkCm": 5467005,
    "flyCm": 5591217,
    "jumps": 27755,
@@ -225,18 +225,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T22:14:17Z",
-   "playTicks": 866581,
+   "lastSeen": "2026-10-11T22:16:35Z",
+   "playTicks": 869335,
    "deaths": 0,
-   "mobKills": 412,
+   "mobKills": 413,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 94320,
-   "damageTaken": 15542,
-   "distanceCm": 13414031,
-   "walkCm": 2755411,
-   "flyCm": 5910060,
-   "jumps": 20233,
+   "damageDealt": 94548,
+   "damageTaken": 15572,
+   "distanceCm": 13466841,
+   "walkCm": 2766409,
+   "flyCm": 5926631,
+   "jumps": 20335,
    "mined": 7361,
    "topMined": [
     [
@@ -1404,12 +1404,12 @@
     "rendered": "2026-10-11T19:16:08Z"
    },
    "1.-4": {
-    "mtime": "2026-10-11T19:16:13Z",
-    "rendered": "2026-10-11T19:16:08Z"
+    "mtime": "2026-10-11T19:50:44Z",
+    "rendered": "2026-10-11T22:16:37Z"
    },
    "0.-5": {
-    "mtime": "2026-10-11T17:16:20Z",
-    "rendered": "2026-10-11T19:16:08Z"
+    "mtime": "2026-10-11T20:59:06Z",
+    "rendered": "2026-10-11T22:16:37Z"
    },
    "0.2": {
     "mtime": "2026-10-11T20:45:32Z",
@@ -1594,6 +1594,11 @@
    "-6.3": {
     "mtime": "2026-10-11T13:23:35Z",
     "rendered": "2026-10-11T19:28:05Z",
+    "empty": true
+   },
+   "-7.4": {
+    "mtime": "2026-10-11T22:16:50Z",
+    "rendered": "2026-10-11T22:16:37Z",
     "empty": true
    },
    "2.5": {
