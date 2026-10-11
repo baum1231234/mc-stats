@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-11T10:41:59Z",
+ "updated": "2026-10-11T10:45:39Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T10:40:54Z",
-   "playTicks": 656773,
+   "lastSeen": "2026-10-11T10:45:42Z",
+   "playTicks": 662525,
    "deaths": 0,
    "mobKills": 505,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 65112,
    "damageTaken": 4882,
-   "distanceCm": 6529726,
-   "walkCm": 2851192,
-   "flyCm": 1770162,
-   "jumps": 11231,
-   "mined": 3482,
+   "distanceCm": 6539372,
+   "walkCm": 2860000,
+   "flyCm": 1770323,
+   "jumps": 11234,
+   "mined": 3515,
    "topMined": [
     [
      "packed_ice",
@@ -33,7 +33,7 @@
      295
     ]
    ],
-   "crafted": 4822,
+   "crafted": 4829,
    "topCrafted": [
     [
      "stick",
@@ -110,27 +110,27 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T10:40:54Z",
-   "playTicks": 498530,
+   "lastSeen": "2026-10-11T10:44:27Z",
+   "playTicks": 502783,
    "deaths": 2,
    "mobKills": 200,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 39122,
    "damageTaken": 4085,
-   "distanceCm": 5652687,
-   "walkCm": 2148357,
+   "distanceCm": 5692745,
+   "walkCm": 2188415,
    "flyCm": 1409430,
    "jumps": 6594,
-   "mined": 2936,
+   "mined": 3354,
    "topMined": [
     [
      "grass_block",
-     1285
+     1660
     ],
     [
      "dirt",
-     308
+     351
     ],
     [
      "sand",
@@ -224,18 +224,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T10:40:54Z",
-   "playTicks": 480346,
+   "lastSeen": "2026-10-11T10:44:27Z",
+   "playTicks": 484599,
    "deaths": 0,
    "mobKills": 142,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 23434,
    "damageTaken": 5201,
-   "distanceCm": 4545883,
-   "walkCm": 1409407,
-   "flyCm": 2283016,
-   "jumps": 10008,
+   "distanceCm": 4582379,
+   "walkCm": 1416250,
+   "flyCm": 2311106,
+   "jumps": 10086,
    "mined": 4076,
    "topMined": [
     [
@@ -251,7 +251,7 @@
      268
     ]
    ],
-   "crafted": 13402,
+   "crafted": 13450,
    "topCrafted": [
     [
      "stick",
@@ -263,7 +263,7 @@
     ],
     [
      "wheat",
-     288
+     324
     ]
    ],
    "topKilled": [
@@ -536,19 +536,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-11T10:40:54Z",
-   "playTicks": 3755,
+   "lastSeen": "2026-10-11T10:45:42Z",
+   "playTicks": 9507,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 0,
-   "damageTaken": 0,
-   "distanceCm": 15317,
-   "walkCm": 6598,
-   "flyCm": 6061,
-   "jumps": 30,
-   "mined": 26,
+   "damageTaken": 20,
+   "distanceCm": 138865,
+   "walkCm": 30511,
+   "flyCm": 29174,
+   "jumps": 163,
+   "mined": 35,
    "topMined": [
     [
      "stone",
@@ -556,18 +556,18 @@
     ],
     [
      "oak_log",
-     4
+     8
     ],
     [
      "dirt",
      3
     ]
    ],
-   "crafted": 27,
+   "crafted": 44,
    "topCrafted": [
     [
      "oak_planks",
-     16
+     32
     ],
     [
      "stick",
@@ -581,11 +581,19 @@
    "topKilled": [],
    "topKilledBy": [],
    "adv": {
-    "count": 3,
+    "count": 5,
     "byTab": {
-     "story": 3
+     "story": 5
     },
     "recent": [
+     [
+      "story/mine_diamond",
+      "2026-10-11T10:42:33Z"
+     ],
+     [
+      "story/smelt_iron",
+      "2026-10-11T10:42:33Z"
+     ],
      [
       "story/upgrade_tools",
       "2026-10-11T10:40:42Z"
@@ -613,6 +621,12 @@
    "dim": "overworld",
    "since": "2026-10-10T23:54:59Z",
    "icon": "data/icons/bfaea0b44236180c.png",
+   "shared": [
+    {
+     "name": "Ahxibrause",
+     "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d"
+    }
+   ],
    "map": {
     "dir": "data/maps/4rtjom_170_-559",
     "size": 256,
