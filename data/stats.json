@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-11T15:05:34Z",
+ "updated": "2026-10-11T15:07:22Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T15:01:07Z",
-   "playTicks": 944673,
+   "lastSeen": "2026-10-11T15:05:54Z",
+   "playTicks": 950419,
    "deaths": 0,
-   "mobKills": 735,
+   "mobKills": 749,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 105378,
-   "damageTaken": 10060,
-   "distanceCm": 9215852,
-   "walkCm": 3963167,
-   "flyCm": 2769533,
-   "jumps": 16482,
-   "mined": 4642,
+   "damageDealt": 107984,
+   "damageTaken": 10261,
+   "distanceCm": 9267966,
+   "walkCm": 3997475,
+   "flyCm": 2781038,
+   "jumps": 16580,
+   "mined": 4646,
    "topMined": [
     [
      "packed_ice",
@@ -51,7 +51,7 @@
    "topKilled": [
     [
      "skeleton",
-     198
+     209
     ],
     [
      "slime",
@@ -59,7 +59,7 @@
     ],
     [
      "zombie",
-     166
+     168
     ]
    ],
    "topKilledBy": [],
@@ -110,19 +110,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T15:01:07Z",
-   "playTicks": 797735,
+   "lastSeen": "2026-10-11T15:05:54Z",
+   "playTicks": 803481,
    "deaths": 2,
    "mobKills": 247,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 48907,
    "damageTaken": 5466,
-   "distanceCm": 9094687,
-   "walkCm": 3399219,
-   "flyCm": 2123188,
-   "jumps": 9562,
-   "mined": 7155,
+   "distanceCm": 9143484,
+   "walkCm": 3425132,
+   "flyCm": 2144722,
+   "jumps": 9640,
+   "mined": 7193,
    "topMined": [
     [
      "grass_block",
@@ -130,11 +130,11 @@
     ],
     [
      "dirt",
-     1087
+     1093
     ],
     [
      "sand",
-     898
+     913
     ]
    ],
    "crafted": 2206,
@@ -328,19 +328,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T15:01:07Z",
-   "playTicks": 367861,
+   "lastSeen": "2026-10-11T15:05:54Z",
+   "playTicks": 373607,
    "deaths": 0,
    "mobKills": 93,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 10046,
-   "damageTaken": 1687,
-   "distanceCm": 3450599,
-   "walkCm": 1465347,
-   "flyCm": 978456,
-   "jumps": 5340,
-   "mined": 6021,
+   "damageTaken": 1787,
+   "distanceCm": 3503851,
+   "walkCm": 1489576,
+   "flyCm": 1003833,
+   "jumps": 5487,
+   "mined": 6029,
    "topMined": [
     [
      "dark_oak_log",
@@ -352,7 +352,7 @@
     ],
     [
      "stone",
-     750
+     755
     ]
    ],
    "crafted": 10075,
@@ -770,31 +770,31 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-11T15:01:07Z",
-   "playTicks": 49300,
+   "lastSeen": "2026-10-11T15:05:54Z",
+   "playTicks": 55046,
    "deaths": 0,
    "mobKills": 3,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 76,
-   "damageTaken": 430,
-   "distanceCm": 414074,
-   "walkCm": 223420,
-   "flyCm": 30358,
-   "jumps": 402,
-   "mined": 227,
+   "damageTaken": 500,
+   "distanceCm": 442545,
+   "walkCm": 248311,
+   "flyCm": 32379,
+   "jumps": 448,
+   "mined": 312,
    "topMined": [
     [
      "stone",
-     72
+     103
+    ],
+    [
+     "coal_ore",
+     61
     ],
     [
      "dirt",
-     36
-    ],
-    [
-     "birch_log",
-     28
+     37
     ]
    ],
    "crafted": 174,
