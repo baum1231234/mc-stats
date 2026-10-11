@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-11T11:07:31Z",
+ "updated": "2026-10-11T11:11:10Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T11:05:54Z",
-   "playTicks": 686773,
+   "lastSeen": "2026-10-11T11:10:54Z",
+   "playTicks": 692773,
    "deaths": 0,
-   "mobKills": 546,
+   "mobKills": 556,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 76125,
-   "damageTaken": 6235,
-   "distanceCm": 6820286,
-   "walkCm": 2934129,
-   "flyCm": 1888170,
-   "jumps": 11754,
+   "damageDealt": 77246,
+   "damageTaken": 6508,
+   "distanceCm": 6903096,
+   "walkCm": 2954406,
+   "flyCm": 1920426,
+   "jumps": 11871,
    "mined": 3528,
    "topMined": [
     [
@@ -33,7 +33,7 @@
      295
     ]
    ],
-   "crafted": 4846,
+   "crafted": 4847,
    "topCrafted": [
     [
      "stick",
@@ -110,31 +110,31 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T11:05:54Z",
-   "playTicks": 528530,
+   "lastSeen": "2026-10-11T11:10:54Z",
+   "playTicks": 534530,
    "deaths": 2,
-   "mobKills": 205,
+   "mobKills": 216,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 40152,
-   "damageTaken": 4284,
-   "distanceCm": 5999133,
-   "walkCm": 2349526,
-   "flyCm": 1453083,
-   "jumps": 6829,
-   "mined": 3864,
+   "damageDealt": 42351,
+   "damageTaken": 4488,
+   "distanceCm": 6113770,
+   "walkCm": 2398954,
+   "flyCm": 1462484,
+   "jumps": 6883,
+   "mined": 4101,
    "topMined": [
     [
      "grass_block",
-     2024
+     2175
     ],
     [
      "dirt",
-     398
+     451
     ],
     [
      "sand",
-     226
+     257
     ]
    ],
    "crafted": 911,
@@ -155,11 +155,11 @@
    "topKilled": [
     [
      "zombie",
-     75
+     79
     ],
     [
      "skeleton",
-     44
+     48
     ],
     [
      "spider",
@@ -536,19 +536,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-11T11:05:54Z",
-   "playTicks": 33755,
+   "lastSeen": "2026-10-11T11:10:54Z",
+   "playTicks": 39755,
    "deaths": 0,
-   "mobKills": 5,
+   "mobKills": 6,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 1158,
-   "damageTaken": 282,
-   "distanceCm": 278473,
-   "walkCm": 126501,
-   "flyCm": 55960,
-   "jumps": 623,
-   "mined": 351,
+   "damageTaken": 312,
+   "distanceCm": 352533,
+   "walkCm": 168526,
+   "flyCm": 79673,
+   "jumps": 785,
+   "mined": 367,
    "topMined": [
     [
      "iron_ore",
@@ -563,7 +563,7 @@
      33
     ]
    ],
-   "crafted": 134,
+   "crafted": 135,
    "topCrafted": [
     [
      "iron_ingot",
@@ -594,13 +594,17 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 10,
+    "count": 11,
     "byTab": {
      "adventure": 2,
-     "husbandry": 1,
+     "husbandry": 2,
      "story": 7
     },
     "recent": [
+     [
+      "husbandry/tame_an_animal",
+      "2026-10-11T11:07:56Z"
+     ],
      [
       "adventure/kill_a_mob",
       "2026-10-11T10:52:40Z"
@@ -628,12 +632,41 @@
      [
       "story/smelt_iron",
       "2026-10-11T10:42:33Z"
-     ],
-     [
-      "story/upgrade_tools",
-      "2026-10-11T10:40:42Z"
      ]
     ]
+   }
+  },
+  {
+   "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
+   "name": "ZorroMC12",
+   "firstSeen": "2026-10-11T11:11:10Z",
+   "lastSeen": "2026-10-11T11:10:54Z",
+   "playTicks": 2557,
+   "deaths": 0,
+   "mobKills": 0,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 0,
+   "damageTaken": 45,
+   "distanceCm": 12406,
+   "walkCm": 5054,
+   "flyCm": 5124,
+   "jumps": 35,
+   "mined": 1,
+   "topMined": [
+    [
+     "oak_leaves",
+     1
+    ]
+   ],
+   "crafted": 0,
+   "topCrafted": [],
+   "topKilled": [],
+   "topKilledBy": [],
+   "adv": {
+    "count": 0,
+    "byTab": {},
+    "recent": []
    }
   }
  ],
@@ -745,20 +778,20 @@
     "rendered": "2026-10-11T00:22:16Z"
    },
    "-3.5": {
-    "mtime": "2026-10-10T23:11:02Z",
-    "rendered": "2026-10-10T23:10:48Z"
+    "mtime": "2026-10-11T11:05:55Z",
+    "rendered": "2026-10-11T11:11:10Z"
    },
    "-3.4": {
-    "mtime": "2026-10-10T23:11:02Z",
-    "rendered": "2026-10-10T23:10:48Z"
+    "mtime": "2026-10-11T11:06:29Z",
+    "rendered": "2026-10-11T11:11:10Z"
    },
    "-2.5": {
-    "mtime": "2026-10-10T23:11:07Z",
-    "rendered": "2026-10-10T23:10:48Z"
+    "mtime": "2026-10-11T11:11:29Z",
+    "rendered": "2026-10-11T11:11:10Z"
    },
    "-2.4": {
-    "mtime": "2026-10-10T23:11:08Z",
-    "rendered": "2026-10-10T23:10:48Z"
+    "mtime": "2026-10-11T11:11:36Z",
+    "rendered": "2026-10-11T11:11:10Z"
    },
    "2.-1": {
     "mtime": "2026-10-10T23:52:53Z",
