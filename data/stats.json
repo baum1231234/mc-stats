@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T20:09:14Z",
+ "updated": "2026-10-11T20:12:00Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 1406462,
  "players": [
@@ -8,17 +8,17 @@
    "name": "4rtjom",
    "firstSeen": null,
    "lastSeen": "2026-10-11T20:09:17Z",
-   "playTicks": 1246495,
+   "playTicks": 1252495,
    "deaths": 0,
    "mobKills": 830,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 123540,
    "damageTaken": 14792,
-   "distanceCm": 14653614,
-   "walkCm": 5018808,
-   "flyCm": 4934353,
-   "jumps": 24560,
+   "distanceCm": 14726176,
+   "walkCm": 5035084,
+   "flyCm": 4986652,
+   "jumps": 24704,
    "mined": 5175,
    "topMined": [
     [
@@ -111,18 +111,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T20:04:17Z",
-   "playTicks": 1147312,
+   "lastSeen": "2026-10-11T20:09:17Z",
+   "playTicks": 1153312,
    "deaths": 2,
-   "mobKills": 307,
+   "mobKills": 313,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 61103,
-   "damageTaken": 5912,
-   "distanceCm": 13649402,
-   "walkCm": 5739579,
-   "flyCm": 3051832,
-   "jumps": 13055,
+   "damageDealt": 63064,
+   "damageTaken": 6191,
+   "distanceCm": 13729504,
+   "walkCm": 5761155,
+   "flyCm": 3076591,
+   "jumps": 13125,
    "mined": 19105,
    "topMined": [
     [
@@ -178,14 +178,18 @@
     ]
    ],
    "adv": {
-    "count": 21,
+    "count": 22,
     "byTab": {
-     "adventure": 5,
+     "adventure": 6,
      "story": 12,
      "husbandry": 3,
      "nether": 1
     },
     "recent": [
+     [
+      "adventure/hero_of_the_village",
+      "2026-10-11T20:07:22Z"
+     ],
      [
       "story/enchant_item",
       "2026-10-11T19:54:48Z"
@@ -213,10 +217,6 @@
      [
       "husbandry/tame_an_animal",
       "2026-10-10T23:00:25Z"
-     ],
-     [
-      "nether/brew_potion",
-      "2026-10-10T21:43:47Z"
      ]
     ]
    }
@@ -225,19 +225,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T20:04:17Z",
-   "playTicks": 722754,
+   "lastSeen": "2026-10-11T20:09:17Z",
+   "playTicks": 728754,
    "deaths": 0,
-   "mobKills": 359,
+   "mobKills": 379,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 80954,
-   "damageTaken": 12407,
-   "distanceCm": 9447901,
-   "walkCm": 2352870,
-   "flyCm": 4334429,
-   "jumps": 16652,
-   "mined": 5633,
+   "damageDealt": 87269,
+   "damageTaken": 12698,
+   "distanceCm": 9546153,
+   "walkCm": 2371036,
+   "flyCm": 4369867,
+   "jumps": 16725,
+   "mined": 5685,
    "topMined": [
     [
      "spruce_log",
@@ -270,11 +270,11 @@
    "topKilled": [
     [
      "pillager",
-     158
+     163
     ],
     [
      "vindicator",
-     31
+     39
     ],
     [
      "sheep",
@@ -1430,8 +1430,8 @@
     "rendered": "2026-10-11T12:15:35Z"
    },
    "-4.2": {
-    "mtime": "2026-10-10T21:24:57Z",
-    "rendered": "2026-10-11T00:14:29Z"
+    "mtime": "2026-10-11T20:12:17Z",
+    "rendered": "2026-10-11T20:12:00Z"
    },
    "-5.3": {
     "mtime": "2026-10-11T13:23:38Z",
