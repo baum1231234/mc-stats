@@ -28,7 +28,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Stats alle 3 Minuten holen
+      - name: Stats jede Minute holen
         env:
           FTP_HOST: ${{ secrets.FTP_HOST }}
           FTP_USER: ${{ secrets.FTP_USER }}
@@ -36,7 +36,7 @@ jobs:
           FTP_PORT: ${{ secrets.FTP_PORT }}
           SERVER_DIR: ${{ secrets.SERVER_DIR }}
           GH_TOKEN: ${{ github.token }}
-          INTERVAL: 180
+          INTERVAL: 60
         run: |
           git config user.name "stats-bot"
           git config user.email "stats-bot@users.noreply.github.com"
