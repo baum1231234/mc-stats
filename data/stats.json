@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T16:53:52Z",
+ "updated": "2026-10-11T16:57:08Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
@@ -887,23 +887,23 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-11T16:51:51Z",
-   "playTicks": 69220,
+   "lastSeen": "2026-10-11T16:56:37Z",
+   "playTicks": 73459,
    "deaths": 1,
    "mobKills": 21,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 1760,
-   "damageTaken": 448,
-   "distanceCm": 1237764,
-   "walkCm": 348278,
-   "flyCm": 411982,
-   "jumps": 1888,
-   "mined": 167,
+   "damageTaken": 468,
+   "distanceCm": 1270321,
+   "walkCm": 361624,
+   "flyCm": 425265,
+   "jumps": 1957,
+   "mined": 193,
    "topMined": [
     [
      "stone",
-     44
+     52
     ],
     [
      "coal_ore",
@@ -914,7 +914,7 @@
      21
     ]
    ],
-   "crafted": 168,
+   "crafted": 189,
    "topCrafted": [
     [
      "spruce_planks",
@@ -950,13 +950,21 @@
     ]
    ],
    "adv": {
-    "count": 6,
+    "count": 8,
     "byTab": {
-     "story": 3,
+     "story": 5,
      "adventure": 2,
      "husbandry": 1
     },
     "recent": [
+     [
+      "story/iron_tools",
+      "2026-10-11T16:55:01Z"
+     ],
+     [
+      "story/smelt_iron",
+      "2026-10-11T16:53:44Z"
+     ],
      [
       "adventure/sleep_in_bed",
       "2026-10-11T16:39:21Z"
