@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T14:41:50Z",
+ "updated": "2026-10-11T14:45:01Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
@@ -110,18 +110,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T14:40:54Z",
-   "playTicks": 773746,
+   "lastSeen": "2026-10-11T14:44:07Z",
+   "playTicks": 777598,
    "deaths": 2,
-   "mobKills": 236,
+   "mobKills": 238,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 46883,
-   "damageTaken": 5395,
-   "distanceCm": 8955838,
-   "walkCm": 3298875,
-   "flyCm": 2087033,
-   "jumps": 9416,
+   "damageDealt": 47477,
+   "damageTaken": 5422,
+   "distanceCm": 8977338,
+   "walkCm": 3312382,
+   "flyCm": 2094576,
+   "jumps": 9443,
    "mined": 6493,
    "topMined": [
     [
@@ -536,23 +536,23 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-11T14:40:54Z",
-   "playTicks": 252753,
+   "lastSeen": "2026-10-11T14:44:13Z",
+   "playTicks": 256723,
    "deaths": 2,
    "mobKills": 67,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 10356,
-   "damageTaken": 2960,
-   "distanceCm": 2242677,
-   "walkCm": 1099014,
-   "flyCm": 637107,
-   "jumps": 4671,
-   "mined": 3823,
+   "damageTaken": 2970,
+   "distanceCm": 2269465,
+   "walkCm": 1117789,
+   "flyCm": 644470,
+   "jumps": 4699,
+   "mined": 3833,
    "topMined": [
     [
      "spruce_log",
-     1625
+     1626
     ],
     [
      "dirt",
@@ -563,11 +563,11 @@
      329
     ]
    ],
-   "crafted": 15943,
+   "crafted": 16122,
    "topCrafted": [
     [
      "stick",
-     9878
+     9894
     ],
     [
      "spruce_planks",
