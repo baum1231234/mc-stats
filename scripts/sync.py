@@ -8,6 +8,7 @@ Zugangsdaten kommen aus Umgebungsvariablen (GitHub Secrets), nie aus dem Code:
 Lokaler Test ohne FTP:  python scripts/sync.py --local <Serverordner>
 """
 import gzip
+import hashlib
 import io
 import json
 import os
@@ -249,6 +250,44 @@ def find_key(node, key):
     return None
 
 
+ICONS = OUT.parent / "icons"
+ICON_MAX = 1_000_000
+# Dateianfang → Endung; nur echte Rasterbilder (kein SVG, kein HTML)
+ICON_TYPES = {b"\x89PNG\r\n\x1a\n": "png", b"\xff\xd8\xff": "jpg", b"GIF8": "gif", b"RIFF": "webp"}
+
+
+def fetch_icon(url):
+    """Lädt das Bild hinter /base icon einmal herunter und gibt den Pfad der eigenen Kopie zurück.
+
+    Die Seite zeigt nie den fremden Link selbst: sonst könnte jeder Spieler Besucher der Seite
+    auf einen beliebigen Server schicken, und tote Links gäbe es auch.
+    """
+    if not url.startswith("https://"):
+        return None
+    stem = hashlib.sha1(url.encode()).hexdigest()[:16]
+    for ext in ICON_TYPES.values():
+        if (ICONS / f"{stem}.{ext}").exists():
+            return f"data/icons/{stem}.{ext}"
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (mc-stats)"})
+        with urllib.request.urlopen(req, timeout=10) as r:
+            if not r.url.startswith("https://"):
+                return None
+            data = r.read(ICON_MAX + 1)
+    except Exception as err:
+        print("Icon nicht ladbar:", err)
+        return None
+    ext = next((e for magic, e in ICON_TYPES.items() if data.startswith(magic)), None)
+    if ext == "webp" and data[8:12] != b"WEBP":
+        ext = None
+    if not ext or len(data) > ICON_MAX:
+        print("Icon abgelehnt (kein Bild oder größer als 1 MB)")
+        return None
+    ICONS.mkdir(parents=True, exist_ok=True)
+    (ICONS / f"{stem}.{ext}").write_bytes(data)
+    return f"data/icons/{stem}.{ext}"
+
+
 def read_bases(src, world, uuids, old, now):
     """Bases, die Spieler im Spiel mit /base markiert haben (bis zu drei pro Spieler)."""
     raw = None
@@ -283,7 +322,15 @@ def read_bases(src, world, uuids, old, now):
             known = old.get((player, base["name"]), {})
             same = all(known.get(k) == base[k] for k in ("x", "y", "z", "dim"))
             base["since"] = known.get("since", now) if same else now
+            icon = fetch_icon(str(entry.get("icon") or ""))
+            if icon:
+                base["icon"] = icon
             bases.append(base)
+    # Bilder, die keine Base mehr benutzt, wieder wegräumen
+    used = {b.get("icon") for b in bases}
+    for file in ICONS.glob("*") if ICONS.exists() else []:
+        if f"data/icons/{file.name}" not in used:
+            file.unlink()
     return sorted(bases, key=lambda b: (b["player"].lower(), b["name"].lower()))
 
 

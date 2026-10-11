@@ -105,7 +105,9 @@ function svg(tag, attrs = {}, ...children) {
   return node;
 }
 
-const head = (b, size) => `https://mc-heads.net/avatar/${encodeURIComponent(b.uuid || b.player)}/${size}`;
+// eigenes Bild aus /base icon (vom Sync nach data/icons kopiert), sonst der Kopf des Besitzers
+const head = (b, size) => b.icon || `https://mc-heads.net/avatar/${encodeURIComponent(b.uuid || b.player)}/${size}`;
+const iconClass = (b) => (b.icon ? "custom" : "");
 const baseKey = (b) => `${b.dim}/${b.player}/${b.name}`;
 
 // Karte: Norden oben, Osten rechts – wie eine Minecraft-Karte (X nach rechts, Z nach unten)
@@ -147,7 +149,7 @@ function baseMap(bases, selected) {
     const g = svg("g", { class: "map-base" + (b === selected ? " sel" : ""), tabindex: 0, role: "button", "aria-label": `${b.name} von ${b.player}` });
     g.append(
       svg("rect", { x: px(b.x) - 15, y: pz(b.z) - 15, width: 30, height: 30 }),
-      svg("image", { href: head(b, 48), x: px(b.x) - 12, y: pz(b.z) - 12, width: 24, height: 24 }),
+      svg("image", { href: head(b, 48), x: px(b.x) - 12, y: pz(b.z) - 12, width: 24, height: 24, class: iconClass(b), preserveAspectRatio: "xMidYMid slice" }),
       svg("text", { x: px(b.x), y: pz(b.z) + 32, "text-anchor": "middle" }, b.name),
     );
     // zweiter Klick auf die gewählte Base öffnet die Nahansicht
@@ -208,7 +210,7 @@ function renderBases() {
   $("base-time").hidden = !detail;
   $("base-map").replaceChildren(detail ? baseDetail(selected) : baseMap(bases, selected));
   $("base-info").replaceChildren(
-    el("img", { alt: "", src: head(selected, 96) }),
+    el("img", { alt: "", src: head(selected, 96), className: iconClass(selected) }),
     el("div", { className: "base-name" }, selected.name),
     el("div", {}, `von ${selected.player}`),
     el("div", { className: "base-coords" }, `X ${num(selected.x)} · Y ${num(selected.y)} · Z ${num(selected.z)}`),
@@ -222,7 +224,7 @@ function renderBases() {
   }
   $("base-list").replaceChildren(...bases.map((b) => el("button", {
     type: "button", ariaPressed: String(b === selected), onclick: () => { state.base = baseKey(b); state.date = null; render(); },
-  }, el("img", { alt: "", loading: "lazy", src: head(b, 32) }), el("span", {}, b.name), el("small", {}, b.player))));
+  }, el("img", { alt: "", loading: "lazy", src: head(b, 32), className: iconClass(b) }), el("span", {}, b.name), el("small", {}, b.player))));
 }
 
 function render() {
