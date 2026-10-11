@@ -106,6 +106,9 @@ class LocalSource:
         ts = (self.root / path).stat().st_mtime
         return datetime.fromtimestamp(ts, timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
+    def mtimes(self, path):
+        return {name: self.mtime(f"{path}/{name}") for name in self.list(path)}
+
 
 class FtpSource:
     def __init__(self):
@@ -181,6 +184,18 @@ class FtpSource:
             return datetime.strptime(t, "%Y%m%d%H%M%S").strftime("%Y-%m-%dT%H:%M:%SZ")
         except (all_errors, ValueError):
             return None
+
+    def mtimes(self, path):
+        """Änderungszeiten aller Dateien eines Ordners in einem Rutsch (statt einer Anfrage pro Datei)."""
+        out = {}
+        try:
+            for name, facts in self.ftp.mlsd(self._p(path), facts=["type", "modify"]):
+                if facts.get("type") == "file" and facts.get("modify"):
+                    out[name] = datetime.strptime(facts["modify"][:14], "%Y%m%d%H%M%S").strftime("%Y-%m-%dT%H:%M:%SZ")
+        except (all_errors, ValueError):
+            out = {}
+        # Server ohne MLSD: einzeln fragen
+        return out or {name: self.mtime(f"{path}/{name}") for name in self.list(path)}
 
 
 def mojang_name(uuid):

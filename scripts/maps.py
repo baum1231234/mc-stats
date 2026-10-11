@@ -15,8 +15,8 @@ SIZE = 256  # Kantenlänge der Base-Bilder in Blöcken (Vielfaches von 16)
 RENDER_HOURS = 3
 TILE_STEP = 2  # Übersichtskacheln: Blöcke pro Pixel
 TILE_HOURS = 12  # eine Kachel höchstens so oft neu zeichnen
-TILES_PER_RUN = 8  # Rest folgt im nächsten Lauf, damit kein Sync minutenlang hängt
-MAX_TILES = 120  # unveränderte Regionen werden nie neu geladen, teuer ist nur der erste Durchgang
+TILES_PER_RUN = 4  # Rest folgt im nächsten Lauf (jede Minute), damit kein Sync minutenlang hängt
+MAX_TILES = 400  # unveränderte Regionen werden nie neu geladen, teuer ist nur der erste Durchgang
 VIEW_MIN, VIEW_PAD = 512, 1.3  # Ausschnitt der Übersicht – muss zu baseMap() in app.js passen
 ROOT = Path(__file__).resolve().parent.parent
 PAPER = (217, 197, 147)  # ungeladene Chunks: Farbe des Kartenpapiers
@@ -241,6 +241,27 @@ def view_regions(bases):
     return sorted(regions, key=distance)[:MAX_TILES]
 
 
+def explored_regions(src, folder, bases):
+    """Alle Regionen, die es auf dem Server gibt – also alles, was schon jemand erkundet hat.
+
+    Gibt {(rx, rz): Änderungszeit} zurück, die nächsten an den Bases zuerst, höchstens MAX_TILES.
+    """
+    found = {}
+    for name, mtime in src.mtimes(folder).items():
+        parts = name.split(".")
+        if len(parts) == 4 and parts[0] == "r" and parts[3] == "mca":
+            try:
+                found[(int(parts[1]), int(parts[2]))] = mtime
+            except ValueError:
+                continue
+
+    def distance(region):
+        mx, mz = region[0] * 512 + 256, region[1] * 512 + 256
+        return min(abs(b["x"] - mx) + abs(b["z"] - mz) for b in bases)
+
+    return {region: found[region] for region in sorted(found, key=distance)[:MAX_TILES]}
+
+
 def update_tiles(src, world, bases, old, now, read_nbt, cache):
     """Kacheln der Übersichtskarte: ein Bild pro Region (512 × 512 Blöcke, 2 Blöcke pro Pixel).
 
@@ -253,15 +274,22 @@ def update_tiles(src, world, bases, old, now, read_nbt, cache):
     stamp, out = parse(now), "data/tiles/overworld"
     known = (old or {}).get("regions", {})
     regions, drawn = {}, 0
-    for rx, rz in view_regions(bases):
+    try:
+        candidates = explored_regions(src, folder, bases)
+    except Exception as err:
+        print("Regionen nicht auflistbar, zeichne nur rund um die Bases:", err)
+        candidates = {}
+    if not candidates:
+        for region in view_regions(bases):
+            try:
+                candidates[region] = src.mtime(f"{folder}/r.{region[0]}.{region[1]}.mca")
+            except Exception:
+                candidates[region] = None
+    for (rx, rz), mtime in candidates.items():
         key, name = f"{rx}.{rz}", f"r.{rx}.{rz}.mca"
         info = known.get(key)
         if info:
             regions[key] = info
-        try:
-            mtime = src.mtime(f"{folder}/{name}")
-        except Exception:
-            mtime = None
         if not mtime or drawn >= TILES_PER_RUN:
             continue  # Region gibt es (noch) nicht, oder der Rest folgt im nächsten Lauf
         if info and (info["mtime"] == mtime or stamp - parse(info["rendered"]) < timedelta(hours=TILE_HOURS)):
@@ -270,15 +298,23 @@ def update_tiles(src, world, bases, old, now, read_nbt, cache):
             image = draw(src, folder, rx * 32, rz * 32, 32, TILE_STEP, cache, read_nbt)
         except Exception as err:
             print(f"Kachel {key} fehlgeschlagen: {err}")
-            image = None
+            image = False
+        if image is None and not cache.get(name):
+            image = False  # Datei kam nicht an (draw() schluckt Lesefehler) – nicht als leer abstempeln
         cache.pop(name, None)  # jede Region ist rund 10 MB groß – nicht alle im Speicher halten
+        drawn += 1
+        if image is False:
+            # erst nach TILE_HOURS wieder versuchen – sonst hängt jeder Lauf an denselben kaputten Regionen
+            regions[key] = {**info, "rendered": now} if info else {"mtime": "", "rendered": now, "empty": True}
+            continue
         if image is None:
+            # leere Region merken, sonst lädt jeder Lauf sie erneut herunter; die Seite überspringt sie
+            regions[key] = {"mtime": mtime, "rendered": now, "empty": True}
             continue
         path = ROOT / out / f"r.{key}.png"
         path.parent.mkdir(parents=True, exist_ok=True)
         if not path.exists() or path.read_bytes() != image:
             path.write_bytes(image)
-        drawn += 1
         regions[key] = {"mtime": mtime, "rendered": now}
     return {"dir": out, "regions": regions}, drawn
 

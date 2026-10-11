@@ -143,7 +143,8 @@ let overviewBases = null; // Bases der gerade gezeigten Übersicht; null, solang
 function zoomMap(factor, fx = 0.5, fy = 0.5) {
   if (!overviewBases) return;
   const { span, cx, cz, fit } = mapView(overviewBases);
-  const zoom = Math.min(fit.span / MIN_SPAN, Math.max(0.5, (fit.span / span) * factor));
+  // weit genug herauszoomen können, um auch das erkundete Gelände abseits der Bases zu sehen
+  const zoom = Math.min(fit.span / MIN_SPAN, Math.max(0.2, (fit.span / span) * factor));
   const next = fit.span / zoom;
   // der Punkt unter dem Zeiger bleibt stehen
   state.view = { zoom, cx: cx + (fx - 0.5) * (span - next), cz: cz + (fy - 0.5) * (span - next) };
@@ -203,6 +204,7 @@ function baseMap(bases, selected) {
   // echtes Gelände: eine Kachel pro Region (512 × 512 Blöcke); wo noch keine da ist, bleibt Papier
   const tiles = bases[0].dim === "overworld" ? state.tiles : null;
   for (const [key, info] of Object.entries(tiles?.regions || {})) {
+    if (info.empty) continue; // Region ohne geladene Chunks – dafür gibt es kein Bild
     const [rx, rz] = key.split(".").map(Number);
     if (px(rx * 512 + 512) < 0 || px(rx * 512) > SIZE || pz(rz * 512 + 512) < 0 || pz(rz * 512) > SIZE) continue;
     // einen Hauch größer zeichnen, damit zwischen den Kacheln keine Haarlinien bleiben
