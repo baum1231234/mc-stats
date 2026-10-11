@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-11T14:00:22Z",
+ "updated": "2026-10-11T14:01:55Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T13:55:54Z",
-   "playTicks": 866419,
+   "lastSeen": "2026-10-11T14:00:58Z",
+   "playTicks": 872497,
    "deaths": 0,
    "mobKills": 566,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 79972,
-   "damageTaken": 7519,
-   "distanceCm": 8578175,
-   "walkCm": 3657401,
-   "flyCm": 2571067,
-   "jumps": 14957,
-   "mined": 4025,
+   "damageDealt": 80006,
+   "damageTaken": 7524,
+   "distanceCm": 8663857,
+   "walkCm": 3676832,
+   "flyCm": 2601880,
+   "jumps": 15062,
+   "mined": 4045,
    "topMined": [
     [
      "packed_ice",
@@ -110,31 +110,31 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T13:55:54Z",
-   "playTicks": 726944,
+   "lastSeen": "2026-10-11T14:00:58Z",
+   "playTicks": 733022,
    "deaths": 2,
    "mobKills": 234,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 46483,
    "damageTaken": 5359,
-   "distanceCm": 8494419,
-   "walkCm": 3042815,
-   "flyCm": 2038155,
-   "jumps": 9160,
-   "mined": 4884,
+   "distanceCm": 8568917,
+   "walkCm": 3077277,
+   "flyCm": 2041466,
+   "jumps": 9176,
+   "mined": 5278,
    "topMined": [
     [
      "grass_block",
-     2516
+     2669
     ],
     [
      "dirt",
-     686
+     863
     ],
     [
      "sand",
-     287
+     290
     ]
    ],
    "crafted": 2190,
@@ -432,19 +432,19 @@
    "uuid": "e0716f67-b0d0-4d15-b374-ed3a090ab96a",
    "name": "Bensen1405",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T13:55:54Z",
-   "playTicks": 253927,
+   "lastSeen": "2026-10-11T14:00:58Z",
+   "playTicks": 260005,
    "deaths": 0,
    "mobKills": 45,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 6182,
    "damageTaken": 1769,
-   "distanceCm": 2954429,
-   "walkCm": 1431999,
-   "flyCm": 1176311,
-   "jumps": 5176,
-   "mined": 1396,
+   "distanceCm": 2998986,
+   "walkCm": 1460781,
+   "flyCm": 1190286,
+   "jumps": 5225,
+   "mined": 1423,
    "topMined": [
     [
      "stone",
@@ -459,7 +459,7 @@
      136
     ]
    ],
-   "crafted": 713,
+   "crafted": 714,
    "topCrafted": [
     [
      "torch",
@@ -490,13 +490,17 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 13,
+    "count": 14,
     "byTab": {
      "story": 7,
      "adventure": 4,
-     "husbandry": 2
+     "husbandry": 3
     },
     "recent": [
+     [
+      "husbandry/plant_seed",
+      "2026-10-11T14:00:00Z"
+     ],
      [
       "husbandry/tame_an_animal",
       "2026-10-10T19:44:42Z"
@@ -524,10 +528,6 @@
      [
       "story/smelt_iron",
       "2026-10-10T17:53:10Z"
-     ],
-     [
-      "husbandry/root",
-      "2026-10-10T17:38:58Z"
      ]
     ]
    }
