@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-11T14:45:01Z",
+ "updated": "2026-10-11T14:46:36Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T14:40:54Z",
-   "playTicks": 920419,
+   "lastSeen": "2026-10-11T14:46:05Z",
+   "playTicks": 926625,
    "deaths": 0,
-   "mobKills": 628,
+   "mobKills": 660,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 91141,
-   "damageTaken": 8499,
-   "distanceCm": 9029357,
-   "walkCm": 3865726,
-   "flyCm": 2723914,
-   "jumps": 15917,
+   "damageDealt": 97118,
+   "damageTaken": 8840,
+   "distanceCm": 9095982,
+   "walkCm": 3901369,
+   "flyCm": 2747367,
+   "jumps": 16141,
    "mined": 4573,
    "topMined": [
     [
@@ -55,22 +55,26 @@
     ],
     [
      "zombie",
-     160
+     166
     ],
     [
      "skeleton",
-     137
+     161
     ]
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 28,
+    "count": 29,
     "byTab": {
      "story": 11,
-     "adventure": 12,
+     "adventure": 13,
      "husbandry": 5
     },
     "recent": [
+     [
+      "adventure/throw_trident",
+      "2026-10-11T14:45:31Z"
+     ],
      [
       "story/upgrade_tools",
       "2026-10-11T12:02:25Z"
@@ -98,10 +102,6 @@
      [
       "adventure/who_needs_rockets",
       "2026-10-10T21:51:33Z"
-     ],
-     [
-      "adventure/trim_with_any_armor_pattern",
-      "2026-10-10T20:57:53Z"
      ]
     ]
    }
@@ -110,18 +110,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T14:44:07Z",
-   "playTicks": 777598,
+   "lastSeen": "2026-10-11T14:46:05Z",
+   "playTicks": 779687,
    "deaths": 2,
    "mobKills": 238,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 47477,
    "damageTaken": 5422,
-   "distanceCm": 8977338,
-   "walkCm": 3312382,
-   "flyCm": 2094576,
-   "jumps": 9443,
+   "distanceCm": 8981608,
+   "walkCm": 3315343,
+   "flyCm": 2095885,
+   "jumps": 9449,
    "mined": 6493,
    "topMined": [
     [
@@ -328,34 +328,34 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T14:40:54Z",
-   "playTicks": 343607,
+   "lastSeen": "2026-10-11T14:46:05Z",
+   "playTicks": 349813,
    "deaths": 0,
-   "mobKills": 86,
+   "mobKills": 91,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 8541,
-   "damageTaken": 1475,
-   "distanceCm": 3180126,
-   "walkCm": 1306572,
-   "flyCm": 877620,
-   "jumps": 4864,
-   "mined": 5316,
+   "damageDealt": 9796,
+   "damageTaken": 1667,
+   "distanceCm": 3273273,
+   "walkCm": 1360689,
+   "flyCm": 914353,
+   "jumps": 5021,
+   "mined": 5471,
    "topMined": [
     [
      "dark_oak_log",
-     1103
+     1237
     ],
     [
      "grass_block",
-     1016
+     1022
     ],
     [
      "stone",
      715
     ]
    ],
-   "crafted": 9910,
+   "crafted": 9950,
    "topCrafted": [
     [
      "stick",
@@ -380,8 +380,8 @@
      20
     ],
     [
-     "pig",
-     7
+     "zombie",
+     8
     ]
    ],
    "topKilledBy": [],
@@ -432,18 +432,18 @@
    "uuid": "e0716f67-b0d0-4d15-b374-ed3a090ab96a",
    "name": "Bensen1405",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T14:40:54Z",
-   "playTicks": 307293,
+   "lastSeen": "2026-10-11T14:46:05Z",
+   "playTicks": 313499,
    "deaths": 1,
-   "mobKills": 46,
+   "mobKills": 47,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 6282,
-   "damageTaken": 2229,
-   "distanceCm": 3511809,
-   "walkCm": 1734824,
-   "flyCm": 1357929,
-   "jumps": 6140,
+   "damageDealt": 6342,
+   "damageTaken": 2237,
+   "distanceCm": 3540596,
+   "walkCm": 1752601,
+   "flyCm": 1368264,
+   "jumps": 6175,
    "mined": 1773,
    "topMined": [
     [
@@ -459,25 +459,25 @@
      143
     ]
    ],
-   "crafted": 717,
+   "crafted": 846,
    "topCrafted": [
     [
      "torch",
      288
     ],
     [
-     "iron_ingot",
-     113
+     "glass",
+     129
     ],
     [
-     "stick",
-     104
+     "iron_ingot",
+     113
     ]
    ],
    "topKilled": [
     [
      "zombie",
-     12
+     13
     ],
     [
      "cow",
@@ -536,19 +536,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-11T14:44:13Z",
-   "playTicks": 256723,
+   "lastSeen": "2026-10-11T14:46:05Z",
+   "playTicks": 258782,
    "deaths": 2,
-   "mobKills": 67,
+   "mobKills": 68,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 10356,
-   "damageTaken": 2970,
-   "distanceCm": 2269465,
-   "walkCm": 1117789,
-   "flyCm": 644470,
-   "jumps": 4699,
-   "mined": 3833,
+   "damageDealt": 10456,
+   "damageTaken": 2988,
+   "distanceCm": 2281490,
+   "walkCm": 1125402,
+   "flyCm": 648032,
+   "jumps": 4719,
+   "mined": 3848,
    "topMined": [
     [
      "spruce_log",
@@ -560,7 +560,7 @@
     ],
     [
      "grass_block",
-     329
+     343
     ]
    ],
    "crafted": 16122,
@@ -581,7 +581,7 @@
    "topKilled": [
     [
      "zombie",
-     31
+     32
     ],
     [
      "skeleton",
@@ -770,38 +770,42 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-11T14:40:54Z",
-   "playTicks": 25046,
+   "lastSeen": "2026-10-11T14:46:05Z",
+   "playTicks": 31252,
    "deaths": 0,
    "mobKills": 2,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 46,
    "damageTaken": 130,
-   "distanceCm": 297418,
-   "walkCm": 114991,
-   "flyCm": 23912,
-   "jumps": 218,
-   "mined": 32,
+   "distanceCm": 321078,
+   "walkCm": 136407,
+   "flyCm": 25706,
+   "jumps": 231,
+   "mined": 82,
    "topMined": [
     [
-     "leaf_litter",
-     10
-    ],
-    [
      "birch_log",
-     6
+     28
     ],
     [
-     "short_grass",
-     4
+     "leaf_litter",
+     12
+    ],
+    [
+     "oak_log",
+     11
     ]
    ],
-   "crafted": 4,
+   "crafted": 113,
    "topCrafted": [
     [
      "birch_planks",
-     4
+     112
+    ],
+    [
+     "wooden_axe",
+     1
     ]
    ],
    "topKilled": [
