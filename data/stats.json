@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-11T22:46:59Z",
+ "updated": "2026-10-11T22:49:54Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1595266,
+ "serverTicks": 1598462,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T22:46:38Z",
-   "playTicks": 1440839,
+   "lastSeen": "2026-10-11T22:49:17Z",
+   "playTicks": 1444035,
    "deaths": 0,
    "mobKills": 858,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 126415,
-   "damageTaken": 15257,
-   "distanceCm": 17319848,
-   "walkCm": 5564635,
-   "flyCm": 5835707,
-   "jumps": 28518,
+   "damageTaken": 15297,
+   "distanceCm": 17526911,
+   "walkCm": 5568468,
+   "flyCm": 5869229,
+   "jumps": 28568,
    "mined": 5712,
    "topMined": [
     [
@@ -34,7 +34,7 @@
      494
     ]
    ],
-   "crafted": 17341,
+   "crafted": 17356,
    "topCrafted": [
     [
      "stick",
@@ -225,19 +225,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T22:46:38Z",
-   "playTicks": 905385,
+   "lastSeen": "2026-10-11T22:49:17Z",
+   "playTicks": 908581,
    "deaths": 0,
    "mobKills": 415,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 94768,
    "damageTaken": 15602,
-   "distanceCm": 14024186,
-   "walkCm": 2935021,
-   "flyCm": 6037024,
-   "jumps": 20799,
-   "mined": 7635,
+   "distanceCm": 14064546,
+   "walkCm": 2963521,
+   "flyCm": 6048209,
+   "jumps": 20855,
+   "mined": 7725,
    "topMined": [
     [
      "spruce_log",
@@ -248,11 +248,11 @@
      2089
     ],
     [
-     "oak_leaves",
-     277
+     "bamboo",
+     309
     ]
    ],
-   "crafted": 29299,
+   "crafted": 29301,
    "topCrafted": [
     [
      "stick",
