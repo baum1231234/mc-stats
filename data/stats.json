@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T01:18:53Z",
+ "updated": "2026-10-11T01:25:53Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
@@ -165,19 +165,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T01:17:31Z",
-   "playTicks": 201576,
+   "lastSeen": "2026-10-11T01:22:31Z",
+   "playTicks": 207576,
    "deaths": 0,
    "mobKills": 31,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 3853,
-   "damageTaken": 380,
-   "distanceCm": 1484382,
-   "walkCm": 759771,
-   "flyCm": 361830,
-   "jumps": 2452,
-   "mined": 4450,
+   "damageTaken": 400,
+   "distanceCm": 1523816,
+   "walkCm": 787497,
+   "flyCm": 371268,
+   "jumps": 2500,
+   "mined": 4465,
    "topMined": [
     [
      "dark_oak_log",
@@ -189,14 +189,14 @@
     ],
     [
      "stone",
-     594
+     595
     ]
    ],
-   "crafted": 1116,
+   "crafted": 1308,
    "topCrafted": [
     [
      "dark_oak_planks",
-     400
+     592
     ],
     [
      "stone",
