@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-11T19:42:58Z",
+ "updated": "2026-10-11T19:44:31Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1370462,
+ "serverTicks": 1376462,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T19:39:17Z",
-   "playTicks": 1216495,
+   "lastSeen": "2026-10-11T19:44:17Z",
+   "playTicks": 1222495,
    "deaths": 0,
    "mobKills": 830,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 123540,
-   "damageTaken": 14726,
-   "distanceCm": 14268995,
-   "walkCm": 4875606,
-   "flyCm": 4729861,
-   "jumps": 23587,
-   "mined": 5015,
+   "damageTaken": 14728,
+   "distanceCm": 14370426,
+   "walkCm": 4905335,
+   "flyCm": 4792953,
+   "jumps": 23881,
+   "mined": 5028,
    "topMined": [
     [
      "packed_ice",
@@ -111,31 +111,31 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T19:39:17Z",
-   "playTicks": 1117312,
+   "lastSeen": "2026-10-11T19:44:17Z",
+   "playTicks": 1123312,
    "deaths": 2,
    "mobKills": 275,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 54158,
    "damageTaken": 5815,
-   "distanceCm": 13245034,
-   "walkCm": 5617312,
-   "flyCm": 2947145,
-   "jumps": 12628,
-   "mined": 18862,
+   "distanceCm": 13374476,
+   "walkCm": 5634509,
+   "flyCm": 2971644,
+   "jumps": 12697,
+   "mined": 19083,
    "topMined": [
     [
      "grass_block",
-     8661
+     8861
     ],
     [
      "dirt",
-     4088
+     4090
     ],
     [
      "sand",
-     3069
+     3080
     ]
    ],
    "crafted": 3096,
@@ -225,19 +225,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T19:39:17Z",
-   "playTicks": 692754,
+   "lastSeen": "2026-10-11T19:44:17Z",
+   "playTicks": 698754,
    "deaths": 0,
-   "mobKills": 282,
+   "mobKills": 292,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 58564,
-   "damageTaken": 11679,
-   "distanceCm": 8704399,
-   "walkCm": 2247584,
-   "flyCm": 4022233,
-   "jumps": 15717,
-   "mined": 5631,
+   "damageDealt": 60864,
+   "damageTaken": 11736,
+   "distanceCm": 8878682,
+   "walkCm": 2263003,
+   "flyCm": 4064737,
+   "jumps": 15841,
+   "mined": 5632,
    "topMined": [
     [
      "spruce_log",
@@ -270,7 +270,7 @@
    "topKilled": [
     [
      "pillager",
-     100
+     110
     ],
     [
      "sheep",
@@ -546,18 +546,18 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-11T19:39:17Z",
-   "playTicks": 338677,
+   "lastSeen": "2026-10-11T19:44:21Z",
+   "playTicks": 344749,
    "deaths": 12,
    "mobKills": 35,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 4335,
-   "damageTaken": 5381,
-   "distanceCm": 3509796,
-   "walkCm": 1672013,
-   "flyCm": 759949,
-   "jumps": 5202,
+   "damageTaken": 5529,
+   "distanceCm": 3554086,
+   "walkCm": 1699285,
+   "flyCm": 776742,
+   "jumps": 5271,
    "mined": 2877,
    "topMined": [
     [
@@ -573,15 +573,15 @@
      383
     ]
    ],
-   "crafted": 1659,
+   "crafted": 2319,
    "topCrafted": [
+    [
+     "stick",
+     1116
+    ],
     [
      "spruce_planks",
      716
-    ],
-    [
-     "stick",
-     476
     ],
     [
      "oak_planks",
@@ -1769,6 +1769,26 @@
    "-7.10": {
     "mtime": "2026-10-11T17:12:07Z",
     "rendered": "2026-10-11T19:42:58Z",
+    "empty": true
+   },
+   "8.10": {
+    "mtime": "2026-10-11T13:10:57Z",
+    "rendered": "2026-10-11T19:44:31Z",
+    "empty": true
+   },
+   "-4.-15": {
+    "mtime": "2026-10-10T19:48:47Z",
+    "rendered": "2026-10-11T19:44:31Z",
+    "empty": true
+   },
+   "12.10": {
+    "mtime": "2026-10-10T19:48:47Z",
+    "rendered": "2026-10-11T19:44:31Z",
+    "empty": true
+   },
+   "-9.24": {
+    "mtime": "2026-10-10T19:56:10Z",
+    "rendered": "2026-10-11T19:44:31Z",
     "empty": true
    }
   }
