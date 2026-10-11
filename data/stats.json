@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-11T15:21:04Z",
+ "updated": "2026-10-11T15:27:19Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T15:20:54Z",
-   "playTicks": 968187,
+   "lastSeen": "2026-10-11T15:25:54Z",
+   "playTicks": 974187,
    "deaths": 0,
    "mobKills": 761,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 109574,
-   "damageTaken": 10715,
-   "distanceCm": 9438184,
-   "walkCm": 4043488,
-   "flyCm": 2805143,
-   "jumps": 16765,
-   "mined": 4706,
+   "damageTaken": 10749,
+   "distanceCm": 9519088,
+   "walkCm": 4078432,
+   "flyCm": 2839060,
+   "jumps": 16872,
+   "mined": 4710,
    "topMined": [
     [
      "packed_ice",
@@ -33,7 +33,7 @@
      432
     ]
    ],
-   "crafted": 14618,
+   "crafted": 14680,
    "topCrafted": [
     [
      "stick",
@@ -110,34 +110,34 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T15:20:54Z",
-   "playTicks": 821007,
+   "lastSeen": "2026-10-11T15:25:54Z",
+   "playTicks": 827007,
    "deaths": 2,
    "mobKills": 254,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 50146,
    "damageTaken": 5487,
-   "distanceCm": 9381643,
-   "walkCm": 3583171,
-   "flyCm": 2221718,
-   "jumps": 9896,
-   "mined": 8626,
+   "distanceCm": 9419122,
+   "walkCm": 3604668,
+   "flyCm": 2236799,
+   "jumps": 9957,
+   "mined": 8666,
    "topMined": [
     [
      "grass_block",
-     3543
+     3552
     ],
     [
      "sand",
-     2011
+     2039
     ],
     [
      "dirt",
-     1094
+     1095
     ]
    ],
-   "crafted": 2326,
+   "crafted": 2406,
    "topCrafted": [
     [
      "emerald",
@@ -177,14 +177,18 @@
     ]
    ],
    "adv": {
-    "count": 18,
+    "count": 19,
     "byTab": {
      "adventure": 4,
-     "story": 10,
+     "story": 11,
      "husbandry": 3,
      "nether": 1
     },
     "recent": [
+     [
+      "story/lava_bucket",
+      "2026-10-11T15:21:54Z"
+     ],
      [
       "adventure/trade",
       "2026-10-11T12:44:50Z"
@@ -212,10 +216,6 @@
      [
       "story/obtain_armor",
       "2026-10-10T19:41:48Z"
-     ],
-     [
-      "story/iron_tools",
-      "2026-10-10T18:29:22Z"
      ]
     ]
    }
@@ -328,19 +328,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T15:20:54Z",
-   "playTicks": 390289,
+   "lastSeen": "2026-10-11T15:25:54Z",
+   "playTicks": 396289,
    "deaths": 0,
    "mobKills": 96,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 10346,
    "damageTaken": 1944,
-   "distanceCm": 3596189,
-   "walkCm": 1538008,
-   "flyCm": 1041978,
-   "jumps": 5710,
-   "mined": 6190,
+   "distanceCm": 3636685,
+   "walkCm": 1560627,
+   "flyCm": 1059551,
+   "jumps": 5852,
+   "mined": 6246,
    "topMined": [
     [
      "dark_oak_log",
@@ -352,7 +352,7 @@
     ],
     [
      "stone",
-     755
+     802
     ]
    ],
    "crafted": 10075,
@@ -770,31 +770,31 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-11T15:20:54Z",
-   "playTicks": 68183,
-   "deaths": 0,
+   "lastSeen": "2026-10-11T15:25:54Z",
+   "playTicks": 74183,
+   "deaths": 1,
    "mobKills": 3,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 76,
-   "damageTaken": 500,
-   "distanceCm": 453789,
-   "walkCm": 259555,
-   "flyCm": 32379,
-   "jumps": 511,
-   "mined": 522,
+   "damageDealt": 219,
+   "damageTaken": 725,
+   "distanceCm": 494767,
+   "walkCm": 297434,
+   "flyCm": 34647,
+   "jumps": 565,
+   "mined": 622,
    "topMined": [
     [
      "stone",
-     225
+     279
     ],
     [
      "coal_ore",
-     97
+     106
     ],
     [
      "dirt",
-     44
+     46
     ]
    ],
    "crafted": 188,
@@ -818,7 +818,12 @@
      2
     ]
    ],
-   "topKilledBy": [],
+   "topKilledBy": [
+    [
+     "zombie",
+     1
+    ]
+   ],
    "adv": {
     "count": 6,
     "byTab": {
