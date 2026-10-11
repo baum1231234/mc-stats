@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-11T23:19:42Z",
+ "updated": "2026-10-11T23:24:15Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1634462,
+ "serverTicks": 1640462,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T23:19:17Z",
-   "playTicks": 1480035,
+   "lastSeen": "2026-10-11T23:24:17Z",
+   "playTicks": 1486035,
    "deaths": 0,
    "mobKills": 861,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 126575,
-   "damageTaken": 15327,
-   "distanceCm": 18146777,
-   "walkCm": 5711697,
-   "flyCm": 6103872,
-   "jumps": 29471,
-   "mined": 5902,
+   "damageTaken": 15337,
+   "distanceCm": 18217870,
+   "walkCm": 5733000,
+   "flyCm": 6145868,
+   "jumps": 29665,
+   "mined": 5907,
    "topMined": [
     [
      "packed_ice",
@@ -34,11 +34,11 @@
      494
     ]
    ],
-   "crafted": 17380,
+   "crafted": 17387,
    "topCrafted": [
     [
      "stick",
-     9759
+     9763
     ],
     [
      "spruce_planks",
@@ -225,19 +225,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T23:19:17Z",
-   "playTicks": 944581,
+   "lastSeen": "2026-10-11T23:24:17Z",
+   "playTicks": 950581,
    "deaths": 0,
    "mobKills": 417,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 95109,
-   "damageTaken": 15671,
-   "distanceCm": 14312285,
-   "walkCm": 3136811,
-   "flyCm": 6114707,
-   "jumps": 21186,
-   "mined": 8057,
+   "damageTaken": 15678,
+   "distanceCm": 14367013,
+   "walkCm": 3156106,
+   "flyCm": 6146165,
+   "jumps": 21307,
+   "mined": 8072,
    "topMined": [
     [
      "spruce_log",
@@ -252,11 +252,11 @@
      639
     ]
    ],
-   "crafted": 29387,
+   "crafted": 29403,
    "topCrafted": [
     [
      "stick",
-     17968
+     17972
     ],
     [
      "spruce_planks",
@@ -1712,9 +1712,8 @@
     "rendered": "2026-10-11T23:17:57Z"
    },
    "0.8": {
-    "mtime": "2026-10-11T20:23:23Z",
-    "rendered": "2026-10-11T20:23:46Z",
-    "empty": true
+    "mtime": "2026-10-11T21:00:55Z",
+    "rendered": "2026-10-11T23:24:15Z"
    },
    "-1.9": {
     "mtime": "2026-10-11T20:34:10Z",
@@ -1792,9 +1791,8 @@
     "rendered": "2026-10-11T23:19:42Z"
    },
    "1.8": {
-    "mtime": "2026-10-11T20:23:23Z",
-    "rendered": "2026-10-11T20:23:46Z",
-    "empty": true
+    "mtime": "2026-10-11T21:06:28Z",
+    "rendered": "2026-10-11T23:24:15Z"
    },
    "0.9": {
     "mtime": "2026-10-11T20:34:33Z",
@@ -1855,9 +1853,8 @@
     "empty": true
    },
    "2.8": {
-    "mtime": "2026-10-11T20:23:23Z",
-    "rendered": "2026-10-11T20:23:46Z",
-    "empty": true
+    "mtime": "2026-10-11T21:09:34Z",
+    "rendered": "2026-10-11T23:24:15Z"
    },
    "1.9": {
     "mtime": "2026-10-11T20:34:33Z",
