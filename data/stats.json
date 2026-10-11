@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-11T17:46:24Z",
+ "updated": "2026-10-11T17:49:16Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1234872,
+ "serverTicks": 1238462,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T17:46:18Z",
-   "playTicks": 1110242,
+   "lastSeen": "2026-10-11T17:49:17Z",
+   "playTicks": 1113832,
    "deaths": 0,
    "mobKills": 805,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 114692,
-   "damageTaken": 12735,
-   "distanceCm": 13056045,
-   "walkCm": 4500974,
-   "flyCm": 4092394,
-   "jumps": 20772,
-   "mined": 4940,
+   "damageTaken": 12765,
+   "distanceCm": 13105759,
+   "walkCm": 4523112,
+   "flyCm": 4113582,
+   "jumps": 20866,
+   "mined": 4943,
    "topMined": [
     [
      "packed_ice",
@@ -225,7 +225,7 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T17:46:18Z",
+   "lastSeen": "2026-10-11T17:49:17Z",
    "playTicks": 586750,
    "deaths": 0,
    "mobKills": 180,
@@ -433,19 +433,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-11T17:46:18Z",
-   "playTicks": 437197,
+   "lastSeen": "2026-10-11T17:49:17Z",
+   "playTicks": 440787,
    "deaths": 2,
-   "mobKills": 150,
+   "mobKills": 157,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 25754,
-   "damageTaken": 6126,
-   "distanceCm": 4079840,
-   "walkCm": 1955340,
-   "flyCm": 1222397,
-   "jumps": 8291,
-   "mined": 5448,
+   "damageDealt": 26964,
+   "damageTaken": 6212,
+   "distanceCm": 4123369,
+   "walkCm": 1983370,
+   "flyCm": 1234438,
+   "jumps": 8379,
+   "mined": 5480,
    "topMined": [
     [
      "spruce_log",
@@ -478,11 +478,11 @@
    "topKilled": [
     [
      "zombie",
-     72
+     77
     ],
     [
      "skeleton",
-     31
+     33
     ],
     [
      "spider",
@@ -650,23 +650,23 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-11T17:46:18Z",
-   "playTicks": 216083,
+   "lastSeen": "2026-10-11T17:49:17Z",
+   "playTicks": 219673,
    "deaths": 4,
    "mobKills": 27,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 2619,
    "damageTaken": 1928,
-   "distanceCm": 1470782,
-   "walkCm": 1183876,
-   "flyCm": 96034,
-   "jumps": 1578,
-   "mined": 2884,
+   "distanceCm": 1505403,
+   "walkCm": 1216728,
+   "flyCm": 97578,
+   "jumps": 1591,
+   "mined": 3037,
    "topMined": [
     [
      "grass_block",
-     947
+     1085
     ],
     [
      "stone",
@@ -674,7 +674,7 @@
     ],
     [
      "dirt",
-     235
+     245
     ]
    ],
    "crafted": 315,
@@ -767,18 +767,18 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-11T17:46:18Z",
-   "playTicks": 205021,
-   "deaths": 11,
+   "lastSeen": "2026-10-11T17:49:17Z",
+   "playTicks": 208611,
+   "deaths": 12,
    "mobKills": 33,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 4073,
-   "damageTaken": 4569,
-   "distanceCm": 2323374,
-   "walkCm": 897451,
-   "flyCm": 409041,
-   "jumps": 3224,
+   "damageTaken": 4779,
+   "distanceCm": 2351376,
+   "walkCm": 910081,
+   "flyCm": 421077,
+   "jumps": 3271,
    "mined": 703,
    "topMined": [
     [
@@ -794,15 +794,15 @@
      74
     ]
    ],
-   "crafted": 793,
+   "crafted": 1325,
    "topCrafted": [
     [
      "spruce_planks",
-     216
+     472
     ],
     [
      "stick",
-     204
+     468
     ],
     [
      "oak_planks",
@@ -826,7 +826,7 @@
    "topKilledBy": [
     [
      "skeleton",
-     6
+     7
     ],
     [
      "zombie",
@@ -842,13 +842,21 @@
     ]
    ],
    "adv": {
-    "count": 14,
+    "count": 16,
     "byTab": {
-     "story": 7,
-     "adventure": 4,
+     "story": 8,
+     "adventure": 5,
      "husbandry": 3
     },
     "recent": [
+     [
+      "adventure/sleep_in_bed",
+      "2026-10-11T17:48:16Z"
+     ],
+     [
+      "story/mine_diamond",
+      "2026-10-11T17:46:59Z"
+     ],
      [
       "story/deflect_arrow",
       "2026-10-11T17:33:45Z"
@@ -872,14 +880,6 @@
      [
       "story/obtain_armor",
       "2026-10-11T12:14:43Z"
-     ],
-     [
-      "story/iron_tools",
-      "2026-10-11T12:00:54Z"
-     ],
-     [
-      "story/smelt_iron",
-      "2026-10-11T11:52:01Z"
      ]
     ]
    }
