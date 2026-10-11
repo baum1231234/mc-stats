@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-11T09:41:30Z",
+ "updated": "2026-10-11T09:48:37Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T09:40:54Z",
-   "playTicks": 584773,
+   "lastSeen": "2026-10-11T09:45:54Z",
+   "playTicks": 590773,
    "deaths": 0,
-   "mobKills": 492,
+   "mobKills": 493,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 61778,
-   "damageTaken": 4735,
-   "distanceCm": 5862862,
-   "walkCm": 2549796,
-   "flyCm": 1514508,
-   "jumps": 10009,
-   "mined": 3137,
+   "damageDealt": 62057,
+   "damageTaken": 4779,
+   "distanceCm": 5913917,
+   "walkCm": 2574035,
+   "flyCm": 1529663,
+   "jumps": 10155,
+   "mined": 3152,
    "topMined": [
     [
      "packed_ice",
@@ -112,18 +112,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T00:45:11Z",
-   "playTicks": 410706,
+   "lastSeen": "2026-10-11T09:45:54Z",
+   "playTicks": 415076,
    "deaths": 0,
    "mobKills": 102,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 15111,
    "damageTaken": 4173,
-   "distanceCm": 3464318,
-   "walkCm": 1206259,
-   "flyCm": 1762027,
-   "jumps": 8197,
+   "distanceCm": 3491650,
+   "walkCm": 1218690,
+   "flyCm": 1776478,
+   "jumps": 8256,
    "mined": 3988,
    "topMined": [
     [
@@ -139,19 +139,19 @@
      268
     ]
    ],
-   "crafted": 5221,
+   "crafted": 8615,
    "topCrafted": [
     [
      "stick",
-     2584
+     4632
     ],
     [
      "spruce_planks",
-     1880
+     3160
     ],
     [
-     "wheat",
-     126
+     "emerald",
+     146
     ]
    ],
    "topKilled": [
@@ -340,12 +340,12 @@
     "dates": [
      "2026-10-11"
     ],
-    "rendered": "2026-10-11T02:11:18Z",
+    "rendered": "2026-10-11T09:48:37Z",
     "regions": {
-     "r.-2.4.mca": "2026-10-11T00:45:41Z",
-     "r.-2.5.mca": "2026-10-11T00:45:39Z",
-     "r.-3.4.mca": "2026-10-11T00:45:41Z",
-     "r.-3.5.mca": "2026-10-11T00:45:41Z"
+     "r.-2.4.mca": "2026-10-11T09:48:45Z",
+     "r.-2.5.mca": "2026-10-11T09:48:41Z",
+     "r.-3.4.mca": "2026-10-11T09:48:45Z",
+     "r.-3.5.mca": "2026-10-11T09:48:44Z"
     }
    }
   }
