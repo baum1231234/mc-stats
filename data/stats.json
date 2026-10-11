@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T17:22:39Z",
+ "updated": "2026-10-11T17:24:13Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
@@ -328,7 +328,7 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T17:19:17Z",
+   "lastSeen": "2026-10-11T17:24:17Z",
    "playTicks": 527023,
    "deaths": 0,
    "mobKills": 117,
@@ -649,19 +649,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-11T17:19:17Z",
-   "playTicks": 183673,
+   "lastSeen": "2026-10-11T17:24:17Z",
+   "playTicks": 189673,
    "deaths": 4,
    "mobKills": 27,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 2619,
    "damageTaken": 1898,
-   "distanceCm": 1236315,
-   "walkCm": 958557,
-   "flyCm": 88911,
-   "jumps": 1439,
-   "mined": 2285,
+   "distanceCm": 1283517,
+   "walkCm": 1005110,
+   "flyCm": 89560,
+   "jumps": 1461,
+   "mined": 2350,
    "topMined": [
     [
      "stone",
@@ -673,7 +673,7 @@
     ],
     [
      "dirt",
-     200
+     202
     ]
    ],
    "crafted": 315,
@@ -766,19 +766,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-11T17:19:17Z",
-   "playTicks": 174137,
+   "lastSeen": "2026-10-11T17:24:17Z",
+   "playTicks": 179226,
    "deaths": 10,
    "mobKills": 21,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 2724,
    "damageTaken": 3819,
-   "distanceCm": 2081300,
-   "walkCm": 729710,
-   "flyCm": 366045,
-   "jumps": 2689,
-   "mined": 690,
+   "distanceCm": 2104620,
+   "walkCm": 745222,
+   "flyCm": 372303,
+   "jumps": 2770,
+   "mined": 696,
    "topMined": [
     [
      "stone",
@@ -793,7 +793,7 @@
      74
     ]
    ],
-   "crafted": 780,
+   "crafted": 784,
    "topCrafted": [
     [
      "spruce_planks",
@@ -841,13 +841,17 @@
     ]
    ],
    "adv": {
-    "count": 11,
+    "count": 12,
     "byTab": {
      "story": 6,
      "adventure": 3,
-     "husbandry": 2
+     "husbandry": 3
     },
     "recent": [
+     [
+      "husbandry/plant_seed",
+      "2026-10-11T17:22:25Z"
+     ],
      [
       "adventure/shoot_arrow",
       "2026-10-11T17:10:58Z"
@@ -875,10 +879,6 @@
      [
       "husbandry/root",
       "2026-10-11T11:20:21Z"
-     ],
-     [
-      "story/upgrade_tools",
-      "2026-10-11T11:19:55Z"
      ]
     ]
    }
@@ -887,18 +887,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-11T17:21:26Z",
-   "playTicks": 89255,
+   "lastSeen": "2026-10-11T17:24:17Z",
+   "playTicks": 92074,
    "deaths": 1,
    "mobKills": 28,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 2380,
    "damageTaken": 768,
-   "distanceCm": 1527108,
-   "walkCm": 432655,
-   "flyCm": 566488,
-   "jumps": 2558,
+   "distanceCm": 1608684,
+   "walkCm": 449030,
+   "flyCm": 609953,
+   "jumps": 2701,
    "mined": 202,
    "topMined": [
     [
@@ -1654,6 +1654,25 @@
    "-4.9": {
     "mtime": "2026-10-11T17:20:05Z",
     "rendered": "2026-10-11T17:22:39Z"
+   },
+   "-3.10": {
+    "mtime": "2026-10-11T17:09:34Z",
+    "rendered": "2026-10-11T17:24:13Z",
+    "empty": true
+   },
+   "-6.7": {
+    "mtime": "2026-10-11T17:20:04Z",
+    "rendered": "2026-10-11T17:24:13Z",
+    "empty": true
+   },
+   "-5.1": {
+    "mtime": "2026-10-10T19:48:47Z",
+    "rendered": "2026-10-11T17:24:13Z"
+   },
+   "-6.2": {
+    "mtime": "2026-10-10T19:48:47Z",
+    "rendered": "2026-10-11T17:24:13Z",
+    "empty": true
    }
   }
  }
