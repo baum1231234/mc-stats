@@ -14,7 +14,7 @@ from pathlib import Path
 SIZE = 256  # Kantenlänge der Base-Bilder in Blöcken (Vielfaches von 16)
 RENDER_HOURS = 3
 TILE_STEP = 2  # Übersichtskacheln: Blöcke pro Pixel
-TILE_HOURS = 12  # eine Kachel höchstens so oft neu zeichnen
+TILE_HOURS = 3  # eine Kachel höchstens so oft neu zeichnen
 TILES_PER_RUN = 4  # Rest folgt im nächsten Lauf (jede Minute), damit kein Sync minutenlang hängt
 MAX_TILES = 400  # unveränderte Regionen werden nie neu geladen, teuer ist nur der erste Durchgang
 VIEW_MIN, VIEW_PAD = 512, 1.3  # Ausschnitt der Übersicht – muss zu baseMap() in app.js passen
