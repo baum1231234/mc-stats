@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-11T10:52:58Z",
+ "updated": "2026-10-11T10:56:37Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T10:50:54Z",
-   "playTicks": 668773,
+   "lastSeen": "2026-10-11T10:55:54Z",
+   "playTicks": 674773,
    "deaths": 0,
-   "mobKills": 505,
+   "mobKills": 515,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 65112,
-   "damageTaken": 4922,
-   "distanceCm": 6576569,
-   "walkCm": 2884421,
-   "flyCm": 1779824,
-   "jumps": 11307,
+   "damageDealt": 68978,
+   "damageTaken": 5326,
+   "distanceCm": 6648970,
+   "walkCm": 2899271,
+   "flyCm": 1812568,
+   "jumps": 11454,
    "mined": 3526,
    "topMined": [
     [
@@ -110,23 +110,23 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T10:50:54Z",
-   "playTicks": 510530,
+   "lastSeen": "2026-10-11T10:55:54Z",
+   "playTicks": 516530,
    "deaths": 2,
-   "mobKills": 203,
+   "mobKills": 205,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 39752,
-   "damageTaken": 4243,
-   "distanceCm": 5766016,
-   "walkCm": 2247157,
-   "flyCm": 1421196,
-   "jumps": 6645,
-   "mined": 3755,
+   "damageDealt": 40152,
+   "damageTaken": 4264,
+   "distanceCm": 5880897,
+   "walkCm": 2285233,
+   "flyCm": 1425255,
+   "jumps": 6684,
+   "mined": 3855,
    "topMined": [
     [
      "grass_block",
-     1977
+     2024
     ],
     [
      "dirt",
@@ -134,7 +134,7 @@
     ],
     [
      "sand",
-     175
+     226
     ]
    ],
    "crafted": 911,
@@ -224,19 +224,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T10:50:54Z",
-   "playTicks": 492346,
+   "lastSeen": "2026-10-11T10:55:54Z",
+   "playTicks": 498346,
    "deaths": 0,
-   "mobKills": 145,
+   "mobKills": 164,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 24672,
-   "damageTaken": 5239,
-   "distanceCm": 4682963,
-   "walkCm": 1446621,
-   "flyCm": 2362859,
-   "jumps": 10261,
-   "mined": 4160,
+   "damageDealt": 29004,
+   "damageTaken": 5530,
+   "distanceCm": 4765556,
+   "walkCm": 1463023,
+   "flyCm": 2406631,
+   "jumps": 10413,
+   "mined": 4161,
    "topMined": [
     [
      "spruce_log",
@@ -268,16 +268,16 @@
    ],
    "topKilled": [
     [
+     "pillager",
+     31
+    ],
+    [
      "skeleton",
      26
     ],
     [
      "sheep",
      26
-    ],
-    [
-     "cow",
-     22
     ]
    ],
    "topKilledBy": [],
@@ -536,57 +536,75 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-11T10:50:54Z",
-   "playTicks": 15755,
+   "lastSeen": "2026-10-11T10:55:54Z",
+   "playTicks": 21755,
    "deaths": 0,
-   "mobKills": 0,
+   "mobKills": 3,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 0,
-   "damageTaken": 30,
-   "distanceCm": 162663,
-   "walkCm": 45170,
-   "flyCm": 31710,
-   "jumps": 251,
-   "mined": 112,
+   "damageDealt": 531,
+   "damageTaken": 40,
+   "distanceCm": 198329,
+   "walkCm": 71126,
+   "flyCm": 37304,
+   "jumps": 356,
+   "mined": 209,
    "topMined": [
     [
-     "stone",
-     33
+     "iron_ore",
+     71
     ],
     [
-     "iron_ore",
-     27
+     "stone",
+     40
     ],
     [
      "coal_ore",
-     14
+     23
     ]
    ],
-   "crafted": 70,
+   "crafted": 99,
    "topCrafted": [
     [
      "oak_planks",
      32
     ],
     [
-     "stick",
-     14
+     "iron_ingot",
+     27
     ],
     [
-     "iron_ingot",
-     12
+     "stick",
+     14
     ]
    ],
-   "topKilled": [],
+   "topKilled": [
+    [
+     "zombie",
+     2
+    ],
+    [
+     "skeleton",
+     1
+    ]
+   ],
    "topKilledBy": [],
    "adv": {
-    "count": 8,
+    "count": 10,
     "byTab": {
+     "adventure": 2,
      "husbandry": 1,
      "story": 7
     },
     "recent": [
+     [
+      "adventure/kill_a_mob",
+      "2026-10-11T10:52:40Z"
+     ],
+     [
+      "adventure/root",
+      "2026-10-11T10:52:40Z"
+     ],
      [
       "story/obtain_armor",
       "2026-10-11T10:50:27Z"
@@ -610,14 +628,6 @@
      [
       "story/upgrade_tools",
       "2026-10-11T10:40:42Z"
-     ],
-     [
-      "story/mine_stone",
-      "2026-10-11T10:40:04Z"
-     ],
-     [
-      "story/root",
-      "2026-10-11T10:38:33Z"
      ]
     ]
    }
