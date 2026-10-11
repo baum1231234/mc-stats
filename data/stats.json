@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T14:29:15Z",
+ "updated": "2026-10-11T14:30:49Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
@@ -770,18 +770,18 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-11T14:25:54Z",
-   "playTicks": 7046,
+   "lastSeen": "2026-10-11T14:30:54Z",
+   "playTicks": 13046,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 0,
-   "damageTaken": 10,
-   "distanceCm": 3548,
-   "walkCm": 2619,
-   "flyCm": 400,
-   "jumps": 12,
+   "damageTaken": 100,
+   "distanceCm": 138599,
+   "walkCm": 18881,
+   "flyCm": 2814,
+   "jumps": 41,
    "mined": 0,
    "topMined": [],
    "crafted": 0,
@@ -789,9 +789,16 @@
    "topKilled": [],
    "topKilledBy": [],
    "adv": {
-    "count": 0,
-    "byTab": {},
-    "recent": []
+    "count": 1,
+    "byTab": {
+     "story": 1
+    },
+    "recent": [
+     [
+      "story/root",
+      "2026-10-11T14:27:24Z"
+     ]
+    ]
    }
   }
  ],
