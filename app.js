@@ -24,12 +24,20 @@ function ago(iso) {
   return `vor ${Math.round(min / 1440)} Tagen`;
 }
 
+// Anteil der Spielzeit an der Zeit, in der die Welt lief (der leere Server pausiert)
+function share(p) {
+  if (!state.serverTicks) return "–";
+  const pct = Math.min(100, ((p.playTicks || 0) / state.serverTicks) * 100);
+  return new Intl.NumberFormat("de-DE", { maximumFractionDigits: pct < 10 ? 1 : 0 }).format(pct) + " %";
+}
+
 const topEntry = (list) => (list && list[0] ? `${pretty(list[0][0])} (${num(list[0][1])})` : "–");
 
 // Spalte: [Titel, Anzeige, Sortierwert]
 const TABS = [
   { id: "zeit", label: "Spielzeit", cols: [
     ["Spielzeit", (p, max) => timeCell(p, max), (p) => p.playTicks],
+    ["Anteil Serverlaufzeit", (p) => share(p), (p) => p.playTicks],
     ["Zuletzt gesehen", (p) => (p.online ? "jetzt online" : ago(p.lastSeen)), (p) => (p.online ? Infinity : Date.parse(p.lastSeen) || 0)],
   ] },
   { id: "kampf", label: "Kampf", cols: [
@@ -63,7 +71,7 @@ const TABS = [
 const DIMS = { overworld: "Overworld", the_nether: "Nether", the_end: "End" };
 const dimName = (d) => DIMS[d] || pretty(d);
 
-const state = { players: [], bases: [], tiles: null, updated: null, demo: false, online: null, tab: TABS[0], sortCol: 0, dim: null, base: null, detail: false, date: null, view: null, profile: null, waypoint: null, copied: false };
+const state = { players: [], bases: [], tiles: null, serverTicks: null, updated: null, demo: false, online: null, tab: TABS[0], sortCol: 0, dim: null, base: null, detail: false, date: null, view: null, profile: null, waypoint: null, copied: false };
 const $ = (id) => document.getElementById(id);
 
 function el(tag, props = {}, ...children) {
@@ -346,7 +354,7 @@ function card(title, rows, empty) {
 
 function renderProfile(p, rank) {
   const facts = [
-    ["Spielzeit", playtime(p.playTicks)], ["Tode", num(p.deaths)], ["Mob-Kills", num(p.mobKills)], ["Spieler-Kills", num(p.playerKills)],
+    ["Spielzeit", playtime(p.playTicks)], ["Anteil Serverlaufzeit", share(p)], ["Tode", num(p.deaths)], ["Mob-Kills", num(p.mobKills)], ["Spieler-Kills", num(p.playerKills)],
     ["Schaden ausgeteilt", hearts(p.damageDealt)], ["Schaden kassiert", hearts(p.damageTaken)], ["Strecke", km(p.distanceCm)], ["Sprünge", num(p.jumps)],
     ["Abgebaut", num(p.mined)], ["Gecraftet", num(p.crafted)],
   ];
@@ -439,6 +447,7 @@ function render() {
 
   $("sum-players").textContent = num(players.length);
   $("sum-time").textContent = playtime(players.reduce((s, p) => s + p.playTicks, 0));
+  $("sum-uptime").textContent = state.serverTicks ? playtime(state.serverTicks) : "–";
   $("sum-updated").textContent = ago(state.updated);
   $("demo-note").hidden = !state.demo;
 
@@ -453,7 +462,7 @@ async function loadStats() {
   try {
     const res = await fetch(`data/stats.json?t=${Date.now()}`, { cache: "no-store" });
     const data = await res.json();
-    Object.assign(state, { players: data.players || [], bases: data.bases || [], tiles: data.tiles || null, updated: data.updated, demo: !!data.demo });
+    Object.assign(state, { players: data.players || [], bases: data.bases || [], tiles: data.tiles || null, serverTicks: data.serverTicks || null, updated: data.updated, demo: !!data.demo });
   } catch (err) {
     console.error("Stats konnten nicht geladen werden", err);
   }

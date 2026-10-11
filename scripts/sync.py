@@ -385,6 +385,19 @@ def read_bases(src, world, uuids, canon, old, now):
     return sorted(bases, key=lambda b: (b["player"].lower(), b["name"].lower()))
 
 
+def server_ticks(src, world):
+    """Ticks, die die Welt bisher gelaufen ist (level.dat).
+
+    Ein leerer Server pausiert nach kurzer Zeit (pause-when-empty-seconds) – das ist also
+    grob die Zeit, in der überhaupt jemand online war, nicht die Zeit seit dem ersten Start.
+    """
+    try:
+        data = read_nbt(src.read(f"{world}/level.dat"))
+        return int(data.get("Data", data)["Time"])
+    except Exception:
+        return None
+
+
 def main():
     src = LocalSource(sys.argv[2]) if sys.argv[1:2] == ["--local"] else FtpSource()
 
@@ -411,7 +424,7 @@ def main():
     except Exception:
         pass
 
-    old, old_bases, old_tiles = {}, [], {}
+    old, old_bases, old_tiles, old_ticks = {}, [], {}, None
     if OUT.exists():
         prev = json.loads(OUT.read_text(encoding="utf-8"))
         # nach einem Wechsel des Serverordners gilt der Lauf wieder als erster (niemand ist "neu")
@@ -419,6 +432,7 @@ def main():
             old = {p["uuid"]: p for p in prev.get("players", [])}
             old_bases = prev.get("bases", [])
             old_tiles = prev.get("tiles", {})
+            old_ticks = prev.get("serverTicks")
     first_run = not old
     now = now_iso()
 
@@ -481,7 +495,9 @@ def main():
         print("Keine Änderung")
         return
     OUT.parent.mkdir(exist_ok=True)
-    out = {"updated": now, "source": source, "players": players, "bases": bases, "tiles": tiles}
+    # die Laufzeit allein löst kein Schreiben aus – sonst gäbe es auch ohne Spieler ständig neue Stände
+    ticks = server_ticks(src, world) or old_ticks
+    out = {"updated": now, "source": source, "serverTicks": ticks, "players": players, "bases": bases, "tiles": tiles}
     OUT.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"{len(players)} Spieler, {len(bases)} Bases geschrieben")
 
