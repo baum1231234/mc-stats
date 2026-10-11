@@ -43,6 +43,12 @@
       <div id="base-list" class="base-list"></div>
       <p id="no-bases" class="empty" hidden>Noch keine Base markiert – im Spiel <b>/base Name</b> eingeben, während du in deiner Base stehst.</p>
     </div>
+    <div id="duel" class="duel" hidden>
+      <div id="duel-head" class="duel-head"></div>
+      <div id="duel-rows" class="duel-rows"></div>
+      <p id="duel-note" class="duel-note"><span class="duel-key win">besser</span> <span class="duel-key lose">schlechter</span> · bei ▾ gewinnt der kleinere Wert</p>
+      <p id="no-duel" class="empty" hidden>Für ein Duell braucht es mindestens zwei Spieler.</p>
+    </div>
     <div id="table" class="table-wrap">
       <table>
         <thead><tr id="thead"></tr></thead>
@@ -52,7 +58,7 @@
     <p id="empty" class="empty" hidden>Noch keine Spieler-Stats vorhanden.</p>
   </section>
 
-  <footer>Stats werden alle paar Minuten vom Server geholt · Online-Status live · Klick auf eine Spalte sortiert · Klick auf einen Namen öffnet das Profil</footer>
+  <footer>Stats werden alle paar Minuten vom Server geholt · Online-Status live · Klick auf eine Spalte sortiert · Klick auf einen Namen öffnet das Profil · im Tab Duell treten zwei Spieler gegeneinander an</footer>
 </main>
 <script>
 // Skripte mit Zeitstempel laden, damit der Browser nach einem Update keine alte Version zeigt

@@ -66,12 +66,29 @@ const TABS = [
     ["Top-Item", (p) => topEntry(p.topCrafted), null],
   ] },
   { id: "bases", label: "Bases", bases: true, cols: [] },
+  { id: "duell", label: "Duell", duel: true, cols: [] },
+];
+
+// Zeile im Duell: [Titel, Anzeige, Wert, weniger ist besser]
+const DUEL = [
+  ["Spielzeit", (p) => playtime(p.playTicks), (p) => p.playTicks],
+  ["Level-Rekord", (p) => num(p.maxLevel), (p) => p.maxLevel],
+  ["Advancements", (p) => num(p.adv?.count), (p) => p.adv?.count],
+  ["Mob-Kills", (p) => num(p.mobKills), (p) => p.mobKills],
+  ["Spieler-Kills", (p) => num(p.playerKills), (p) => p.playerKills],
+  ["Tode", (p) => num(p.deaths), (p) => p.deaths, true],
+  ["Schaden ausgeteilt", (p) => hearts(p.damageDealt), (p) => p.damageDealt],
+  ["Schaden kassiert", (p) => hearts(p.damageTaken), (p) => p.damageTaken, true],
+  ["Strecke", (p) => km(p.distanceCm), (p) => p.distanceCm],
+  ["Sprünge", (p) => num(p.jumps), (p) => p.jumps],
+  ["Abgebaut", (p) => num(p.mined), (p) => p.mined],
+  ["Gecraftet", (p) => num(p.crafted), (p) => p.crafted],
 ];
 
 const DIMS = { overworld: "Overworld", the_nether: "Nether", the_end: "End" };
 const dimName = (d) => DIMS[d] || pretty(d);
 
-const state = { players: [], bases: [], tiles: null, serverTicks: null, updated: null, demo: false, online: null, tab: TABS[0], sortCol: 0, dim: null, base: null, detail: false, date: null, view: null, profile: null, waypoint: null, copied: false };
+const state = { players: [], bases: [], tiles: null, serverTicks: null, updated: null, demo: false, online: null, tab: TABS[0], sortCol: 0, dim: null, base: null, detail: false, date: null, view: null, profile: null, waypoint: null, copied: false, duel: [] };
 const $ = (id) => document.getElementById(id);
 
 function el(tag, props = {}, ...children) {
@@ -386,7 +403,11 @@ function renderProfile(p, rank) {
       el("div", {},
         el("h2", {}, p.name),
         el("div", {}, p.online ? "jetzt online" : `zuletzt gesehen ${ago(p.lastSeen)}`),
-        el("div", { className: "muted" }, `Platz ${rank} nach Spielzeit`))),
+        el("div", { className: "muted" }, `Platz ${rank} nach Spielzeit`)),
+      el("button", { type: "button", className: "back duel-start", onclick: () => {
+        Object.assign(state, { profile: null, tab: TABS.find((t) => t.duel), duel: [p.uuid, state.duel.find((u) => u !== p.uuid)] });
+        render();
+      } }, "Duell ▶")),
     el("div", { className: "slots profile-facts" }, ...facts.map(([label, value]) =>
       el("div", { className: "slot" }, el("span", { className: "slot-label" }, label), el("span", { className: "slot-value" }, value)))),
     el("div", { className: "cards" },
@@ -399,6 +420,40 @@ function renderProfile(p, rank) {
     el("section", { className: "card" }, el("h3", {}, "Bases"),
       bases.length ? el("div", { className: "base-list" }, ...baseButtons) : el("p", {}, "Keine Base markiert.")),
   );
+}
+
+// Zwei Spieler nebeneinander: der bessere Wert grün, der schlechtere rot
+function renderDuel(players) {
+  $("no-duel").hidden = players.length > 1;
+  for (const id of ["duel-head", "duel-rows", "duel-note"]) $(id).hidden = players.length < 2;
+  if (players.length < 2) return;
+
+  // players kommt nach Spielzeit sortiert – ohne Auswahl treten die zwei Vordersten an
+  const pick = (uuid, other) => players.find((p) => p.uuid === uuid && p !== other) || players.find((p) => p !== other);
+  const a = pick(state.duel[0]), b = pick(state.duel[1], a);
+  state.duel = [a.uuid, b.uuid];
+
+  const points = [0, 0];
+  const rows = [];
+  for (const [title, show, value, lessWins] of DUEL) {
+    const va = value(a), vb = value(b);
+    if (va == null && vb == null) continue; // der Sync liefert den Wert noch nicht
+    const diff = ((va || 0) - (vb || 0)) * (lessWins ? -1 : 1);
+    if (diff > 0) points[0]++;
+    if (diff < 0) points[1]++;
+    const cell = (p, v, d) => el("div", { className: "duel-cell" + (d > 0 ? " win" : d < 0 ? " lose" : "") }, v == null ? "–" : show(p));
+    rows.push(cell(a, va, diff), el("div", { className: "duel-label" }, title + (lessWins ? " ▾" : "")), cell(b, vb, -diff));
+  }
+
+  const side = (p, i, other) => {
+    const select = el("select", { ariaLabel: `Spieler ${i + 1}`, onchange: () => { state.duel[i] = select.value; render(); } },
+      ...players.filter((o) => o !== other).map((o) => el("option", { value: o.uuid, selected: o === p }, o.name)));
+    return el("div", { className: "duel-side" },
+      el("img", { alt: "", src: `https://mc-heads.net/avatar/${encodeURIComponent(p.uuid)}/96` }), select,
+      el("div", { className: "duel-points" + (points[i] > points[1 - i] ? " win" : points[i] < points[1 - i] ? " lose" : "") }, String(points[i])));
+  };
+  $("duel-head").replaceChildren(side(a, 0, b), el("div", { className: "duel-vs" }, "VS"), side(b, 1, a));
+  $("duel-rows").replaceChildren(...rows);
 }
 
 function render() {
@@ -423,8 +478,12 @@ function render() {
   const showBases = !!state.tab.bases && !profile;
   if (!showBases) overviewBases = null;
   $("bases").hidden = !showBases;
-  $("table").hidden = showBases || !!profile;
+  $("table").hidden = showBases || !!state.tab.duel || !!profile;
   if (showBases) renderBases();
+
+  const showDuel = !!state.tab.duel && !profile;
+  $("duel").hidden = !showDuel;
+  if (showDuel) renderDuel(byTime);
 
   $("thead").replaceChildren(el("th", {}, "#"), el("th", {}, "Spieler"), ...cols.map(([title, , sort], i) => {
     if (!sort) return el("th", {}, title);
@@ -438,7 +497,7 @@ function render() {
     el("td", {}, playerCell(p)),
     ...cols.map(([, show]) => el("td", {}, show(p, maxTicks))),
   )));
-  $("empty").hidden = showBases || !!profile || players.length > 0;
+  $("empty").hidden = showBases || !!state.tab.duel || !!profile || players.length > 0;
 
   const wanted = [...players].filter((p) => p.playerKills > 0).sort((a, b) => b.playerKills - a.playerKills).slice(0, 3);
   $("posters").hidden = !state.tab.posters || !wanted.length || !!profile;

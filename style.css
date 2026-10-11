@@ -196,6 +196,30 @@ button.link:hover, button.link:focus-visible { text-decoration: underline; }
 .card p { margin: 0; color: #e0e0e0; }
 .card .base-list { margin-top: 0; }
 
+/* Duell: zwei Spieler nebeneinander, besserer Wert grün, schlechterer rot */
+.duel-head { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 10px; margin: 6px 0 12px; }
+.duel-side { display: flex; flex-direction: column; align-items: center; gap: 6px; min-width: 0; }
+.duel-side img { width: 96px; height: 96px; image-rendering: pixelated; border: var(--px) solid #000; background: #555; }
+.duel-side select {
+  font: inherit; color: #fff; cursor: pointer; max-width: 100%; background: var(--slot); padding: 4px 8px;
+  border: var(--px) solid;
+  border-color: var(--gui-light) var(--slot-dark) var(--slot-dark) var(--gui-light);
+}
+.duel-vs { font-size: 44px; }
+.duel-points { font-size: 44px; line-height: 1; min-width: 64px; padding: 2px 10px; text-align: center; color: #fff; background: var(--slot-dark); border: var(--px) solid #000; }
+.duel-rows { display: grid; grid-template-columns: 1fr auto 1fr; gap: 4px 6px; align-items: stretch; }
+.duel-label { display: flex; align-items: center; justify-content: center; padding: 0 8px; text-align: center; }
+.duel-cell {
+  background: var(--slot); color: #fff; padding: 6px 10px; text-align: center; font-size: 26px; overflow-wrap: anywhere;
+  border: var(--px) solid;
+  border-color: var(--slot-dark) var(--gui-light) var(--gui-light) var(--slot-dark);
+}
+.duel .win { background: #2f7d1f; border-color: #1b4d10 #8fe070 #8fe070 #1b4d10; color: #fff; text-shadow: 2px 2px 0 #163d0c; }
+.duel .lose { background: #9c2f2f; border-color: #5e1717 #e58a8a #e58a8a #5e1717; color: #ffe3e3; }
+.duel-note { margin: 12px 0 0; font-size: 18px; text-align: center; }
+.duel-key { padding: 0 8px; border: 2px solid; }
+.duel-start { margin-left: auto; align-self: flex-start; }
+
 .empty { text-align: center; margin: 20px 0; }
 footer { margin-top: 18px; color: #e8dccf; font-size: 18px; text-align: center; }
 
@@ -207,4 +231,7 @@ footer { margin-top: 18px; color: #e8dccf; font-size: 18px; text-align: center; 
   .base-layout { grid-template-columns: 1fr; }
   .profile-facts { grid-template-columns: repeat(2, 1fr); }
   .cards { grid-template-columns: 1fr; }
+  .duel-side img { width: 64px; height: 64px; }
+  .duel-cell { font-size: 22px; padding: 6px 4px; }
+  .duel-vs, .duel-points { font-size: 32px; }
 }
