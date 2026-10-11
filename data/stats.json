@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-11T22:18:17Z",
+ "updated": "2026-10-11T22:19:57Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1559216,
+ "serverTicks": 1562462,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T22:16:35Z",
-   "playTicks": 1404789,
+   "lastSeen": "2026-10-11T22:19:17Z",
+   "playTicks": 1408035,
    "deaths": 0,
    "mobKills": 858,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 126415,
    "damageTaken": 15197,
-   "distanceCm": 16450696,
-   "walkCm": 5467005,
-   "flyCm": 5591217,
-   "jumps": 27755,
+   "distanceCm": 16539465,
+   "walkCm": 5474357,
+   "flyCm": 5593268,
+   "jumps": 27787,
    "mined": 5647,
    "topMined": [
     [
@@ -225,18 +225,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T22:16:35Z",
-   "playTicks": 869335,
+   "lastSeen": "2026-10-11T22:19:17Z",
+   "playTicks": 872581,
    "deaths": 0,
-   "mobKills": 413,
+   "mobKills": 414,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 94548,
+   "damageDealt": 94748,
    "damageTaken": 15572,
-   "distanceCm": 13466841,
-   "walkCm": 2766409,
-   "flyCm": 5926631,
-   "jumps": 20335,
+   "distanceCm": 13576100,
+   "walkCm": 2780024,
+   "flyCm": 5953867,
+   "jumps": 20442,
    "mined": 7361,
    "topMined": [
     [
@@ -252,7 +252,7 @@
      277
     ]
    ],
-   "crafted": 29224,
+   "crafted": 29287,
    "topCrafted": [
     [
      "stick",
@@ -283,13 +283,17 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 22,
+    "count": 23,
     "byTab": {
      "story": 10,
      "adventure": 10,
-     "husbandry": 2
+     "husbandry": 3
     },
     "recent": [
+     [
+      "husbandry/breed_an_animal",
+      "2026-10-11T22:17:06Z"
+     ],
      [
       "adventure/overoverkill",
       "2026-10-11T19:10:53Z"
@@ -317,10 +321,6 @@
      [
       "adventure/trade",
       "2026-10-10T22:51:25Z"
-     ],
-     [
-      "husbandry/ride_a_boat_with_a_goat",
-      "2026-10-10T21:44:57Z"
      ]
     ]
    }
@@ -1440,25 +1440,24 @@
     "rendered": "2026-10-11T20:12:00Z"
    },
    "-5.3": {
-    "mtime": "2026-10-11T13:23:38Z",
-    "rendered": "2026-10-11T19:19:44Z"
+    "mtime": "2026-10-11T22:20:15Z",
+    "rendered": "2026-10-11T22:19:57Z"
    },
    "-6.4": {
-    "mtime": "2026-10-11T13:23:35Z",
-    "rendered": "2026-10-11T19:19:44Z",
-    "empty": true
+    "mtime": "2026-10-11T22:19:13Z",
+    "rendered": "2026-10-11T22:19:57Z"
    },
    "1.5": {
     "mtime": "2026-10-11T21:01:42Z",
     "rendered": "2026-10-11T21:36:51Z"
    },
    "0.6": {
-    "mtime": "2026-10-11T13:10:57Z",
-    "rendered": "2026-10-11T19:19:44Z"
+    "mtime": "2026-10-11T21:06:28Z",
+    "rendered": "2026-10-11T22:19:57Z"
    },
    "-2.8": {
-    "mtime": "2026-10-11T17:24:05Z",
-    "rendered": "2026-10-11T19:19:44Z"
+    "mtime": "2026-10-11T21:04:24Z",
+    "rendered": "2026-10-11T22:19:57Z"
    },
    "-1.7": {
     "mtime": "2026-10-11T20:16:48Z",
