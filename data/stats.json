@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T15:53:51Z",
+ "updated": "2026-10-11T15:57:04Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
@@ -110,19 +110,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T15:53:18Z",
-   "playTicks": 859426,
+   "lastSeen": "2026-10-11T15:55:54Z",
+   "playTicks": 861700,
    "deaths": 2,
-   "mobKills": 254,
+   "mobKills": 259,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 50204,
+   "damageDealt": 50604,
    "damageTaken": 5521,
-   "distanceCm": 9656622,
-   "walkCm": 3734295,
-   "flyCm": 2330635,
-   "jumps": 10324,
-   "mined": 8718,
+   "distanceCm": 9697879,
+   "walkCm": 3753258,
+   "flyCm": 2351104,
+   "jumps": 10404,
+   "mined": 8725,
    "topMined": [
     [
      "grass_block",
@@ -328,19 +328,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T15:50:54Z",
-   "playTicks": 426289,
+   "lastSeen": "2026-10-11T15:55:54Z",
+   "playTicks": 432289,
    "deaths": 0,
-   "mobKills": 97,
+   "mobKills": 100,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 10475,
-   "damageTaken": 1994,
-   "distanceCm": 4018206,
-   "walkCm": 1732411,
-   "flyCm": 1253087,
-   "jumps": 6597,
-   "mined": 7096,
+   "damageDealt": 10980,
+   "damageTaken": 2096,
+   "distanceCm": 4066969,
+   "walkCm": 1759436,
+   "flyCm": 1271334,
+   "jumps": 6656,
+   "mined": 7113,
    "topMined": [
     [
      "grass_block",
@@ -381,7 +381,7 @@
     ],
     [
      "zombie",
-     9
+     10
     ]
    ],
    "topKilledBy": [],
@@ -536,19 +536,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-11T15:53:41Z",
-   "playTicks": 314540,
+   "lastSeen": "2026-10-11T15:55:54Z",
+   "playTicks": 317027,
    "deaths": 2,
    "mobKills": 71,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 11008,
-   "damageTaken": 3892,
-   "distanceCm": 2727606,
-   "walkCm": 1358716,
-   "flyCm": 798231,
-   "jumps": 5463,
-   "mined": 4259,
+   "damageTaken": 3972,
+   "distanceCm": 2779324,
+   "walkCm": 1385100,
+   "flyCm": 818444,
+   "jumps": 5555,
+   "mined": 4260,
    "topMined": [
     [
      "spruce_log",
@@ -770,34 +770,34 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-11T15:50:54Z",
-   "playTicks": 104183,
+   "lastSeen": "2026-10-11T15:55:54Z",
+   "playTicks": 110183,
    "deaths": 2,
    "mobKills": 15,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 976,
-   "damageTaken": 1049,
-   "distanceCm": 692162,
-   "walkCm": 473921,
-   "flyCm": 49547,
-   "jumps": 881,
-   "mined": 1224,
+   "damageTaken": 1089,
+   "distanceCm": 709556,
+   "walkCm": 489418,
+   "flyCm": 50219,
+   "jumps": 892,
+   "mined": 1399,
    "topMined": [
     [
      "stone",
-     653
+     752
     ],
     [
      "grass_block",
-     151
+     153
     ],
     [
      "coal_ore",
      112
     ]
    ],
-   "crafted": 266,
+   "crafted": 279,
    "topCrafted": [
     [
      "birch_planks",
@@ -875,28 +875,69 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-11T15:53:16Z",
-   "playTicks": 3877,
+   "lastSeen": "2026-10-11T15:55:54Z",
+   "playTicks": 6135,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 0,
    "damageTaken": 0,
-   "distanceCm": 16004,
-   "walkCm": 9187,
+   "distanceCm": 20577,
+   "walkCm": 13760,
    "flyCm": 5770,
-   "jumps": 36,
-   "mined": 0,
-   "topMined": [],
-   "crafted": 0,
-   "topCrafted": [],
+   "jumps": 47,
+   "mined": 35,
+   "topMined": [
+    [
+     "stone",
+     26
+    ],
+    [
+     "oak_log",
+     5
+    ],
+    [
+     "dirt",
+     3
+    ]
+   ],
+   "crafted": 31,
+   "topCrafted": [
+    [
+     "oak_planks",
+     20
+    ],
+    [
+     "stick",
+     8
+    ],
+    [
+     "wooden_pickaxe",
+     1
+    ]
+   ],
    "topKilled": [],
    "topKilledBy": [],
    "adv": {
-    "count": 0,
-    "byTab": {},
-    "recent": []
+    "count": 3,
+    "byTab": {
+     "story": 3
+    },
+    "recent": [
+     [
+      "story/upgrade_tools",
+      "2026-10-11T15:55:17Z"
+     ],
+     [
+      "story/mine_stone",
+      "2026-10-11T15:55:06Z"
+     ],
+     [
+      "story/root",
+      "2026-10-11T15:54:41Z"
+     ]
+    ]
    }
   }
  ],
