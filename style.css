@@ -156,6 +156,45 @@ img.custom { object-fit: cover; image-rendering: auto; }
 .base-coords { margin: 8px 0 2px; padding: 4px; background: var(--slot-dark); }
 .base-since { margin-top: 6px; font-size: 18px; color: #e0e0e0; }
 
+/* Karte verschieben und zoomen */
+.base-map { position: relative; }
+.base-map.pannable { cursor: grab; touch-action: none; user-select: none; }
+.base-map.pannable:active { cursor: grabbing; }
+.map-zoom { position: absolute; top: 8px; right: 8px; display: flex; flex-direction: column; gap: 4px; line-height: 1; }
+.map-zoom button {
+  font: inherit; font-size: 26px; width: 34px; height: 34px; padding: 0; cursor: pointer; color: var(--text);
+  background: var(--gui);
+  border: var(--px) solid;
+  border-color: var(--gui-light) var(--gui-dark) var(--gui-dark) var(--gui-light);
+  outline: 2px solid #000;
+}
+
+/* Spielerprofil */
+button.link { font: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; text-align: left; }
+button.link:hover, button.link:focus-visible { text-decoration: underline; }
+.back {
+  font: inherit; color: #fff; cursor: pointer; background: var(--slot); padding: 4px 10px;
+  border: var(--px) solid;
+  border-color: var(--gui-light) var(--slot-dark) var(--slot-dark) var(--gui-light);
+}
+.profile-head { display: flex; align-items: center; gap: 16px; margin: 14px 0 4px; }
+.profile-head img { width: 96px; height: 96px; image-rendering: pixelated; border: var(--px) solid #000; background: #555; flex: none; }
+.profile-head h2 { margin: 0; font-size: 40px; font-weight: 400; overflow-wrap: anywhere; }
+.muted { font-size: 18px; }
+.profile-facts { grid-template-columns: repeat(5, 1fr); }
+.cards { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin: 10px 0; }
+.card {
+  background: var(--slot); color: #fff; padding: 8px 12px 10px;
+  border: var(--px) solid;
+  border-color: var(--slot-dark) var(--gui-light) var(--gui-light) var(--slot-dark);
+}
+.card h3 { margin: 0 0 6px; font-size: 24px; font-weight: 400; text-shadow: 2px 2px 0 #3f3f3f; }
+.card ul { list-style: none; margin: 0; padding: 0; }
+.card li { display: flex; justify-content: space-between; gap: 12px; padding: 2px 0; border-top: 2px solid var(--slot-dark); }
+.card li b { font-weight: 400; white-space: nowrap; }
+.card p { margin: 0; color: #e0e0e0; }
+.card .base-list { margin-top: 0; }
+
 .empty { text-align: center; margin: 20px 0; }
 footer { margin-top: 18px; color: #e8dccf; font-size: 18px; text-align: center; }
 
@@ -165,4 +204,6 @@ footer { margin-top: 18px; color: #e8dccf; font-size: 18px; text-align: center; 
   .slots { grid-template-columns: repeat(2, 1fr); }
   .slot-value { font-size: 24px; }
   .base-layout { grid-template-columns: 1fr; }
+  .profile-facts { grid-template-columns: repeat(2, 1fr); }
+  .cards { grid-template-columns: 1fr; }
 }

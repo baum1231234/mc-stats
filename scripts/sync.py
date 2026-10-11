@@ -61,8 +61,34 @@ def summarize(raw):
         "topMined": top(mined),
         "crafted": sum(crafted.values()),
         "topCrafted": top(crafted),
-        "topKilled": top(killed, 1),
+        "topKilled": top(killed),
+        # nur Tode durch Mobs und Spieler – Fallen, Lava usw. zählt Minecraft nicht einzeln
+        "topKilledBy": top(killed_by, 5),
     }
+
+
+ADV_RECENT = 8
+
+
+def summarize_advancements(raw):
+    """Experimentell: erledigte Advancements je Reiter und die zuletzt erreichten (ohne Rezepte)."""
+    by_tab, done = {}, []
+    for key, entry in raw.items():
+        if not isinstance(entry, dict) or not entry.get("done"):
+            continue
+        ident = key.removeprefix(PREFIX)
+        if "recipes/" in ident or "/" not in ident:
+            continue
+        tab = ident.split("/")[0].split(":")[-1]
+        by_tab[tab] = by_tab.get(tab, 0) + 1
+        when = max((str(v) for v in (entry.get("criteria") or {}).values()), default="")
+        try:
+            when = datetime.strptime(when, "%Y-%m-%d %H:%M:%S %z").astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        except ValueError:
+            when = None
+        done.append([ident, when])
+    done.sort(key=lambda d: d[1] or "", reverse=True)
+    return {"count": len(done), "byTab": by_tab, "recent": done[:ADV_RECENT]}
 
 
 class LocalSource:
@@ -288,7 +314,7 @@ def fetch_icon(url):
     return f"data/icons/{stem}.{ext}"
 
 
-def read_bases(src, world, uuids, old, now):
+def read_bases(src, world, uuids, canon, old, now):
     """Bases, die Spieler im Spiel mit /base markiert haben (bis zu drei pro Spieler)."""
     raw = None
     # neuere Versionen: data/<Namensraum>/command_storage.dat, ältere: data/command_storage_<Namensraum>.dat
@@ -325,6 +351,14 @@ def read_bases(src, world, uuids, old, now):
             icon = fetch_icon(str(entry.get("icon") or ""))
             if icon:
                 base["icon"] = icon
+            # Mitbesitzer aus /base teilen – nur Namen, die der Server wirklich kennt
+            shared = []
+            for mate in entry.get("mit") or []:
+                name = canon.get(str(mate.get("n") if isinstance(mate, dict) else mate).lower())
+                if name and name.lower() != player.lower() and name not in [s["name"] for s in shared]:
+                    shared.append({"name": name, "uuid": uuids.get(name.lower())})
+            if shared:
+                base["shared"] = shared[:5]
             bases.append(base)
     # Bilder, die keine Base mehr benutzt, wieder wegräumen
     used = {b.get("icon") for b in bases}
@@ -392,6 +426,16 @@ def main():
             "lastSeen": src.mtime(path) or known.get("lastSeen"),
         }
         player.update(summarize(raw))
+        # Advancements ändern sich nur zusammen mit den Stats – sonst den alten Stand behalten
+        if "adv" in known and known.get("lastSeen") == player["lastSeen"]:
+            player["adv"] = known["adv"]
+        else:
+            try:
+                adv_path = f"{stats_dir.rsplit('/', 1)[0]}/advancements/{fname}"
+                player["adv"] = summarize_advancements(json.loads(src.read(adv_path)))
+            except Exception:
+                if "adv" in known:
+                    player["adv"] = known["adv"]
         players.append(player)
 
     players.sort(key=lambda p: p["playTicks"], reverse=True)
@@ -400,7 +444,9 @@ def main():
     uuids.update({name.lower(): uuid for uuid, name in names.items()})
     world = stats_dir.split("/")[0]
     tiles = old_tiles
-    bases = read_bases(src, world, uuids, {(b["player"], b["name"]): b for b in old_bases}, now)
+    canon = {p["name"].lower(): p["name"] for p in players}
+    canon.update({name.lower(): name for name in names.values()})
+    bases = read_bases(src, world, uuids, canon, {(b["player"], b["name"]): b for b in old_bases}, now)
     if bases is None:
         bases = old_bases
     else:
