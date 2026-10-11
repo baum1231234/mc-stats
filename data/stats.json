@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-11T11:00:17Z",
+ "updated": "2026-10-11T11:03:53Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T10:55:54Z",
-   "playTicks": 674773,
+   "lastSeen": "2026-10-11T11:00:54Z",
+   "playTicks": 680773,
    "deaths": 0,
-   "mobKills": 515,
+   "mobKills": 530,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 68978,
-   "damageTaken": 5326,
-   "distanceCm": 6648970,
-   "walkCm": 2899271,
-   "flyCm": 1812568,
-   "jumps": 11454,
-   "mined": 3526,
+   "damageDealt": 72044,
+   "damageTaken": 5706,
+   "distanceCm": 6740409,
+   "walkCm": 2918362,
+   "flyCm": 1857725,
+   "jumps": 11620,
+   "mined": 3527,
    "topMined": [
     [
      "packed_ice",
@@ -110,19 +110,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T10:55:54Z",
-   "playTicks": 516530,
+   "lastSeen": "2026-10-11T11:00:54Z",
+   "playTicks": 522530,
    "deaths": 2,
    "mobKills": 205,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 40152,
    "damageTaken": 4264,
-   "distanceCm": 5880897,
-   "walkCm": 2285233,
-   "flyCm": 1425255,
-   "jumps": 6684,
-   "mined": 3855,
+   "distanceCm": 5923784,
+   "walkCm": 2314451,
+   "flyCm": 1432974,
+   "jumps": 6731,
+   "mined": 3863,
    "topMined": [
     [
      "grass_block",
@@ -130,7 +130,7 @@
     ],
     [
      "dirt",
-     389
+     397
     ],
     [
      "sand",
@@ -536,19 +536,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-11T10:55:54Z",
-   "playTicks": 21755,
+   "lastSeen": "2026-10-11T11:00:54Z",
+   "playTicks": 27755,
    "deaths": 0,
-   "mobKills": 3,
+   "mobKills": 4,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 531,
-   "damageTaken": 40,
-   "distanceCm": 198329,
-   "walkCm": 71126,
-   "flyCm": 37304,
-   "jumps": 356,
-   "mined": 209,
+   "damageDealt": 781,
+   "damageTaken": 199,
+   "distanceCm": 250777,
+   "walkCm": 110126,
+   "flyCm": 47542,
+   "jumps": 503,
+   "mined": 312,
    "topMined": [
     [
      "iron_ore",
@@ -559,8 +559,8 @@
      40
     ],
     [
-     "coal_ore",
-     23
+     "cave_vines",
+     33
     ]
    ],
    "crafted": 99,
@@ -585,6 +585,10 @@
     ],
     [
      "skeleton",
+     1
+    ],
+    [
+     "spider",
      1
     ]
    ],
