@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T15:07:22Z",
+ "updated": "2026-10-11T15:08:59Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
@@ -110,19 +110,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T15:05:54Z",
-   "playTicks": 803481,
+   "lastSeen": "2026-10-11T15:08:18Z",
+   "playTicks": 806360,
    "deaths": 2,
-   "mobKills": 247,
+   "mobKills": 249,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 48907,
-   "damageTaken": 5466,
-   "distanceCm": 9143484,
-   "walkCm": 3425132,
-   "flyCm": 2144722,
-   "jumps": 9640,
-   "mined": 7193,
+   "damageDealt": 49266,
+   "damageTaken": 5487,
+   "distanceCm": 9179184,
+   "walkCm": 3439143,
+   "flyCm": 2165736,
+   "jumps": 9706,
+   "mined": 7194,
    "topMined": [
     [
      "grass_block",
@@ -137,7 +137,7 @@
      913
     ]
    ],
-   "crafted": 2206,
+   "crafted": 2214,
    "topCrafted": [
     [
      "emerald",
@@ -163,7 +163,7 @@
     ],
     [
      "spider",
-     30
+     31
     ]
    ],
    "topKilledBy": [
@@ -770,34 +770,34 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-11T15:05:54Z",
-   "playTicks": 55046,
+   "lastSeen": "2026-10-11T15:08:36Z",
+   "playTicks": 58268,
    "deaths": 0,
    "mobKills": 3,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 76,
    "damageTaken": 500,
-   "distanceCm": 442545,
-   "walkCm": 248311,
+   "distanceCm": 445663,
+   "walkCm": 251429,
    "flyCm": 32379,
-   "jumps": 448,
-   "mined": 312,
+   "jumps": 449,
+   "mined": 418,
    "topMined": [
     [
      "stone",
-     103
+     166
     ],
     [
      "coal_ore",
-     61
+     81
     ],
     [
      "dirt",
      37
     ]
    ],
-   "crafted": 174,
+   "crafted": 176,
    "topCrafted": [
     [
      "birch_planks",
