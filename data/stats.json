@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-11T23:26:02Z",
+ "updated": "2026-10-11T23:30:31Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1640462,
+ "serverTicks": 1646462,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T23:24:17Z",
-   "playTicks": 1486035,
+   "lastSeen": "2026-10-11T23:29:17Z",
+   "playTicks": 1492035,
    "deaths": 0,
    "mobKills": 861,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 126575,
    "damageTaken": 15337,
-   "distanceCm": 18217870,
-   "walkCm": 5733000,
-   "flyCm": 6145868,
-   "jumps": 29665,
-   "mined": 5907,
+   "distanceCm": 18272567,
+   "walkCm": 5747444,
+   "flyCm": 6179998,
+   "jumps": 29796,
+   "mined": 5911,
    "topMined": [
     [
      "packed_ice",
@@ -34,7 +34,7 @@
      494
     ]
    ],
-   "crafted": 17387,
+   "crafted": 17391,
    "topCrafted": [
     [
      "stick",
@@ -225,18 +225,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T23:24:17Z",
-   "playTicks": 950581,
+   "lastSeen": "2026-10-11T23:29:17Z",
+   "playTicks": 956581,
    "deaths": 0,
-   "mobKills": 417,
+   "mobKills": 421,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 95109,
-   "damageTaken": 15678,
-   "distanceCm": 14367013,
-   "walkCm": 3156106,
-   "flyCm": 6146165,
-   "jumps": 21307,
+   "damageDealt": 95719,
+   "damageTaken": 15743,
+   "distanceCm": 14400703,
+   "walkCm": 3164773,
+   "flyCm": 6169157,
+   "jumps": 21397,
    "mined": 8072,
    "topMined": [
     [
@@ -278,7 +278,7 @@
     ],
     [
      "skeleton",
-     30
+     32
     ]
    ],
    "topKilledBy": [],
@@ -1488,8 +1488,8 @@
     "rendered": "2026-10-11T21:38:34Z"
    },
    "2.4": {
-    "mtime": "2026-10-11T20:29:56Z",
-    "rendered": "2026-10-11T20:29:42Z"
+    "mtime": "2026-10-11T20:43:08Z",
+    "rendered": "2026-10-11T23:30:31Z"
    },
    "-1.-5": {
     "mtime": "2026-10-10T19:48:47Z",
