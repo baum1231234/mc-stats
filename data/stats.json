@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T01:04:53Z",
+ "updated": "2026-10-11T01:08:23Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
@@ -162,6 +162,59 @@
    ]
   },
   {
+   "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
+   "name": "Eingepacktt",
+   "firstSeen": null,
+   "lastSeen": "2026-10-11T01:07:31Z",
+   "playTicks": 189576,
+   "deaths": 0,
+   "mobKills": 31,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 3853,
+   "damageTaken": 380,
+   "distanceCm": 1422079,
+   "walkCm": 717469,
+   "flyCm": 347794,
+   "jumps": 2348,
+   "mined": 4339,
+   "topMined": [
+    [
+     "dark_oak_log",
+     838
+    ],
+    [
+     "grass_block",
+     831
+    ],
+    [
+     "stone",
+     491
+    ]
+   ],
+   "crafted": 685,
+   "topCrafted": [
+    [
+     "stone",
+     281
+    ],
+    [
+     "dark_oak_planks",
+     208
+    ],
+    [
+     "polished_tuff",
+     43
+    ]
+   ],
+   "topKilled": [
+    [
+     "cod",
+     13
+    ]
+   ]
+  },
+  {
    "uuid": "e0716f67-b0d0-4d15-b374-ed3a090ab96a",
    "name": "Bensen1405",
    "firstSeen": null,
@@ -211,59 +264,6 @@
     [
      "zombie",
      12
-    ]
-   ]
-  },
-  {
-   "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
-   "name": "Eingepacktt",
-   "firstSeen": null,
-   "lastSeen": "2026-10-11T01:02:31Z",
-   "playTicks": 183576,
-   "deaths": 0,
-   "mobKills": 31,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 3853,
-   "damageTaken": 380,
-   "distanceCm": 1394918,
-   "walkCm": 697800,
-   "flyCm": 343345,
-   "jumps": 2299,
-   "mined": 4276,
-   "topMined": [
-    [
-     "dark_oak_log",
-     838
-    ],
-    [
-     "grass_block",
-     831
-    ],
-    [
-     "stone",
-     491
-    ]
-   ],
-   "crafted": 623,
-   "topCrafted": [
-    [
-     "stone",
-     281
-    ],
-    [
-     "dark_oak_planks",
-     208
-    ],
-    [
-     "oak_planks",
-     28
-    ]
-   ],
-   "topKilled": [
-    [
-     "cod",
-     13
     ]
    ]
   }
