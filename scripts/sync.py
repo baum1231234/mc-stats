@@ -331,6 +331,8 @@ def read_bases(src, world, uuids, old, now):
     for file in ICONS.glob("*") if ICONS.exists() else []:
         if f"data/icons/{file.name}" not in used:
             file.unlink()
+    # wie bei den Karten: ein bereits laufender Sync-Job merkt nur data/stats.json vor
+    subprocess.run(["git", "add", "-A", "data/icons"], cwd=OUT.parent.parent, capture_output=True)
     return sorted(bases, key=lambda b: (b["player"].lower(), b["name"].lower()))
 
 
