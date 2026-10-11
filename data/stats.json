@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T16:01:49Z",
+ "updated": "2026-10-11T16:05:01Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
@@ -328,19 +328,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T16:01:15Z",
-   "playTicks": 438708,
+   "lastSeen": "2026-10-11T16:05:02Z",
+   "playTicks": 443238,
    "deaths": 0,
-   "mobKills": 101,
+   "mobKills": 102,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 11181,
-   "damageTaken": 2096,
-   "distanceCm": 4125475,
-   "walkCm": 1779778,
-   "flyCm": 1300564,
-   "jumps": 6756,
-   "mined": 7115,
+   "damageDealt": 11221,
+   "damageTaken": 2106,
+   "distanceCm": 4226429,
+   "walkCm": 1797080,
+   "flyCm": 1323672,
+   "jumps": 6863,
+   "mined": 7251,
    "topMined": [
     [
      "grass_block",
@@ -875,34 +875,34 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-11T16:01:15Z",
-   "playTicks": 12554,
+   "lastSeen": "2026-10-11T16:04:52Z",
+   "playTicks": 16885,
    "deaths": 0,
    "mobKills": 9,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 720,
    "damageTaken": 30,
-   "distanceCm": 92340,
-   "walkCm": 53253,
-   "flyCm": 30263,
-   "jumps": 202,
-   "mined": 49,
+   "distanceCm": 108026,
+   "walkCm": 64213,
+   "flyCm": 33337,
+   "jumps": 239,
+   "mined": 77,
    "topMined": [
     [
      "stone",
-     26
+     37
     ],
     [
      "spruce_log",
-     7
+     21
     ],
     [
      "oak_log",
      5
     ]
    ],
-   "crafted": 40,
+   "crafted": 50,
    "topCrafted": [
     [
      "oak_planks",
@@ -913,8 +913,8 @@
      12
     ],
     [
-     "furnace",
-     1
+     "cooked_mutton",
+     7
     ]
    ],
    "topKilled": [
