@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T13:57:15Z",
+ "updated": "2026-10-11T14:00:22Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "players": [
   {
@@ -328,19 +328,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T13:55:54Z",
-   "playTicks": 298071,
+   "lastSeen": "2026-10-11T13:59:29Z",
+   "playTicks": 302356,
    "deaths": 0,
-   "mobKills": 65,
+   "mobKills": 67,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 6961,
-   "damageTaken": 1239,
-   "distanceCm": 2537934,
-   "walkCm": 1136944,
-   "flyCm": 708965,
-   "jumps": 4120,
-   "mined": 4885,
+   "damageDealt": 7281,
+   "damageTaken": 1269,
+   "distanceCm": 2596095,
+   "walkCm": 1158338,
+   "flyCm": 740540,
+   "jumps": 4246,
+   "mined": 4893,
    "topMined": [
     [
      "grass_block",
@@ -377,11 +377,11 @@
     ],
     [
      "sheep",
-     19
+     20
     ],
     [
-     "zombie",
-     5
+     "pig",
+     6
     ]
    ],
    "topKilledBy": [],
