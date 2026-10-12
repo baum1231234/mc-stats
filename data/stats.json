@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-12T13:42:37Z",
+ "updated": "2026-10-12T13:45:45Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2120945,
+ "serverTicks": 2126945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T13:40:39Z",
-   "playTicks": 1702343,
+   "lastSeen": "2026-10-12T13:45:39Z",
+   "playTicks": 1708343,
    "deaths": 0,
-   "mobKills": 881,
+   "mobKills": 885,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 131303,
-   "damageTaken": 15930,
-   "distanceCm": 20729978,
-   "walkCm": 6586453,
-   "flyCm": 7129777,
-   "jumps": 34397,
-   "mined": 7277,
+   "damageDealt": 131423,
+   "damageTaken": 16002,
+   "distanceCm": 20792304,
+   "walkCm": 6601851,
+   "flyCm": 7144560,
+   "jumps": 34456,
+   "mined": 7278,
    "topMined": [
     [
      "packed_ice",
@@ -442,19 +442,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T13:40:39Z",
-   "playTicks": 861233,
+   "lastSeen": "2026-10-12T13:45:39Z",
+   "playTicks": 867233,
    "deaths": 0,
    "mobKills": 232,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 20395,
+   "damageDealt": 20416,
    "damageTaken": 3266,
-   "distanceCm": 9599109,
-   "walkCm": 3949291,
-   "flyCm": 3434907,
-   "jumps": 16072,
-   "mined": 11833,
+   "distanceCm": 9744414,
+   "walkCm": 3973659,
+   "flyCm": 3450048,
+   "jumps": 16119,
+   "mined": 11873,
    "topMined": [
     [
      "dark_oak_log",
@@ -667,23 +667,23 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T13:40:39Z",
-   "playTicks": 368227,
+   "lastSeen": "2026-10-12T13:45:39Z",
+   "playTicks": 374227,
    "deaths": 0,
    "mobKills": 58,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 7140,
    "damageTaken": 1851,
-   "distanceCm": 2117294,
-   "walkCm": 1085674,
-   "flyCm": 496988,
-   "jumps": 3535,
-   "mined": 2912,
+   "distanceCm": 2141541,
+   "walkCm": 1107086,
+   "flyCm": 499823,
+   "jumps": 3551,
+   "mined": 3114,
    "topMined": [
     [
      "stone",
-     931
+     1124
     ],
     [
      "dirt",
@@ -694,7 +694,7 @@
      306
     ]
    ],
-   "crafted": 988,
+   "crafted": 1073,
    "topCrafted": [
     [
      "dark_oak_planks",
@@ -702,7 +702,7 @@
     ],
     [
      "stone",
-     201
+     285
     ],
     [
      "spruce_planks",
