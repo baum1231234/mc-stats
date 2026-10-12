@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T22:50:54Z",
+ "updated": "2026-10-12T22:52:42Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 2774945,
  "players": [
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T22:48:28Z",
-   "playTicks": 1448116,
+   "lastSeen": "2026-10-12T22:51:18Z",
+   "playTicks": 1451508,
    "deaths": 2,
    "mobKills": 351,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 71001,
    "damageTaken": 6457,
-   "distanceCm": 17801084,
-   "walkCm": 7618778,
-   "flyCm": 3925060,
-   "jumps": 16368,
-   "mined": 23814,
+   "distanceCm": 17843669,
+   "walkCm": 7654840,
+   "flyCm": 3930908,
+   "jumps": 16402,
+   "mined": 23967,
    "topMined": [
     [
      "grass_block",
@@ -650,23 +650,23 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-12T22:48:28Z",
-   "playTicks": 580240,
+   "lastSeen": "2026-10-12T22:51:18Z",
+   "playTicks": 583632,
    "deaths": 15,
    "mobKills": 57,
    "playerKills": 0,
    "killedByPlayers": 3,
    "damageDealt": 8611,
    "damageTaken": 7628,
-   "distanceCm": 5475081,
-   "walkCm": 3078439,
-   "flyCm": 1225275,
-   "jumps": 7815,
-   "mined": 6206,
+   "distanceCm": 5494578,
+   "walkCm": 3096806,
+   "flyCm": 1226405,
+   "jumps": 7819,
+   "mined": 6368,
    "topMined": [
     [
      "stone",
-     1894
+     2036
     ],
     [
      "grass_block",
@@ -992,23 +992,23 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-12T22:48:28Z",
-   "playTicks": 397596,
+   "lastSeen": "2026-10-12T22:51:18Z",
+   "playTicks": 400988,
    "deaths": 2,
    "mobKills": 61,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 8153,
-   "damageTaken": 4926,
-   "distanceCm": 4952014,
-   "walkCm": 1589394,
-   "flyCm": 1770127,
-   "jumps": 8565,
-   "mined": 4734,
+   "damageTaken": 4956,
+   "distanceCm": 4979714,
+   "walkCm": 1603905,
+   "flyCm": 1777829,
+   "jumps": 8603,
+   "mined": 4770,
    "topMined": [
     [
      "stone",
-     3634
+     3661
     ],
     [
      "snow_block",
@@ -1019,7 +1019,7 @@
      135
     ]
    ],
-   "crafted": 779,
+   "crafted": 801,
    "topCrafted": [
     [
      "wheat",
