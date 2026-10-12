@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T18:51:22Z",
+ "updated": "2026-10-12T18:54:47Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 2486945,
  "players": [
@@ -7,19 +7,19 @@
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T18:50:29Z",
-   "playTicks": 2068343,
+   "lastSeen": "2026-10-12T18:53:42Z",
+   "playTicks": 2071448,
    "deaths": 0,
-   "mobKills": 927,
+   "mobKills": 930,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 137541,
-   "damageTaken": 17485,
-   "distanceCm": 25511516,
-   "walkCm": 8165370,
-   "flyCm": 8819803,
-   "jumps": 42150,
-   "mined": 10792,
+   "damageDealt": 137841,
+   "damageTaken": 17564,
+   "distanceCm": 25608997,
+   "walkCm": 8177191,
+   "flyCm": 8865732,
+   "jumps": 42325,
+   "mined": 10793,
    "topMined": [
     [
      "spruce_log",
@@ -65,13 +65,17 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 33,
+    "count": 34,
     "byTab": {
      "story": 11,
-     "adventure": 14,
+     "adventure": 15,
      "husbandry": 8
     },
     "recent": [
+     [
+      "adventure/overoverkill",
+      "2026-10-12T18:52:16Z"
+     ],
      [
       "husbandry/breed_an_animal",
       "2026-10-12T11:46:40Z"
@@ -99,10 +103,6 @@
      [
       "adventure/hero_of_the_village",
       "2026-10-11T10:17:09Z"
-     ],
-     [
-      "husbandry/make_a_sign_glow",
-      "2026-10-11T00:26:28Z"
      ]
     ]
    }
