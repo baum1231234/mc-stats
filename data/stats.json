@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-12T22:35:01Z",
+ "updated": "2026-10-12T22:36:33Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2753543,
+ "serverTicks": 2756945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T22:33:28Z",
-   "playTicks": 2287971,
+   "lastSeen": "2026-10-12T22:36:18Z",
+   "playTicks": 2291373,
    "deaths": 0,
    "mobKills": 1012,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 148119,
+   "damageDealt": 148199,
    "damageTaken": 19593,
-   "distanceCm": 28765686,
-   "walkCm": 8945070,
-   "flyCm": 10180758,
-   "jumps": 47761,
+   "distanceCm": 29084931,
+   "walkCm": 8946388,
+   "flyCm": 10208577,
+   "jumps": 47793,
    "mined": 12006,
    "topMined": [
     [
@@ -111,18 +111,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T22:33:28Z",
-   "playTicks": 1430106,
+   "lastSeen": "2026-10-12T22:36:18Z",
+   "playTicks": 1433508,
    "deaths": 2,
    "mobKills": 351,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 71001,
    "damageTaken": 6431,
-   "distanceCm": 17568538,
-   "walkCm": 7491305,
-   "flyCm": 3839814,
-   "jumps": 15996,
+   "distanceCm": 17601523,
+   "walkCm": 7503870,
+   "flyCm": 3851912,
+   "jumps": 16039,
    "mined": 23729,
    "topMined": [
     [
@@ -650,19 +650,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-12T22:33:28Z",
-   "playTicks": 562230,
+   "lastSeen": "2026-10-12T22:36:18Z",
+   "playTicks": 565632,
    "deaths": 15,
-   "mobKills": 56,
+   "mobKills": 57,
    "playerKills": 0,
    "killedByPlayers": 3,
-   "damageDealt": 8572,
+   "damageDealt": 8611,
    "damageTaken": 7568,
-   "distanceCm": 5318612,
-   "walkCm": 2951639,
-   "flyCm": 1201260,
-   "jumps": 7708,
-   "mined": 5434,
+   "distanceCm": 5353651,
+   "walkCm": 2979079,
+   "flyCm": 1207255,
+   "jumps": 7732,
+   "mined": 5522,
    "topMined": [
     [
      "stone",
@@ -677,7 +677,7 @@
      827
     ]
    ],
-   "crafted": 6127,
+   "crafted": 6189,
    "topCrafted": [
     [
      "stick",
@@ -888,18 +888,18 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-12T22:33:28Z",
-   "playTicks": 524558,
+   "lastSeen": "2026-10-12T22:35:34Z",
+   "playTicks": 527088,
    "deaths": 1,
    "mobKills": 447,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 16592,
    "damageTaken": 2815,
-   "distanceCm": 3966274,
-   "walkCm": 2267482,
-   "flyCm": 1042862,
-   "jumps": 7267,
+   "distanceCm": 3975768,
+   "walkCm": 2276458,
+   "flyCm": 1043380,
+   "jumps": 7276,
    "mined": 7690,
    "topMined": [
     [
@@ -915,7 +915,7 @@
      219
     ]
    ],
-   "crafted": 79981,
+   "crafted": 80097,
    "topCrafted": [
     [
      "stick",
@@ -984,6 +984,119 @@
      [
       "story/iron_tools",
       "2026-10-12T15:42:57Z"
+     ]
+    ]
+   }
+  },
+  {
+   "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
+   "name": "Ogerxy",
+   "firstSeen": "2026-10-11T15:50:26Z",
+   "lastSeen": "2026-10-12T22:36:18Z",
+   "playTicks": 382988,
+   "deaths": 2,
+   "mobKills": 61,
+   "playerKills": 0,
+   "killedByPlayers": 1,
+   "damageDealt": 8153,
+   "damageTaken": 4886,
+   "distanceCm": 4926310,
+   "walkCm": 1574514,
+   "flyCm": 1762318,
+   "jumps": 8523,
+   "mined": 4701,
+   "topMined": [
+    [
+     "stone",
+     3613
+    ],
+    [
+     "snow_block",
+     285
+    ],
+    [
+     "gravel",
+     135
+    ]
+   ],
+   "crafted": 779,
+   "topCrafted": [
+    [
+     "wheat",
+     261
+    ],
+    [
+     "bread",
+     87
+    ],
+    [
+     "iron_ingot",
+     86
+    ]
+   ],
+   "topKilled": [
+    [
+     "sheep",
+     20
+    ],
+    [
+     "zombie",
+     11
+    ],
+    [
+     "skeleton",
+     11
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "player",
+     1
+    ],
+    [
+     "creeper",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 15,
+    "byTab": {
+     "story": 9,
+     "adventure": 5,
+     "husbandry": 1
+    },
+    "recent": [
+     [
+      "story/shiny_gear",
+      "2026-10-12T21:00:08Z"
+     ],
+     [
+      "adventure/avoid_vibration",
+      "2026-10-12T20:54:54Z"
+     ],
+     [
+      "story/deflect_arrow",
+      "2026-10-12T20:48:40Z"
+     ],
+     [
+      "adventure/kill_a_mob",
+      "2026-10-12T19:22:18Z"
+     ],
+     [
+      "story/obtain_armor",
+      "2026-10-12T19:08:15Z"
+     ],
+     [
+      "adventure/totem_of_undying",
+      "2026-10-11T20:30:03Z"
+     ],
+     [
+      "story/mine_diamond",
+      "2026-10-11T17:27:56Z"
+     ],
+     [
+      "story/iron_tools",
+      "2026-10-11T16:55:01Z"
      ]
     ]
    }
@@ -1088,119 +1201,6 @@
      [
       "adventure/kill_a_mob",
       "2026-10-10T18:00:49Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
-   "name": "Ogerxy",
-   "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-12T22:33:28Z",
-   "playTicks": 379586,
-   "deaths": 2,
-   "mobKills": 61,
-   "playerKills": 0,
-   "killedByPlayers": 1,
-   "damageDealt": 8153,
-   "damageTaken": 4876,
-   "distanceCm": 4916007,
-   "walkCm": 1570921,
-   "flyCm": 1757358,
-   "jumps": 8490,
-   "mined": 4701,
-   "topMined": [
-    [
-     "stone",
-     3613
-    ],
-    [
-     "snow_block",
-     285
-    ],
-    [
-     "gravel",
-     135
-    ]
-   ],
-   "crafted": 779,
-   "topCrafted": [
-    [
-     "wheat",
-     261
-    ],
-    [
-     "bread",
-     87
-    ],
-    [
-     "iron_ingot",
-     86
-    ]
-   ],
-   "topKilled": [
-    [
-     "sheep",
-     20
-    ],
-    [
-     "zombie",
-     11
-    ],
-    [
-     "skeleton",
-     11
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "player",
-     1
-    ],
-    [
-     "creeper",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 15,
-    "byTab": {
-     "story": 9,
-     "adventure": 5,
-     "husbandry": 1
-    },
-    "recent": [
-     [
-      "story/shiny_gear",
-      "2026-10-12T21:00:08Z"
-     ],
-     [
-      "adventure/avoid_vibration",
-      "2026-10-12T20:54:54Z"
-     ],
-     [
-      "story/deflect_arrow",
-      "2026-10-12T20:48:40Z"
-     ],
-     [
-      "adventure/kill_a_mob",
-      "2026-10-12T19:22:18Z"
-     ],
-     [
-      "story/obtain_armor",
-      "2026-10-12T19:08:15Z"
-     ],
-     [
-      "adventure/totem_of_undying",
-      "2026-10-11T20:30:03Z"
-     ],
-     [
-      "story/mine_diamond",
-      "2026-10-11T17:27:56Z"
-     ],
-     [
-      "story/iron_tools",
-      "2026-10-11T16:55:01Z"
      ]
     ]
    }
