@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T09:17:36Z",
+ "updated": "2026-10-12T09:21:59Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1807616,
+ "serverTicks": 1812542,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -433,19 +433,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-12T09:17:26Z",
-   "playTicks": 656405,
+   "lastSeen": "2026-10-12T09:21:32Z",
+   "playTicks": 661331,
    "deaths": 2,
-   "mobKills": 170,
+   "mobKills": 171,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 31594,
-   "damageTaken": 7246,
-   "distanceCm": 5937564,
-   "walkCm": 2954357,
-   "flyCm": 1754440,
-   "jumps": 11161,
-   "mined": 8977,
+   "damageDealt": 31794,
+   "damageTaken": 7254,
+   "distanceCm": 5957389,
+   "walkCm": 2966697,
+   "flyCm": 1761700,
+   "jumps": 11217,
+   "mined": 9146,
    "topMined": [
     [
      "spruce_log",
@@ -453,7 +453,7 @@
     ],
     [
      "stone",
-     1234
+     1401
     ],
     [
      "grass_block",
@@ -478,7 +478,7 @@
    "topKilled": [
     [
      "zombie",
-     88
+     89
     ],
     [
      "skeleton",
@@ -546,19 +546,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-12T09:17:26Z",
-   "playTicks": 372394,
+   "lastSeen": "2026-10-12T09:21:32Z",
+   "playTicks": 377320,
    "deaths": 13,
    "mobKills": 37,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 4635,
-   "damageTaken": 6011,
-   "distanceCm": 3799510,
-   "walkCm": 1864372,
-   "flyCm": 847002,
-   "jumps": 5677,
-   "mined": 3248,
+   "damageDealt": 4807,
+   "damageTaken": 6137,
+   "distanceCm": 3833636,
+   "walkCm": 1887221,
+   "flyCm": 854829,
+   "jumps": 5737,
+   "mined": 3252,
    "topMined": [
     [
      "stone",
@@ -573,7 +573,7 @@
      440
     ]
    ],
-   "crafted": 2319,
+   "crafted": 2324,
    "topCrafted": [
     [
      "stick",
