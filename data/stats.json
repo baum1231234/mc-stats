@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T17:46:03Z",
+ "updated": "2026-10-12T17:47:57Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2414945,
+ "serverTicks": 2417862,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -546,19 +546,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T17:45:39Z",
-   "playTicks": 655393,
+   "lastSeen": "2026-10-12T17:48:08Z",
+   "playTicks": 658310,
    "deaths": 0,
-   "mobKills": 101,
+   "mobKills": 102,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 11633,
-   "damageTaken": 3128,
-   "distanceCm": 4346668,
-   "walkCm": 2489309,
-   "flyCm": 962646,
-   "jumps": 6836,
-   "mined": 6227,
+   "damageDealt": 11833,
+   "damageTaken": 3212,
+   "distanceCm": 4371282,
+   "walkCm": 2505069,
+   "flyCm": 968931,
+   "jumps": 6858,
+   "mined": 6230,
    "topMined": [
     [
      "stone",
@@ -573,7 +573,7 @@
      556
     ]
    ],
-   "crafted": 2313,
+   "crafted": 2355,
    "topCrafted": [
     [
      "stone",
@@ -992,18 +992,18 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-12T17:45:39Z",
-   "playTicks": 189676,
+   "lastSeen": "2026-10-12T17:48:08Z",
+   "playTicks": 192593,
    "deaths": 0,
    "mobKills": 56,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 9069,
+   "damageDealt": 9079,
    "damageTaken": 2091,
-   "distanceCm": 1572234,
-   "walkCm": 831422,
-   "flyCm": 351632,
-   "jumps": 2800,
+   "distanceCm": 1577682,
+   "walkCm": 836411,
+   "flyCm": 352091,
+   "jumps": 2816,
    "mined": 1214,
    "topMined": [
     [
@@ -1019,19 +1019,19 @@
      134
     ]
    ],
-   "crafted": 381,
+   "crafted": 4395,
    "topCrafted": [
+    [
+     "stick",
+     2142
+    ],
+    [
+     "spruce_planks",
+     1860
+    ],
     [
      "wheat",
      126
-    ],
-    [
-     "glass",
-     64
-    ],
-    [
-     "iron_ingot",
-     55
     ]
    ],
    "topKilled": [
@@ -1050,13 +1050,17 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 13,
+    "count": 14,
     "byTab": {
      "story": 9,
-     "adventure": 3,
+     "adventure": 4,
      "husbandry": 1
     },
     "recent": [
+     [
+      "adventure/trade",
+      "2026-10-12T17:46:41Z"
+     ],
      [
       "story/deflect_arrow",
       "2026-10-12T16:52:02Z"
@@ -1084,10 +1088,6 @@
      [
       "story/obtain_armor",
       "2026-10-12T15:42:24Z"
-     ],
-     [
-      "story/smelt_iron",
-      "2026-10-12T15:27:49Z"
      ]
     ]
    }
@@ -1992,6 +1992,22 @@
     "mtime": "2026-10-11T20:59:06Z",
     "rendered": "2026-10-12T17:46:03Z",
     "empty": true
+   },
+   "-5.1": {
+    "mtime": "2026-10-12T15:35:36Z",
+    "rendered": "2026-10-12T17:47:57Z"
+   },
+   "-6.2": {
+    "mtime": "2026-10-12T15:33:36Z",
+    "rendered": "2026-10-12T17:47:57Z"
+   },
+   "-7.3": {
+    "mtime": "2026-10-12T10:30:00Z",
+    "rendered": "2026-10-12T17:47:57Z"
+   },
+   "1.7": {
+    "mtime": "2026-10-11T21:05:19Z",
+    "rendered": "2026-10-12T17:47:57Z"
    }
   }
  }
