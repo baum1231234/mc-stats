@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-12T15:17:29Z",
+ "updated": "2026-10-12T15:19:06Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2234945,
+ "serverTicks": 2237784,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T15:15:39Z",
-   "playTicks": 1816343,
+   "lastSeen": "2026-10-12T15:18:01Z",
+   "playTicks": 1819182,
    "deaths": 0,
    "mobKills": 891,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 132799,
-   "damageTaken": 16192,
-   "distanceCm": 21927949,
-   "walkCm": 7208135,
-   "flyCm": 7551009,
-   "jumps": 36391,
+   "damageTaken": 16202,
+   "distanceCm": 21932806,
+   "walkCm": 7209903,
+   "flyCm": 7553673,
+   "jumps": 36404,
    "mined": 8155,
    "topMined": [
     [
@@ -329,23 +329,23 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-12T15:15:39Z",
-   "playTicks": 1020907,
+   "lastSeen": "2026-10-12T15:18:01Z",
+   "playTicks": 1023746,
    "deaths": 3,
    "mobKills": 603,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 56269,
    "damageTaken": 9143,
-   "distanceCm": 8277241,
-   "walkCm": 4536655,
-   "flyCm": 2091733,
-   "jumps": 14153,
-   "mined": 15116,
+   "distanceCm": 8298871,
+   "walkCm": 4551202,
+   "flyCm": 2097866,
+   "jumps": 14192,
+   "mined": 15197,
    "topMined": [
     [
      "spruce_log",
-     3782
+     3861
     ],
     [
      "stone",
@@ -442,18 +442,18 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T14:04:17Z",
-   "playTicks": 889588,
+   "lastSeen": "2026-10-12T15:18:01Z",
+   "playTicks": 889957,
    "deaths": 0,
    "mobKills": 232,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 20416,
    "damageTaken": 3303,
-   "distanceCm": 10240639,
-   "walkCm": 4067168,
-   "flyCm": 3503598,
-   "jumps": 16343,
+   "distanceCm": 10247666,
+   "walkCm": 4069399,
+   "flyCm": 3507944,
+   "jumps": 16361,
    "mined": 11959,
    "topMined": [
     [
@@ -546,19 +546,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T15:15:39Z",
-   "playTicks": 482227,
+   "lastSeen": "2026-10-12T15:18:01Z",
+   "playTicks": 485066,
    "deaths": 0,
    "mobKills": 62,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 7810,
-   "damageTaken": 2038,
-   "distanceCm": 2683410,
-   "walkCm": 1464458,
-   "flyCm": 587858,
-   "jumps": 4251,
-   "mined": 4671,
+   "damageTaken": 2048,
+   "distanceCm": 2702219,
+   "walkCm": 1481416,
+   "flyCm": 589009,
+   "jumps": 4276,
+   "mined": 4688,
    "topMined": [
     [
      "stone",
@@ -566,7 +566,7 @@
     ],
     [
      "dirt",
-     486
+     503
     ],
     [
      "grass_block",
@@ -1105,30 +1105,30 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-12T15:15:39Z",
-   "playTicks": 10414,
+   "lastSeen": "2026-10-12T15:18:01Z",
+   "playTicks": 13253,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 0,
-   "damageTaken": 0,
-   "distanceCm": 64786,
-   "walkCm": 17257,
-   "flyCm": 2662,
-   "jumps": 47,
-   "mined": 9,
+   "damageTaken": 10,
+   "distanceCm": 120104,
+   "walkCm": 27510,
+   "flyCm": 7169,
+   "jumps": 82,
+   "mined": 27,
    "topMined": [
+    [
+     "stone",
+     18
+    ],
     [
      "oak_log",
      7
     ],
     [
      "oak_leaves",
-     1
-    ],
-    [
-     "crafting_table",
      1
     ]
    ],
@@ -1150,11 +1150,15 @@
    "topKilled": [],
    "topKilledBy": [],
    "adv": {
-    "count": 1,
+    "count": 2,
     "byTab": {
-     "story": 1
+     "story": 2
     },
     "recent": [
+     [
+      "story/mine_stone",
+      "2026-10-12T15:17:18Z"
+     ],
      [
       "story/root",
       "2026-10-12T15:09:37Z"
