@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T07:57:25Z",
+ "updated": "2026-10-12T08:01:42Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1710542,
+ "serverTicks": 1716542,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T07:56:32Z",
-   "playTicks": 1322385,
+   "lastSeen": "2026-10-12T08:01:32Z",
+   "playTicks": 1328385,
    "deaths": 2,
    "mobKills": 331,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 67090,
    "damageTaken": 6344,
-   "distanceCm": 16569843,
-   "walkCm": 6831031,
-   "flyCm": 3526437,
-   "jumps": 14756,
-   "mined": 23420,
+   "distanceCm": 16637935,
+   "walkCm": 6890359,
+   "flyCm": 3534451,
+   "jumps": 14794,
+   "mined": 23429,
    "topMined": [
     [
      "grass_block",
@@ -131,14 +131,14 @@
     ],
     [
      "dirt",
-     5044
+     5053
     ],
     [
      "sand",
      3731
     ]
    ],
-   "crafted": 3776,
+   "crafted": 4028,
    "topCrafted": [
     [
      "emerald",
@@ -146,7 +146,7 @@
     ],
     [
      "wheat",
-     567
+     819
     ],
     [
      "gold_nugget",
@@ -1001,19 +1001,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T07:56:32Z",
-   "playTicks": 55642,
+   "lastSeen": "2026-10-12T08:01:32Z",
+   "playTicks": 61642,
    "deaths": 0,
-   "mobKills": 37,
+   "mobKills": 38,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 3325,
+   "damageDealt": 3525,
    "damageTaken": 291,
-   "distanceCm": 428527,
-   "walkCm": 230545,
-   "flyCm": 86035,
-   "jumps": 742,
-   "mined": 588,
+   "distanceCm": 465902,
+   "walkCm": 266707,
+   "flyCm": 86948,
+   "jumps": 761,
+   "mined": 630,
    "topMined": [
     [
      "stone",
@@ -1028,19 +1028,19 @@
      47
     ]
    ],
-   "crafted": 213,
+   "crafted": 233,
    "topCrafted": [
     [
      "spruce_planks",
      68
     ],
     [
-     "iron_ingot",
-     41
+     "torch",
+     48
     ],
     [
-     "torch",
-     28
+     "iron_ingot",
+     41
     ]
    ],
    "topKilled": [
@@ -1059,13 +1059,17 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 9,
+    "count": 10,
     "byTab": {
      "adventure": 2,
      "husbandry": 1,
-     "story": 6
+     "story": 7
     },
     "recent": [
+     [
+      "story/mine_diamond",
+      "2026-10-12T07:59:25Z"
+     ],
      [
       "adventure/kill_a_mob",
       "2026-10-12T07:55:58Z"
@@ -1093,10 +1097,6 @@
      [
       "story/mine_stone",
       "2026-10-12T07:16:22Z"
-     ],
-     [
-      "story/root",
-      "2026-10-12T07:16:11Z"
      ]
     ]
    }
