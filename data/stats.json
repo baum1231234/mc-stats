@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T11:59:35Z",
+ "updated": "2026-10-12T12:02:32Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1998542,
+ "serverTicks": 2005897,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -442,19 +442,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T11:56:32Z",
-   "playTicks": 782374,
+   "lastSeen": "2026-10-12T12:02:33Z",
+   "playTicks": 789577,
    "deaths": 0,
-   "mobKills": 221,
+   "mobKills": 222,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 17777,
-   "damageTaken": 2957,
-   "distanceCm": 8437817,
-   "walkCm": 3491927,
-   "flyCm": 2992793,
-   "jumps": 14071,
-   "mined": 11129,
+   "damageDealt": 18777,
+   "damageTaken": 2968,
+   "distanceCm": 8507499,
+   "walkCm": 3544336,
+   "flyCm": 3008046,
+   "jumps": 14220,
+   "mined": 11314,
    "topMined": [
     [
      "dark_oak_log",
@@ -462,14 +462,14 @@
     ],
     [
      "grass_block",
-     1703
+     1711
     ],
     [
      "stone",
-     1400
+     1455
     ]
    ],
-   "crafted": 28928,
+   "crafted": 28937,
    "topCrafted": [
     [
      "stick",
@@ -888,19 +888,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T11:56:32Z",
-   "playTicks": 279401,
+   "lastSeen": "2026-10-12T12:02:22Z",
+   "playTicks": 286392,
    "deaths": 0,
    "mobKills": 58,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 7140,
-   "damageTaken": 1439,
-   "distanceCm": 1761625,
-   "walkCm": 896307,
-   "flyCm": 421165,
-   "jumps": 2921,
-   "mined": 2264,
+   "damageTaken": 1459,
+   "distanceCm": 1782470,
+   "walkCm": 913435,
+   "flyCm": 424057,
+   "jumps": 2980,
+   "mined": 2428,
    "topMined": [
     [
      "stone",
@@ -908,11 +908,11 @@
     ],
     [
      "dirt",
-     314
+     323
     ],
     [
      "spruce_leaves",
-     187
+     291
     ]
    ],
    "crafted": 663,
