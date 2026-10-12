@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T11:52:11Z",
+ "updated": "2026-10-12T11:56:37Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1992542,
+ "serverTicks": 1998542,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -329,18 +329,18 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-12T11:51:32Z",
-   "playTicks": 838586,
+   "lastSeen": "2026-10-12T11:56:32Z",
+   "playTicks": 844586,
    "deaths": 3,
    "mobKills": 576,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 40364,
-   "damageTaken": 8311,
-   "distanceCm": 7218256,
-   "walkCm": 3686392,
-   "flyCm": 1950946,
-   "jumps": 12586,
+   "damageDealt": 40812,
+   "damageTaken": 8418,
+   "distanceCm": 7266509,
+   "walkCm": 3717815,
+   "flyCm": 1964266,
+   "jumps": 12705,
    "mined": 11392,
    "topMined": [
     [
@@ -356,7 +356,7 @@
      866
     ]
    ],
-   "crafted": 37234,
+   "crafted": 37328,
    "topCrafted": [
     [
      "stick",
@@ -442,19 +442,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T11:51:32Z",
-   "playTicks": 776374,
+   "lastSeen": "2026-10-12T11:56:32Z",
+   "playTicks": 782374,
    "deaths": 0,
-   "mobKills": 220,
+   "mobKills": 221,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 16918,
-   "damageTaken": 2938,
-   "distanceCm": 8378658,
-   "walkCm": 3447046,
-   "flyCm": 2980320,
-   "jumps": 13943,
-   "mined": 11090,
+   "damageDealt": 17777,
+   "damageTaken": 2957,
+   "distanceCm": 8437817,
+   "walkCm": 3491927,
+   "flyCm": 2992793,
+   "jumps": 14071,
+   "mined": 11129,
    "topMined": [
     [
      "dark_oak_log",
@@ -500,13 +500,17 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 13,
+    "count": 14,
     "byTab": {
      "story": 7,
      "adventure": 5,
-     "husbandry": 1
+     "husbandry": 2
     },
     "recent": [
+     [
+      "husbandry/plant_seed",
+      "2026-10-12T11:55:50Z"
+     ],
      [
       "adventure/shoot_arrow",
       "2026-10-12T11:32:55Z"
@@ -534,10 +538,6 @@
      [
       "adventure/kill_a_mob",
       "2026-10-10T21:41:48Z"
-     ],
-     [
-      "adventure/sleep_in_bed",
-      "2026-10-10T21:39:37Z"
      ]
     ]
    }
@@ -888,19 +888,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T11:51:32Z",
-   "playTicks": 273401,
+   "lastSeen": "2026-10-12T11:56:32Z",
+   "playTicks": 279401,
    "deaths": 0,
-   "mobKills": 55,
+   "mobKills": 58,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 6634,
-   "damageTaken": 1349,
-   "distanceCm": 1747015,
-   "walkCm": 884620,
-   "flyCm": 419167,
-   "jumps": 2831,
-   "mined": 2081,
+   "damageDealt": 7140,
+   "damageTaken": 1439,
+   "distanceCm": 1761625,
+   "walkCm": 896307,
+   "flyCm": 421165,
+   "jumps": 2921,
+   "mined": 2264,
    "topMined": [
     [
      "stone",
@@ -911,8 +911,8 @@
      314
     ],
     [
-     "coal_ore",
-     136
+     "spruce_leaves",
+     187
     ]
    ],
    "crafted": 663,
@@ -937,7 +937,7 @@
     ],
     [
      "zombie",
-     11
+     12
     ],
     [
      "chicken",
