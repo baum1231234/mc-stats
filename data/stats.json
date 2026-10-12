@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-12T13:03:44Z",
+ "updated": "2026-10-12T13:06:49Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2075458,
+ "serverTicks": 2078945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T13:02:45Z",
-   "playTicks": 1656856,
+   "lastSeen": "2026-10-12T13:05:39Z",
+   "playTicks": 1660343,
    "deaths": 0,
    "mobKills": 880,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 131273,
    "damageTaken": 15728,
-   "distanceCm": 20273789,
-   "walkCm": 6417067,
-   "flyCm": 6933655,
-   "jumps": 33528,
-   "mined": 6940,
+   "distanceCm": 20304613,
+   "walkCm": 6426489,
+   "flyCm": 6939822,
+   "jumps": 33566,
+   "mined": 6951,
    "topMined": [
     [
      "packed_ice",
@@ -34,7 +34,7 @@
      721
     ]
    ],
-   "crafted": 17785,
+   "crafted": 17789,
    "topCrafted": [
     [
      "stick",
@@ -329,34 +329,34 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-12T13:02:45Z",
-   "playTicks": 915273,
+   "lastSeen": "2026-10-12T13:05:39Z",
+   "playTicks": 918760,
    "deaths": 3,
    "mobKills": 582,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 41909,
-   "damageTaken": 8636,
-   "distanceCm": 7647378,
-   "walkCm": 3988220,
-   "flyCm": 2029120,
-   "jumps": 13399,
-   "mined": 13224,
+   "damageTaken": 8643,
+   "distanceCm": 7671359,
+   "walkCm": 4009580,
+   "flyCm": 2030991,
+   "jumps": 13405,
+   "mined": 13248,
    "topMined": [
     [
      "spruce_log",
-     3735
+     3738
     ],
     [
      "stone",
-     2539
+     2560
     ],
     [
      "deepslate",
      1438
     ]
    ],
-   "crafted": 39845,
+   "crafted": 39861,
    "topCrafted": [
     [
      "stick",
@@ -442,19 +442,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T13:02:45Z",
-   "playTicks": 823014,
+   "lastSeen": "2026-10-12T13:05:39Z",
+   "playTicks": 826501,
    "deaths": 0,
    "mobKills": 231,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 20018,
-   "damageTaken": 3150,
-   "distanceCm": 9006191,
-   "walkCm": 3733348,
-   "flyCm": 3224392,
-   "jumps": 15221,
-   "mined": 11408,
+   "damageTaken": 3170,
+   "distanceCm": 9037705,
+   "walkCm": 3748317,
+   "flyCm": 3238367,
+   "jumps": 15307,
+   "mined": 11411,
    "topMined": [
     [
      "dark_oak_log",
@@ -768,6 +768,110 @@
    }
   },
   {
+   "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
+   "name": "imoptimalfall187",
+   "firstSeen": "2026-10-12T07:02:09Z",
+   "lastSeen": "2026-10-12T13:05:39Z",
+   "playTicks": 326227,
+   "deaths": 0,
+   "mobKills": 58,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 7140,
+   "damageTaken": 1523,
+   "distanceCm": 1881304,
+   "walkCm": 972069,
+   "flyCm": 456537,
+   "jumps": 3233,
+   "mined": 2569,
+   "topMined": [
+    [
+     "stone",
+     803
+    ],
+    [
+     "dirt",
+     345
+    ],
+    [
+     "spruce_leaves",
+     306
+    ]
+   ],
+   "crafted": 663,
+   "topCrafted": [
+    [
+     "stone",
+     145
+    ],
+    [
+     "spruce_planks",
+     104
+    ],
+    [
+     "torch",
+     96
+    ]
+   ],
+   "topKilled": [
+    [
+     "sheep",
+     14
+    ],
+    [
+     "zombie",
+     12
+    ],
+    [
+     "chicken",
+     7
+    ]
+   ],
+   "topKilledBy": [],
+   "adv": {
+    "count": 12,
+    "byTab": {
+     "adventure": 4,
+     "story": 7,
+     "husbandry": 1
+    },
+    "recent": [
+     [
+      "adventure/sleep_in_bed",
+      "2026-10-12T08:53:28Z"
+     ],
+     [
+      "adventure/avoid_vibration",
+      "2026-10-12T08:13:34Z"
+     ],
+     [
+      "story/mine_diamond",
+      "2026-10-12T07:59:25Z"
+     ],
+     [
+      "adventure/kill_a_mob",
+      "2026-10-12T07:55:58Z"
+     ],
+     [
+      "story/obtain_armor",
+      "2026-10-12T07:54:54Z"
+     ],
+     [
+      "story/iron_tools",
+      "2026-10-12T07:52:05Z"
+     ],
+     [
+      "story/smelt_iron",
+      "2026-10-12T07:51:42Z"
+     ],
+     [
+      "husbandry/root",
+      "2026-10-12T07:18:02Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
@@ -880,110 +984,6 @@
      [
       "adventure/root",
       "2026-10-11T14:37:04Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
-   "name": "imoptimalfall187",
-   "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T13:02:45Z",
-   "playTicks": 322740,
-   "deaths": 0,
-   "mobKills": 58,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 7140,
-   "damageTaken": 1513,
-   "distanceCm": 1858895,
-   "walkCm": 960111,
-   "flyCm": 447661,
-   "jumps": 3193,
-   "mined": 2541,
-   "topMined": [
-    [
-     "stone",
-     803
-    ],
-    [
-     "dirt",
-     345
-    ],
-    [
-     "spruce_leaves",
-     305
-    ]
-   ],
-   "crafted": 663,
-   "topCrafted": [
-    [
-     "stone",
-     145
-    ],
-    [
-     "spruce_planks",
-     104
-    ],
-    [
-     "torch",
-     96
-    ]
-   ],
-   "topKilled": [
-    [
-     "sheep",
-     14
-    ],
-    [
-     "zombie",
-     12
-    ],
-    [
-     "chicken",
-     7
-    ]
-   ],
-   "topKilledBy": [],
-   "adv": {
-    "count": 12,
-    "byTab": {
-     "adventure": 4,
-     "story": 7,
-     "husbandry": 1
-    },
-    "recent": [
-     [
-      "adventure/sleep_in_bed",
-      "2026-10-12T08:53:28Z"
-     ],
-     [
-      "adventure/avoid_vibration",
-      "2026-10-12T08:13:34Z"
-     ],
-     [
-      "story/mine_diamond",
-      "2026-10-12T07:59:25Z"
-     ],
-     [
-      "adventure/kill_a_mob",
-      "2026-10-12T07:55:58Z"
-     ],
-     [
-      "story/obtain_armor",
-      "2026-10-12T07:54:54Z"
-     ],
-     [
-      "story/iron_tools",
-      "2026-10-12T07:52:05Z"
-     ],
-     [
-      "story/smelt_iron",
-      "2026-10-12T07:51:42Z"
-     ],
-     [
-      "husbandry/root",
-      "2026-10-12T07:18:02Z"
      ]
     ]
    }
