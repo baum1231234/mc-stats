@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-12T15:19:06Z",
+ "updated": "2026-10-12T15:20:45Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2237784,
+ "serverTicks": 2240945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T15:18:01Z",
-   "playTicks": 1819182,
+   "lastSeen": "2026-10-12T15:20:39Z",
+   "playTicks": 1822343,
    "deaths": 0,
    "mobKills": 891,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 132799,
    "damageTaken": 16202,
-   "distanceCm": 21932806,
-   "walkCm": 7209903,
-   "flyCm": 7553673,
-   "jumps": 36404,
-   "mined": 8155,
+   "distanceCm": 21967998,
+   "walkCm": 7231177,
+   "flyCm": 7562967,
+   "jumps": 36485,
+   "mined": 8178,
    "topMined": [
     [
      "packed_ice",
@@ -329,19 +329,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-12T15:18:01Z",
-   "playTicks": 1023746,
+   "lastSeen": "2026-10-12T15:20:39Z",
+   "playTicks": 1026907,
    "deaths": 3,
    "mobKills": 603,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 56269,
-   "damageTaken": 9143,
-   "distanceCm": 8298871,
-   "walkCm": 4551202,
-   "flyCm": 2097866,
-   "jumps": 14192,
-   "mined": 15197,
+   "damageTaken": 9144,
+   "distanceCm": 8326642,
+   "walkCm": 4577601,
+   "flyCm": 2099013,
+   "jumps": 14202,
+   "mined": 15199,
    "topMined": [
     [
      "spruce_log",
@@ -442,18 +442,18 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T15:18:01Z",
-   "playTicks": 889957,
+   "lastSeen": "2026-10-12T15:20:39Z",
+   "playTicks": 893118,
    "deaths": 0,
    "mobKills": 232,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 20416,
-   "damageTaken": 3303,
-   "distanceCm": 10247666,
-   "walkCm": 4069399,
-   "flyCm": 3507944,
-   "jumps": 16361,
+   "damageTaken": 3310,
+   "distanceCm": 10300215,
+   "walkCm": 4092582,
+   "flyCm": 3536020,
+   "jumps": 16472,
    "mined": 11959,
    "topMined": [
     [
@@ -469,7 +469,7 @@
      1516
     ]
    ],
-   "crafted": 29322,
+   "crafted": 29382,
    "topCrafted": [
     [
      "stick",
@@ -546,19 +546,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T15:18:01Z",
-   "playTicks": 485066,
+   "lastSeen": "2026-10-12T15:20:39Z",
+   "playTicks": 488227,
    "deaths": 0,
    "mobKills": 62,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 7810,
-   "damageTaken": 2048,
-   "distanceCm": 2702219,
-   "walkCm": 1481416,
-   "flyCm": 589009,
-   "jumps": 4276,
-   "mined": 4688,
+   "damageTaken": 2068,
+   "distanceCm": 2729409,
+   "walkCm": 1501570,
+   "flyCm": 593685,
+   "jumps": 4331,
+   "mined": 4692,
    "topMined": [
     [
      "stone",
@@ -566,7 +566,7 @@
     ],
     [
      "dirt",
-     503
+     507
     ],
     [
      "grass_block",
@@ -1105,34 +1105,34 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-12T15:18:01Z",
-   "playTicks": 13253,
+   "lastSeen": "2026-10-12T15:20:39Z",
+   "playTicks": 16414,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 0,
    "damageTaken": 10,
-   "distanceCm": 120104,
-   "walkCm": 27510,
-   "flyCm": 7169,
-   "jumps": 82,
-   "mined": 27,
+   "distanceCm": 137444,
+   "walkCm": 38885,
+   "flyCm": 11334,
+   "jumps": 120,
+   "mined": 57,
    "topMined": [
     [
      "stone",
-     18
+     23
+    ],
+    [
+     "coal_ore",
+     22
     ],
     [
      "oak_log",
      7
-    ],
-    [
-     "oak_leaves",
-     1
     ]
    ],
-   "crafted": 32,
+   "crafted": 37,
    "topCrafted": [
     [
      "oak_planks",
@@ -1140,7 +1140,7 @@
     ],
     [
      "stick",
-     4
+     8
     ],
     [
      "wooden_axe",
@@ -1150,11 +1150,15 @@
    "topKilled": [],
    "topKilledBy": [],
    "adv": {
-    "count": 2,
+    "count": 3,
     "byTab": {
-     "story": 2
+     "story": 3
     },
     "recent": [
+     [
+      "story/upgrade_tools",
+      "2026-10-12T15:19:46Z"
+     ],
      [
       "story/mine_stone",
       "2026-10-12T15:17:18Z"
