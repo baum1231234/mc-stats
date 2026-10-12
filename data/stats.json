@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T20:14:27Z",
+ "updated": "2026-10-12T20:16:13Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2582945,
+ "serverTicks": 2588945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -992,23 +992,23 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-12T20:11:18Z",
-   "playTicks": 357676,
+   "lastSeen": "2026-10-12T20:16:18Z",
+   "playTicks": 363676,
    "deaths": 1,
    "mobKills": 59,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 10466,
-   "damageTaken": 2449,
-   "distanceCm": 2569902,
-   "walkCm": 1491505,
-   "flyCm": 611988,
-   "jumps": 4728,
-   "mined": 4933,
+   "damageTaken": 2453,
+   "distanceCm": 2607185,
+   "walkCm": 1514658,
+   "flyCm": 624922,
+   "jumps": 4860,
+   "mined": 5305,
    "topMined": [
     [
      "spruce_log",
-     3857
+     4229
     ],
     [
      "stone",
@@ -1019,19 +1019,19 @@
      134
     ]
    ],
-   "crafted": 47747,
+   "crafted": 49384,
    "topCrafted": [
     [
      "stick",
-     30252
+     31156
     ],
     [
      "spruce_planks",
-     15325
+     16033
     ],
     [
      "emerald",
-     979
+     1004
     ]
    ],
    "topKilled": [
@@ -1096,23 +1096,23 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-12T20:11:18Z",
-   "playTicks": 214764,
+   "lastSeen": "2026-10-12T20:16:18Z",
+   "playTicks": 220764,
    "deaths": 2,
    "mobKills": 47,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 5303,
-   "damageTaken": 3050,
-   "distanceCm": 3842673,
-   "walkCm": 901104,
-   "flyCm": 1468108,
-   "jumps": 6317,
-   "mined": 353,
+   "damageTaken": 3230,
+   "distanceCm": 3928426,
+   "walkCm": 928767,
+   "flyCm": 1510380,
+   "jumps": 6611,
+   "mined": 356,
    "topMined": [
     [
      "stone",
-     82
+     83
     ],
     [
      "iron_ore",
@@ -1123,19 +1123,19 @@
      40
     ]
    ],
-   "crafted": 279,
+   "crafted": 627,
    "topCrafted": [
+    [
+     "wheat",
+     261
+    ],
+    [
+     "bread",
+     87
+    ],
     [
      "spruce_planks",
      84
-    ],
-    [
-     "iron_ingot",
-     57
-    ],
-    [
-     "cooked_mutton",
-     25
     ]
    ],
    "topKilled": [
@@ -1529,8 +1529,8 @@
     "rendered": "2026-10-12T20:04:07Z"
    },
    "2.-1": {
-    "mtime": "2026-10-12T17:16:33Z",
-    "rendered": "2026-10-12T17:16:08Z"
+    "mtime": "2026-10-12T20:16:02Z",
+    "rendered": "2026-10-12T20:16:13Z"
    },
    "1.0": {
     "mtime": "2026-10-12T19:03:53Z",
@@ -1585,8 +1585,8 @@
     "rendered": "2026-10-12T19:03:23Z"
    },
    "1.-1": {
-    "mtime": "2026-10-12T17:16:32Z",
-    "rendered": "2026-10-12T17:16:08Z"
+    "mtime": "2026-10-12T20:15:14Z",
+    "rendered": "2026-10-12T20:16:13Z"
    },
    "0.1": {
     "mtime": "2026-10-12T19:03:56Z",
@@ -2407,6 +2407,11 @@
     "mtime": "2026-10-12T15:26:43Z",
     "rendered": "2026-10-12T18:22:44Z"
    },
+   "-10.-1": {
+    "mtime": "2026-10-12T20:16:22Z",
+    "rendered": "2026-10-12T20:16:13Z",
+    "empty": true
+   },
    "7.8": {
     "mtime": "2026-10-12T06:04:29Z",
     "rendered": "2026-10-12T18:22:44Z"
@@ -2442,6 +2447,11 @@
    "-10.0": {
     "mtime": "2026-10-12T20:07:18Z",
     "rendered": "2026-10-12T20:07:43Z",
+    "empty": true
+   },
+   "-11.-1": {
+    "mtime": "2026-10-12T20:16:22Z",
+    "rendered": "2026-10-12T20:16:13Z",
     "empty": true
    },
    "7.9": {
