@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-12T15:57:48Z",
+ "updated": "2026-10-12T16:02:04Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2282945,
+ "serverTicks": 2288945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T15:55:39Z",
-   "playTicks": 1864343,
+   "lastSeen": "2026-10-12T16:00:39Z",
+   "playTicks": 1870343,
    "deaths": 0,
    "mobKills": 892,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 132969,
-   "damageTaken": 16319,
-   "distanceCm": 22761973,
-   "walkCm": 7383116,
-   "flyCm": 7775058,
-   "jumps": 37307,
+   "damageTaken": 16409,
+   "distanceCm": 22817112,
+   "walkCm": 7409466,
+   "flyCm": 7796297,
+   "jumps": 37405,
    "mined": 8524,
    "topMined": [
     [
@@ -34,7 +34,7 @@
      1035
     ]
    ],
-   "crafted": 22326,
+   "crafted": 22366,
    "topCrafted": [
     [
      "stick",
@@ -442,19 +442,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T15:55:39Z",
-   "playTicks": 935118,
+   "lastSeen": "2026-10-12T16:00:39Z",
+   "playTicks": 941118,
    "deaths": 0,
-   "mobKills": 237,
+   "mobKills": 238,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 22644,
+   "damageDealt": 22724,
    "damageTaken": 3419,
-   "distanceCm": 10710175,
-   "walkCm": 4301903,
-   "flyCm": 3718893,
-   "jumps": 17319,
-   "mined": 12082,
+   "distanceCm": 10776246,
+   "walkCm": 4344161,
+   "flyCm": 3741094,
+   "jumps": 17414,
+   "mined": 12090,
    "topMined": [
     [
      "dark_oak_log",
@@ -469,7 +469,7 @@
      1543
     ]
    ],
-   "crafted": 30098,
+   "crafted": 30101,
    "topCrafted": [
     [
      "stick",
@@ -495,18 +495,22 @@
     ],
     [
      "sheep",
-     28
+     29
     ]
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 14,
+    "count": 15,
     "byTab": {
      "story": 7,
      "adventure": 5,
-     "husbandry": 2
+     "husbandry": 3
     },
     "recent": [
+     [
+      "husbandry/breed_an_animal",
+      "2026-10-12T15:56:26Z"
+     ],
      [
       "husbandry/plant_seed",
       "2026-10-12T11:55:50Z"
@@ -534,10 +538,6 @@
      [
       "story/smelt_iron",
       "2026-10-10T21:49:24Z"
-     ],
-     [
-      "adventure/kill_a_mob",
-      "2026-10-10T21:41:48Z"
      ]
     ]
    }
@@ -546,19 +546,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T15:55:39Z",
-   "playTicks": 528619,
+   "lastSeen": "2026-10-12T16:00:39Z",
+   "playTicks": 534619,
    "deaths": 0,
-   "mobKills": 65,
+   "mobKills": 83,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 8199,
+   "damageDealt": 9599,
    "damageTaken": 2201,
-   "distanceCm": 3132630,
-   "walkCm": 1665259,
-   "flyCm": 660147,
-   "jumps": 4820,
-   "mined": 5068,
+   "distanceCm": 3254988,
+   "walkCm": 1721307,
+   "flyCm": 709225,
+   "jumps": 5039,
+   "mined": 5087,
    "topMined": [
     [
      "stone",
@@ -591,15 +591,15 @@
    "topKilled": [
     [
      "sheep",
-     14
+     23
     ],
     [
      "zombie",
      13
     ],
     [
-     "chicken",
-     8
+     "cow",
+     12
     ]
    ],
    "topKilledBy": [],
@@ -1105,19 +1105,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-12T15:57:11Z",
-   "playTicks": 59668,
+   "lastSeen": "2026-10-12T16:00:39Z",
+   "playTicks": 63676,
    "deaths": 0,
    "mobKills": 19,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 2527,
-   "damageTaken": 822,
-   "distanceCm": 504321,
-   "walkCm": 256630,
-   "flyCm": 88274,
-   "jumps": 808,
-   "mined": 109,
+   "damageTaken": 867,
+   "distanceCm": 553780,
+   "walkCm": 280758,
+   "flyCm": 109003,
+   "jumps": 912,
+   "mined": 124,
    "topMined": [
     [
      "iron_ore",
@@ -1234,10 +1234,10 @@
      "2026-10-11",
      "2026-10-12"
     ],
-    "rendered": "2026-10-12T13:00:12Z",
+    "rendered": "2026-10-12T16:02:04Z",
     "regions": {
-     "r.0.-1.mca": "2026-10-12T12:41:18Z",
-     "r.0.-2.mca": "2026-10-12T12:39:25Z"
+     "r.0.-1.mca": "2026-10-12T16:02:22Z",
+     "r.0.-2.mca": "2026-10-12T16:02:24Z"
     }
    }
   },
@@ -1371,8 +1371,8 @@
     "rendered": "2026-10-12T14:12:54Z"
    },
    "0.-1": {
-    "mtime": "2026-10-12T12:41:18Z",
-    "rendered": "2026-10-12T13:00:12Z"
+    "mtime": "2026-10-12T16:02:22Z",
+    "rendered": "2026-10-12T16:02:04Z"
    },
    "1.1": {
     "mtime": "2026-10-12T13:23:03Z",
@@ -1415,8 +1415,8 @@
     "rendered": "2026-10-12T14:52:25Z"
    },
    "-1.-1": {
-    "mtime": "2026-10-12T11:21:08Z",
-    "rendered": "2026-10-12T13:00:12Z"
+    "mtime": "2026-10-12T15:44:16Z",
+    "rendered": "2026-10-12T16:02:04Z"
    },
    "3.-1": {
     "mtime": "2026-10-12T13:12:22Z",
@@ -1435,16 +1435,16 @@
     "rendered": "2026-10-12T14:04:44Z"
    },
    "0.0": {
-    "mtime": "2026-10-12T11:21:08Z",
-    "rendered": "2026-10-12T13:00:12Z"
+    "mtime": "2026-10-12T15:43:49Z",
+    "rendered": "2026-10-12T16:02:04Z"
    },
    "1.-1": {
     "mtime": "2026-10-12T14:03:59Z",
     "rendered": "2026-10-12T14:16:08Z"
    },
    "0.1": {
-    "mtime": "2026-10-12T10:17:38Z",
-    "rendered": "2026-10-12T13:01:59Z"
+    "mtime": "2026-10-12T15:59:25Z",
+    "rendered": "2026-10-12T16:02:04Z"
    },
    "1.2": {
     "mtime": "2026-10-12T13:14:57Z",
