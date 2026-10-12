@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-12T14:04:44Z",
+ "updated": "2026-10-12T14:06:31Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2147441,
+ "serverTicks": 2150945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T14:02:44Z",
-   "playTicks": 1728839,
+   "lastSeen": "2026-10-12T14:05:39Z",
+   "playTicks": 1732343,
    "deaths": 0,
    "mobKills": 890,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 132719,
    "damageTaken": 16072,
-   "distanceCm": 21017951,
-   "walkCm": 6701810,
-   "flyCm": 7245490,
-   "jumps": 35001,
-   "mined": 7430,
+   "distanceCm": 21079686,
+   "walkCm": 6726475,
+   "flyCm": 7277072,
+   "jumps": 35117,
+   "mined": 7448,
    "topMined": [
     [
      "packed_ice",
@@ -667,34 +667,34 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T14:02:44Z",
-   "playTicks": 394723,
+   "lastSeen": "2026-10-12T14:05:39Z",
+   "playTicks": 398227,
    "deaths": 0,
    "mobKills": 58,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 7140,
    "damageTaken": 1861,
-   "distanceCm": 2235585,
-   "walkCm": 1187671,
-   "flyCm": 512057,
-   "jumps": 3657,
-   "mined": 3655,
+   "distanceCm": 2247651,
+   "walkCm": 1199117,
+   "flyCm": 512677,
+   "jumps": 3675,
+   "mined": 3791,
    "topMined": [
     [
      "stone",
-     1602
+     1733
     ],
     [
      "dirt",
-     406
+     411
     ],
     [
      "spruce_leaves",
      306
     ]
    ],
-   "crafted": 1267,
+   "crafted": 1277,
    "topCrafted": [
     [
      "stone",
@@ -1547,8 +1547,8 @@
     "rendered": "2026-10-11T19:16:08Z"
    },
    "1.-4": {
-    "mtime": "2026-10-12T11:05:31Z",
-    "rendered": "2026-10-12T11:05:15Z"
+    "mtime": "2026-10-12T13:42:23Z",
+    "rendered": "2026-10-12T14:06:31Z"
    },
    "0.-5": {
     "mtime": "2026-10-12T10:32:12Z",
@@ -1619,8 +1619,8 @@
     "rendered": "2026-10-11T23:17:57Z"
    },
    "2.-4": {
-    "mtime": "2026-10-12T10:44:14Z",
-    "rendered": "2026-10-12T11:05:15Z"
+    "mtime": "2026-10-12T12:16:10Z",
+    "rendered": "2026-10-12T14:06:31Z"
    },
    "-1.-5": {
     "mtime": "2026-10-10T19:48:47Z",
