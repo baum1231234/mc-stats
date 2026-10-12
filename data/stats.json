@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T08:46:40Z",
+ "updated": "2026-10-12T08:48:09Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1770542,
+ "serverTicks": 1771536,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -433,18 +433,18 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-12T08:46:32Z",
-   "playTicks": 619331,
+   "lastSeen": "2026-10-12T08:47:22Z",
+   "playTicks": 620325,
    "deaths": 2,
    "mobKills": 169,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 31296,
    "damageTaken": 6857,
-   "distanceCm": 5482297,
-   "walkCm": 2775489,
-   "flyCm": 1626673,
-   "jumps": 10724,
+   "distanceCm": 5486862,
+   "walkCm": 2779337,
+   "flyCm": 1627390,
+   "jumps": 10732,
    "mined": 7958,
    "topMined": [
     [
@@ -460,7 +460,7 @@
      557
     ]
    ],
-   "crafted": 33602,
+   "crafted": 33603,
    "topCrafted": [
     [
      "stick",
@@ -1001,8 +1001,8 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T08:46:32Z",
-   "playTicks": 114194,
+   "lastSeen": "2026-10-12T08:47:22Z",
+   "playTicks": 115188,
    "deaths": 0,
    "mobKills": 44,
    "playerKills": 0,
@@ -1028,7 +1028,7 @@
      104
     ]
    ],
-   "crafted": 360,
+   "crafted": 363,
    "topCrafted": [
     [
      "torch",
@@ -1036,7 +1036,7 @@
     ],
     [
      "iron_ingot",
-     87
+     90
     ],
     [
      "spruce_planks",
