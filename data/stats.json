@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T08:49:37Z",
+ "updated": "2026-10-12T08:52:37Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1771536,
+ "serverTicks": 1776542,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -433,23 +433,23 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-12T08:47:22Z",
-   "playTicks": 620325,
+   "lastSeen": "2026-10-12T08:51:32Z",
+   "playTicks": 625331,
    "deaths": 2,
    "mobKills": 169,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 31296,
-   "damageTaken": 6857,
-   "distanceCm": 5486862,
-   "walkCm": 2779337,
-   "flyCm": 1627390,
-   "jumps": 10732,
-   "mined": 7958,
+   "damageTaken": 6897,
+   "distanceCm": 5536394,
+   "walkCm": 2794800,
+   "flyCm": 1645054,
+   "jumps": 10796,
+   "mined": 8135,
    "topMined": [
     [
      "spruce_log",
-     3272
+     3426
     ],
     [
      "grass_block",
@@ -460,7 +460,7 @@
      557
     ]
    ],
-   "crafted": 33603,
+   "crafted": 33608,
    "topCrafted": [
     [
      "stick",
@@ -1001,19 +1001,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T08:47:22Z",
-   "playTicks": 115188,
+   "lastSeen": "2026-10-12T08:51:32Z",
+   "playTicks": 120194,
    "deaths": 0,
    "mobKills": 44,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 4525,
-   "damageTaken": 441,
-   "distanceCm": 700712,
-   "walkCm": 462209,
-   "flyCm": 113106,
-   "jumps": 1263,
-   "mined": 977,
+   "damageTaken": 571,
+   "distanceCm": 766108,
+   "walkCm": 482539,
+   "flyCm": 144608,
+   "jumps": 1409,
+   "mined": 985,
    "topMined": [
     [
      "stone",
@@ -1028,7 +1028,7 @@
      104
     ]
    ],
-   "crafted": 363,
+   "crafted": 368,
    "topCrafted": [
     [
      "torch",
@@ -1036,7 +1036,7 @@
     ],
     [
      "iron_ingot",
-     90
+     94
     ],
     [
      "spruce_planks",
