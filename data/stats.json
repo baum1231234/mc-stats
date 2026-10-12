@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T10:10:35Z",
+ "updated": "2026-10-12T10:12:16Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1866542,
+ "serverTicks": 1872542,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -225,19 +225,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T10:07:43Z",
-   "playTicks": 962017,
+   "lastSeen": "2026-10-12T10:11:32Z",
+   "playTicks": 966405,
    "deaths": 0,
    "mobKills": 421,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 95719,
-   "damageTaken": 15743,
-   "distanceCm": 14412228,
-   "walkCm": 3165747,
-   "flyCm": 6175833,
-   "jumps": 21417,
-   "mined": 8072,
+   "damageTaken": 15758,
+   "distanceCm": 14492510,
+   "walkCm": 3171866,
+   "flyCm": 6197541,
+   "jumps": 21488,
+   "mined": 8073,
    "topMined": [
     [
      "spruce_log",
@@ -329,19 +329,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-12T10:06:32Z",
-   "playTicks": 715331,
+   "lastSeen": "2026-10-12T10:11:32Z",
+   "playTicks": 721331,
    "deaths": 2,
-   "mobKills": 172,
+   "mobKills": 173,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 31994,
-   "damageTaken": 7394,
-   "distanceCm": 6277307,
-   "walkCm": 3178370,
-   "flyCm": 1799671,
-   "jumps": 11653,
-   "mined": 9542,
+   "damageDealt": 32194,
+   "damageTaken": 7401,
+   "distanceCm": 6353907,
+   "walkCm": 3207423,
+   "flyCm": 1812853,
+   "jumps": 11735,
+   "mined": 9699,
    "topMined": [
     [
      "spruce_log",
@@ -349,7 +349,7 @@
     ],
     [
      "stone",
-     1623
+     1769
     ],
     [
      "grass_block",
@@ -378,7 +378,7 @@
     ],
     [
      "skeleton",
-     35
+     36
     ],
     [
      "spider",
@@ -546,19 +546,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-12T10:06:32Z",
-   "playTicks": 430492,
+   "lastSeen": "2026-10-12T10:11:32Z",
+   "playTicks": 436492,
    "deaths": 13,
    "mobKills": 47,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 6056,
-   "damageTaken": 6329,
-   "distanceCm": 4247771,
-   "walkCm": 2200647,
-   "flyCm": 935278,
-   "jumps": 6222,
-   "mined": 3616,
+   "damageTaken": 6369,
+   "distanceCm": 4285493,
+   "walkCm": 2226035,
+   "flyCm": 945437,
+   "jumps": 6330,
+   "mined": 3778,
    "topMined": [
     [
      "stone",
@@ -570,7 +570,7 @@
     ],
     [
      "spruce_log",
-     495
+     648
     ]
    ],
    "crafted": 2516,
@@ -888,18 +888,18 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T10:03:37Z",
-   "playTicks": 156587,
+   "lastSeen": "2026-10-12T10:11:32Z",
+   "playTicks": 160514,
    "deaths": 0,
    "mobKills": 48,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 5325,
    "damageTaken": 862,
-   "distanceCm": 907120,
-   "walkCm": 580501,
-   "flyCm": 172842,
-   "jumps": 1635,
+   "distanceCm": 915647,
+   "walkCm": 584921,
+   "flyCm": 176724,
+   "jumps": 1653,
    "mined": 1222,
    "topMined": [
     [
@@ -1240,20 +1240,20 @@
     "rendered": "2026-10-12T09:59:24Z"
    },
    "-3.5": {
-    "mtime": "2026-10-12T07:12:13Z",
-    "rendered": "2026-10-12T07:12:03Z"
+    "mtime": "2026-10-12T10:09:32Z",
+    "rendered": "2026-10-12T10:12:16Z"
    },
    "-3.4": {
-    "mtime": "2026-10-12T07:12:02Z",
-    "rendered": "2026-10-12T07:12:03Z"
+    "mtime": "2026-10-12T10:10:29Z",
+    "rendered": "2026-10-12T10:12:16Z"
    },
    "-2.5": {
     "mtime": "2026-10-12T08:06:30Z",
     "rendered": "2026-10-12T09:06:51Z"
    },
    "-2.4": {
-    "mtime": "2026-10-12T07:12:15Z",
-    "rendered": "2026-10-12T07:12:03Z"
+    "mtime": "2026-10-12T10:11:08Z",
+    "rendered": "2026-10-12T10:12:16Z"
    },
    "2.-1": {
     "mtime": "2026-10-12T08:13:10Z",
