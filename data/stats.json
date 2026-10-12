@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T22:44:39Z",
+ "updated": "2026-10-12T22:46:13Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2762945,
+ "serverTicks": 2768945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -650,23 +650,23 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-12T22:41:18Z",
-   "playTicks": 571632,
+   "lastSeen": "2026-10-12T22:46:18Z",
+   "playTicks": 577632,
    "deaths": 15,
    "mobKills": 57,
    "playerKills": 0,
    "killedByPlayers": 3,
    "damageDealt": 8611,
    "damageTaken": 7628,
-   "distanceCm": 5424248,
-   "walkCm": 3032929,
-   "flyCm": 1219952,
-   "jumps": 7788,
-   "mined": 5727,
+   "distanceCm": 5462622,
+   "walkCm": 3066681,
+   "flyCm": 1224574,
+   "jumps": 7809,
+   "mined": 6050,
    "topMined": [
     [
      "stone",
-     1494
+     1759
     ],
     [
      "grass_block",
@@ -992,19 +992,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-12T22:41:18Z",
-   "playTicks": 388988,
+   "lastSeen": "2026-10-12T22:46:18Z",
+   "playTicks": 394988,
    "deaths": 2,
    "mobKills": 61,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 8153,
-   "damageTaken": 4886,
-   "distanceCm": 4926310,
-   "walkCm": 1574514,
-   "flyCm": 1762318,
-   "jumps": 8523,
-   "mined": 4701,
+   "damageTaken": 4926,
+   "distanceCm": 4947069,
+   "walkCm": 1584702,
+   "flyCm": 1769919,
+   "jumps": 8563,
+   "mined": 4704,
    "topMined": [
     [
      "stone",
@@ -1059,13 +1059,18 @@
     ]
    ],
    "adv": {
-    "count": 15,
+    "count": 16,
     "byTab": {
      "story": 9,
      "adventure": 5,
-     "husbandry": 1
+     "husbandry": 1,
+     "nether": 1
     },
     "recent": [
+     [
+      "nether/brew_potion",
+      "2026-10-12T22:43:58Z"
+     ],
      [
       "story/shiny_gear",
       "2026-10-12T21:00:08Z"
@@ -1093,10 +1098,6 @@
      [
       "story/mine_diamond",
       "2026-10-11T17:27:56Z"
-     ],
-     [
-      "story/iron_tools",
-      "2026-10-11T16:55:01Z"
      ]
     ]
    }
