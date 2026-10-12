@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T16:45:32Z",
+ "updated": "2026-10-12T16:47:14Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 2342945,
  "players": [
@@ -7,23 +7,23 @@
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T16:40:39Z",
-   "playTicks": 1918343,
+   "lastSeen": "2026-10-12T16:45:39Z",
+   "playTicks": 1924343,
    "deaths": 0,
    "mobKills": 893,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 133104,
    "damageTaken": 16542,
-   "distanceCm": 23202601,
-   "walkCm": 7592189,
-   "flyCm": 7963619,
-   "jumps": 38413,
-   "mined": 9749,
+   "distanceCm": 23237445,
+   "walkCm": 7619813,
+   "flyCm": 7970239,
+   "jumps": 38478,
+   "mined": 10094,
    "topMined": [
     [
      "spruce_log",
-     2472
+     2806
     ],
     [
      "packed_ice",
@@ -34,19 +34,19 @@
      1035
     ]
    ],
-   "crafted": 35954,
+   "crafted": 39752,
    "topCrafted": [
     [
      "stick",
-     21035
+     23492
     ],
     [
      "spruce_planks",
-     10624
+     11904
     ],
     [
      "emerald",
-     772
+     833
     ]
    ],
    "topKilled": [
@@ -442,23 +442,23 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T16:40:39Z",
-   "playTicks": 989118,
+   "lastSeen": "2026-10-12T16:45:39Z",
+   "playTicks": 995118,
    "deaths": 0,
-   "mobKills": 255,
+   "mobKills": 258,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 24714,
-   "damageTaken": 3586,
-   "distanceCm": 11346845,
-   "walkCm": 4662737,
-   "flyCm": 3953093,
-   "jumps": 18355,
-   "mined": 12627,
+   "damageDealt": 25241,
+   "damageTaken": 3617,
+   "distanceCm": 11404708,
+   "walkCm": 4688455,
+   "flyCm": 3981180,
+   "jumps": 18538,
+   "mined": 12791,
    "topMined": [
     [
      "dark_oak_log",
-     2709
+     2792
     ],
     [
      "grass_block",
@@ -469,7 +469,7 @@
      1544
     ]
    ],
-   "crafted": 30307,
+   "crafted": 30397,
    "topCrafted": [
     [
      "stick",
@@ -477,7 +477,7 @@
     ],
     [
      "dark_oak_planks",
-     9900
+     9976
     ],
     [
      "oak_planks",
@@ -491,7 +491,7 @@
     ],
     [
      "zombie",
-     41
+     44
     ],
     [
      "sheep",
