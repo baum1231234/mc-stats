@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T20:36:01Z",
+ "updated": "2026-10-12T20:37:53Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 2612945,
  "players": [
@@ -7,19 +7,19 @@
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T20:35:08Z",
-   "playTicks": 2145970,
+   "lastSeen": "2026-10-12T20:36:18Z",
+   "playTicks": 2147373,
    "deaths": 0,
    "mobKills": 953,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 141615,
-   "damageTaken": 18766,
-   "distanceCm": 26969825,
-   "walkCm": 8419257,
-   "flyCm": 9352699,
-   "jumps": 44133,
-   "mined": 11186,
+   "damageTaken": 18798,
+   "distanceCm": 26990129,
+   "walkCm": 8422660,
+   "flyCm": 9366553,
+   "jumps": 44174,
+   "mined": 11192,
    "topMined": [
     [
      "spruce_log",
@@ -888,23 +888,23 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-12T20:35:08Z",
-   "playTicks": 386273,
+   "lastSeen": "2026-10-12T20:36:18Z",
+   "playTicks": 387676,
    "deaths": 1,
    "mobKills": 62,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 12664,
    "damageTaken": 2472,
-   "distanceCm": 2777133,
-   "walkCm": 1623259,
+   "distanceCm": 2780868,
+   "walkCm": 1626994,
    "flyCm": 676434,
-   "jumps": 5180,
-   "mined": 5749,
+   "jumps": 5209,
+   "mined": 5859,
    "topMined": [
     [
      "spruce_log",
-     4603
+     4713
     ],
     [
      "stone",
@@ -1096,18 +1096,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-12T20:35:08Z",
-   "playTicks": 237585,
+   "lastSeen": "2026-10-12T20:36:18Z",
+   "playTicks": 238988,
    "deaths": 2,
    "mobKills": 48,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 5503,
    "damageTaken": 3390,
-   "distanceCm": 4021772,
-   "walkCm": 967830,
-   "flyCm": 1548247,
-   "jumps": 7010,
+   "distanceCm": 4024296,
+   "walkCm": 970021,
+   "flyCm": 1548580,
+   "jumps": 7024,
    "mined": 388,
    "topMined": [
     [
@@ -2151,8 +2151,8 @@
     "rendered": "2026-10-12T17:36:49Z"
    },
    "0.7": {
-    "mtime": "2026-10-11T21:06:00Z",
-    "rendered": "2026-10-12T17:36:49Z"
+    "mtime": "2026-10-12T19:30:38Z",
+    "rendered": "2026-10-12T20:37:53Z"
    },
    "-1.8": {
     "mtime": "2026-10-11T21:04:24Z",
