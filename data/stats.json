@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T23:17:41Z",
+ "updated": "2026-10-12T23:19:27Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2804945,
+ "serverTicks": 2807533,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T23:16:18Z",
-   "playTicks": 1481508,
+   "lastSeen": "2026-10-12T23:18:27Z",
+   "playTicks": 1484096,
    "deaths": 2,
    "mobKills": 352,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 71202,
-   "damageTaken": 6493,
-   "distanceCm": 18243757,
-   "walkCm": 7809101,
-   "flyCm": 4126344,
-   "jumps": 16787,
-   "mined": 23981,
+   "damageDealt": 71272,
+   "damageTaken": 6495,
+   "distanceCm": 18265428,
+   "walkCm": 7823368,
+   "flyCm": 4131566,
+   "jumps": 16819,
+   "mined": 23987,
    "topMined": [
     [
      "grass_block",
@@ -131,7 +131,7 @@
     ],
     [
      "dirt",
-     5076
+     5082
     ],
     [
      "sand",
@@ -650,19 +650,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-12T23:16:18Z",
-   "playTicks": 613632,
-   "deaths": 16,
-   "mobKills": 85,
+   "lastSeen": "2026-10-12T23:18:27Z",
+   "playTicks": 616220,
+   "deaths": 17,
+   "mobKills": 87,
    "playerKills": 0,
    "killedByPlayers": 3,
-   "damageDealt": 9035,
-   "damageTaken": 8448,
-   "distanceCm": 5704611,
-   "walkCm": 3225661,
-   "flyCm": 1285214,
-   "jumps": 8113,
-   "mined": 6583,
+   "damageDealt": 9430,
+   "damageTaken": 8638,
+   "distanceCm": 5740270,
+   "walkCm": 3250046,
+   "flyCm": 1294369,
+   "jumps": 8173,
+   "mined": 6591,
    "topMined": [
     [
      "stone",
@@ -674,7 +674,7 @@
     ],
     [
      "spruce_log",
-     851
+     857
     ]
    ],
    "crafted": 7300,
@@ -695,7 +695,7 @@
    "topKilled": [
     [
      "zombie",
-     26
+     27
     ],
     [
      "creeper",
@@ -703,7 +703,7 @@
     ],
     [
      "skeleton",
-     14
+     15
     ]
    ],
    "topKilledBy": [
@@ -717,7 +717,7 @@
     ],
     [
      "zombie",
-     2
+     3
     ],
     [
      "phantom",
@@ -1763,9 +1763,8 @@
     "empty": true
    },
    "-12.-1": {
-    "mtime": "2026-10-12T20:16:51Z",
-    "rendered": "2026-10-12T20:17:57Z",
-    "empty": true
+    "mtime": "2026-10-12T21:04:40Z",
+    "rendered": "2026-10-12T23:19:27Z"
    },
    "-3.2": {
     "mtime": "2026-10-12T20:59:07Z",
