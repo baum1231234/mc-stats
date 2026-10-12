@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T19:05:23Z",
+ "updated": "2026-10-12T19:07:13Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2501333,
+ "serverTicks": 2504945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -225,19 +225,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T19:03:17Z",
-   "playTicks": 1125429,
+   "lastSeen": "2026-10-12T19:06:18Z",
+   "playTicks": 1129041,
    "deaths": 0,
    "mobKills": 267,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 28047,
    "damageTaken": 3874,
-   "distanceCm": 12553873,
-   "walkCm": 5397038,
-   "flyCm": 4357239,
-   "jumps": 20471,
-   "mined": 15234,
+   "distanceCm": 12563241,
+   "walkCm": 5402883,
+   "flyCm": 4360312,
+   "jumps": 20489,
+   "mined": 15237,
    "topMined": [
     [
      "dark_oak_log",
@@ -252,11 +252,11 @@
      1595
     ]
    ],
-   "crafted": 44634,
+   "crafted": 47386,
    "topCrafted": [
     [
      "stick",
-     25097
+     27013
     ],
     [
      "dark_oak_planks",
@@ -264,7 +264,7 @@
     ],
     [
      "spruce_planks",
-     2132
+     2900
     ]
    ],
    "topKilled": [
@@ -329,18 +329,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T19:03:17Z",
-   "playTicks": 1078586,
+   "lastSeen": "2026-10-12T19:06:18Z",
+   "playTicks": 1082198,
    "deaths": 0,
    "mobKills": 564,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 101139,
-   "damageTaken": 18011,
-   "distanceCm": 16907743,
-   "walkCm": 3639876,
-   "flyCm": 7164295,
-   "jumps": 24702,
+   "damageTaken": 18026,
+   "distanceCm": 16978746,
+   "walkCm": 3648440,
+   "flyCm": 7210533,
+   "jumps": 24848,
    "mined": 8411,
    "topMined": [
     [
@@ -771,19 +771,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-12T19:03:17Z",
-   "playTicks": 521699,
+   "lastSeen": "2026-10-12T19:06:18Z",
+   "playTicks": 525311,
    "deaths": 4,
    "mobKills": 55,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 5868,
    "damageTaken": 2532,
-   "distanceCm": 3283736,
-   "walkCm": 2864896,
-   "flyCm": 202374,
-   "jumps": 2653,
-   "mined": 8505,
+   "distanceCm": 3318287,
+   "walkCm": 2893523,
+   "flyCm": 207023,
+   "jumps": 2668,
+   "mined": 8509,
    "topMined": [
     [
      "stone",
@@ -798,7 +798,7 @@
      502
     ]
    ],
-   "crafted": 651,
+   "crafted": 656,
    "topCrafted": [
     [
      "birch_planks",
@@ -806,7 +806,7 @@
     ],
     [
      "stick",
-     100
+     104
     ],
     [
      "cobblestone_stairs",
@@ -842,13 +842,17 @@
     ]
    ],
    "adv": {
-    "count": 12,
+    "count": 13,
     "byTab": {
      "story": 8,
      "adventure": 3,
-     "husbandry": 1
+     "husbandry": 2
     },
     "recent": [
+     [
+      "husbandry/fishy_business",
+      "2026-10-12T19:05:25Z"
+     ],
      [
       "story/iron_tools",
       "2026-10-12T16:25:15Z"
@@ -876,10 +880,6 @@
      [
       "story/upgrade_tools",
       "2026-10-11T14:50:23Z"
-     ],
-     [
-      "story/mine_stone",
-      "2026-10-11T14:49:58Z"
      ]
     ]
    }
@@ -992,18 +992,18 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-12T19:03:17Z",
-   "playTicks": 276064,
+   "lastSeen": "2026-10-12T19:06:18Z",
+   "playTicks": 279676,
    "deaths": 1,
    "mobKills": 56,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 9086,
-   "damageTaken": 2424,
-   "distanceCm": 1991325,
-   "walkCm": 1146242,
-   "flyCm": 434720,
-   "jumps": 3632,
+   "damageTaken": 2429,
+   "distanceCm": 2011567,
+   "walkCm": 1161420,
+   "flyCm": 439044,
+   "jumps": 3677,
    "mined": 3286,
    "topMined": [
     [
@@ -1019,7 +1019,7 @@
      134
     ]
    ],
-   "crafted": 30448,
+   "crafted": 30464,
    "topCrafted": [
     [
      "stick",
@@ -1096,19 +1096,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-12T19:03:17Z",
-   "playTicks": 151153,
+   "lastSeen": "2026-10-12T19:06:18Z",
+   "playTicks": 154765,
    "deaths": 2,
-   "mobKills": 32,
+   "mobKills": 33,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 2831,
-   "damageTaken": 2460,
-   "distanceCm": 2741900,
-   "walkCm": 669825,
-   "flyCm": 1092849,
-   "jumps": 4412,
-   "mined": 252,
+   "damageDealt": 2931,
+   "damageTaken": 2500,
+   "distanceCm": 2787083,
+   "walkCm": 692604,
+   "flyCm": 1111596,
+   "jumps": 4541,
+   "mined": 260,
    "topMined": [
     [
      "stone",
@@ -1123,7 +1123,7 @@
      26
     ]
    ],
-   "crafted": 213,
+   "crafted": 214,
    "topCrafted": [
     [
      "spruce_planks",
@@ -1145,7 +1145,7 @@
     ],
     [
      "cow",
-     7
+     8
     ],
     [
      "pig",
@@ -1823,8 +1823,8 @@
     "rendered": "2026-10-12T19:01:29Z"
    },
    "-2.1": {
-    "mtime": "2026-10-12T15:08:42Z",
-    "rendered": "2026-10-12T16:04:02Z"
+    "mtime": "2026-10-12T18:48:50Z",
+    "rendered": "2026-10-12T19:07:13Z"
    },
    "-5.6": {
     "mtime": "2026-10-11T21:01:46Z",
