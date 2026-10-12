@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-12T14:12:54Z",
+ "updated": "2026-10-12T14:16:08Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2156945,
+ "serverTicks": 2162945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T14:10:39Z",
-   "playTicks": 1738343,
+   "lastSeen": "2026-10-12T14:15:39Z",
+   "playTicks": 1744343,
    "deaths": 0,
    "mobKills": 890,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 132719,
    "damageTaken": 16122,
-   "distanceCm": 21127336,
-   "walkCm": 6756308,
-   "flyCm": 7292094,
-   "jumps": 35239,
-   "mined": 7463,
+   "distanceCm": 21189534,
+   "walkCm": 6780613,
+   "flyCm": 7323332,
+   "jumps": 35351,
+   "mined": 7500,
    "topMined": [
     [
      "packed_ice",
@@ -31,7 +31,7 @@
     ],
     [
      "grass_block",
-     834
+     856
     ]
    ],
    "crafted": 18305,
@@ -667,23 +667,23 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T14:10:39Z",
-   "playTicks": 404227,
+   "lastSeen": "2026-10-12T14:15:39Z",
+   "playTicks": 410227,
    "deaths": 0,
    "mobKills": 58,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 7140,
    "damageTaken": 1861,
-   "distanceCm": 2273226,
-   "walkCm": 1223470,
-   "flyCm": 513899,
-   "jumps": 3702,
-   "mined": 4018,
+   "distanceCm": 2287191,
+   "walkCm": 1234069,
+   "flyCm": 516965,
+   "jumps": 3738,
+   "mined": 4030,
    "topMined": [
     [
      "stone",
-     1949
+     1957
     ],
     [
      "dirt",
@@ -1291,8 +1291,8 @@
     "rendered": "2026-10-12T13:13:14Z"
    },
    "2.-1": {
-    "mtime": "2026-10-12T11:12:13Z",
-    "rendered": "2026-10-12T11:14:39Z"
+    "mtime": "2026-10-12T14:00:42Z",
+    "rendered": "2026-10-12T14:16:08Z"
    },
    "1.0": {
     "mtime": "2026-10-12T13:14:42Z",
@@ -1335,8 +1335,8 @@
     "rendered": "2026-10-12T13:00:12Z"
    },
    "1.-1": {
-    "mtime": "2026-10-12T11:13:55Z",
-    "rendered": "2026-10-12T11:14:39Z"
+    "mtime": "2026-10-12T14:03:59Z",
+    "rendered": "2026-10-12T14:16:08Z"
    },
    "0.1": {
     "mtime": "2026-10-12T10:17:38Z",
