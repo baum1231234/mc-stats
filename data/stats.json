@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T09:56:25Z",
+ "updated": "2026-10-12T09:57:55Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 1854542,
  "players": [
@@ -329,19 +329,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-12T09:51:32Z",
-   "playTicks": 697331,
+   "lastSeen": "2026-10-12T09:56:32Z",
+   "playTicks": 703331,
    "deaths": 2,
-   "mobKills": 171,
+   "mobKills": 172,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 31794,
-   "damageTaken": 7366,
-   "distanceCm": 6136990,
-   "walkCm": 3083252,
-   "flyCm": 1777552,
-   "jumps": 11512,
-   "mined": 9290,
+   "damageDealt": 31994,
+   "damageTaken": 7394,
+   "distanceCm": 6205467,
+   "walkCm": 3114542,
+   "flyCm": 1796556,
+   "jumps": 11620,
+   "mined": 9526,
    "topMined": [
     [
      "spruce_log",
@@ -349,14 +349,14 @@
     ],
     [
      "stone",
-     1401
+     1623
     ],
     [
      "grass_block",
      831
     ]
    ],
-   "crafted": 35636,
+   "crafted": 35812,
    "topCrafted": [
     [
      "stick",
@@ -364,7 +364,7 @@
     ],
     [
      "spruce_planks",
-     11503
+     11679
     ],
     [
      "emerald",
@@ -378,7 +378,7 @@
     ],
     [
      "skeleton",
-     34
+     35
     ],
     [
      "spider",
