@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-12T22:47:46Z",
+ "updated": "2026-10-12T22:49:19Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2768945,
+ "serverTicks": 2771553,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T22:46:18Z",
-   "playTicks": 2303373,
+   "lastSeen": "2026-10-12T22:48:19Z",
+   "playTicks": 2305789,
    "deaths": 0,
    "mobKills": 1022,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 148998,
-   "damageTaken": 19711,
-   "distanceCm": 29416961,
-   "walkCm": 8971944,
-   "flyCm": 10290280,
-   "jumps": 48134,
+   "damageTaken": 19713,
+   "distanceCm": 29444856,
+   "walkCm": 8978870,
+   "flyCm": 10303964,
+   "jumps": 48197,
    "mined": 12048,
    "topMined": [
     [
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T22:46:18Z",
-   "playTicks": 1445508,
+   "lastSeen": "2026-10-12T22:48:28Z",
+   "playTicks": 1448116,
    "deaths": 2,
    "mobKills": 351,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 71001,
    "damageTaken": 6457,
-   "distanceCm": 17770274,
-   "walkCm": 7594833,
-   "flyCm": 3918195,
-   "jumps": 16347,
-   "mined": 23813,
+   "distanceCm": 17801084,
+   "walkCm": 7618778,
+   "flyCm": 3925060,
+   "jumps": 16368,
+   "mined": 23814,
    "topMined": [
     [
      "grass_block",
@@ -650,23 +650,23 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-12T22:46:18Z",
-   "playTicks": 577632,
+   "lastSeen": "2026-10-12T22:48:28Z",
+   "playTicks": 580240,
    "deaths": 15,
    "mobKills": 57,
    "playerKills": 0,
    "killedByPlayers": 3,
    "damageDealt": 8611,
    "damageTaken": 7628,
-   "distanceCm": 5462622,
-   "walkCm": 3066681,
-   "flyCm": 1224574,
-   "jumps": 7809,
-   "mined": 6050,
+   "distanceCm": 5475081,
+   "walkCm": 3078439,
+   "flyCm": 1225275,
+   "jumps": 7815,
+   "mined": 6206,
    "topMined": [
     [
      "stone",
-     1759
+     1894
     ],
     [
      "grass_block",
@@ -992,23 +992,23 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-12T22:46:18Z",
-   "playTicks": 394988,
+   "lastSeen": "2026-10-12T22:48:28Z",
+   "playTicks": 397596,
    "deaths": 2,
    "mobKills": 61,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 8153,
    "damageTaken": 4926,
-   "distanceCm": 4947069,
-   "walkCm": 1584702,
-   "flyCm": 1769919,
-   "jumps": 8563,
-   "mined": 4704,
+   "distanceCm": 4952014,
+   "walkCm": 1589394,
+   "flyCm": 1770127,
+   "jumps": 8565,
+   "mined": 4734,
    "topMined": [
     [
      "stone",
-     3613
+     3634
     ],
     [
      "snow_block",
@@ -1059,14 +1059,18 @@
     ]
    ],
    "adv": {
-    "count": 16,
+    "count": 17,
     "byTab": {
-     "story": 9,
+     "story": 10,
      "adventure": 5,
      "husbandry": 1,
      "nether": 1
     },
     "recent": [
+     [
+      "story/cure_zombie_villager",
+      "2026-10-12T22:47:46Z"
+     ],
      [
       "nether/brew_potion",
       "2026-10-12T22:43:58Z"
@@ -1094,10 +1098,6 @@
      [
       "adventure/totem_of_undying",
       "2026-10-11T20:30:03Z"
-     ],
-     [
-      "story/mine_diamond",
-      "2026-10-11T17:27:56Z"
      ]
     ]
    }
