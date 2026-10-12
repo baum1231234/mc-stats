@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-12T19:45:19Z",
+ "updated": "2026-10-12T19:46:54Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2546945,
+ "serverTicks": 2552945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T19:41:18Z",
-   "playTicks": 2104578,
+   "lastSeen": "2026-10-12T19:46:18Z",
+   "playTicks": 2110578,
    "deaths": 0,
    "mobKills": 941,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 138682,
-   "damageTaken": 17688,
-   "distanceCm": 26375886,
-   "walkCm": 8273665,
-   "flyCm": 9049770,
-   "jumps": 42856,
+   "damageTaken": 17733,
+   "distanceCm": 26551236,
+   "walkCm": 8313541,
+   "flyCm": 9125593,
+   "jumps": 43142,
    "mined": 11016,
    "topMined": [
     [
@@ -34,19 +34,19 @@
      1035
     ]
    ],
-   "crafted": 50857,
+   "crafted": 51072,
    "topCrafted": [
     [
      "stick",
-     30717
+     30845
     ],
     [
      "spruce_planks",
-     15468
+     15532
     ],
     [
      "emerald",
-     1068
+     1088
     ]
    ],
    "topKilled": [
@@ -225,19 +225,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T19:41:18Z",
-   "playTicks": 1170969,
+   "lastSeen": "2026-10-12T19:46:18Z",
+   "playTicks": 1176969,
    "deaths": 0,
-   "mobKills": 284,
+   "mobKills": 299,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 30784,
-   "damageTaken": 4005,
-   "distanceCm": 13256297,
-   "walkCm": 5631643,
-   "flyCm": 4724379,
-   "jumps": 21918,
-   "mined": 15301,
+   "damageDealt": 33999,
+   "damageTaken": 4146,
+   "distanceCm": 13317725,
+   "walkCm": 5652726,
+   "flyCm": 4758382,
+   "jumps": 22089,
+   "mined": 15302,
    "topMined": [
     [
      "dark_oak_log",
@@ -274,11 +274,11 @@
     ],
     [
      "zombie",
-     51
+     62
     ],
     [
      "skeleton",
-     32
+     33
     ]
    ],
    "topKilledBy": [],
@@ -992,23 +992,23 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-12T19:41:18Z",
-   "playTicks": 321676,
+   "lastSeen": "2026-10-12T19:46:18Z",
+   "playTicks": 327676,
    "deaths": 1,
    "mobKills": 58,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 9486,
-   "damageTaken": 2441,
-   "distanceCm": 2298763,
-   "walkCm": 1328037,
-   "flyCm": 528169,
-   "jumps": 4188,
-   "mined": 3932,
+   "damageTaken": 2449,
+   "distanceCm": 2355629,
+   "walkCm": 1359001,
+   "flyCm": 545007,
+   "jumps": 4274,
+   "mined": 4073,
    "topMined": [
     [
      "spruce_log",
-     2951
+     3076
     ],
     [
      "stone",
@@ -1019,11 +1019,11 @@
      134
     ]
    ],
-   "crafted": 36803,
+   "crafted": 36844,
    "topCrafted": [
     [
      "stick",
-     23250
+     23290
     ],
     [
      "spruce_planks",
@@ -1031,7 +1031,7 @@
     ],
     [
      "emerald",
-     777
+     778
     ]
    ],
    "topKilled": [
