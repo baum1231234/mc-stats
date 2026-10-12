@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T23:30:35Z",
+ "updated": "2026-10-12T23:32:09Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2816945,
+ "serverTicks": 2822945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,23 +111,23 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T23:26:18Z",
-   "playTicks": 1493508,
+   "lastSeen": "2026-10-12T23:31:18Z",
+   "playTicks": 1499508,
    "deaths": 2,
-   "mobKills": 352,
+   "mobKills": 353,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 71272,
-   "damageTaken": 6495,
-   "distanceCm": 18327029,
-   "walkCm": 7834115,
-   "flyCm": 4181870,
-   "jumps": 16956,
-   "mined": 23988,
+   "damageDealt": 71432,
+   "damageTaken": 6496,
+   "distanceCm": 18398051,
+   "walkCm": 7892901,
+   "flyCm": 4192781,
+   "jumps": 17003,
+   "mined": 24075,
    "topMined": [
     [
      "grass_block",
-     10292
+     10293
     ],
     [
      "dirt",
@@ -138,7 +138,7 @@
      3731
     ]
    ],
-   "crafted": 9195,
+   "crafted": 9215,
    "topCrafted": [
     [
      "bamboo_planks",
@@ -164,7 +164,7 @@
     ],
     [
      "spider",
-     37
+     38
     ]
    ],
    "topKilledBy": [
@@ -650,19 +650,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-12T23:26:18Z",
-   "playTicks": 625632,
-   "deaths": 17,
+   "lastSeen": "2026-10-12T23:31:18Z",
+   "playTicks": 631632,
+   "deaths": 18,
    "mobKills": 87,
    "playerKills": 0,
    "killedByPlayers": 3,
    "damageDealt": 9430,
-   "damageTaken": 8638,
-   "distanceCm": 5798078,
-   "walkCm": 3286891,
-   "flyCm": 1313314,
-   "jumps": 8261,
-   "mined": 6667,
+   "damageTaken": 9218,
+   "distanceCm": 5858076,
+   "walkCm": 3316394,
+   "flyCm": 1332636,
+   "jumps": 8336,
+   "mined": 6724,
    "topMined": [
     [
      "stone",
@@ -670,7 +670,7 @@
     ],
     [
      "grass_block",
-     1023
+     1076
     ],
     [
      "spruce_log",
