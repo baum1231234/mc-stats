@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-12T14:25:39Z",
+ "updated": "2026-10-12T14:31:44Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2174945,
+ "serverTicks": 2180945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T14:25:39Z",
-   "playTicks": 1756343,
+   "lastSeen": "2026-10-12T14:30:39Z",
+   "playTicks": 1762343,
    "deaths": 0,
    "mobKills": 890,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 132719,
    "damageTaken": 16132,
-   "distanceCm": 21321183,
-   "walkCm": 6890867,
-   "flyCm": 7336748,
+   "distanceCm": 21336398,
+   "walkCm": 6906027,
+   "flyCm": 7336803,
    "jumps": 35410,
    "mined": 7756,
    "topMined": [
@@ -329,19 +329,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-12T13:42:24Z",
-   "playTicks": 962849,
+   "lastSeen": "2026-10-12T14:30:39Z",
+   "playTicks": 966907,
    "deaths": 3,
-   "mobKills": 598,
+   "mobKills": 599,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 52920,
-   "damageTaken": 8982,
-   "distanceCm": 7904410,
-   "walkCm": 4217602,
-   "flyCm": 2053234,
-   "jumps": 13701,
-   "mined": 13669,
+   "damageDealt": 53920,
+   "damageTaken": 8997,
+   "distanceCm": 7929496,
+   "walkCm": 4236731,
+   "flyCm": 2058966,
+   "jumps": 13732,
+   "mined": 13670,
    "topMined": [
     [
      "spruce_log",
@@ -667,19 +667,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T14:25:39Z",
-   "playTicks": 422227,
+   "lastSeen": "2026-10-12T14:30:39Z",
+   "playTicks": 428227,
    "deaths": 0,
-   "mobKills": 58,
+   "mobKills": 62,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 7140,
-   "damageTaken": 1931,
-   "distanceCm": 2330463,
-   "walkCm": 1264958,
-   "flyCm": 525687,
-   "jumps": 3830,
-   "mined": 4054,
+   "damageDealt": 7810,
+   "damageTaken": 2038,
+   "distanceCm": 2368741,
+   "walkCm": 1292878,
+   "flyCm": 534973,
+   "jumps": 3884,
+   "mined": 4122,
    "topMined": [
     [
      "stone",
@@ -687,7 +687,7 @@
     ],
     [
      "dirt",
-     423
+     427
     ],
     [
      "spruce_leaves",
@@ -716,7 +716,7 @@
     ],
     [
      "zombie",
-     12
+     13
     ],
     [
      "chicken",
