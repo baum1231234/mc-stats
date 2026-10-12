@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T20:29:34Z",
+ "updated": "2026-10-12T20:31:09Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2600945,
+ "serverTicks": 2606945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -885,6 +885,110 @@
    }
   },
   {
+   "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
+   "name": "Dovid1346",
+   "firstSeen": "2026-10-12T15:11:10Z",
+   "lastSeen": "2026-10-12T20:31:18Z",
+   "playTicks": 381676,
+   "deaths": 1,
+   "mobKills": 62,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 12664,
+   "damageTaken": 2468,
+   "distanceCm": 2736238,
+   "walkCm": 1599015,
+   "flyCm": 661303,
+   "jumps": 5076,
+   "mined": 5535,
+   "topMined": [
+    [
+     "spruce_log",
+     4391
+    ],
+    [
+     "stone",
+     219
+    ],
+    [
+     "sugar_cane",
+     167
+    ]
+   ],
+   "crafted": 54417,
+   "topCrafted": [
+    [
+     "stick",
+     34636
+    ],
+    [
+     "spruce_planks",
+     17453
+    ],
+    [
+     "emerald",
+     1114
+    ]
+   ],
+   "topKilled": [
+    [
+     "zombie",
+     14
+    ],
+    [
+     "skeleton",
+     14
+    ],
+    [
+     "cow",
+     8
+    ]
+   ],
+   "topKilledBy": [],
+   "adv": {
+    "count": 15,
+    "byTab": {
+     "story": 9,
+     "adventure": 4,
+     "husbandry": 2
+    },
+    "recent": [
+     [
+      "husbandry/make_a_sign_glow",
+      "2026-10-12T19:54:42Z"
+     ],
+     [
+      "adventure/trade",
+      "2026-10-12T17:46:41Z"
+     ],
+     [
+      "story/deflect_arrow",
+      "2026-10-12T16:52:02Z"
+     ],
+     [
+      "story/shiny_gear",
+      "2026-10-12T16:50:16Z"
+     ],
+     [
+      "story/mine_diamond",
+      "2026-10-12T15:50:15Z"
+     ],
+     [
+      "adventure/sleep_in_bed",
+      "2026-10-12T15:45:16Z"
+     ],
+     [
+      "adventure/kill_a_mob",
+      "2026-10-12T15:44:43Z"
+     ],
+     [
+      "story/iron_tools",
+      "2026-10-12T15:42:57Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "e0716f67-b0d0-4d15-b374-ed3a090ab96a",
    "name": "Bensen1405",
    "firstSeen": null,
@@ -989,126 +1093,22 @@
    }
   },
   {
-   "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
-   "name": "Dovid1346",
-   "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-12T20:26:18Z",
-   "playTicks": 375676,
-   "deaths": 1,
-   "mobKills": 59,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 10466,
-   "damageTaken": 2453,
-   "distanceCm": 2675736,
-   "walkCm": 1567348,
-   "flyCm": 639784,
-   "jumps": 4975,
-   "mined": 5476,
-   "topMined": [
-    [
-     "spruce_log",
-     4391
-    ],
-    [
-     "stone",
-     219
-    ],
-    [
-     "deepslate",
-     134
-    ]
-   ],
-   "crafted": 54384,
-   "topCrafted": [
-    [
-     "stick",
-     34636
-    ],
-    [
-     "spruce_planks",
-     17453
-    ],
-    [
-     "emerald",
-     1084
-    ]
-   ],
-   "topKilled": [
-    [
-     "zombie",
-     14
-    ],
-    [
-     "skeleton",
-     14
-    ],
-    [
-     "cow",
-     8
-    ]
-   ],
-   "topKilledBy": [],
-   "adv": {
-    "count": 15,
-    "byTab": {
-     "story": 9,
-     "adventure": 4,
-     "husbandry": 2
-    },
-    "recent": [
-     [
-      "husbandry/make_a_sign_glow",
-      "2026-10-12T19:54:42Z"
-     ],
-     [
-      "adventure/trade",
-      "2026-10-12T17:46:41Z"
-     ],
-     [
-      "story/deflect_arrow",
-      "2026-10-12T16:52:02Z"
-     ],
-     [
-      "story/shiny_gear",
-      "2026-10-12T16:50:16Z"
-     ],
-     [
-      "story/mine_diamond",
-      "2026-10-12T15:50:15Z"
-     ],
-     [
-      "adventure/sleep_in_bed",
-      "2026-10-12T15:45:16Z"
-     ],
-     [
-      "adventure/kill_a_mob",
-      "2026-10-12T15:44:43Z"
-     ],
-     [
-      "story/iron_tools",
-      "2026-10-12T15:42:57Z"
-     ]
-    ]
-   }
-  },
-  {
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-12T20:26:18Z",
-   "playTicks": 226988,
+   "lastSeen": "2026-10-12T20:31:18Z",
+   "playTicks": 232988,
    "deaths": 2,
-   "mobKills": 47,
+   "mobKills": 48,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 5303,
-   "damageTaken": 3240,
-   "distanceCm": 3956297,
-   "walkCm": 940929,
-   "flyCm": 1522964,
-   "jumps": 6826,
-   "mined": 359,
+   "damageDealt": 5503,
+   "damageTaken": 3370,
+   "distanceCm": 3999503,
+   "walkCm": 954017,
+   "flyCm": 1541648,
+   "jumps": 6943,
+   "mined": 385,
    "topMined": [
     [
      "stone",
