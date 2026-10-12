@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-12T11:25:31Z",
+ "updated": "2026-10-12T11:27:01Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1956542,
+ "serverTicks": 1962542,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T11:21:32Z",
-   "playTicks": 1567425,
+   "lastSeen": "2026-10-12T11:26:32Z",
+   "playTicks": 1573425,
    "deaths": 0,
    "mobKills": 869,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 128213,
    "damageTaken": 15487,
-   "distanceCm": 19343684,
-   "walkCm": 6033557,
-   "flyCm": 6519534,
-   "jumps": 31417,
-   "mined": 6418,
+   "distanceCm": 19432966,
+   "walkCm": 6060089,
+   "flyCm": 6568805,
+   "jumps": 31610,
+   "mined": 6472,
    "topMined": [
     [
      "packed_ice",
@@ -31,10 +31,10 @@
     ],
     [
      "grass_block",
-     531
+     571
     ]
    ],
-   "crafted": 17511,
+   "crafted": 17512,
    "topCrafted": [
     [
      "stick",
@@ -329,16 +329,16 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-12T11:21:32Z",
-   "playTicks": 802586,
+   "lastSeen": "2026-10-12T11:26:32Z",
+   "playTicks": 808586,
    "deaths": 3,
-   "mobKills": 396,
+   "mobKills": 514,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 38173,
+   "damageDealt": 39182,
    "damageTaken": 8243,
-   "distanceCm": 7020338,
-   "walkCm": 3553064,
+   "distanceCm": 7021924,
+   "walkCm": 3554650,
    "flyCm": 1905136,
    "jumps": 12328,
    "mined": 10693,
@@ -374,15 +374,15 @@
    "topKilled": [
     [
      "zombie",
-     153
+     189
     ],
     [
      "skeleton",
-     110
+     154
     ],
     [
      "creeper",
-     56
+     93
     ]
    ],
    "topKilledBy": [
@@ -442,19 +442,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T11:21:32Z",
-   "playTicks": 740374,
+   "lastSeen": "2026-10-12T11:26:32Z",
+   "playTicks": 746374,
    "deaths": 0,
-   "mobKills": 166,
+   "mobKills": 167,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 16173,
-   "damageTaken": 2881,
-   "distanceCm": 7999308,
-   "walkCm": 3273091,
-   "flyCm": 2862823,
-   "jumps": 13306,
-   "mined": 10648,
+   "damageDealt": 16273,
+   "damageTaken": 2888,
+   "distanceCm": 8091419,
+   "walkCm": 3300524,
+   "flyCm": 2892559,
+   "jumps": 13467,
+   "mined": 10654,
    "topMined": [
     [
      "dark_oak_log",
@@ -462,14 +462,14 @@
     ],
     [
      "grass_block",
-     1693
+     1696
     ],
     [
      "andesite",
      1305
     ]
    ],
-   "crafted": 28888,
+   "crafted": 28896,
    "topCrafted": [
     [
      "stick",
@@ -888,27 +888,27 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T11:21:32Z",
-   "playTicks": 239074,
+   "lastSeen": "2026-10-12T11:26:32Z",
+   "playTicks": 245074,
    "deaths": 0,
    "mobKills": 49,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 5525,
    "damageTaken": 1077,
-   "distanceCm": 1513501,
-   "walkCm": 799663,
-   "flyCm": 379388,
-   "jumps": 2529,
-   "mined": 1604,
+   "distanceCm": 1531185,
+   "walkCm": 815593,
+   "flyCm": 381142,
+   "jumps": 2570,
+   "mined": 1708,
    "topMined": [
     [
      "stone",
-     511
+     595
     ],
     [
      "dirt",
-     276
+     296
     ],
     [
      "coal_ore",
