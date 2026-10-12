@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T23:25:51Z",
+ "updated": "2026-10-12T23:27:28Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2810945,
+ "serverTicks": 2816945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T23:21:18Z",
-   "playTicks": 1487508,
+   "lastSeen": "2026-10-12T23:26:18Z",
+   "playTicks": 1493508,
    "deaths": 2,
    "mobKills": 352,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 71272,
    "damageTaken": 6495,
-   "distanceCm": 18289376,
-   "walkCm": 7826134,
-   "flyCm": 4152748,
-   "jumps": 16881,
-   "mined": 23987,
+   "distanceCm": 18327029,
+   "walkCm": 7834115,
+   "flyCm": 4181870,
+   "jumps": 16956,
+   "mined": 23988,
    "topMined": [
     [
      "grass_block",
@@ -650,19 +650,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-12T23:21:18Z",
-   "playTicks": 619632,
+   "lastSeen": "2026-10-12T23:26:18Z",
+   "playTicks": 625632,
    "deaths": 17,
    "mobKills": 87,
    "playerKills": 0,
    "killedByPlayers": 3,
    "damageDealt": 9430,
    "damageTaken": 8638,
-   "distanceCm": 5758316,
-   "walkCm": 3262612,
-   "flyCm": 1298056,
-   "jumps": 8222,
-   "mined": 6652,
+   "distanceCm": 5798078,
+   "walkCm": 3286891,
+   "flyCm": 1313314,
+   "jumps": 8261,
+   "mined": 6667,
    "topMined": [
     [
      "stone",
@@ -670,14 +670,14 @@
     ],
     [
      "grass_block",
-     1011
+     1023
     ],
     [
      "spruce_log",
      869
     ]
    ],
-   "crafted": 7300,
+   "crafted": 7304,
    "topCrafted": [
     [
      "stick",
@@ -1982,8 +1982,8 @@
     "empty": true
    },
    "2.-4": {
-    "mtime": "2026-10-12T18:55:36Z",
-    "rendered": "2026-10-12T20:26:22Z"
+    "mtime": "2026-10-12T23:27:47Z",
+    "rendered": "2026-10-12T23:27:28Z"
    },
    "-1.-5": {
     "mtime": "2026-10-10T19:48:47Z",
