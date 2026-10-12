@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-12T14:21:04Z",
+ "updated": "2026-10-12T14:25:39Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2168945,
+ "serverTicks": 2174945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T14:20:39Z",
-   "playTicks": 1750343,
+   "lastSeen": "2026-10-12T14:25:39Z",
+   "playTicks": 1756343,
    "deaths": 0,
    "mobKills": 890,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 132719,
    "damageTaken": 16132,
-   "distanceCm": 21245763,
-   "walkCm": 6816796,
-   "flyCm": 7336016,
-   "jumps": 35405,
-   "mined": 7653,
+   "distanceCm": 21321183,
+   "walkCm": 6890867,
+   "flyCm": 7336748,
+   "jumps": 35410,
+   "mined": 7756,
    "topMined": [
     [
      "packed_ice",
@@ -31,10 +31,10 @@
     ],
     [
      "grass_block",
-     856
+     864
     ]
    ],
-   "crafted": 18313,
+   "crafted": 18349,
    "topCrafted": [
     [
      "stick",
@@ -667,19 +667,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T14:20:39Z",
-   "playTicks": 416227,
+   "lastSeen": "2026-10-12T14:25:39Z",
+   "playTicks": 422227,
    "deaths": 0,
    "mobKills": 58,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 7140,
-   "damageTaken": 1861,
-   "distanceCm": 2308872,
-   "walkCm": 1249637,
-   "flyCm": 522328,
-   "jumps": 3800,
-   "mined": 4049,
+   "damageTaken": 1931,
+   "distanceCm": 2330463,
+   "walkCm": 1264958,
+   "flyCm": 525687,
+   "jumps": 3830,
+   "mined": 4054,
    "topMined": [
     [
      "stone",
@@ -687,25 +687,25 @@
     ],
     [
      "dirt",
-     422
+     423
     ],
     [
      "spruce_leaves",
      306
     ]
    ],
-   "crafted": 1421,
+   "crafted": 1561,
    "topCrafted": [
+    [
+     "spruce_planks",
+     440
+    ],
     [
      "stone",
      410
     ],
     [
      "dark_oak_planks",
-     312
-    ],
-    [
-     "spruce_planks",
      312
     ]
    ],
