@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T13:48:43Z",
+ "updated": "2026-10-12T13:50:31Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2129490,
+ "serverTicks": 2132945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -667,27 +667,27 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T13:47:47Z",
-   "playTicks": 376772,
+   "lastSeen": "2026-10-12T13:50:39Z",
+   "playTicks": 380227,
    "deaths": 0,
    "mobKills": 58,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 7140,
    "damageTaken": 1851,
-   "distanceCm": 2159142,
-   "walkCm": 1120267,
-   "flyCm": 503718,
-   "jumps": 3585,
-   "mined": 3139,
+   "distanceCm": 2168576,
+   "walkCm": 1129211,
+   "flyCm": 503908,
+   "jumps": 3609,
+   "mined": 3164,
    "topMined": [
     [
      "stone",
-     1126
+     1131
     ],
     [
      "dirt",
-     376
+     396
     ],
     [
      "spruce_leaves",
