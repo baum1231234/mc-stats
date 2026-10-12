@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T07:16:08Z",
+ "updated": "2026-10-12T07:17:40Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1656542,
+ "serverTicks": 1663441,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,52 +111,52 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-11T21:45:11Z",
-   "playTicks": 1268385,
+   "lastSeen": "2026-10-12T07:17:17Z",
+   "playTicks": 1275284,
    "deaths": 2,
-   "mobKills": 326,
+   "mobKills": 331,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 66463,
-   "damageTaken": 6319,
-   "distanceCm": 15887686,
-   "walkCm": 6303839,
-   "flyCm": 3380673,
-   "jumps": 14203,
-   "mined": 22222,
+   "damageDealt": 67090,
+   "damageTaken": 6325,
+   "distanceCm": 15984054,
+   "walkCm": 6381159,
+   "flyCm": 3398146,
+   "jumps": 14272,
+   "mined": 22241,
    "topMined": [
     [
      "grass_block",
-     10278
+     10279
     ],
     [
      "dirt",
-     4983
+     4984
     ],
     [
      "sand",
-     3729
+     3731
     ]
    ],
-   "crafted": 3415,
+   "crafted": 3703,
    "topCrafted": [
     [
      "emerald",
      982
     ],
     [
-     "gold_nugget",
-     387
+     "wheat",
+     567
     ],
     [
-     "bread",
-     285
+     "gold_nugget",
+     387
     ]
    ],
    "topKilled": [
     [
      "zombie",
-     95
+     97
     ],
     [
      "skeleton",
@@ -164,7 +164,7 @@
     ],
     [
      "spider",
-     32
+     34
     ]
    ],
    "topKilledBy": [
@@ -178,14 +178,18 @@
     ]
    ],
    "adv": {
-    "count": 22,
+    "count": 23,
     "byTab": {
      "adventure": 6,
      "story": 12,
-     "husbandry": 3,
+     "husbandry": 4,
      "nether": 1
     },
     "recent": [
+     [
+      "husbandry/breed_an_animal",
+      "2026-10-12T07:14:57Z"
+     ],
      [
       "adventure/hero_of_the_village",
       "2026-10-11T20:07:22Z"
@@ -213,10 +217,6 @@
      [
       "story/cure_zombie_villager",
       "2026-10-10T23:34:12Z"
-     ],
-     [
-      "husbandry/tame_an_animal",
-      "2026-10-10T23:00:25Z"
      ]
     ]
    }
@@ -1001,28 +1001,79 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T07:00:42Z",
-   "playTicks": 2960,
+   "lastSeen": "2026-10-12T07:17:17Z",
+   "playTicks": 8541,
    "deaths": 0,
-   "mobKills": 0,
+   "mobKills": 2,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 0,
-   "damageTaken": 0,
-   "distanceCm": 4027,
-   "walkCm": 2737,
-   "flyCm": 1065,
-   "jumps": 7,
-   "mined": 0,
-   "topMined": [],
-   "crafted": 0,
-   "topCrafted": [],
-   "topKilled": [],
+   "damageDealt": 80,
+   "damageTaken": 80,
+   "distanceCm": 60894,
+   "walkCm": 34564,
+   "flyCm": 19818,
+   "jumps": 107,
+   "mined": 46,
+   "topMined": [
+    [
+     "stone",
+     14
+    ],
+    [
+     "sweet_berry_bush",
+     12
+    ],
+    [
+     "spruce_log",
+     8
+    ]
+   ],
+   "crafted": 48,
+   "topCrafted": [
+    [
+     "spruce_planks",
+     32
+    ],
+    [
+     "stick",
+     12
+    ],
+    [
+     "wooden_pickaxe",
+     1
+    ]
+   ],
+   "topKilled": [
+    [
+     "chicken",
+     2
+    ]
+   ],
    "topKilledBy": [],
    "adv": {
-    "count": 0,
-    "byTab": {},
-    "recent": []
+    "count": 4,
+    "byTab": {
+     "adventure": 1,
+     "story": 3
+    },
+    "recent": [
+     [
+      "story/upgrade_tools",
+      "2026-10-12T07:16:58Z"
+     ],
+     [
+      "story/mine_stone",
+      "2026-10-12T07:16:22Z"
+     ],
+     [
+      "story/root",
+      "2026-10-12T07:16:11Z"
+     ],
+     [
+      "adventure/root",
+      "2026-10-12T07:13:22Z"
+     ]
+    ]
    }
   }
  ],
