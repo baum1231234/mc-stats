@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T21:34:39Z",
+ "updated": "2026-10-12T21:36:13Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2681580,
+ "serverTicks": 2684945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -225,19 +225,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T21:33:30Z",
-   "playTicks": 1237921,
+   "lastSeen": "2026-10-12T21:36:18Z",
+   "playTicks": 1241286,
    "deaths": 0,
-   "mobKills": 313,
+   "mobKills": 315,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 38896,
-   "damageTaken": 4895,
-   "distanceCm": 13939581,
-   "walkCm": 5882999,
-   "flyCm": 5065640,
-   "jumps": 23620,
-   "mined": 15970,
+   "damageDealt": 39266,
+   "damageTaken": 4912,
+   "distanceCm": 13955195,
+   "walkCm": 5898228,
+   "flyCm": 5066025,
+   "jumps": 23631,
+   "mined": 16116,
    "topMined": [
     [
      "dark_oak_log",
@@ -249,7 +249,7 @@
     ],
     [
      "stone",
-     1751
+     1756
     ]
    ],
    "crafted": 47417,
@@ -278,7 +278,7 @@
     ],
     [
      "skeleton",
-     37
+     38
     ]
    ],
    "topKilledBy": [],
@@ -1096,27 +1096,27 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-12T21:33:30Z",
-   "playTicks": 307623,
+   "lastSeen": "2026-10-12T21:36:18Z",
+   "playTicks": 310988,
    "deaths": 2,
    "mobKills": 61,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 8153,
-   "damageTaken": 4606,
-   "distanceCm": 4532177,
-   "walkCm": 1252483,
-   "flyCm": 1706922,
-   "jumps": 8204,
-   "mined": 1975,
+   "damageTaken": 4616,
+   "distanceCm": 4553823,
+   "walkCm": 1273350,
+   "flyCm": 1707153,
+   "jumps": 8207,
+   "mined": 2183,
    "topMined": [
     [
      "stone",
-     1214
+     1398
     ],
     [
      "snow_block",
-     167
+     176
     ],
     [
      "deepslate",
