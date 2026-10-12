@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T09:29:33Z",
+ "updated": "2026-10-12T09:32:28Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1818542,
+ "serverTicks": 1825664,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -326,6 +326,119 @@
    }
   },
   {
+   "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
+   "name": "mcMinemanny",
+   "firstSeen": "2026-10-11T10:41:59Z",
+   "lastSeen": "2026-10-12T09:32:28Z",
+   "playTicks": 674453,
+   "deaths": 2,
+   "mobKills": 171,
+   "playerKills": 0,
+   "killedByPlayers": 1,
+   "damageDealt": 31794,
+   "damageTaken": 7355,
+   "distanceCm": 6038512,
+   "walkCm": 3003901,
+   "flyCm": 1775215,
+   "jumps": 11458,
+   "mined": 9163,
+   "topMined": [
+    [
+     "spruce_log",
+     3426
+    ],
+    [
+     "stone",
+     1401
+    ],
+    [
+     "grass_block",
+     831
+    ]
+   ],
+   "crafted": 35625,
+   "topCrafted": [
+    [
+     "stick",
+     21242
+    ],
+    [
+     "spruce_planks",
+     11499
+    ],
+    [
+     "emerald",
+     670
+    ]
+   ],
+   "topKilled": [
+    [
+     "zombie",
+     89
+    ],
+    [
+     "skeleton",
+     34
+    ],
+    [
+     "spider",
+     8
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "skeleton",
+     1
+    ],
+    [
+     "player",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 19,
+    "byTab": {
+     "story": 9,
+     "husbandry": 4,
+     "adventure": 6
+    },
+    "recent": [
+     [
+      "adventure/avoid_vibration",
+      "2026-10-11T16:04:16Z"
+     ],
+     [
+      "husbandry/plant_seed",
+      "2026-10-11T14:48:23Z"
+     ],
+     [
+      "husbandry/breed_an_animal",
+      "2026-10-11T13:26:06Z"
+     ],
+     [
+      "adventure/trade",
+      "2026-10-11T12:08:56Z"
+     ],
+     [
+      "adventure/sleep_in_bed",
+      "2026-10-11T12:08:13Z"
+     ],
+     [
+      "story/shiny_gear",
+      "2026-10-11T12:01:28Z"
+     ],
+     [
+      "adventure/shoot_arrow",
+      "2026-10-11T11:19:01Z"
+     ],
+     [
+      "story/deflect_arrow",
+      "2026-10-11T11:16:19Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
@@ -430,135 +543,22 @@
    }
   },
   {
-   "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
-   "name": "mcMinemanny",
-   "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-12T09:26:32Z",
-   "playTicks": 667331,
-   "deaths": 2,
-   "mobKills": 171,
-   "playerKills": 0,
-   "killedByPlayers": 1,
-   "damageDealt": 31794,
-   "damageTaken": 7258,
-   "distanceCm": 5977785,
-   "walkCm": 2981024,
-   "flyCm": 1767319,
-   "jumps": 11379,
-   "mined": 9158,
-   "topMined": [
-    [
-     "spruce_log",
-     3426
-    ],
-    [
-     "stone",
-     1401
-    ],
-    [
-     "grass_block",
-     831
-    ]
-   ],
-   "crafted": 35625,
-   "topCrafted": [
-    [
-     "stick",
-     21242
-    ],
-    [
-     "spruce_planks",
-     11499
-    ],
-    [
-     "emerald",
-     670
-    ]
-   ],
-   "topKilled": [
-    [
-     "zombie",
-     89
-    ],
-    [
-     "skeleton",
-     34
-    ],
-    [
-     "spider",
-     8
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "skeleton",
-     1
-    ],
-    [
-     "player",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 19,
-    "byTab": {
-     "story": 9,
-     "husbandry": 4,
-     "adventure": 6
-    },
-    "recent": [
-     [
-      "adventure/avoid_vibration",
-      "2026-10-11T16:04:16Z"
-     ],
-     [
-      "husbandry/plant_seed",
-      "2026-10-11T14:48:23Z"
-     ],
-     [
-      "husbandry/breed_an_animal",
-      "2026-10-11T13:26:06Z"
-     ],
-     [
-      "adventure/trade",
-      "2026-10-11T12:08:56Z"
-     ],
-     [
-      "adventure/sleep_in_bed",
-      "2026-10-11T12:08:13Z"
-     ],
-     [
-      "story/shiny_gear",
-      "2026-10-11T12:01:28Z"
-     ],
-     [
-      "adventure/shoot_arrow",
-      "2026-10-11T11:19:01Z"
-     ],
-     [
-      "story/deflect_arrow",
-      "2026-10-11T11:16:19Z"
-     ]
-    ]
-   }
-  },
-  {
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-12T09:29:26Z",
-   "playTicks": 386796,
+   "lastSeen": "2026-10-12T09:32:28Z",
+   "playTicks": 389614,
    "deaths": 13,
    "mobKills": 41,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 5286,
-   "damageTaken": 6171,
-   "distanceCm": 3885257,
-   "walkCm": 1933081,
-   "flyCm": 860365,
-   "jumps": 5762,
-   "mined": 3273,
+   "damageTaken": 6175,
+   "distanceCm": 3908145,
+   "walkCm": 1951803,
+   "flyCm": 864306,
+   "jumps": 5789,
+   "mined": 3280,
    "topMined": [
     [
      "stone",
