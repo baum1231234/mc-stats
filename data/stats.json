@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-12T13:56:07Z",
+ "updated": "2026-10-12T14:01:46Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2138945,
+ "serverTicks": 2144945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T13:55:39Z",
-   "playTicks": 1720343,
+   "lastSeen": "2026-10-12T14:00:39Z",
+   "playTicks": 1726343,
    "deaths": 0,
    "mobKills": 890,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 132719,
-   "damageTaken": 16062,
-   "distanceCm": 20920391,
-   "walkCm": 6655993,
-   "flyCm": 7202161,
-   "jumps": 34760,
-   "mined": 7378,
+   "damageTaken": 16072,
+   "distanceCm": 20999162,
+   "walkCm": 6689986,
+   "flyCm": 7239668,
+   "jumps": 34948,
+   "mined": 7419,
    "topMined": [
     [
      "packed_ice",
@@ -31,7 +31,7 @@
     ],
     [
      "grass_block",
-     806
+     832
     ]
    ],
    "crafted": 18270,
@@ -442,19 +442,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T13:55:39Z",
-   "playTicks": 879233,
+   "lastSeen": "2026-10-12T14:00:39Z",
+   "playTicks": 885233,
    "deaths": 0,
    "mobKills": 232,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 20416,
    "damageTaken": 3303,
-   "distanceCm": 10052322,
-   "walkCm": 4016377,
-   "flyCm": 3481563,
-   "jumps": 16232,
-   "mined": 11926,
+   "distanceCm": 10198244,
+   "walkCm": 4043229,
+   "flyCm": 3486820,
+   "jumps": 16262,
+   "mined": 11956,
    "topMined": [
     [
      "dark_oak_log",
@@ -466,7 +466,7 @@
     ],
     [
      "stone",
-     1515
+     1516
     ]
    ],
    "crafted": 29214,
@@ -667,27 +667,27 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T13:55:39Z",
-   "playTicks": 386227,
+   "lastSeen": "2026-10-12T14:00:39Z",
+   "playTicks": 392227,
    "deaths": 0,
    "mobKills": 58,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 7140,
    "damageTaken": 1861,
-   "distanceCm": 2199085,
-   "walkCm": 1155212,
-   "flyCm": 508016,
-   "jumps": 3632,
-   "mined": 3319,
+   "distanceCm": 2226334,
+   "walkCm": 1178633,
+   "flyCm": 511844,
+   "jumps": 3654,
+   "mined": 3583,
    "topMined": [
     [
      "stone",
-     1284
+     1532
     ],
     [
      "dirt",
-     397
+     406
     ],
     [
      "spruce_leaves",
