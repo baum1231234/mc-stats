@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-12T15:51:22Z",
+ "updated": "2026-10-12T15:56:10Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2276945,
+ "serverTicks": 2282945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T15:50:39Z",
-   "playTicks": 1858343,
+   "lastSeen": "2026-10-12T15:55:39Z",
+   "playTicks": 1864343,
    "deaths": 0,
    "mobKills": 892,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 132969,
    "damageTaken": 16319,
-   "distanceCm": 22717319,
-   "walkCm": 7357279,
-   "flyCm": 7759972,
-   "jumps": 37213,
-   "mined": 8343,
+   "distanceCm": 22761973,
+   "walkCm": 7383116,
+   "flyCm": 7775058,
+   "jumps": 37307,
+   "mined": 8524,
    "topMined": [
     [
      "packed_ice",
@@ -27,22 +27,22 @@
     ],
     [
      "spruce_log",
-     1085
+     1264
     ],
     [
      "grass_block",
      1035
     ]
    ],
-   "crafted": 20003,
+   "crafted": 22326,
    "topCrafted": [
     [
      "stick",
-     10659
+     12187
     ],
     [
      "spruce_planks",
-     5436
+     6200
     ],
     [
      "acacia_slab",
@@ -442,19 +442,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T15:50:39Z",
-   "playTicks": 929118,
+   "lastSeen": "2026-10-12T15:55:39Z",
+   "playTicks": 935118,
    "deaths": 0,
    "mobKills": 237,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 22644,
    "damageTaken": 3419,
-   "distanceCm": 10645795,
-   "walkCm": 4257941,
-   "flyCm": 3700020,
-   "jumps": 17205,
-   "mined": 12079,
+   "distanceCm": 10710175,
+   "walkCm": 4301903,
+   "flyCm": 3718893,
+   "jumps": 17319,
+   "mined": 12082,
    "topMined": [
     [
      "dark_oak_log",
@@ -469,11 +469,11 @@
      1543
     ]
    ],
-   "crafted": 30035,
+   "crafted": 30098,
    "topCrafted": [
     [
      "stick",
-     16200
+     16216
     ],
     [
      "dark_oak_planks",
@@ -481,7 +481,7 @@
     ],
     [
      "oak_planks",
-     828
+     852
     ]
    ],
    "topKilled": [
@@ -546,19 +546,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T15:50:39Z",
-   "playTicks": 522619,
+   "lastSeen": "2026-10-12T15:55:39Z",
+   "playTicks": 528619,
    "deaths": 0,
-   "mobKills": 64,
+   "mobKills": 65,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 8159,
-   "damageTaken": 2187,
-   "distanceCm": 3092422,
-   "walkCm": 1634531,
-   "flyCm": 653325,
-   "jumps": 4757,
-   "mined": 4896,
+   "damageDealt": 8199,
+   "damageTaken": 2201,
+   "distanceCm": 3132630,
+   "walkCm": 1665259,
+   "flyCm": 660147,
+   "jumps": 4820,
+   "mined": 5068,
    "topMined": [
     [
      "stone",
@@ -566,7 +566,7 @@
     ],
     [
      "dirt",
-     524
+     527
     ],
     [
      "grass_block",
@@ -599,7 +599,7 @@
     ],
     [
      "chicken",
-     7
+     8
     ]
    ],
    "topKilledBy": [],
@@ -1105,19 +1105,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-12T15:50:39Z",
-   "playTicks": 52414,
+   "lastSeen": "2026-10-12T15:55:21Z",
+   "playTicks": 58047,
    "deaths": 0,
-   "mobKills": 13,
+   "mobKills": 18,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 1857,
-   "damageTaken": 443,
-   "distanceCm": 405240,
-   "walkCm": 187287,
-   "flyCm": 70710,
-   "jumps": 690,
-   "mined": 106,
+   "damageDealt": 2367,
+   "damageTaken": 728,
+   "distanceCm": 480021,
+   "walkCm": 242182,
+   "flyCm": 80591,
+   "jumps": 767,
+   "mined": 108,
    "topMined": [
     [
      "iron_ore",
@@ -1149,12 +1149,12 @@
    ],
    "topKilled": [
     [
-     "sheep",
-     5
+     "zombie",
+     6
     ],
     [
-     "zombie",
-     3
+     "sheep",
+     5
     ],
     [
      "chicken",
