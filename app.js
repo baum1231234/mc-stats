@@ -7,7 +7,8 @@ const num = (v) => nf.format(v || 0);
 const km = (cm) => new Intl.NumberFormat("de-DE", { maximumFractionDigits: 1 }).format((cm || 0) / 100000) + " km";
 // Schaden wird in Zehntel-Lebenspunkten gespeichert, 2 Lebenspunkte = 1 Herz
 const hearts = (v) => num(Math.round((v || 0) / 20)) + " ♥";
-const pretty = (id) => id.replace(/^.*:/, "").replace(/_/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+// "player" taucht bei Kills und Todesursachen auf – alles andere bleibt bei der englischen ID
+const pretty = (id) => (/(^|:)player$/.test(id) ? "Spieler" : id.replace(/^.*:/, "").replace(/_/g, " ").replace(/\b\w/g, (c) => c.toUpperCase()));
 
 function playtime(ticks) {
   const min = Math.floor((ticks || 0) / 1200);
@@ -33,6 +34,14 @@ function share(p) {
 
 const topEntry = (list) => (list && list[0] ? `${pretty(list[0][0])} (${num(list[0][1])})` : "–");
 
+// Tode ohne Mob oder Spieler (Fall, Lava, Ertrinken …) zählt Minecraft nicht einzeln
+const otherDeaths = (p) => (p.deaths || 0) - (p.topKilledBy || []).reduce((s, [, n]) => s + n, 0);
+function topCause(p) {
+  if (!p.deaths) return "–";
+  const other = otherDeaths(p);
+  return other > (p.topKilledBy?.[0]?.[1] || 0) ? `Anderes (${num(other)})` : topEntry(p.topKilledBy);
+}
+
 // Spalte: [Titel, Anzeige, Sortierwert]
 const TABS = [
   { id: "zeit", label: "Spielzeit", cols: [
@@ -47,7 +56,7 @@ const TABS = [
     ["Schaden ausgeteilt", (p) => hearts(p.damageDealt), (p) => p.damageDealt],
     ["Schaden kassiert", (p) => hearts(p.damageTaken), (p) => p.damageTaken],
     ["Meistgetötet", (p) => topEntry(p.topKilled), null],
-    ["Stirbt meist durch", (p) => (p.deaths ? topEntry(p.topKilledBy) : "–"), null],
+    ["Stirbt meist durch", (p) => topCause(p), null],
   ] },
   { id: "wanted", label: "Most Wanted", posters: true, cols: [
     ["Spieler-Kills", (p) => num(p.playerKills), (p) => p.playerKills || 0],
@@ -119,7 +128,7 @@ function poster(p, rank) {
     el("div", { className: "poster-title" }, "WANTED"),
     img,
     el("div", { className: "poster-name" }, p.name),
-    el("div", {}, `${num(p.playerKills)} Spieler-Kills`),
+    el("div", {}, `${num(p.playerKills)} Spieler-${p.playerKills === 1 ? "Kill" : "Kills"}`),
     el("div", { className: "poster-rank" }, `Nr. ${rank}`),
   );
 }
@@ -378,8 +387,8 @@ function renderProfile(p, rank) {
   const entries = (list) => (list || []).map(([id, n]) => [pretty(id), num(n)]);
 
   // Minecraft zählt nur Tode durch Mobs und Spieler einzeln – der Rest ist Fallen, Lava, Ertrinken usw.
-  const causes = p.deaths ? entries(p.topKilledBy).map(([who, n]) => [who === "Player" ? "Spieler" : who, n]) : [];
-  const other = (p.deaths || 0) - (p.topKilledBy || []).reduce((s, [, n]) => s + n, 0);
+  const causes = p.deaths ? entries(p.topKilledBy) : [];
+  const other = otherDeaths(p);
   if (other > 0) causes.push(["Anderes (Fall, Lava, Ertrinken …)", num(other)]);
 
   const adv = p.adv;
