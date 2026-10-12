@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-12T20:16:13Z",
+ "updated": "2026-10-12T20:17:57Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2588945,
+ "serverTicks": 2591289,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T20:11:18Z",
-   "playTicks": 2121423,
+   "lastSeen": "2026-10-12T20:16:18Z",
+   "playTicks": 2127423,
    "deaths": 0,
    "mobKills": 941,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 138789,
-   "damageTaken": 18379,
-   "distanceCm": 26711758,
-   "walkCm": 8349237,
-   "flyCm": 9198427,
-   "jumps": 43483,
-   "mined": 11016,
+   "damageDealt": 138802,
+   "damageTaken": 18459,
+   "distanceCm": 26788258,
+   "walkCm": 8371458,
+   "flyCm": 9245283,
+   "jumps": 43685,
+   "mined": 11107,
    "topMined": [
     [
      "spruce_log",
@@ -34,11 +34,11 @@
      1035
     ]
    ],
-   "crafted": 51648,
+   "crafted": 51671,
    "topCrafted": [
     [
      "stick",
-     31205
+     31213
     ],
     [
      "spruce_planks",
@@ -46,7 +46,7 @@
     ],
     [
      "emerald",
-     1088
+     1099
     ]
    ],
    "topKilled": [
@@ -2491,6 +2491,11 @@
     "rendered": "2026-10-12T20:07:43Z",
     "empty": true
    },
+   "-12.-1": {
+    "mtime": "2026-10-12T20:16:51Z",
+    "rendered": "2026-10-12T20:17:57Z",
+    "empty": true
+   },
    "7.10": {
     "mtime": "2026-10-12T06:04:29Z",
     "rendered": "2026-10-12T18:27:53Z"
@@ -2508,9 +2513,19 @@
     "rendered": "2026-10-12T20:09:26Z",
     "empty": true
    },
+   "-13.2": {
+    "mtime": "2026-10-12T20:16:59Z",
+    "rendered": "2026-10-12T20:17:57Z",
+    "empty": true
+   },
    "-12.0": {
     "mtime": "2026-10-12T20:11:18Z",
     "rendered": "2026-10-12T20:11:01Z"
+   },
+   "-13.-1": {
+    "mtime": "2026-10-12T20:16:51Z",
+    "rendered": "2026-10-12T20:17:57Z",
+    "empty": true
    },
    "8.10": {
     "mtime": "2026-10-12T06:04:29Z",
@@ -2523,6 +2538,11 @@
    "-6.15": {
     "mtime": "2026-10-12T06:04:29Z",
     "rendered": "2026-10-12T18:31:05Z",
+    "empty": true
+   },
+   "-13.1": {
+    "mtime": "2026-10-12T20:16:59Z",
+    "rendered": "2026-10-12T20:17:57Z",
     "empty": true
    },
    "9.10": {
