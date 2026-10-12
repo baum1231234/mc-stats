@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T10:01:11Z",
+ "updated": "2026-10-12T10:02:55Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1860542,
+ "serverTicks": 1861710,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -329,19 +329,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-12T09:56:32Z",
-   "playTicks": 703331,
+   "lastSeen": "2026-10-12T10:02:31Z",
+   "playTicks": 710499,
    "deaths": 2,
    "mobKills": 172,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 31994,
    "damageTaken": 7394,
-   "distanceCm": 6205467,
-   "walkCm": 3114542,
-   "flyCm": 1796556,
-   "jumps": 11620,
-   "mined": 9526,
+   "distanceCm": 6253996,
+   "walkCm": 3156816,
+   "flyCm": 1797914,
+   "jumps": 11639,
+   "mined": 9537,
    "topMined": [
     [
      "spruce_log",
@@ -356,7 +356,7 @@
      831
     ]
    ],
-   "crafted": 35812,
+   "crafted": 36165,
    "topCrafted": [
     [
      "stick",
@@ -364,7 +364,7 @@
     ],
     [
      "spruce_planks",
-     11679
+     11935
     ],
     [
      "emerald",
@@ -546,19 +546,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-12T09:56:32Z",
-   "playTicks": 418492,
+   "lastSeen": "2026-10-12T10:02:31Z",
+   "playTicks": 425660,
    "deaths": 13,
-   "mobKills": 46,
+   "mobKills": 47,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 5996,
-   "damageTaken": 6217,
-   "distanceCm": 4169906,
-   "walkCm": 2152835,
-   "flyCm": 920168,
-   "jumps": 6062,
-   "mined": 3501,
+   "damageDealt": 6056,
+   "damageTaken": 6329,
+   "distanceCm": 4202209,
+   "walkCm": 2168276,
+   "flyCm": 924064,
+   "jumps": 6142,
+   "mined": 3605,
    "topMined": [
     [
      "stone",
@@ -569,8 +569,8 @@
      687
     ],
     [
-     "dirt",
-     440
+     "spruce_log",
+     487
     ]
    ],
    "crafted": 2516,
@@ -591,7 +591,7 @@
    "topKilled": [
     [
      "zombie",
-     14
+     15
     ],
     [
      "slime",
@@ -885,6 +885,110 @@
    }
   },
   {
+   "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
+   "name": "imoptimalfall187",
+   "firstSeen": "2026-10-12T07:02:09Z",
+   "lastSeen": "2026-10-12T10:02:31Z",
+   "playTicks": 155271,
+   "deaths": 0,
+   "mobKills": 48,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 5325,
+   "damageTaken": 862,
+   "distanceCm": 907120,
+   "walkCm": 580501,
+   "flyCm": 172842,
+   "jumps": 1635,
+   "mined": 1222,
+   "topMined": [
+    [
+     "stone",
+     327
+    ],
+    [
+     "dirt",
+     143
+    ],
+    [
+     "coal_ore",
+     136
+    ]
+   ],
+   "crafted": 451,
+   "topCrafted": [
+    [
+     "spruce_planks",
+     104
+    ],
+    [
+     "torch",
+     96
+    ],
+    [
+     "iron_ingot",
+     94
+    ]
+   ],
+   "topKilled": [
+    [
+     "sheep",
+     14
+    ],
+    [
+     "zombie",
+     7
+    ],
+    [
+     "chicken",
+     7
+    ]
+   ],
+   "topKilledBy": [],
+   "adv": {
+    "count": 12,
+    "byTab": {
+     "adventure": 4,
+     "story": 7,
+     "husbandry": 1
+    },
+    "recent": [
+     [
+      "adventure/sleep_in_bed",
+      "2026-10-12T08:53:28Z"
+     ],
+     [
+      "adventure/avoid_vibration",
+      "2026-10-12T08:13:34Z"
+     ],
+     [
+      "story/mine_diamond",
+      "2026-10-12T07:59:25Z"
+     ],
+     [
+      "adventure/kill_a_mob",
+      "2026-10-12T07:55:58Z"
+     ],
+     [
+      "story/obtain_armor",
+      "2026-10-12T07:54:54Z"
+     ],
+     [
+      "story/iron_tools",
+      "2026-10-12T07:52:05Z"
+     ],
+     [
+      "story/smelt_iron",
+      "2026-10-12T07:51:42Z"
+     ],
+     [
+      "husbandry/root",
+      "2026-10-12T07:18:02Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
@@ -993,110 +1097,6 @@
      [
       "story/upgrade_tools",
       "2026-10-11T15:55:17Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
-   "name": "imoptimalfall187",
-   "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T09:56:32Z",
-   "playTicks": 148103,
-   "deaths": 0,
-   "mobKills": 46,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 4925,
-   "damageTaken": 782,
-   "distanceCm": 873894,
-   "walkCm": 560445,
-   "flyCm": 163965,
-   "jumps": 1552,
-   "mined": 1188,
-   "topMined": [
-    [
-     "stone",
-     327
-    ],
-    [
-     "coal_ore",
-     136
-    ],
-    [
-     "dirt",
-     132
-    ]
-   ],
-   "crafted": 447,
-   "topCrafted": [
-    [
-     "spruce_planks",
-     104
-    ],
-    [
-     "torch",
-     96
-    ],
-    [
-     "iron_ingot",
-     94
-    ]
-   ],
-   "topKilled": [
-    [
-     "sheep",
-     14
-    ],
-    [
-     "zombie",
-     7
-    ],
-    [
-     "chicken",
-     7
-    ]
-   ],
-   "topKilledBy": [],
-   "adv": {
-    "count": 12,
-    "byTab": {
-     "adventure": 4,
-     "story": 7,
-     "husbandry": 1
-    },
-    "recent": [
-     [
-      "adventure/sleep_in_bed",
-      "2026-10-12T08:53:28Z"
-     ],
-     [
-      "adventure/avoid_vibration",
-      "2026-10-12T08:13:34Z"
-     ],
-     [
-      "story/mine_diamond",
-      "2026-10-12T07:59:25Z"
-     ],
-     [
-      "adventure/kill_a_mob",
-      "2026-10-12T07:55:58Z"
-     ],
-     [
-      "story/obtain_armor",
-      "2026-10-12T07:54:54Z"
-     ],
-     [
-      "story/iron_tools",
-      "2026-10-12T07:52:05Z"
-     ],
-     [
-      "story/smelt_iron",
-      "2026-10-12T07:51:42Z"
-     ],
-     [
-      "husbandry/root",
-      "2026-10-12T07:18:02Z"
      ]
     ]
    }
@@ -1569,8 +1569,8 @@
     "rendered": "2026-10-11T23:17:57Z"
    },
    "-2.1": {
-    "mtime": "2026-10-12T06:58:55Z",
-    "rendered": "2026-10-12T07:02:09Z"
+    "mtime": "2026-10-12T07:13:09Z",
+    "rendered": "2026-10-12T10:02:55Z"
    },
    "-1.2": {
     "mtime": "2026-10-12T07:32:54Z",
