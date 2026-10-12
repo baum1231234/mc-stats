@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T07:20:33Z",
+ "updated": "2026-10-12T07:23:11Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1663441,
+ "serverTicks": 1668542,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,18 +111,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T07:17:17Z",
-   "playTicks": 1275284,
+   "lastSeen": "2026-10-12T07:21:32Z",
+   "playTicks": 1280385,
    "deaths": 2,
    "mobKills": 331,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 67090,
    "damageTaken": 6325,
-   "distanceCm": 15984054,
-   "walkCm": 6381159,
-   "flyCm": 3398146,
-   "jumps": 14272,
+   "distanceCm": 16022854,
+   "walkCm": 6400536,
+   "flyCm": 3415894,
+   "jumps": 14327,
    "mined": 22241,
    "topMined": [
     [
@@ -138,7 +138,7 @@
      3731
     ]
    ],
-   "crafted": 3703,
+   "crafted": 3731,
    "topCrafted": [
     [
      "emerald",
@@ -1001,34 +1001,34 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T07:17:17Z",
-   "playTicks": 8541,
+   "lastSeen": "2026-10-12T07:21:32Z",
+   "playTicks": 13642,
    "deaths": 0,
-   "mobKills": 2,
+   "mobKills": 5,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 80,
-   "damageTaken": 80,
-   "distanceCm": 60894,
-   "walkCm": 34564,
-   "flyCm": 19818,
-   "jumps": 107,
-   "mined": 46,
+   "damageDealt": 230,
+   "damageTaken": 130,
+   "distanceCm": 112090,
+   "walkCm": 70572,
+   "flyCm": 33636,
+   "jumps": 198,
+   "mined": 111,
    "topMined": [
     [
-     "stone",
-     14
+     "sweet_berry_bush",
+     31
     ],
     [
-     "sweet_berry_bush",
-     12
+     "stone",
+     30
     ],
     [
      "spruce_log",
-     8
+     14
     ]
    ],
-   "crafted": 48,
+   "crafted": 54,
    "topCrafted": [
     [
      "spruce_planks",
@@ -1039,24 +1039,33 @@
      12
     ],
     [
-     "wooden_pickaxe",
-     1
+     "furnace",
+     2
     ]
    ],
    "topKilled": [
     [
      "chicken",
-     2
+     4
+    ],
+    [
+     "sheep",
+     1
     ]
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 4,
+    "count": 5,
     "byTab": {
      "adventure": 1,
+     "husbandry": 1,
      "story": 3
     },
     "recent": [
+     [
+      "husbandry/root",
+      "2026-10-12T07:18:02Z"
+     ],
      [
       "story/upgrade_tools",
       "2026-10-12T07:16:58Z"
