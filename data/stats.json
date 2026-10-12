@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-12T19:51:51Z",
+ "updated": "2026-10-12T19:56:17Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2558945,
+ "serverTicks": 2564945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T19:51:18Z",
-   "playTicks": 2116578,
+   "lastSeen": "2026-10-12T19:54:53Z",
+   "playTicks": 2120877,
    "deaths": 0,
    "mobKills": 941,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 138682,
-   "damageTaken": 17914,
-   "distanceCm": 26624953,
-   "walkCm": 8337370,
-   "flyCm": 9163803,
-   "jumps": 43309,
+   "damageDealt": 138789,
+   "damageTaken": 18379,
+   "distanceCm": 26698484,
+   "walkCm": 8349237,
+   "flyCm": 9194636,
+   "jumps": 43481,
    "mined": 11016,
    "topMined": [
     [
@@ -225,18 +225,18 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T19:51:18Z",
-   "playTicks": 1182969,
+   "lastSeen": "2026-10-12T19:54:57Z",
+   "playTicks": 1187357,
    "deaths": 0,
    "mobKills": 300,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 34285,
-   "damageTaken": 4209,
-   "distanceCm": 13368707,
-   "walkCm": 5671282,
-   "flyCm": 4775607,
-   "jumps": 22173,
+   "damageDealt": 34731,
+   "damageTaken": 4323,
+   "distanceCm": 13433736,
+   "walkCm": 5693721,
+   "flyCm": 4800062,
+   "jumps": 22340,
    "mined": 15306,
    "topMined": [
     [
@@ -992,18 +992,18 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-12T19:51:18Z",
-   "playTicks": 333676,
+   "lastSeen": "2026-10-12T19:56:18Z",
+   "playTicks": 339676,
    "deaths": 1,
-   "mobKills": 58,
+   "mobKills": 59,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 9486,
+   "damageDealt": 10466,
    "damageTaken": 2449,
-   "distanceCm": 2430035,
-   "walkCm": 1399611,
-   "flyCm": 572362,
-   "jumps": 4393,
+   "distanceCm": 2469220,
+   "walkCm": 1426621,
+   "flyCm": 583418,
+   "jumps": 4452,
    "mined": 4307,
    "topMined": [
     [
@@ -1019,19 +1019,19 @@
      134
     ]
    ],
-   "crafted": 38879,
+   "crafted": 40302,
    "topCrafted": [
     [
      "stick",
-     24618
+     25546
     ],
     [
      "spruce_planks",
-     12377
+     12841
     ],
     [
      "emerald",
-     821
+     852
     ]
    ],
    "topKilled": [
@@ -1050,13 +1050,17 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 14,
+    "count": 15,
     "byTab": {
      "story": 9,
      "adventure": 4,
-     "husbandry": 1
+     "husbandry": 2
     },
     "recent": [
+     [
+      "husbandry/make_a_sign_glow",
+      "2026-10-12T19:54:42Z"
+     ],
      [
       "adventure/trade",
       "2026-10-12T17:46:41Z"
@@ -1084,10 +1088,6 @@
      [
       "story/iron_tools",
       "2026-10-12T15:42:57Z"
-     ],
-     [
-      "story/obtain_armor",
-      "2026-10-12T15:42:24Z"
      ]
     ]
    }
