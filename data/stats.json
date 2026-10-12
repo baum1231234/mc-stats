@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T11:50:28Z",
+ "updated": "2026-10-12T11:52:11Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1987881,
+ "serverTicks": 1992542,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -329,19 +329,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-12T11:47:39Z",
-   "playTicks": 833925,
+   "lastSeen": "2026-10-12T11:51:32Z",
+   "playTicks": 838586,
    "deaths": 3,
-   "mobKills": 572,
+   "mobKills": 576,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 39598,
-   "damageTaken": 8303,
-   "distanceCm": 7170152,
-   "walkCm": 3648906,
-   "flyCm": 1942003,
-   "jumps": 12519,
-   "mined": 11381,
+   "damageDealt": 40364,
+   "damageTaken": 8311,
+   "distanceCm": 7218256,
+   "walkCm": 3686392,
+   "flyCm": 1950946,
+   "jumps": 12586,
+   "mined": 11392,
    "topMined": [
     [
      "spruce_log",
@@ -356,7 +356,7 @@
      866
     ]
    ],
-   "crafted": 37232,
+   "crafted": 37234,
    "topCrafted": [
     [
      "stick",
@@ -374,11 +374,11 @@
    "topKilled": [
     [
      "zombie",
-     199
+     201
     ],
     [
      "skeleton",
-     182
+     184
     ],
     [
      "creeper",
@@ -442,19 +442,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T11:47:39Z",
-   "playTicks": 771713,
+   "lastSeen": "2026-10-12T11:51:32Z",
+   "playTicks": 776374,
    "deaths": 0,
-   "mobKills": 219,
+   "mobKills": 220,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 16718,
+   "damageDealt": 16918,
    "damageTaken": 2938,
-   "distanceCm": 8314669,
-   "walkCm": 3401665,
-   "flyCm": 2964164,
-   "jumps": 13827,
-   "mined": 11059,
+   "distanceCm": 8378658,
+   "walkCm": 3447046,
+   "flyCm": 2980320,
+   "jumps": 13943,
+   "mined": 11090,
    "topMined": [
     [
      "dark_oak_log",
@@ -462,7 +462,7 @@
     ],
     [
      "grass_block",
-     1696
+     1703
     ],
     [
      "stone",
@@ -888,19 +888,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T11:47:39Z",
-   "playTicks": 268740,
+   "lastSeen": "2026-10-12T11:51:32Z",
+   "playTicks": 273401,
    "deaths": 0,
-   "mobKills": 51,
+   "mobKills": 55,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 5844,
-   "damageTaken": 1243,
-   "distanceCm": 1726489,
-   "walkCm": 871085,
-   "flyCm": 413646,
-   "jumps": 2747,
-   "mined": 1957,
+   "damageDealt": 6634,
+   "damageTaken": 1349,
+   "distanceCm": 1747015,
+   "walkCm": 884620,
+   "flyCm": 419167,
+   "jumps": 2831,
+   "mined": 2081,
    "topMined": [
     [
      "stone",
@@ -908,7 +908,7 @@
     ],
     [
      "dirt",
-     311
+     314
     ],
     [
      "coal_ore",
@@ -937,7 +937,7 @@
     ],
     [
      "zombie",
-     8
+     11
     ],
     [
      "chicken",
