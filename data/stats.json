@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T09:47:38Z",
+ "updated": "2026-10-12T09:52:01Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1843704,
+ "serverTicks": 1848542,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -329,19 +329,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-12T09:47:30Z",
-   "playTicks": 692493,
+   "lastSeen": "2026-10-12T09:51:32Z",
+   "playTicks": 697331,
    "deaths": 2,
    "mobKills": 171,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 31794,
-   "damageTaken": 7355,
-   "distanceCm": 6109585,
-   "walkCm": 3071899,
-   "flyCm": 1777215,
-   "jumps": 11500,
-   "mined": 9286,
+   "damageTaken": 7366,
+   "distanceCm": 6136990,
+   "walkCm": 3083252,
+   "flyCm": 1777552,
+   "jumps": 11512,
+   "mined": 9290,
    "topMined": [
     [
      "spruce_log",
@@ -356,7 +356,7 @@
      831
     ]
    ],
-   "crafted": 35625,
+   "crafted": 35636,
    "topCrafted": [
     [
      "stick",
@@ -364,7 +364,7 @@
     ],
     [
      "spruce_planks",
-     11499
+     11503
     ],
     [
      "emerald",
@@ -546,19 +546,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-12T09:47:30Z",
-   "playTicks": 407654,
+   "lastSeen": "2026-10-12T09:51:32Z",
+   "playTicks": 412492,
    "deaths": 13,
-   "mobKills": 42,
+   "mobKills": 45,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 5426,
-   "damageTaken": 6191,
-   "distanceCm": 4048650,
-   "walkCm": 2055650,
-   "flyCm": 898219,
-   "jumps": 5969,
-   "mined": 3358,
+   "damageDealt": 5886,
+   "damageTaken": 6211,
+   "distanceCm": 4092326,
+   "walkCm": 2095133,
+   "flyCm": 901784,
+   "jumps": 5994,
+   "mined": 3417,
    "topMined": [
     [
      "stone",
@@ -573,7 +573,7 @@
      440
     ]
    ],
-   "crafted": 2500,
+   "crafted": 2516,
    "topCrafted": [
     [
      "stick",
@@ -591,7 +591,7 @@
    "topKilled": [
     [
      "zombie",
-     11
+     13
     ],
     [
      "slime",
@@ -1001,19 +1001,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T09:47:30Z",
-   "playTicks": 137265,
+   "lastSeen": "2026-10-12T09:51:32Z",
+   "playTicks": 142103,
    "deaths": 0,
-   "mobKills": 44,
+   "mobKills": 46,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 4525,
-   "damageTaken": 611,
-   "distanceCm": 822725,
-   "walkCm": 525567,
-   "flyCm": 157022,
-   "jumps": 1484,
-   "mined": 1154,
+   "damageDealt": 4925,
+   "damageTaken": 722,
+   "distanceCm": 848283,
+   "walkCm": 542967,
+   "flyCm": 158753,
+   "jumps": 1518,
+   "mined": 1176,
    "topMined": [
     [
      "stone",
@@ -1024,8 +1024,8 @@
      136
     ],
     [
-     "deepslate",
-     104
+     "dirt",
+     121
     ]
    ],
    "crafted": 415,
