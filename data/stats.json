@@ -1,48 +1,48 @@
 {
- "updated": "2026-10-12T16:05:57Z",
+ "updated": "2026-10-12T16:10:38Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2294945,
+ "serverTicks": 2300945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T16:05:39Z",
-   "playTicks": 1876343,
+   "lastSeen": "2026-10-12T16:10:39Z",
+   "playTicks": 1882343,
    "deaths": 0,
    "mobKills": 892,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 132969,
    "damageTaken": 16480,
-   "distanceCm": 22880116,
-   "walkCm": 7437420,
-   "flyCm": 7823853,
-   "jumps": 37549,
-   "mined": 8685,
+   "distanceCm": 22939660,
+   "walkCm": 7456764,
+   "flyCm": 7858935,
+   "jumps": 37699,
+   "mined": 8750,
    "topMined": [
+    [
+     "spruce_log",
+     1484
+    ],
     [
      "packed_ice",
      1424
-    ],
-    [
-     "spruce_log",
-     1423
     ],
     [
      "grass_block",
      1035
     ]
    ],
-   "crafted": 23412,
+   "crafted": 24197,
    "topCrafted": [
     [
      "stick",
-     12867
+     13379
     ],
     [
      "spruce_planks",
-     6540
+     6796
     ],
     [
      "acacia_slab",
@@ -442,19 +442,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T16:05:39Z",
-   "playTicks": 947118,
+   "lastSeen": "2026-10-12T16:10:39Z",
+   "playTicks": 953118,
    "deaths": 0,
    "mobKills": 239,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 23724,
    "damageTaken": 3419,
-   "distanceCm": 10811616,
-   "walkCm": 4364730,
-   "flyCm": 3754038,
-   "jumps": 17506,
-   "mined": 12095,
+   "distanceCm": 10853296,
+   "walkCm": 4400473,
+   "flyCm": 3758125,
+   "jumps": 17570,
+   "mined": 12118,
    "topMined": [
     [
      "dark_oak_log",
@@ -462,14 +462,14 @@
     ],
     [
      "grass_block",
-     1862
+     1866
     ],
     [
      "stone",
      1543
     ]
    ],
-   "crafted": 30278,
+   "crafted": 30294,
    "topCrafted": [
     [
      "stick",
@@ -546,19 +546,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T16:05:39Z",
-   "playTicks": 540619,
+   "lastSeen": "2026-10-12T16:10:39Z",
+   "playTicks": 546619,
    "deaths": 0,
-   "mobKills": 94,
+   "mobKills": 96,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 10463,
-   "damageTaken": 2251,
-   "distanceCm": 3352721,
-   "walkCm": 1761905,
-   "flyCm": 758960,
-   "jumps": 5217,
-   "mined": 5140,
+   "damageDealt": 10863,
+   "damageTaken": 2306,
+   "distanceCm": 3368543,
+   "walkCm": 1775405,
+   "flyCm": 760420,
+   "jumps": 5251,
+   "mined": 5146,
    "topMined": [
     [
      "stone",
@@ -566,14 +566,14 @@
     ],
     [
      "dirt",
-     527
+     528
     ],
     [
      "grass_block",
-     351
+     355
     ]
    ],
-   "crafted": 1895,
+   "crafted": 1914,
    "topCrafted": [
     [
      "spruce_planks",
@@ -594,12 +594,12 @@
      27
     ],
     [
-     "chicken",
-     14
+     "zombie",
+     15
     ],
     [
-     "zombie",
-     13
+     "chicken",
+     14
     ]
    ],
    "topKilledBy": [],
@@ -1105,27 +1105,27 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-12T16:05:39Z",
-   "playTicks": 69676,
+   "lastSeen": "2026-10-12T16:10:39Z",
+   "playTicks": 75676,
    "deaths": 0,
-   "mobKills": 20,
+   "mobKills": 21,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 2727,
-   "damageTaken": 882,
-   "distanceCm": 588059,
-   "walkCm": 305367,
-   "flyCm": 113936,
-   "jumps": 993,
-   "mined": 146,
+   "damageDealt": 2928,
+   "damageTaken": 961,
+   "distanceCm": 621120,
+   "walkCm": 323660,
+   "flyCm": 120383,
+   "jumps": 1142,
+   "mined": 211,
    "topMined": [
     [
-     "iron_ore",
-     29
+     "stone",
+     61
     ],
     [
-     "stone",
-     26
+     "iron_ore",
+     31
     ],
     [
      "coal_ore",
@@ -1150,7 +1150,7 @@
    "topKilled": [
     [
      "zombie",
-     7
+     8
     ],
     [
      "sheep",
