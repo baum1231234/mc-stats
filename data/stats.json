@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T18:01:02Z",
+ "updated": "2026-10-12T18:02:59Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2432945,
+ "serverTicks": 2435805,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -992,7 +992,7 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-12T18:00:43Z",
+   "lastSeen": "2026-10-12T18:03:13Z",
    "playTicks": 207676,
    "deaths": 0,
    "mobKills": 56,
@@ -1209,34 +1209,34 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-12T17:49:09Z",
-   "playTicks": 3179,
+   "lastSeen": "2026-10-12T18:03:13Z",
+   "playTicks": 5193,
    "deaths": 0,
    "mobKills": 2,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 136,
    "damageTaken": 75,
-   "distanceCm": 15241,
-   "walkCm": 10067,
+   "distanceCm": 43625,
+   "walkCm": 12153,
    "flyCm": 4424,
-   "jumps": 28,
-   "mined": 31,
+   "jumps": 31,
+   "mined": 64,
    "topMined": [
+    [
+     "stone",
+     23
+    ],
     [
      "birch_leaves",
      14
     ],
     [
-     "oak_log",
-     6
-    ],
-    [
-     "oak_leaves",
-     5
+     "dirt",
+     7
     ]
    ],
-   "crafted": 34,
+   "crafted": 35,
    "topCrafted": [
     [
      "birch_planks",
@@ -1254,12 +1254,16 @@
    "topKilled": [],
    "topKilledBy": [],
    "adv": {
-    "count": 4,
+    "count": 5,
     "byTab": {
      "adventure": 2,
-     "story": 2
+     "story": 3
     },
     "recent": [
+     [
+      "story/mine_stone",
+      "2026-10-12T18:02:30Z"
+     ],
      [
       "story/root",
       "2026-10-12T17:48:25Z"
@@ -2183,6 +2187,24 @@
    "-1.10": {
     "mtime": "2026-10-12T06:04:29Z",
     "rendered": "2026-10-12T18:01:02Z",
+    "empty": true
+   },
+   "-6.0": {
+    "mtime": "2026-10-12T15:36:01Z",
+    "rendered": "2026-10-12T18:02:59Z"
+   },
+   "-7.-1": {
+    "mtime": "2026-10-12T15:35:35Z",
+    "rendered": "2026-10-12T18:02:59Z"
+   },
+   "7.-3": {
+    "mtime": "2026-10-10T22:18:58Z",
+    "rendered": "2026-10-12T18:02:59Z",
+    "empty": true
+   },
+   "3.-7": {
+    "mtime": "2026-10-12T11:28:14Z",
+    "rendered": "2026-10-12T18:02:59Z",
     "empty": true
    }
   }
