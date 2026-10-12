@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T20:39:31Z",
+ "updated": "2026-10-12T20:41:09Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2612945,
+ "serverTicks": 2618945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -888,23 +888,23 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-12T20:36:18Z",
-   "playTicks": 387676,
+   "lastSeen": "2026-10-12T20:41:18Z",
+   "playTicks": 393676,
    "deaths": 1,
    "mobKills": 62,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 12664,
    "damageTaken": 2472,
-   "distanceCm": 2780868,
-   "walkCm": 1626994,
-   "flyCm": 676434,
-   "jumps": 5209,
-   "mined": 5859,
+   "distanceCm": 2841541,
+   "walkCm": 1658993,
+   "flyCm": 703983,
+   "jumps": 5296,
+   "mined": 5866,
    "topMined": [
     [
      "spruce_log",
-     4713
+     4716
     ],
     [
      "stone",
@@ -915,19 +915,19 @@
      167
     ]
    ],
-   "crafted": 54449,
+   "crafted": 58318,
    "topCrafted": [
     [
      "stick",
-     34636
+     37161
     ],
     [
      "spruce_planks",
-     17453
+     18717
     ],
     [
      "emerald",
-     1146
+     1226
     ]
    ],
    "topKilled": [
@@ -1096,19 +1096,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-12T20:36:18Z",
-   "playTicks": 238988,
+   "lastSeen": "2026-10-12T20:41:18Z",
+   "playTicks": 244988,
    "deaths": 2,
    "mobKills": 48,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 5503,
-   "damageTaken": 3390,
-   "distanceCm": 4024296,
-   "walkCm": 970021,
-   "flyCm": 1548580,
-   "jumps": 7024,
-   "mined": 388,
+   "damageTaken": 3420,
+   "distanceCm": 4060830,
+   "walkCm": 990704,
+   "flyCm": 1560680,
+   "jumps": 7123,
+   "mined": 424,
    "topMined": [
     [
      "stone",
@@ -1123,7 +1123,7 @@
      40
     ]
    ],
-   "crafted": 628,
+   "crafted": 646,
    "topCrafted": [
     [
      "wheat",
