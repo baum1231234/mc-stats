@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T07:47:20Z",
+ "updated": "2026-10-12T07:51:48Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1699450,
+ "serverTicks": 1704542,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T07:47:18Z",
-   "playTicks": 1311293,
+   "lastSeen": "2026-10-12T07:51:32Z",
+   "playTicks": 1316385,
    "deaths": 2,
    "mobKills": 331,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 67090,
    "damageTaken": 6344,
-   "distanceCm": 16440620,
-   "walkCm": 6717167,
-   "flyCm": 3511378,
-   "jumps": 14699,
-   "mined": 23404,
+   "distanceCm": 16503934,
+   "walkCm": 6768579,
+   "flyCm": 3522980,
+   "jumps": 14743,
+   "mined": 23413,
    "topMined": [
     [
      "grass_block",
@@ -131,7 +131,7 @@
     ],
     [
      "dirt",
-     5029
+     5038
     ],
     [
      "sand",
@@ -1001,34 +1001,34 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T07:47:18Z",
-   "playTicks": 44550,
+   "lastSeen": "2026-10-12T07:51:32Z",
+   "playTicks": 49642,
    "deaths": 0,
-   "mobKills": 32,
+   "mobKills": 33,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 2494,
-   "damageTaken": 200,
-   "distanceCm": 380722,
-   "walkCm": 202893,
-   "flyCm": 73369,
-   "jumps": 600,
-   "mined": 553,
+   "damageDealt": 2574,
+   "damageTaken": 240,
+   "distanceCm": 419125,
+   "walkCm": 222253,
+   "flyCm": 85650,
+   "jumps": 732,
+   "mined": 576,
    "topMined": [
     [
      "stone",
-     137
+     141
     ],
     [
      "coal_ore",
-     120
+     135
     ],
     [
      "dark_oak_log",
      47
     ]
    ],
-   "crafted": 92,
+   "crafted": 97,
    "topCrafted": [
     [
      "spruce_planks",
@@ -1046,7 +1046,7 @@
    "topKilled": [
     [
      "sheep",
-     13
+     14
     ],
     [
      "chicken",
