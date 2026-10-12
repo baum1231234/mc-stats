@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T08:32:28Z",
+ "updated": "2026-10-12T08:36:45Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1753551,
+ "serverTicks": 1758542,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -433,23 +433,23 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-12T08:32:23Z",
-   "playTicks": 602340,
+   "lastSeen": "2026-10-12T08:36:32Z",
+   "playTicks": 607331,
    "deaths": 2,
    "mobKills": 168,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 30296,
    "damageTaken": 6857,
-   "distanceCm": 5403790,
-   "walkCm": 2710976,
-   "flyCm": 1614397,
-   "jumps": 10615,
-   "mined": 7507,
+   "distanceCm": 5429608,
+   "walkCm": 2731703,
+   "flyCm": 1619090,
+   "jumps": 10655,
+   "mined": 7611,
    "topMined": [
     [
      "spruce_log",
-     2827
+     2927
     ],
     [
      "grass_block",
@@ -460,19 +460,19 @@
      557
     ]
    ],
-   "crafted": 27077,
+   "crafted": 28155,
    "topCrafted": [
     [
      "stick",
-     15690
+     16458
     ],
     [
      "spruce_planks",
-     8775
+     9031
     ],
     [
      "emerald",
-     469
+     516
     ]
    ],
    "topKilled": [
@@ -1001,34 +1001,34 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T08:32:23Z",
-   "playTicks": 97203,
+   "lastSeen": "2026-10-12T08:36:32Z",
+   "playTicks": 102194,
    "deaths": 0,
    "mobKills": 41,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 4085,
    "damageTaken": 351,
-   "distanceCm": 637687,
-   "walkCm": 422566,
+   "distanceCm": 638323,
+   "walkCm": 423202,
    "flyCm": 93812,
-   "jumps": 993,
-   "mined": 856,
+   "jumps": 1069,
+   "mined": 929,
    "topMined": [
     [
      "stone",
-     190
+     246
     ],
     [
      "coal_ore",
-     135
+     136
     ],
     [
      "deepslate",
      104
     ]
    ],
-   "crafted": 294,
+   "crafted": 300,
    "topCrafted": [
     [
      "torch",
