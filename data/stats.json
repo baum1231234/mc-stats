@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-12T20:19:36Z",
+ "updated": "2026-10-12T20:21:24Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2591289,
+ "serverTicks": 2594945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T20:18:15Z",
-   "playTicks": 2129767,
+   "lastSeen": "2026-10-12T20:21:18Z",
+   "playTicks": 2133423,
    "deaths": 0,
    "mobKills": 941,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 138802,
    "damageTaken": 18459,
-   "distanceCm": 26800528,
-   "walkCm": 8374331,
-   "flyCm": 9253515,
-   "jumps": 43721,
-   "mined": 11107,
+   "distanceCm": 26849067,
+   "walkCm": 8384900,
+   "flyCm": 9287434,
+   "jumps": 43843,
+   "mined": 11108,
    "topMined": [
     [
      "spruce_log",
@@ -34,11 +34,11 @@
      1035
     ]
    ],
-   "crafted": 52505,
+   "crafted": 52750,
    "topCrafted": [
     [
      "stick",
-     31679
+     31915
     ],
     [
      "spruce_planks",
@@ -46,7 +46,7 @@
     ],
     [
      "emerald",
-     1115
+     1122
     ]
    ],
    "topKilled": [
@@ -992,23 +992,23 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-12T20:18:15Z",
-   "playTicks": 366020,
+   "lastSeen": "2026-10-12T20:21:18Z",
+   "playTicks": 369676,
    "deaths": 1,
    "mobKills": 59,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 10466,
    "damageTaken": 2453,
-   "distanceCm": 2615604,
-   "walkCm": 1522900,
-   "flyCm": 625099,
-   "jumps": 4863,
-   "mined": 5305,
+   "distanceCm": 2647754,
+   "walkCm": 1543170,
+   "flyCm": 636830,
+   "jumps": 4941,
+   "mined": 5469,
    "topMined": [
     [
      "spruce_log",
-     4229
+     4391
     ],
     [
      "stone",
@@ -1019,15 +1019,15 @@
      134
     ]
    ],
-   "crafted": 52408,
+   "crafted": 53828,
    "topCrafted": [
     [
      "stick",
-     33332
+     34100
     ],
     [
      "spruce_planks",
-     16801
+     17453
     ],
     [
      "emerald",
@@ -1799,8 +1799,8 @@
     "empty": true
    },
    "1.-4": {
-    "mtime": "2026-10-12T17:13:28Z",
-    "rendered": "2026-10-12T17:19:58Z"
+    "mtime": "2026-10-12T18:56:25Z",
+    "rendered": "2026-10-12T20:21:24Z"
    },
    "0.-5": {
     "mtime": "2026-10-12T10:32:12Z",
