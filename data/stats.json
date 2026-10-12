@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-12T14:52:25Z",
+ "updated": "2026-10-12T14:55:43Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2204945,
+ "serverTicks": 2210945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T14:50:39Z",
-   "playTicks": 1786343,
+   "lastSeen": "2026-10-12T14:55:39Z",
+   "playTicks": 1792343,
    "deaths": 0,
-   "mobKills": 890,
+   "mobKills": 891,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 132719,
+   "damageDealt": 132799,
    "damageTaken": 16142,
-   "distanceCm": 21662560,
-   "walkCm": 7103206,
-   "flyCm": 7451307,
-   "jumps": 35897,
-   "mined": 7992,
+   "distanceCm": 21702161,
+   "walkCm": 7128109,
+   "flyCm": 7462569,
+   "jumps": 35956,
+   "mined": 7998,
    "topMined": [
     [
      "packed_ice",
@@ -34,7 +34,7 @@
      980
     ]
    ],
-   "crafted": 18439,
+   "crafted": 18476,
    "topCrafted": [
     [
      "stick",
@@ -46,7 +46,7 @@
     ],
     [
      "acacia_planks",
-     504
+     508
     ]
    ],
    "topKilled": [
@@ -329,19 +329,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-12T14:50:39Z",
-   "playTicks": 990907,
+   "lastSeen": "2026-10-12T14:55:39Z",
+   "playTicks": 996907,
    "deaths": 3,
-   "mobKills": 599,
+   "mobKills": 600,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 53920,
+   "damageDealt": 54110,
    "damageTaken": 9143,
-   "distanceCm": 8066067,
-   "walkCm": 4346740,
-   "flyCm": 2078323,
-   "jumps": 14060,
-   "mined": 14508,
+   "distanceCm": 8104385,
+   "walkCm": 4382759,
+   "flyCm": 2078465,
+   "jumps": 14064,
+   "mined": 14539,
    "topMined": [
     [
      "spruce_log",
@@ -356,7 +356,7 @@
      2184
     ]
    ],
-   "crafted": 41843,
+   "crafted": 41874,
    "topCrafted": [
     [
      "stick",
@@ -364,7 +364,7 @@
     ],
     [
      "spruce_planks",
-     12179
+     12207
     ],
     [
      "deepslate_bricks",
@@ -667,8 +667,8 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-12T14:50:39Z",
-   "playTicks": 452227,
+   "lastSeen": "2026-10-12T14:55:39Z",
+   "playTicks": 458227,
    "deaths": 0,
    "mobKills": 62,
    "playerKills": 0,
