@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T09:02:34Z",
+ "updated": "2026-10-12T09:06:51Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1789573,
+ "serverTicks": 1794542,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -433,19 +433,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-12T09:02:24Z",
-   "playTicks": 638362,
+   "lastSeen": "2026-10-12T09:06:32Z",
+   "playTicks": 643331,
    "deaths": 2,
-   "mobKills": 169,
+   "mobKills": 170,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 31474,
-   "damageTaken": 7163,
-   "distanceCm": 5769346,
-   "walkCm": 2845098,
-   "flyCm": 1705415,
-   "jumps": 10960,
-   "mined": 8148,
+   "damageDealt": 31594,
+   "damageTaken": 7246,
+   "distanceCm": 5826393,
+   "walkCm": 2872831,
+   "flyCm": 1727010,
+   "jumps": 11023,
+   "mined": 8195,
    "topMined": [
     [
      "spruce_log",
@@ -453,14 +453,14 @@
     ],
     [
      "grass_block",
-     790
+     828
     ],
     [
      "dirt",
-     557
+     560
     ]
    ],
-   "crafted": 35529,
+   "crafted": 35530,
    "topCrafted": [
     [
      "stick",
@@ -478,7 +478,7 @@
    "topKilled": [
     [
      "zombie",
-     87
+     88
     ],
     [
      "skeleton",
@@ -546,19 +546,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-12T09:02:24Z",
-   "playTicks": 354351,
-   "deaths": 12,
-   "mobKills": 36,
+   "lastSeen": "2026-10-12T09:06:32Z",
+   "playTicks": 359320,
+   "deaths": 13,
+   "mobKills": 37,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 4435,
-   "damageTaken": 5529,
-   "distanceCm": 3655925,
-   "walkCm": 1766414,
-   "flyCm": 810327,
-   "jumps": 5408,
-   "mined": 2997,
+   "damageDealt": 4635,
+   "damageTaken": 5891,
+   "distanceCm": 3699885,
+   "walkCm": 1798596,
+   "flyCm": 817975,
+   "jumps": 5442,
+   "mined": 3002,
    "topMined": [
     [
      "stone",
@@ -590,15 +590,15 @@
    ],
    "topKilled": [
     [
+     "zombie",
+     6
+    ],
+    [
      "slime",
      6
     ],
     [
      "skeleton",
-     6
-    ],
-    [
-     "sheep",
      6
     ]
    ],
@@ -1210,12 +1210,12 @@
      "2026-10-11",
      "2026-10-12"
     ],
-    "rendered": "2026-10-12T06:05:31Z",
+    "rendered": "2026-10-12T09:06:51Z",
     "regions": {
-     "r.-2.4.mca": "2026-10-11T23:32:14Z",
-     "r.-2.5.mca": "2026-10-12T06:04:29Z",
-     "r.-3.4.mca": "2026-10-11T23:32:14Z",
-     "r.-3.5.mca": "2026-10-11T23:32:10Z"
+     "r.-2.4.mca": "2026-10-12T08:06:30Z",
+     "r.-2.5.mca": "2026-10-12T08:06:30Z",
+     "r.-3.4.mca": "2026-10-12T07:43:00Z",
+     "r.-3.5.mca": "2026-10-12T08:06:30Z"
     }
    }
   }
@@ -1248,8 +1248,8 @@
     "rendered": "2026-10-12T07:12:03Z"
    },
    "-2.5": {
-    "mtime": "2026-10-12T06:04:29Z",
-    "rendered": "2026-10-12T06:05:31Z"
+    "mtime": "2026-10-12T08:06:30Z",
+    "rendered": "2026-10-12T09:06:51Z"
    },
    "-2.4": {
     "mtime": "2026-10-12T07:12:15Z",
@@ -1308,8 +1308,8 @@
     "rendered": "2026-10-12T06:05:31Z"
    },
    "-3.6": {
-    "mtime": "2026-10-12T06:04:29Z",
-    "rendered": "2026-10-12T06:05:31Z"
+    "mtime": "2026-10-12T07:42:36Z",
+    "rendered": "2026-10-12T09:06:51Z"
    },
    "-3.3": {
     "mtime": "2026-10-11T22:52:49Z",
