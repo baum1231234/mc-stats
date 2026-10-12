@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T22:11:36Z",
+ "updated": "2026-10-12T22:16:10Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2726945,
+ "serverTicks": 2732945,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -767,7 +767,7 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-12T22:11:18Z",
+   "lastSeen": "2026-10-12T22:16:18Z",
    "playTicks": 535632,
    "deaths": 15,
    "mobKills": 54,
@@ -888,19 +888,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-12T22:11:18Z",
-   "playTicks": 497960,
+   "lastSeen": "2026-10-12T22:16:18Z",
+   "playTicks": 503960,
    "deaths": 1,
    "mobKills": 447,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 16592,
-   "damageTaken": 2758,
-   "distanceCm": 3719741,
-   "walkCm": 2147540,
-   "flyCm": 967952,
-   "jumps": 6734,
-   "mined": 7093,
+   "damageTaken": 2809,
+   "distanceCm": 3837056,
+   "walkCm": 2183459,
+   "flyCm": 1001774,
+   "jumps": 6948,
+   "mined": 7099,
    "topMined": [
     [
      "spruce_log",
@@ -1096,34 +1096,34 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-12T22:11:18Z",
-   "playTicks": 352988,
+   "lastSeen": "2026-10-12T22:16:18Z",
+   "playTicks": 358988,
    "deaths": 2,
    "mobKills": 61,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 8153,
    "damageTaken": 4766,
-   "distanceCm": 4759972,
-   "walkCm": 1458131,
-   "flyCm": 1723495,
-   "jumps": 8291,
-   "mined": 3877,
+   "distanceCm": 4794813,
+   "walkCm": 1491594,
+   "flyCm": 1724415,
+   "jumps": 8293,
+   "mined": 4187,
    "topMined": [
     [
      "stone",
-     2887
+     3156
     ],
     [
      "snow_block",
-     249
+     263
     ],
     [
      "gravel",
-     122
+     135
     ]
    ],
-   "crafted": 777,
+   "crafted": 779,
    "topCrafted": [
     [
      "wheat",
@@ -1902,8 +1902,8 @@
     "rendered": "2026-10-12T20:23:02Z"
    },
    "0.3": {
-    "mtime": "2026-10-12T19:00:39Z",
-    "rendered": "2026-10-12T19:15:24Z"
+    "mtime": "2026-10-12T20:57:20Z",
+    "rendered": "2026-10-12T22:16:10Z"
    },
    "1.4": {
     "mtime": "2026-10-12T20:56:58Z",
