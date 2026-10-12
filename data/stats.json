@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T19:08:59Z",
+ "updated": "2026-10-12T19:10:48Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 2504945,
  "players": [
@@ -1096,46 +1096,46 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-12T19:06:18Z",
-   "playTicks": 154765,
+   "lastSeen": "2026-10-12T19:10:56Z",
+   "playTicks": 160333,
    "deaths": 2,
    "mobKills": 33,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 2931,
    "damageTaken": 2500,
-   "distanceCm": 2787083,
-   "walkCm": 692604,
-   "flyCm": 1111596,
-   "jumps": 4541,
-   "mined": 260,
+   "distanceCm": 2820238,
+   "walkCm": 707362,
+   "flyCm": 1125763,
+   "jumps": 4616,
+   "mined": 295,
    "topMined": [
     [
      "stone",
-     52
+     57
+    ],
+    [
+     "iron_ore",
+     43
     ],
     [
      "hay_block",
      29
-    ],
-    [
-     "coal_ore",
-     26
     ]
    ],
-   "crafted": 214,
+   "crafted": 230,
    "topCrafted": [
     [
      "spruce_planks",
      84
     ],
     [
-     "copper_ingot",
-     25
+     "iron_ingot",
+     27
     ],
     [
-     "cooked_mutton",
-     23
+     "copper_ingot",
+     25
     ]
    ],
    "topKilled": [
@@ -1163,13 +1163,17 @@
     ]
    ],
    "adv": {
-    "count": 10,
+    "count": 11,
     "byTab": {
-     "story": 6,
+     "story": 7,
      "adventure": 3,
      "husbandry": 1
     },
     "recent": [
+     [
+      "story/obtain_armor",
+      "2026-10-12T19:08:15Z"
+     ],
      [
       "adventure/totem_of_undying",
       "2026-10-11T20:30:03Z"
@@ -1197,10 +1201,6 @@
      [
       "adventure/root",
       "2026-10-11T15:57:11Z"
-     ],
-     [
-      "story/upgrade_tools",
-      "2026-10-11T15:55:17Z"
      ]
     ]
    }
