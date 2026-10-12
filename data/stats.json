@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-12T09:21:59Z",
+ "updated": "2026-10-12T09:27:47Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 1812542,
+ "serverTicks": 1818542,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -433,19 +433,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-12T09:21:32Z",
-   "playTicks": 661331,
+   "lastSeen": "2026-10-12T09:26:32Z",
+   "playTicks": 667331,
    "deaths": 2,
    "mobKills": 171,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 31794,
-   "damageTaken": 7254,
-   "distanceCm": 5957389,
-   "walkCm": 2966697,
-   "flyCm": 1761700,
-   "jumps": 11217,
-   "mined": 9146,
+   "damageTaken": 7258,
+   "distanceCm": 5977785,
+   "walkCm": 2981024,
+   "flyCm": 1767319,
+   "jumps": 11379,
+   "mined": 9158,
    "topMined": [
     [
      "spruce_log",
@@ -460,7 +460,7 @@
      831
     ]
    ],
-   "crafted": 35536,
+   "crafted": 35625,
    "topCrafted": [
     [
      "stick",
@@ -468,7 +468,7 @@
     ],
     [
      "spruce_planks",
-     11423
+     11499
     ],
     [
      "emerald",
@@ -546,19 +546,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-12T09:21:32Z",
-   "playTicks": 377320,
+   "lastSeen": "2026-10-12T09:26:32Z",
+   "playTicks": 383320,
    "deaths": 13,
-   "mobKills": 37,
+   "mobKills": 41,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 4807,
-   "damageTaken": 6137,
-   "distanceCm": 3833636,
-   "walkCm": 1887221,
-   "flyCm": 854829,
-   "jumps": 5737,
-   "mined": 3252,
+   "damageDealt": 5286,
+   "damageTaken": 6171,
+   "distanceCm": 3869974,
+   "walkCm": 1921108,
+   "flyCm": 857055,
+   "jumps": 5747,
+   "mined": 3268,
    "topMined": [
     [
      "stone",
@@ -573,7 +573,7 @@
      440
     ]
    ],
-   "crafted": 2324,
+   "crafted": 2352,
    "topCrafted": [
     [
      "stick",
@@ -591,7 +591,7 @@
    "topKilled": [
     [
      "zombie",
-     6
+     10
     ],
     [
      "slime",
@@ -1513,8 +1513,8 @@
     "rendered": "2026-10-12T08:04:52Z"
    },
    "0.-5": {
-    "mtime": "2026-10-11T20:59:06Z",
-    "rendered": "2026-10-11T22:16:37Z"
+    "mtime": "2026-10-12T09:28:03Z",
+    "rendered": "2026-10-12T09:27:47Z"
    },
    "0.2": {
     "mtime": "2026-10-12T07:32:54Z",
@@ -1656,8 +1656,8 @@
     "rendered": "2026-10-11T19:24:45Z"
    },
    "1.-5": {
-    "mtime": "2026-10-11T17:16:20Z",
-    "rendered": "2026-10-11T19:24:45Z"
+    "mtime": "2026-10-12T09:28:06Z",
+    "rendered": "2026-10-12T09:27:47Z"
    },
    "0.-6": {
     "mtime": "2026-10-10T19:48:47Z",
@@ -1723,8 +1723,8 @@
     "rendered": "2026-10-11T23:26:02Z"
    },
    "2.-5": {
-    "mtime": "2026-10-11T20:59:06Z",
-    "rendered": "2026-10-11T22:31:03Z"
+    "mtime": "2026-10-12T09:28:02Z",
+    "rendered": "2026-10-12T09:27:47Z"
    },
    "-2.-5": {
     "mtime": "2026-10-10T19:48:47Z",
