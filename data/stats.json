@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-13T23:07:14Z",
+ "updated": "2026-10-13T23:10:27Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 3976624,
+ "serverTicks": 3982222,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T23:05:21Z",
-   "playTicks": 3054749,
+   "lastSeen": "2026-10-13T23:10:01Z",
+   "playTicks": 3060347,
    "deaths": 0,
-   "mobKills": 1641,
+   "mobKills": 1642,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 253079,
-   "damageTaken": 29428,
-   "distanceCm": 40555200,
-   "walkCm": 12399516,
-   "flyCm": 14484930,
-   "jumps": 64162,
-   "mined": 15413,
+   "damageDealt": 253279,
+   "damageTaken": 29492,
+   "distanceCm": 40621726,
+   "walkCm": 12436676,
+   "flyCm": 14509005,
+   "jumps": 64303,
+   "mined": 15461,
    "topMined": [
     [
      "spruce_log",
-     4770
+     4803
     ],
     [
      "packed_ice",
@@ -34,7 +34,7 @@
      1391
     ]
    ],
-   "crafted": 69019,
+   "crafted": 69107,
    "topCrafted": [
     [
      "stick",
@@ -42,11 +42,11 @@
     ],
     [
      "spruce_planks",
-     19576
+     19604
     ],
     [
      "spruce_slab",
-     1838
+     1898
     ]
    ],
    "topKilled": [
@@ -56,7 +56,7 @@
     ],
     [
      "zombie",
-     329
+     330
     ],
     [
      "slime",
@@ -111,31 +111,31 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T23:05:21Z",
-   "playTicks": 2087999,
+   "lastSeen": "2026-10-13T23:10:01Z",
+   "playTicks": 2093597,
    "deaths": 2,
    "mobKills": 905,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 149683,
-   "damageTaken": 9394,
-   "distanceCm": 25203936,
-   "walkCm": 10557672,
-   "flyCm": 6257716,
-   "jumps": 24261,
-   "mined": 27781,
+   "damageTaken": 9396,
+   "distanceCm": 25271519,
+   "walkCm": 10606288,
+   "flyCm": 6274983,
+   "jumps": 24353,
+   "mined": 28219,
    "topMined": [
     [
      "grass_block",
      10360
     ],
     [
-     "dirt",
-     5240
+     "sand",
+     5366
     ],
     [
-     "sand",
-     4931
+     "dirt",
+     5243
     ]
    ],
    "crafted": 14389,
@@ -225,19 +225,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T23:05:21Z",
-   "playTicks": 1676171,
+   "lastSeen": "2026-10-13T23:10:01Z",
+   "playTicks": 1681769,
    "deaths": 0,
    "mobKills": 834,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 128683,
-   "damageTaken": 25842,
-   "distanceCm": 26172500,
-   "walkCm": 5911983,
-   "flyCm": 11015775,
-   "jumps": 36202,
-   "mined": 16393,
+   "damageTaken": 25934,
+   "distanceCm": 26254692,
+   "walkCm": 5950088,
+   "flyCm": 11047120,
+   "jumps": 36328,
+   "mined": 16411,
    "topMined": [
     [
      "spruce_log",
@@ -249,14 +249,14 @@
     ],
     [
      "snow_block",
-     2039
+     2047
     ]
    ],
-   "crafted": 36522,
+   "crafted": 36801,
    "topCrafted": [
     [
      "stick",
-     20144
+     20234
     ],
     [
      "spruce_planks",
@@ -1332,19 +1332,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-13T23:05:21Z",
-   "playTicks": 267934,
+   "lastSeen": "2026-10-13T23:10:01Z",
+   "playTicks": 273532,
    "deaths": 2,
-   "mobKills": 102,
+   "mobKills": 105,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 12229,
-   "damageTaken": 2577,
-   "distanceCm": 3255174,
-   "walkCm": 1136137,
-   "flyCm": 722329,
-   "jumps": 4276,
-   "mined": 1792,
+   "damageDealt": 13343,
+   "damageTaken": 2687,
+   "distanceCm": 3320050,
+   "walkCm": 1170651,
+   "flyCm": 746091,
+   "jumps": 4428,
+   "mined": 1814,
    "topMined": [
     [
      "grass_block",
@@ -1356,7 +1356,7 @@
     ],
     [
      "stone",
-     161
+     170
     ]
    ],
    "crafted": 596,
@@ -1381,7 +1381,7 @@
     ],
     [
      "skeleton",
-     14
+     15
     ],
     [
      "sheep",
