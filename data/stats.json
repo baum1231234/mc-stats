@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T22:26:39Z",
+ "updated": "2026-10-13T22:29:50Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 3928222,
+ "serverTicks": 3934222,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -764,7 +764,7 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-13T22:25:01Z",
+   "lastSeen": "2026-10-13T22:30:01Z",
    "playTicks": 898570,
    "deaths": 2,
    "mobKills": 87,
@@ -1332,34 +1332,34 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-13T22:25:01Z",
-   "playTicks": 219532,
+   "lastSeen": "2026-10-13T22:30:01Z",
+   "playTicks": 225532,
    "deaths": 1,
    "mobKills": 61,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 7244,
    "damageTaken": 1882,
-   "distanceCm": 2646503,
-   "walkCm": 901915,
-   "flyCm": 548582,
-   "jumps": 3384,
-   "mined": 1534,
+   "distanceCm": 2674434,
+   "walkCm": 927043,
+   "flyCm": 550860,
+   "jumps": 3415,
+   "mined": 1680,
    "topMined": [
     [
      "grass_block",
-     262
+     264
     ],
     [
      "spruce_log",
      184
     ],
     [
-     "coal_ore",
-     149
+     "stone",
+     156
     ]
    ],
-   "crafted": 496,
+   "crafted": 517,
    "topCrafted": [
     [
      "spruce_planks",
