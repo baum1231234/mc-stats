@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T16:36:05Z",
+ "updated": "2026-10-13T16:40:33Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 3520222,
+ "serverTicks": 3526222,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -650,19 +650,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-13T16:35:43Z",
-   "playTicks": 848380,
+   "lastSeen": "2026-10-13T16:40:43Z",
+   "playTicks": 854380,
    "deaths": 1,
-   "mobKills": 1028,
+   "mobKills": 1053,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 90044,
-   "damageTaken": 6178,
-   "distanceCm": 6689255,
-   "walkCm": 3804193,
-   "flyCm": 1667420,
-   "jumps": 11284,
-   "mined": 9663,
+   "damageDealt": 94399,
+   "damageTaken": 6661,
+   "distanceCm": 6735320,
+   "walkCm": 3843252,
+   "flyCm": 1671240,
+   "jumps": 11316,
+   "mined": 9664,
    "topMined": [
     [
      "spruce_log",
@@ -677,7 +677,7 @@
      386
     ]
    ],
-   "crafted": 100463,
+   "crafted": 100464,
    "topCrafted": [
     [
      "stick",
@@ -1318,34 +1318,34 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-13T16:35:43Z",
-   "playTicks": 144741,
+   "lastSeen": "2026-10-13T16:39:31Z",
+   "playTicks": 149295,
    "deaths": 0,
-   "mobKills": 42,
+   "mobKills": 43,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 5184,
-   "damageTaken": 978,
-   "distanceCm": 1478453,
-   "walkCm": 578699,
-   "flyCm": 409769,
-   "jumps": 2294,
-   "mined": 1032,
+   "damageDealt": 5264,
+   "damageTaken": 1028,
+   "distanceCm": 1515947,
+   "walkCm": 603338,
+   "flyCm": 419299,
+   "jumps": 2387,
+   "mined": 1082,
    "topMined": [
     [
      "coal_ore",
      149
     ],
     [
-     "spruce_log",
-     119
+     "grass_block",
+     122
     ],
     [
-     "grass_block",
+     "spruce_log",
      119
     ]
    ],
-   "crafted": 325,
+   "crafted": 327,
    "topCrafted": [
     [
      "oak_planks",
