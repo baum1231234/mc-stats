@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T10:24:31Z",
+ "updated": "2026-10-13T10:28:58Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 3074717,
+ "serverTicks": 3080717,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1214,31 +1214,31 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-13T10:24:11Z",
-   "playTicks": 228037,
+   "lastSeen": "2026-10-13T10:29:11Z",
+   "playTicks": 234037,
    "deaths": 0,
-   "mobKills": 427,
+   "mobKills": 428,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 21506,
+   "damageDealt": 21686,
    "damageTaken": 963,
-   "distanceCm": 1259445,
-   "walkCm": 914521,
+   "distanceCm": 1292935,
+   "walkCm": 948011,
    "flyCm": 52498,
    "jumps": 1197,
-   "mined": 2194,
+   "mined": 2619,
    "topMined": [
     [
      "deepslate",
-     1197
+     1556
     ],
     [
      "spruce_log",
      606
     ],
     [
-     "stone",
-     76
+     "tuff",
+     109
     ]
    ],
    "crafted": 2711,
@@ -1263,7 +1263,7 @@
     ],
     [
      "creeper",
-     126
+     127
     ],
     [
      "skeleton",
