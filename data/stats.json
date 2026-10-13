@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T13:10:59Z",
+ "updated": "2026-10-13T13:14:03Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 3272717,
+ "serverTicks": 3278717,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -546,19 +546,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-13T13:09:11Z",
-   "playTicks": 838922,
+   "lastSeen": "2026-10-13T13:14:11Z",
+   "playTicks": 844922,
    "deaths": 0,
-   "mobKills": 120,
+   "mobKills": 129,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 14879,
-   "damageTaken": 4201,
-   "distanceCm": 5578346,
-   "walkCm": 3157520,
-   "flyCm": 1265756,
-   "jumps": 8605,
-   "mined": 6876,
+   "damageDealt": 16508,
+   "damageTaken": 4566,
+   "distanceCm": 5637292,
+   "walkCm": 3203275,
+   "flyCm": 1276534,
+   "jumps": 8685,
+   "mined": 6885,
    "topMined": [
     [
      "stone",
@@ -595,11 +595,11 @@
     ],
     [
      "zombie",
-     19
+     24
     ],
     [
      "skeleton",
-     17
+     18
     ]
    ],
    "topKilledBy": [],
@@ -650,19 +650,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-13T13:09:11Z",
-   "playTicks": 812311,
+   "lastSeen": "2026-10-13T13:14:11Z",
+   "playTicks": 818311,
    "deaths": 1,
-   "mobKills": 970,
+   "mobKills": 987,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 80880,
-   "damageTaken": 5701,
-   "distanceCm": 6396193,
-   "walkCm": 3640798,
-   "flyCm": 1599237,
-   "jumps": 10743,
-   "mined": 9444,
+   "damageDealt": 83804,
+   "damageTaken": 5779,
+   "distanceCm": 6471418,
+   "walkCm": 3686479,
+   "flyCm": 1619228,
+   "jumps": 10906,
+   "mined": 9501,
    "topMined": [
     [
      "spruce_log",
@@ -695,7 +695,7 @@
    "topKilled": [
     [
      "skeleton",
-     252
+     269
     ],
     [
      "zombie",
