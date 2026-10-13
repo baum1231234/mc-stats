@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T09:28:59Z",
+ "updated": "2026-10-13T09:30:47Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 3008717,
  "players": [
@@ -111,23 +111,23 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-12T23:32:32Z",
-   "playTicks": 1500983,
+   "lastSeen": "2026-10-13T09:29:11Z",
+   "playTicks": 1504845,
    "deaths": 2,
    "mobKills": 353,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 71432,
    "damageTaken": 6496,
-   "distanceCm": 18401870,
-   "walkCm": 7893843,
-   "flyCm": 4195658,
-   "jumps": 17011,
-   "mined": 24075,
+   "distanceCm": 18451311,
+   "walkCm": 7931014,
+   "flyCm": 4207253,
+   "jumps": 17051,
+   "mined": 24162,
    "topMined": [
     [
      "grass_block",
-     10293
+     10294
     ],
     [
      "dirt",
@@ -138,15 +138,15 @@
      3731
     ]
    ],
-   "crafted": 9215,
+   "crafted": 9372,
    "topCrafted": [
     [
      "bamboo_planks",
-     3472
+     3576
     ],
     [
      "bamboo_block",
-     1736
+     1788
     ],
     [
      "emerald",
@@ -1732,8 +1732,8 @@
     "empty": true
    },
    "-3.3": {
-    "mtime": "2026-10-12T20:59:14Z",
-    "rendered": "2026-10-12T23:04:28Z"
+    "mtime": "2026-10-13T09:31:12Z",
+    "rendered": "2026-10-13T09:30:47Z"
    },
    "-4.4": {
     "mtime": "2026-10-12T20:59:06Z",
@@ -1768,8 +1768,8 @@
     "rendered": "2026-10-13T06:10:33Z"
    },
    "-2.3": {
-    "mtime": "2026-10-12T20:58:17Z",
-    "rendered": "2026-10-12T23:04:28Z"
+    "mtime": "2026-10-13T09:31:12Z",
+    "rendered": "2026-10-13T09:30:47Z"
    },
    "-1.4": {
     "mtime": "2026-10-12T23:10:01Z",
