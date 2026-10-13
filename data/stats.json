@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T11:47:43Z",
+ "updated": "2026-10-13T11:49:14Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 3170717,
+ "serverTicks": 3176887,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -225,19 +225,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T11:44:11Z",
-   "playTicks": 1277954,
+   "lastSeen": "2026-10-13T11:49:11Z",
+   "playTicks": 1283954,
    "deaths": 0,
-   "mobKills": 362,
+   "mobKills": 365,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 45396,
-   "damageTaken": 5246,
-   "distanceCm": 14328853,
-   "walkCm": 6033489,
-   "flyCm": 5220898,
-   "jumps": 24468,
-   "mined": 16344,
+   "damageDealt": 46016,
+   "damageTaken": 5263,
+   "distanceCm": 14371754,
+   "walkCm": 6057119,
+   "flyCm": 5224300,
+   "jumps": 24553,
+   "mined": 16377,
    "topMined": [
     [
      "dark_oak_log",
@@ -249,7 +249,7 @@
     ],
     [
      "stone",
-     1779
+     1789
     ]
    ],
    "crafted": 48090,
@@ -274,11 +274,11 @@
     ],
     [
      "skeleton",
-     80
+     81
     ],
     [
      "zombie",
-     66
+     68
     ]
    ],
    "topKilledBy": [],
