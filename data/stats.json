@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T15:55:45Z",
+ "updated": "2026-10-13T15:57:20Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 3472222,
  "players": [
@@ -329,18 +329,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T15:55:43Z",
-   "playTicks": 1342944,
+   "lastSeen": "2026-10-13T15:56:11Z",
+   "playTicks": 1343498,
    "deaths": 0,
    "mobKills": 712,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 110204,
    "damageTaken": 21680,
-   "distanceCm": 21734785,
-   "walkCm": 4472448,
+   "distanceCm": 21735242,
+   "walkCm": 4472905,
    "flyCm": 8969551,
-   "jumps": 29489,
+   "jumps": 29492,
    "mined": 10782,
    "topMined": [
     [
@@ -1318,19 +1318,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-13T15:55:43Z",
-   "playTicks": 131016,
+   "lastSeen": "2026-10-13T15:56:21Z",
+   "playTicks": 131774,
    "deaths": 0,
    "mobKills": 42,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 5184,
    "damageTaken": 958,
-   "distanceCm": 1429369,
-   "walkCm": 542224,
-   "flyCm": 401073,
-   "jumps": 2143,
-   "mined": 946,
+   "distanceCm": 1436761,
+   "walkCm": 546715,
+   "flyCm": 402999,
+   "jumps": 2160,
+   "mined": 947,
    "topMined": [
     [
      "coal_ore",
@@ -1345,7 +1345,7 @@
      77
     ]
    ],
-   "crafted": 249,
+   "crafted": 255,
    "topCrafted": [
     [
      "oak_planks",
@@ -1356,8 +1356,8 @@
      29
     ],
     [
-     "birch_planks",
-     20
+     "spruce_planks",
+     24
     ]
    ],
    "topKilled": [
@@ -1889,8 +1889,8 @@
     "rendered": "2026-10-12T17:12:27Z"
    },
    "-12.3": {
-    "mtime": "2026-10-13T09:58:40Z",
-    "rendered": "2026-10-13T12:56:33Z",
+    "mtime": "2026-10-13T13:40:27Z",
+    "rendered": "2026-10-13T15:57:20Z",
     "empty": true
    },
    "-13.2": {
