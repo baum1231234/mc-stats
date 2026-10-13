@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T08:35:16Z",
+ "updated": "2026-10-13T08:40:08Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2942717,
+ "serverTicks": 2948717,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -775,18 +775,18 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-13T08:34:11Z",
-   "playTicks": 630229,
+   "lastSeen": "2026-10-13T08:39:11Z",
+   "playTicks": 636229,
    "deaths": 1,
    "mobKills": 563,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 18540,
    "damageTaken": 2892,
-   "distanceCm": 4739864,
-   "walkCm": 2633032,
-   "flyCm": 1259486,
-   "jumps": 8534,
+   "distanceCm": 4747802,
+   "walkCm": 2638969,
+   "flyCm": 1260350,
+   "jumps": 8556,
    "mined": 8996,
    "topMined": [
     [
@@ -802,7 +802,7 @@
      250
     ]
    ],
-   "crafted": 99745,
+   "crafted": 100431,
    "topCrafted": [
     [
      "stick",
@@ -1214,18 +1214,18 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-13T08:34:11Z",
-   "playTicks": 100965,
+   "lastSeen": "2026-10-13T08:39:11Z",
+   "playTicks": 106965,
    "deaths": 0,
-   "mobKills": 214,
+   "mobKills": 312,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 3756,
+   "damageDealt": 5096,
    "damageTaken": 114,
-   "distanceCm": 440324,
-   "walkCm": 282222,
-   "flyCm": 14453,
-   "jumps": 509,
+   "distanceCm": 446234,
+   "walkCm": 287626,
+   "flyCm": 14675,
+   "jumps": 511,
    "mined": 624,
    "topMined": [
     [
@@ -1241,7 +1241,7 @@
      1
     ]
    ],
-   "crafted": 1871,
+   "crafted": 1872,
    "topCrafted": [
     [
      "stick",
@@ -1259,15 +1259,15 @@
    "topKilled": [
     [
      "creeper",
-     90
-    ],
-    [
-     "skeleton",
-     61
+     125
     ],
     [
      "zombie",
-     59
+     97
+    ],
+    [
+     "skeleton",
+     85
     ]
    ],
    "topKilledBy": [],
