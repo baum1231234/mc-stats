@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-13T12:28:30Z",
+ "updated": "2026-10-13T12:30:11Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 3221857,
+ "serverTicks": 3224717,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T12:26:48Z",
-   "playTicks": 2416689,
+   "lastSeen": "2026-10-13T12:29:11Z",
+   "playTicks": 2419549,
    "deaths": 0,
-   "mobKills": 1285,
+   "mobKills": 1298,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 185301,
-   "damageTaken": 22047,
-   "distanceCm": 31212050,
-   "walkCm": 9544852,
-   "flyCm": 10842585,
-   "jumps": 51254,
-   "mined": 12247,
+   "damageDealt": 187311,
+   "damageTaken": 22134,
+   "distanceCm": 31251122,
+   "walkCm": 9567646,
+   "flyCm": 10856514,
+   "jumps": 51322,
+   "mined": 12248,
    "topMined": [
     [
      "spruce_log",
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T12:26:48Z",
-   "playTicks": 1688360,
+   "lastSeen": "2026-10-13T12:29:11Z",
+   "playTicks": 1691220,
    "deaths": 2,
-   "mobKills": 777,
+   "mobKills": 783,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 130223,
-   "damageTaken": 7492,
-   "distanceCm": 20450704,
-   "walkCm": 9146882,
-   "flyCm": 4508908,
-   "jumps": 19009,
-   "mined": 24482,
+   "damageDealt": 131073,
+   "damageTaken": 7512,
+   "distanceCm": 20496832,
+   "walkCm": 9174766,
+   "flyCm": 4522317,
+   "jumps": 19057,
+   "mined": 24483,
    "topMined": [
     [
      "grass_block",
@@ -225,19 +225,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T12:26:48Z",
-   "playTicks": 1329094,
+   "lastSeen": "2026-10-13T12:29:11Z",
+   "playTicks": 1331954,
    "deaths": 0,
    "mobKills": 453,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 59396,
    "damageTaken": 5379,
-   "distanceCm": 14626841,
-   "walkCm": 6151987,
-   "flyCm": 5322304,
-   "jumps": 25181,
-   "mined": 16515,
+   "distanceCm": 14674886,
+   "walkCm": 6160324,
+   "flyCm": 5336997,
+   "jumps": 25243,
+   "mined": 16518,
    "topMined": [
     [
      "dark_oak_log",
@@ -252,7 +252,7 @@
      1792
     ]
    ],
-   "crafted": 48097,
+   "crafted": 48098,
    "topCrafted": [
     [
      "stick",
@@ -329,23 +329,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T12:26:48Z",
-   "playTicks": 1109583,
+   "lastSeen": "2026-10-13T12:29:11Z",
+   "playTicks": 1112443,
    "deaths": 0,
    "mobKills": 564,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 101139,
-   "damageTaken": 18558,
-   "distanceCm": 17877708,
-   "walkCm": 3729741,
-   "flyCm": 7476531,
-   "jumps": 25557,
-   "mined": 8677,
+   "damageTaken": 18603,
+   "distanceCm": 17902235,
+   "walkCm": 3738010,
+   "flyCm": 7488082,
+   "jumps": 25650,
+   "mined": 8690,
    "topMined": [
     [
      "spruce_log",
-     2639
+     2652
     ],
     [
      "spruce_leaves",
@@ -546,18 +546,18 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-13T12:26:48Z",
-   "playTicks": 790910,
+   "lastSeen": "2026-10-13T12:29:11Z",
+   "playTicks": 793770,
    "deaths": 0,
    "mobKills": 116,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 14053,
-   "damageTaken": 3688,
-   "distanceCm": 5179822,
-   "walkCm": 2897337,
-   "flyCm": 1149571,
-   "jumps": 7959,
+   "damageTaken": 3698,
+   "distanceCm": 5204884,
+   "walkCm": 2911208,
+   "flyCm": 1159111,
+   "jumps": 8023,
    "mined": 6594,
    "topMined": [
     [
@@ -573,7 +573,7 @@
      559
     ]
    ],
-   "crafted": 2553,
+   "crafted": 2573,
    "topCrafted": [
     [
      "stone",
@@ -1452,31 +1452,6 @@
    }
   },
   {
-   "player": "Ahxibrause",
-   "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
-   "name": "test",
-   "x": -5387,
-   "y": 181,
-   "z": 783,
-   "dim": "overworld",
-   "since": "2026-10-13T12:26:52Z",
-   "map": {
-    "dir": "data/maps/Ahxibrause_-5387_783",
-    "size": 256,
-    "origin": [
-     -5520,
-     640
-    ],
-    "dates": [
-     "2026-10-13"
-    ],
-    "rendered": "2026-10-13T12:26:52Z",
-    "regions": {
-     "r.-11.1.mca": "2026-10-13T12:27:13Z"
-    }
-   }
-  },
-  {
    "player": "Eingepacktt",
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Bosse",
@@ -1655,10 +1630,6 @@
     "mtime": "2026-10-13T09:39:05Z",
     "rendered": "2026-10-13T09:39:38Z"
    },
-   "-11.2": {
-    "mtime": "2026-10-13T09:39:00Z",
-    "rendered": "2026-10-13T09:39:38Z"
-   },
    "-3.4": {
     "mtime": "2026-10-13T09:33:12Z",
     "rendered": "2026-10-13T12:28:30Z"
@@ -1671,6 +1642,10 @@
     "mtime": "2026-10-13T09:39:02Z",
     "rendered": "2026-10-13T09:39:38Z"
    },
+   "-11.2": {
+    "mtime": "2026-10-13T09:39:00Z",
+    "rendered": "2026-10-13T09:39:38Z"
+   },
    "-11.0": {
     "mtime": "2026-10-13T09:39:19Z",
     "rendered": "2026-10-13T09:41:42Z"
@@ -1680,8 +1655,8 @@
     "rendered": "2026-10-13T12:28:30Z"
    },
    "2.-1": {
-    "mtime": "2026-10-13T09:28:08Z",
-    "rendered": "2026-10-13T09:28:59Z"
+    "mtime": "2026-10-13T12:23:00Z",
+    "rendered": "2026-10-13T12:30:11Z"
    },
    "1.0": {
     "mtime": "2026-10-13T09:59:00Z",
@@ -1735,10 +1710,6 @@
     "mtime": "2026-10-13T12:04:51Z",
     "rendered": "2026-10-13T12:05:37Z"
    },
-   "-12.2": {
-    "mtime": "2026-10-13T09:39:05Z",
-    "rendered": "2026-10-13T09:41:42Z"
-   },
    "-4.5": {
     "mtime": "2026-10-12T19:35:57Z",
     "rendered": "2026-10-12T19:36:53Z"
@@ -1746,6 +1717,10 @@
    "-3.6": {
     "mtime": "2026-10-12T19:33:07Z",
     "rendered": "2026-10-12T20:11:01Z"
+   },
+   "-12.2": {
+    "mtime": "2026-10-13T09:39:05Z",
+    "rendered": "2026-10-13T09:41:42Z"
    },
    "-12.0": {
     "mtime": "2026-10-13T09:39:20Z",
@@ -1755,14 +1730,6 @@
     "mtime": "2026-10-13T06:04:15Z",
     "rendered": "2026-10-13T06:08:40Z",
     "empty": true
-   },
-   "-10.2": {
-    "mtime": "2026-10-13T09:39:02Z",
-    "rendered": "2026-10-13T09:41:42Z"
-   },
-   "-11.3": {
-    "mtime": "2026-10-13T09:58:40Z",
-    "rendered": "2026-10-13T10:00:58Z"
    },
    "-3.3": {
     "mtime": "2026-10-13T09:31:12Z",
@@ -1783,6 +1750,14 @@
    "-9.1": {
     "mtime": "2026-10-13T09:45:43Z",
     "rendered": "2026-10-13T09:47:05Z"
+   },
+   "-10.2": {
+    "mtime": "2026-10-13T09:39:02Z",
+    "rendered": "2026-10-13T09:41:42Z"
+   },
+   "-11.3": {
+    "mtime": "2026-10-13T09:58:40Z",
+    "rendered": "2026-10-13T10:00:58Z"
    },
    "-10.0": {
     "mtime": "2026-10-13T09:44:04Z",
@@ -1864,16 +1839,6 @@
     "mtime": "2026-10-12T19:01:18Z",
     "rendered": "2026-10-12T21:37:47Z"
    },
-   "-12.3": {
-    "mtime": "2026-10-13T09:56:20Z",
-    "rendered": "2026-10-13T09:55:57Z",
-    "empty": true
-   },
-   "-13.2": {
-    "mtime": "2026-10-13T06:04:15Z",
-    "rendered": "2026-10-13T06:12:26Z",
-    "empty": true
-   },
    "-5.5": {
     "mtime": "2026-10-12T19:36:03Z",
     "rendered": "2026-10-12T20:12:45Z"
@@ -1886,6 +1851,16 @@
     "mtime": "2026-10-12T06:04:29Z",
     "rendered": "2026-10-12T17:12:27Z"
    },
+   "-12.3": {
+    "mtime": "2026-10-13T09:56:20Z",
+    "rendered": "2026-10-13T09:55:57Z",
+    "empty": true
+   },
+   "-13.2": {
+    "mtime": "2026-10-13T06:04:15Z",
+    "rendered": "2026-10-13T06:12:26Z",
+    "empty": true
+   },
    "-13.0": {
     "mtime": "2026-10-13T06:04:15Z",
     "rendered": "2026-10-13T06:12:26Z",
@@ -1894,14 +1869,6 @@
    "-12.-1": {
     "mtime": "2026-10-13T09:53:23Z",
     "rendered": "2026-10-13T09:53:00Z"
-   },
-   "-9.2": {
-    "mtime": "2026-10-13T06:04:15Z",
-    "rendered": "2026-10-13T06:14:13Z"
-   },
-   "-10.3": {
-    "mtime": "2026-10-13T06:04:15Z",
-    "rendered": "2026-10-13T06:16:07Z"
    },
    "-3.2": {
     "mtime": "2026-10-13T09:32:57Z",
@@ -1934,6 +1901,14 @@
    "-9.0": {
     "mtime": "2026-10-13T09:46:25Z",
     "rendered": "2026-10-13T09:47:05Z"
+   },
+   "-9.2": {
+    "mtime": "2026-10-13T06:04:15Z",
+    "rendered": "2026-10-13T06:14:13Z"
+   },
+   "-10.3": {
+    "mtime": "2026-10-13T06:04:15Z",
+    "rendered": "2026-10-13T06:16:07Z"
    },
    "-10.-1": {
     "mtime": "2026-10-13T09:47:33Z",
@@ -2060,19 +2035,6 @@
     "mtime": "2026-10-13T09:52:15Z",
     "rendered": "2026-10-13T09:53:00Z"
    },
-   "-8.2": {
-    "mtime": "2026-10-12T21:01:29Z",
-    "rendered": "2026-10-12T21:08:55Z"
-   },
-   "-9.3": {
-    "mtime": "2026-10-13T06:04:15Z",
-    "rendered": "2026-10-13T06:19:55Z"
-   },
-   "-10.4": {
-    "mtime": "2026-10-13T06:04:15Z",
-    "rendered": "2026-10-13T06:19:55Z",
-    "empty": true
-   },
    "-3.1": {
     "mtime": "2026-10-13T09:34:56Z",
     "rendered": "2026-10-13T09:34:30Z"
@@ -2112,6 +2074,19 @@
    "-8.0": {
     "mtime": "2026-10-13T10:45:36Z",
     "rendered": "2026-10-13T10:45:22Z"
+   },
+   "-8.2": {
+    "mtime": "2026-10-12T21:01:29Z",
+    "rendered": "2026-10-12T21:08:55Z"
+   },
+   "-9.3": {
+    "mtime": "2026-10-13T06:04:15Z",
+    "rendered": "2026-10-13T06:19:55Z"
+   },
+   "-10.4": {
+    "mtime": "2026-10-13T06:04:15Z",
+    "rendered": "2026-10-13T06:19:55Z",
+    "empty": true
    },
    "-9.-1": {
     "mtime": "2026-10-13T09:48:19Z",
@@ -2231,18 +2206,6 @@
     "rendered": "2026-10-13T09:53:00Z",
     "empty": true
    },
-   "-7.2": {
-    "mtime": "2026-10-12T21:00:53Z",
-    "rendered": "2026-10-13T00:01:51Z"
-   },
-   "-8.3": {
-    "mtime": "2026-10-13T06:04:15Z",
-    "rendered": "2026-10-13T06:25:29Z"
-   },
-   "-9.4": {
-    "mtime": "2026-10-13T06:04:15Z",
-    "rendered": "2026-10-13T06:25:29Z"
-   },
    "-4.1": {
     "mtime": "2026-10-13T09:34:57Z",
     "rendered": "2026-10-13T09:34:30Z"
@@ -2286,6 +2249,18 @@
    "-7.0": {
     "mtime": "2026-10-13T10:45:48Z",
     "rendered": "2026-10-13T10:47:09Z"
+   },
+   "-7.2": {
+    "mtime": "2026-10-12T21:00:53Z",
+    "rendered": "2026-10-13T00:01:51Z"
+   },
+   "-8.3": {
+    "mtime": "2026-10-13T06:04:15Z",
+    "rendered": "2026-10-13T06:25:29Z"
+   },
+   "-9.4": {
+    "mtime": "2026-10-13T06:04:15Z",
+    "rendered": "2026-10-13T06:25:29Z"
    },
    "-9.-2": {
     "mtime": "2026-10-13T09:48:28Z",
@@ -2385,6 +2360,10 @@
     "rendered": "2026-10-12T17:46:03Z",
     "empty": true
    },
+   "-5.1": {
+    "mtime": "2026-10-13T10:45:53Z",
+    "rendered": "2026-10-13T10:48:50Z"
+   },
    "-6.2": {
     "mtime": "2026-10-12T21:00:04Z",
     "rendered": "2026-10-12T23:49:11Z"
@@ -2396,10 +2375,6 @@
    "-8.4": {
     "mtime": "2026-10-13T06:04:15Z",
     "rendered": "2026-10-13T06:29:11Z"
-   },
-   "-5.1": {
-    "mtime": "2026-10-13T10:45:53Z",
-    "rendered": "2026-10-13T10:48:50Z"
    },
    "1.7": {
     "mtime": "2026-10-12T19:29:50Z",
