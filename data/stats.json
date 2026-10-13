@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T16:51:38Z",
+ "updated": "2026-10-13T16:57:13Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 3537164,
+ "serverTicks": 3544222,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -433,19 +433,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-13T16:50:43Z",
-   "playTicks": 1084025,
+   "lastSeen": "2026-10-13T16:55:43Z",
+   "playTicks": 1090025,
    "deaths": 3,
-   "mobKills": 616,
+   "mobKills": 635,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 57700,
-   "damageTaken": 9444,
-   "distanceCm": 8944316,
-   "walkCm": 4831383,
-   "flyCm": 2310522,
-   "jumps": 15298,
-   "mined": 15615,
+   "damageDealt": 62413,
+   "damageTaken": 9645,
+   "distanceCm": 9002422,
+   "walkCm": 4867723,
+   "flyCm": 2327969,
+   "jumps": 15469,
+   "mined": 15685,
    "topMined": [
     [
      "spruce_log",
@@ -457,7 +457,7 @@
     ],
     [
      "deepslate",
-     2337
+     2363
     ]
    ],
    "crafted": 42516,
@@ -478,15 +478,15 @@
    "topKilled": [
     [
      "zombie",
-     203
+     213
     ],
     [
      "skeleton",
-     185
+     189
     ],
     [
      "creeper",
-     119
+     121
     ]
    ],
    "topKilledBy": [
@@ -650,18 +650,18 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-13T16:50:43Z",
-   "playTicks": 866380,
+   "lastSeen": "2026-10-13T16:56:06Z",
+   "playTicks": 872849,
    "deaths": 1,
    "mobKills": 1073,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 97578,
-   "damageTaken": 7049,
-   "distanceCm": 6905735,
-   "walkCm": 3945365,
-   "flyCm": 1693209,
-   "jumps": 11449,
+   "damageTaken": 7055,
+   "distanceCm": 6950507,
+   "walkCm": 3950273,
+   "flyCm": 1700668,
+   "jumps": 11468,
    "mined": 9667,
    "topMined": [
     [
@@ -754,34 +754,34 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-13T16:50:43Z",
-   "playTicks": 711070,
+   "lastSeen": "2026-10-13T16:55:43Z",
+   "playTicks": 717070,
    "deaths": 18,
    "mobKills": 95,
    "playerKills": 0,
    "killedByPlayers": 3,
    "damageDealt": 11025,
    "damageTaken": 9537,
-   "distanceCm": 6439961,
-   "walkCm": 3645511,
-   "flyCm": 1572492,
-   "jumps": 9311,
-   "mined": 7496,
+   "distanceCm": 6465371,
+   "walkCm": 3670764,
+   "flyCm": 1572649,
+   "jumps": 9337,
+   "mined": 7606,
    "topMined": [
     [
      "stone",
-     2496
+     2537
     ],
     [
      "grass_block",
-     1259
+     1263
     ],
     [
      "spruce_log",
      869
     ]
    ],
-   "crafted": 8859,
+   "crafted": 8954,
    "topCrafted": [
     [
      "stick",
@@ -1813,8 +1813,8 @@
     "rendered": "2026-10-13T15:45:32Z"
    },
    "2.-2": {
-    "mtime": "2026-10-13T13:52:11Z",
-    "rendered": "2026-10-13T13:56:47Z"
+    "mtime": "2026-10-13T16:31:44Z",
+    "rendered": "2026-10-13T16:57:13Z"
    },
    "-2.-2": {
     "mtime": "2026-10-13T15:49:41Z",
@@ -1857,8 +1857,8 @@
     "rendered": "2026-10-12T17:10:31Z"
    },
    "0.-4": {
-    "mtime": "2026-10-13T13:21:00Z",
-    "rendered": "2026-10-13T13:55:12Z"
+    "mtime": "2026-10-13T16:37:02Z",
+    "rendered": "2026-10-13T16:57:13Z"
    },
    "1.-3": {
     "mtime": "2026-10-13T16:21:17Z",
@@ -1968,8 +1968,8 @@
     "rendered": "2026-10-12T22:00:59Z"
    },
    "2.-3": {
-    "mtime": "2026-10-13T13:51:56Z",
-    "rendered": "2026-10-13T13:56:47Z"
+    "mtime": "2026-10-13T16:57:34Z",
+    "rendered": "2026-10-13T16:57:13Z"
    },
    "-2.-3": {
     "mtime": "2026-10-13T14:26:46Z",
@@ -2024,8 +2024,8 @@
     "rendered": "2026-10-12T17:19:58Z"
    },
    "1.-4": {
-    "mtime": "2026-10-13T13:22:08Z",
-    "rendered": "2026-10-13T13:55:12Z"
+    "mtime": "2026-10-13T16:57:33Z",
+    "rendered": "2026-10-13T16:57:13Z"
    },
    "0.-5": {
     "mtime": "2026-10-13T06:04:15Z",
