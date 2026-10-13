@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T07:03:00Z",
+ "updated": "2026-10-13T07:04:58Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2833083,
+ "serverTicks": 2834717,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1309,6 +1309,34 @@
      ]
     ]
    }
+  },
+  {
+   "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
+   "name": "snacx_27",
+   "firstSeen": "2026-10-13T07:04:58Z",
+   "lastSeen": "2026-10-13T07:03:10Z",
+   "playTicks": 434,
+   "deaths": 0,
+   "mobKills": 0,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 0,
+   "damageTaken": 0,
+   "distanceCm": 1476,
+   "walkCm": 1476,
+   "flyCm": 0,
+   "jumps": 4,
+   "mined": 0,
+   "topMined": [],
+   "crafted": 0,
+   "topCrafted": [],
+   "topKilled": [],
+   "topKilledBy": [],
+   "adv": {
+    "count": 0,
+    "byTab": {},
+    "recent": []
+   }
   }
  ],
  "bases": [
@@ -1507,8 +1535,8 @@
     "rendered": "2026-10-12T23:53:50Z"
    },
    "0.-2": {
-    "mtime": "2026-10-12T23:04:16Z",
-    "rendered": "2026-10-12T23:14:40Z"
+    "mtime": "2026-10-13T07:05:23Z",
+    "rendered": "2026-10-13T07:04:58Z"
    },
    "0.-1": {
     "mtime": "2026-10-13T07:02:57Z",
@@ -1559,8 +1587,8 @@
     "rendered": "2026-10-13T01:26:43Z"
    },
    "-1.-2": {
-    "mtime": "2026-10-12T23:02:32Z",
-    "rendered": "2026-10-12T23:21:02Z"
+    "mtime": "2026-10-13T07:05:17Z",
+    "rendered": "2026-10-13T07:04:58Z"
    },
    "2.2": {
     "mtime": "2026-10-12T22:38:00Z",
@@ -1583,8 +1611,8 @@
     "rendered": "2026-10-12T21:52:00Z"
    },
    "1.-2": {
-    "mtime": "2026-10-12T23:03:19Z",
-    "rendered": "2026-10-12T23:14:40Z"
+    "mtime": "2026-10-13T07:04:19Z",
+    "rendered": "2026-10-13T07:04:58Z"
    },
    "0.-3": {
     "mtime": "2026-10-12T23:29:21Z",
@@ -1595,8 +1623,8 @@
     "rendered": "2026-10-13T07:03:00Z"
    },
    "1.-1": {
-    "mtime": "2026-10-12T23:03:57Z",
-    "rendered": "2026-10-12T23:17:41Z"
+    "mtime": "2026-10-13T07:05:23Z",
+    "rendered": "2026-10-13T07:04:58Z"
    },
    "0.1": {
     "mtime": "2026-10-13T07:02:57Z",
