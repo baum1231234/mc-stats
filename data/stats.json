@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T19:35:34Z",
+ "updated": "2026-10-13T19:38:42Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 3724598,
  "players": [
@@ -433,19 +433,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-13T19:35:07Z",
-   "playTicks": 1270401,
+   "lastSeen": "2026-10-13T19:38:41Z",
+   "playTicks": 1274436,
    "deaths": 4,
-   "mobKills": 804,
+   "mobKills": 807,
    "playerKills": 1,
    "killedByPlayers": 2,
-   "damageDealt": 67990,
-   "damageTaken": 10892,
-   "distanceCm": 10806842,
-   "walkCm": 5573349,
-   "flyCm": 2920498,
-   "jumps": 19146,
-   "mined": 16780,
+   "damageDealt": 68637,
+   "damageTaken": 11068,
+   "distanceCm": 10886507,
+   "walkCm": 5595902,
+   "flyCm": 2954971,
+   "jumps": 19278,
+   "mined": 16835,
    "topMined": [
     [
      "spruce_log",
@@ -1003,19 +1003,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-13T19:35:07Z",
-   "playTicks": 615151,
+   "lastSeen": "2026-10-13T19:38:41Z",
+   "playTicks": 619183,
    "deaths": 5,
    "mobKills": 82,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 8086,
-   "damageTaken": 3250,
-   "distanceCm": 4150490,
-   "walkCm": 3612031,
-   "flyCm": 291428,
-   "jumps": 3613,
-   "mined": 9417,
+   "damageTaken": 3361,
+   "distanceCm": 4195478,
+   "walkCm": 3649535,
+   "flyCm": 297287,
+   "jumps": 3669,
+   "mined": 9418,
    "topMined": [
     [
      "stone",
@@ -1023,7 +1023,7 @@
     ],
     [
      "grass_block",
-     1422
+     1423
     ],
     [
      "dirt",
