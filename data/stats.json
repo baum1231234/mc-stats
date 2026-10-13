@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-13T14:04:16Z",
+ "updated": "2026-10-13T14:05:55Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 3338854,
+ "serverTicks": 3340222,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T14:00:43Z",
-   "playTicks": 2510264,
+   "lastSeen": "2026-10-13T14:05:43Z",
+   "playTicks": 2516264,
    "deaths": 0,
    "mobKills": 1356,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 194710,
    "damageTaken": 22980,
-   "distanceCm": 33445705,
-   "walkCm": 9980671,
-   "flyCm": 11592452,
-   "jumps": 53737,
-   "mined": 12857,
+   "distanceCm": 33497212,
+   "walkCm": 10014332,
+   "flyCm": 11606661,
+   "jumps": 53835,
+   "mined": 12947,
    "topMined": [
     [
      "spruce_log",
-     4089
+     4130
     ],
     [
      "packed_ice",
@@ -31,7 +31,7 @@
     ],
     [
      "grass_block",
-     1182
+     1210
     ]
    ],
    "crafted": 65290,
@@ -225,18 +225,18 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T14:00:43Z",
-   "playTicks": 1439445,
+   "lastSeen": "2026-10-13T14:05:43Z",
+   "playTicks": 1445445,
    "deaths": 0,
-   "mobKills": 760,
+   "mobKills": 766,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 89991,
-   "damageTaken": 5379,
-   "distanceCm": 14907397,
-   "walkCm": 6242747,
-   "flyCm": 5443930,
-   "jumps": 25724,
+   "damageDealt": 91137,
+   "damageTaken": 5406,
+   "distanceCm": 14968028,
+   "walkCm": 6263621,
+   "flyCm": 5480510,
+   "jumps": 25870,
    "mined": 16605,
    "topMined": [
     [
@@ -252,7 +252,7 @@
      1792
     ]
    ],
-   "crafted": 48814,
+   "crafted": 48844,
    "topCrafted": [
     [
      "stick",
@@ -278,7 +278,7 @@
     ],
     [
      "zombie",
-     68
+     73
     ]
    ],
    "topKilledBy": [],
@@ -329,19 +329,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T14:00:43Z",
-   "playTicks": 1211750,
+   "lastSeen": "2026-10-13T14:05:43Z",
+   "playTicks": 1217750,
    "deaths": 0,
-   "mobKills": 579,
+   "mobKills": 580,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 104749,
-   "damageTaken": 20035,
-   "distanceCm": 19039220,
-   "walkCm": 4083864,
-   "flyCm": 8093836,
-   "jumps": 27189,
-   "mined": 10134,
+   "damageDealt": 104779,
+   "damageTaken": 20241,
+   "distanceCm": 19312353,
+   "walkCm": 4106775,
+   "flyCm": 8190273,
+   "jumps": 27366,
+   "mined": 10149,
    "topMined": [
     [
      "spruce_log",
@@ -356,7 +356,7 @@
      711
     ]
    ],
-   "crafted": 31282,
+   "crafted": 31295,
    "topCrafted": [
     [
      "stick",
@@ -546,18 +546,18 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-13T14:00:43Z",
-   "playTicks": 899898,
+   "lastSeen": "2026-10-13T14:05:43Z",
+   "playTicks": 905898,
    "deaths": 0,
-   "mobKills": 162,
+   "mobKills": 170,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 21591,
+   "damageDealt": 22461,
    "damageTaken": 5029,
-   "distanceCm": 6093242,
-   "walkCm": 3436271,
-   "flyCm": 1365903,
-   "jumps": 9182,
+   "distanceCm": 6171163,
+   "walkCm": 3436907,
+   "flyCm": 1367669,
+   "jumps": 9192,
    "mined": 7123,
    "topMined": [
     [
@@ -598,8 +598,8 @@
      25
     ],
     [
-     "drowned",
-     21
+     "squid",
+     25
     ]
    ],
    "topKilledBy": [],
@@ -2502,6 +2502,11 @@
     "rendered": "2026-10-13T13:45:50Z",
     "empty": true
    },
+   "-6.-3": {
+    "mtime": "2026-10-13T14:05:59Z",
+    "rendered": "2026-10-13T14:05:55Z",
+    "empty": true
+   },
    "2.8": {
     "mtime": "2026-10-11T21:09:34Z",
     "rendered": "2026-10-12T17:57:16Z"
@@ -2549,6 +2554,11 @@
    "0.10": {
     "mtime": "2026-10-11T22:12:56Z",
     "rendered": "2026-10-12T18:10:27Z",
+    "empty": true
+   },
+   "-7.-3": {
+    "mtime": "2026-10-13T14:05:59Z",
+    "rendered": "2026-10-13T14:05:55Z",
     "empty": true
    },
    "2.9": {
