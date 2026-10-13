@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T20:38:15Z",
+ "updated": "2026-10-13T20:39:52Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 3796353,
+ "serverTicks": 3802222,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -889,19 +889,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-13T20:35:07Z",
-   "playTicks": 769677,
+   "lastSeen": "2026-10-13T20:40:01Z",
+   "playTicks": 775546,
    "deaths": 2,
    "mobKills": 81,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 13572,
-   "damageTaken": 8865,
-   "distanceCm": 8183838,
-   "walkCm": 3269738,
-   "flyCm": 2739511,
-   "jumps": 13228,
-   "mined": 15587,
+   "damageTaken": 8881,
+   "distanceCm": 8206968,
+   "walkCm": 3282818,
+   "flyCm": 2747386,
+   "jumps": 13320,
+   "mined": 15692,
    "topMined": [
     [
      "stone",
@@ -909,7 +909,7 @@
     ],
     [
      "spruce_log",
-     727
+     832
     ],
     [
      "snow_block",
@@ -2695,9 +2695,8 @@
     "rendered": "2026-10-13T20:22:29Z"
    },
    "-2.-8": {
-    "mtime": "2026-10-13T17:39:31Z",
-    "rendered": "2026-10-13T17:39:19Z",
-    "empty": true
+    "mtime": "2026-10-13T19:11:19Z",
+    "rendered": "2026-10-13T20:39:52Z"
    },
    "-1.-9": {
     "mtime": "2026-10-13T17:49:33Z",
@@ -2761,9 +2760,8 @@
     "rendered": "2026-10-13T20:22:29Z"
    },
    "-2.-9": {
-    "mtime": "2026-10-13T17:39:31Z",
-    "rendered": "2026-10-13T17:39:19Z",
-    "empty": true
+    "mtime": "2026-10-13T18:57:18Z",
+    "rendered": "2026-10-13T20:39:52Z"
    },
    "-1.-10": {
     "mtime": "2026-10-13T17:50:24Z",
@@ -2818,9 +2816,8 @@
     "rendered": "2026-10-13T20:28:02Z"
    },
    "-2.-10": {
-    "mtime": "2026-10-13T17:39:31Z",
-    "rendered": "2026-10-13T17:39:19Z",
-    "empty": true
+    "mtime": "2026-10-13T18:56:37Z",
+    "rendered": "2026-10-13T20:39:52Z"
    },
    "-1.-11": {
     "mtime": "2026-10-13T17:50:07Z",
