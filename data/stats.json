@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T22:24:58Z",
+ "updated": "2026-10-13T22:26:39Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 3928222,
  "players": [
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T22:20:13Z",
-   "playTicks": 2033842,
+   "lastSeen": "2026-10-13T22:25:01Z",
+   "playTicks": 2039597,
    "deaths": 2,
    "mobKills": 865,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 141678,
-   "damageTaken": 8783,
-   "distanceCm": 24683314,
-   "walkCm": 10361018,
-   "flyCm": 6064502,
-   "jumps": 23573,
-   "mined": 27251,
+   "damageDealt": 141748,
+   "damageTaken": 8786,
+   "distanceCm": 24764813,
+   "walkCm": 10407535,
+   "flyCm": 6091650,
+   "jumps": 23695,
+   "mined": 27680,
    "topMined": [
     [
      "grass_block",
@@ -131,11 +131,11 @@
     ],
     [
      "dirt",
-     5182
+     5226
     ],
     [
      "sand",
-     4557
+     4915
     ]
    ],
    "crafted": 13606,
@@ -226,18 +226,18 @@
    "name": "Ahxibrause",
    "firstSeen": null,
    "lastSeen": "2026-10-13T22:25:01Z",
-   "playTicks": 1622014,
+   "playTicks": 1627769,
    "deaths": 0,
-   "mobKills": 817,
+   "mobKills": 819,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 120528,
-   "damageTaken": 24655,
-   "distanceCm": 25653673,
-   "walkCm": 5656070,
-   "flyCm": 10846411,
-   "jumps": 35119,
-   "mined": 15958,
+   "damageDealt": 122498,
+   "damageTaken": 24675,
+   "distanceCm": 25725054,
+   "walkCm": 5682913,
+   "flyCm": 10872428,
+   "jumps": 35284,
+   "mined": 16015,
    "topMined": [
     [
      "spruce_log",
@@ -249,10 +249,10 @@
     ],
     [
      "snow_block",
-     1954
+     1994
     ]
    ],
-   "crafted": 36288,
+   "crafted": 36289,
    "topCrafted": [
     [
      "stick",
