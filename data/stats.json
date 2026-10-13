@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T07:35:17Z",
+ "updated": "2026-10-13T07:40:09Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2870717,
+ "serverTicks": 2876717,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -775,23 +775,23 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-13T07:34:11Z",
-   "playTicks": 563078,
+   "lastSeen": "2026-10-13T07:39:11Z",
+   "playTicks": 569078,
    "deaths": 1,
    "mobKills": 447,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 16592,
-   "damageTaken": 2837,
-   "distanceCm": 4299340,
-   "walkCm": 2411737,
-   "flyCm": 1126127,
-   "jumps": 7788,
-   "mined": 8463,
+   "damageTaken": 2839,
+   "distanceCm": 4352775,
+   "walkCm": 2447610,
+   "flyCm": 1141654,
+   "jumps": 7850,
+   "mined": 8755,
    "topMined": [
     [
      "spruce_log",
-     6517
+     6806
     ],
     [
      "dark_oak_log",
@@ -802,15 +802,15 @@
      219
     ]
    ],
-   "crafted": 84020,
+   "crafted": 89032,
    "topCrafted": [
     [
      "stick",
-     52512
+     54048
     ],
     [
      "spruce_planks",
-     24493
+     27969
     ],
     [
      "dark_oak_planks",
@@ -1314,58 +1314,62 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-13T07:34:11Z",
-   "playTicks": 35750,
+   "lastSeen": "2026-10-13T07:39:11Z",
+   "playTicks": 41750,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 0,
-   "damageTaken": 100,
-   "distanceCm": 205792,
-   "walkCm": 106432,
-   "flyCm": 2313,
-   "jumps": 195,
-   "mined": 462,
+   "damageTaken": 110,
+   "distanceCm": 236317,
+   "walkCm": 135025,
+   "flyCm": 2944,
+   "jumps": 219,
+   "mined": 616,
    "topMined": [
     [
      "spruce_log",
-     446
+     598
     ],
     [
      "spruce_leaves",
-     14
+     16
     ],
     [
      "kelp_plant",
      1
     ]
    ],
-   "crafted": 327,
+   "crafted": 773,
    "topCrafted": [
+    [
+     "stick",
+     432
+    ],
     [
      "bone_meal",
      252
     ],
     [
      "emerald",
-     75
-    ],
-    [
-     "air",
-     0
+     89
     ]
    ],
    "topKilled": [],
    "topKilledBy": [],
    "adv": {
-    "count": 3,
+    "count": 4,
     "byTab": {
-     "adventure": 1,
+     "adventure": 2,
      "husbandry": 1,
      "story": 1
     },
     "recent": [
+     [
+      "adventure/sleep_in_bed",
+      "2026-10-13T07:37:46Z"
+     ],
      [
       "adventure/trade",
       "2026-10-13T07:22:59Z"
