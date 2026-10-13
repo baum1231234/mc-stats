@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T20:28:02Z",
+ "updated": "2026-10-13T20:29:54Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 3784222,
+ "serverTicks": 3790222,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -546,19 +546,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-13T20:25:01Z",
-   "playTicks": 1085355,
+   "lastSeen": "2026-10-13T20:30:01Z",
+   "playTicks": 1091355,
    "deaths": 2,
    "mobKills": 1081,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 98882,
-   "damageTaken": 9031,
-   "distanceCm": 10173796,
-   "walkCm": 4681562,
-   "flyCm": 2481543,
-   "jumps": 15382,
-   "mined": 10708,
+   "damageTaken": 9142,
+   "distanceCm": 10231872,
+   "walkCm": 4708465,
+   "flyCm": 2501274,
+   "jumps": 15527,
+   "mined": 10742,
    "topMined": [
     [
      "spruce_log",
@@ -573,7 +573,7 @@
      457
     ]
    ],
-   "crafted": 105124,
+   "crafted": 105134,
    "topCrafted": [
     [
      "stick",
@@ -889,19 +889,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-13T20:25:01Z",
-   "playTicks": 757546,
+   "lastSeen": "2026-10-13T20:30:01Z",
+   "playTicks": 763546,
    "deaths": 2,
    "mobKills": 80,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 13296,
-   "damageTaken": 8727,
-   "distanceCm": 8115449,
-   "walkCm": 3234806,
-   "flyCm": 2722979,
-   "jumps": 13093,
-   "mined": 15506,
+   "damageTaken": 8743,
+   "distanceCm": 8152048,
+   "walkCm": 3248992,
+   "flyCm": 2730269,
+   "jumps": 13150,
+   "mined": 15512,
    "topMined": [
     [
      "stone",
@@ -2901,8 +2901,8 @@
     "rendered": "2026-10-13T20:28:02Z"
    },
    "-6.-8": {
-    "mtime": "2026-10-13T17:29:51Z",
-    "rendered": "2026-10-13T17:29:34Z",
+    "mtime": "2026-10-13T17:31:32Z",
+    "rendered": "2026-10-13T20:29:54Z",
     "empty": true
    },
    "-4.-10": {
@@ -2941,8 +2941,8 @@
     "rendered": "2026-10-12T18:26:02Z"
    },
    "-6.-9": {
-    "mtime": "2026-10-13T17:29:51Z",
-    "rendered": "2026-10-13T17:29:34Z",
+    "mtime": "2026-10-13T17:31:32Z",
+    "rendered": "2026-10-13T20:29:54Z",
     "empty": true
    },
    "-5.-10": {
