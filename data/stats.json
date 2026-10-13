@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T08:20:35Z",
+ "updated": "2026-10-13T08:23:50Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2924717,
+ "serverTicks": 2930717,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -775,23 +775,23 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-13T08:19:11Z",
-   "playTicks": 615734,
+   "lastSeen": "2026-10-13T08:23:31Z",
+   "playTicks": 620935,
    "deaths": 1,
-   "mobKills": 559,
+   "mobKills": 563,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 17902,
-   "damageTaken": 2857,
-   "distanceCm": 4654071,
-   "walkCm": 2584030,
-   "flyCm": 1238636,
-   "jumps": 8443,
-   "mined": 8915,
+   "damageDealt": 18540,
+   "damageTaken": 2892,
+   "distanceCm": 4693487,
+   "walkCm": 2612333,
+   "flyCm": 1249204,
+   "jumps": 8489,
+   "mined": 8994,
    "topMined": [
     [
      "spruce_log",
-     6933
+     6998
     ],
     [
      "dark_oak_log",
@@ -799,18 +799,18 @@
     ],
     [
      "spruce_leaves",
-     236
+     250
     ]
    ],
-   "crafted": 98140,
+   "crafted": 99745,
    "topCrafted": [
     [
      "stick",
-     61512
+     62560
     ],
     [
      "spruce_planks",
-     29593
+     30117
     ],
     [
      "dark_oak_planks",
@@ -824,11 +824,11 @@
     ],
     [
      "creeper",
-     171
+     172
     ],
     [
      "zombie",
-     148
+     150
     ]
    ],
    "topKilledBy": [],
