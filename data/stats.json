@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T12:59:40Z",
+ "updated": "2026-10-13T13:04:09Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 3260717,
+ "serverTicks": 3267079,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -225,13 +225,13 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T12:59:11Z",
-   "playTicks": 1367906,
+   "lastSeen": "2026-10-13T13:04:11Z",
+   "playTicks": 1373906,
    "deaths": 0,
-   "mobKills": 578,
+   "mobKills": 579,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 78488,
+   "damageDealt": 78688,
    "damageTaken": 5379,
    "distanceCm": 14691208,
    "walkCm": 6173044,
@@ -270,7 +270,7 @@
    "topKilled": [
     [
      "skeleton",
-     292
+     293
     ],
     [
      "cod",
@@ -546,19 +546,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-13T12:59:11Z",
-   "playTicks": 826922,
+   "lastSeen": "2026-10-13T13:04:11Z",
+   "playTicks": 832922,
    "deaths": 0,
    "mobKills": 116,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 14053,
    "damageTaken": 4028,
-   "distanceCm": 5466923,
-   "walkCm": 3072238,
-   "flyCm": 1242927,
-   "jumps": 8457,
-   "mined": 6745,
+   "distanceCm": 5509152,
+   "walkCm": 3110848,
+   "flyCm": 1245584,
+   "jumps": 8510,
+   "mined": 6858,
    "topMined": [
     [
      "stone",
@@ -566,14 +566,14 @@
     ],
     [
      "short_grass",
-     607
+     609
     ],
     [
-     "dirt",
-     559
+     "grass_block",
+     567
     ]
    ],
-   "crafted": 3217,
+   "crafted": 3219,
    "topCrafted": [
     [
      "stone",
@@ -650,8 +650,8 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-13T12:59:11Z",
-   "playTicks": 800311,
+   "lastSeen": "2026-10-13T13:04:11Z",
+   "playTicks": 806311,
    "deaths": 1,
    "mobKills": 958,
    "playerKills": 0,
