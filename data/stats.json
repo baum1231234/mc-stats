@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T09:43:40Z",
+ "updated": "2026-10-13T09:47:05Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 3026717,
  "players": [
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T09:39:11Z",
-   "playTicks": 1516845,
+   "lastSeen": "2026-10-13T09:44:11Z",
+   "playTicks": 1522845,
    "deaths": 2,
-   "mobKills": 353,
+   "mobKills": 355,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 71432,
-   "damageTaken": 6498,
-   "distanceCm": 18751402,
-   "walkCm": 8081742,
-   "flyCm": 4268490,
-   "jumps": 17250,
-   "mined": 24168,
+   "damageDealt": 71832,
+   "damageTaken": 6503,
+   "distanceCm": 18937120,
+   "walkCm": 8187528,
+   "flyCm": 4297401,
+   "jumps": 17341,
+   "mined": 24169,
    "topMined": [
     [
      "grass_block",
@@ -160,7 +160,7 @@
     ],
     [
      "skeleton",
-     53
+     55
     ],
     [
      "spider",
@@ -178,14 +178,18 @@
     ]
    ],
    "adv": {
-    "count": 23,
+    "count": 24,
     "byTab": {
-     "adventure": 6,
+     "adventure": 7,
      "story": 12,
      "husbandry": 4,
      "nether": 1
     },
     "recent": [
+     [
+      "adventure/minecraft_trials_edition",
+      "2026-10-13T09:43:57Z"
+     ],
      [
       "husbandry/breed_an_animal",
       "2026-10-12T07:14:57Z"
@@ -213,10 +217,6 @@
      [
       "husbandry/plant_seed",
       "2026-10-11T00:23:14Z"
-     ],
-     [
-      "story/cure_zombie_villager",
-      "2026-10-10T23:34:12Z"
      ]
     ]
    }
@@ -650,19 +650,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-13T09:39:11Z",
-   "playTicks": 708229,
+   "lastSeen": "2026-10-13T09:44:11Z",
+   "playTicks": 714229,
    "deaths": 1,
-   "mobKills": 734,
+   "mobKills": 739,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 45565,
-   "damageTaken": 3782,
-   "distanceCm": 5529235,
-   "walkCm": 3085865,
-   "flyCm": 1429126,
-   "jumps": 9554,
-   "mined": 9328,
+   "damageDealt": 46275,
+   "damageTaken": 3876,
+   "distanceCm": 5605331,
+   "walkCm": 3133955,
+   "flyCm": 1449947,
+   "jumps": 9651,
+   "mined": 9352,
    "topMined": [
     [
      "spruce_log",
@@ -996,18 +996,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-13T09:39:11Z",
-   "playTicks": 419631,
+   "lastSeen": "2026-10-13T09:44:11Z",
+   "playTicks": 425631,
    "deaths": 2,
    "mobKills": 62,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 8183,
-   "damageTaken": 5286,
-   "distanceCm": 5279585,
-   "walkCm": 1697253,
-   "flyCm": 1896932,
-   "jumps": 9106,
+   "damageTaken": 5396,
+   "distanceCm": 5341988,
+   "walkCm": 1716228,
+   "flyCm": 1929079,
+   "jumps": 9261,
    "mined": 4774,
    "topMined": [
     [
@@ -1214,18 +1214,18 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-13T09:39:11Z",
-   "playTicks": 178965,
+   "lastSeen": "2026-10-13T09:44:11Z",
+   "playTicks": 184965,
    "deaths": 0,
    "mobKills": 374,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 13663,
    "damageTaken": 678,
-   "distanceCm": 1072139,
-   "walkCm": 768325,
-   "flyCm": 49073,
-   "jumps": 1091,
+   "distanceCm": 1077325,
+   "walkCm": 773397,
+   "flyCm": 49187,
+   "jumps": 1098,
    "mined": 722,
    "topMined": [
     [
@@ -1241,19 +1241,19 @@
      22
     ]
    ],
-   "crafted": 1928,
+   "crafted": 2710,
    "topCrafted": [
     [
      "stick",
-     1200
+     1668
     ],
     [
      "emerald",
-     329
+     400
     ],
     [
-     "bone_meal",
-     252
+     "spruce_planks",
+     260
     ]
    ],
    "topKilled": [
@@ -1748,8 +1748,8 @@
     "rendered": "2026-10-13T00:00:13Z"
    },
    "-9.1": {
-    "mtime": "2026-10-13T06:04:15Z",
-    "rendered": "2026-10-13T06:08:40Z"
+    "mtime": "2026-10-13T09:45:43Z",
+    "rendered": "2026-10-13T09:47:05Z"
    },
    "-10.2": {
     "mtime": "2026-10-13T09:39:02Z",
@@ -1764,8 +1764,8 @@
     "rendered": "2026-10-13T09:43:40Z"
    },
    "-11.-1": {
-    "mtime": "2026-10-13T06:04:15Z",
-    "rendered": "2026-10-13T06:10:33Z"
+    "mtime": "2026-10-13T09:46:52Z",
+    "rendered": "2026-10-13T09:47:05Z"
    },
    "-2.3": {
     "mtime": "2026-10-13T09:31:12Z",
@@ -1899,8 +1899,8 @@
     "rendered": "2026-10-13T06:14:13Z"
    },
    "-9.0": {
-    "mtime": "2026-10-13T06:04:15Z",
-    "rendered": "2026-10-13T06:14:13Z"
+    "mtime": "2026-10-13T09:46:25Z",
+    "rendered": "2026-10-13T09:47:05Z"
    },
    "-9.2": {
     "mtime": "2026-10-13T06:04:15Z",
@@ -1911,8 +1911,8 @@
     "rendered": "2026-10-13T06:16:07Z"
    },
    "-10.-1": {
-    "mtime": "2026-10-13T06:04:15Z",
-    "rendered": "2026-10-13T06:16:07Z"
+    "mtime": "2026-10-13T09:47:33Z",
+    "rendered": "2026-10-13T09:47:05Z"
    },
    "-2.2": {
     "mtime": "2026-10-13T09:32:59Z",
