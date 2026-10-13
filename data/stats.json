@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T21:01:39Z",
+ "updated": "2026-10-13T21:04:53Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 3826222,
+ "serverTicks": 3832287,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -889,19 +889,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-13T21:00:01Z",
-   "playTicks": 799546,
+   "lastSeen": "2026-10-13T21:05:04Z",
+   "playTicks": 805611,
    "deaths": 2,
    "mobKills": 84,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 14032,
-   "damageTaken": 9205,
-   "distanceCm": 8435302,
-   "walkCm": 3378374,
-   "flyCm": 2842627,
-   "jumps": 13868,
-   "mined": 15865,
+   "damageTaken": 9236,
+   "distanceCm": 8498811,
+   "walkCm": 3410095,
+   "flyCm": 2868435,
+   "jumps": 14024,
+   "mined": 15874,
    "topMined": [
     [
      "stone",
@@ -913,7 +913,7 @@
     ],
     [
      "snow_block",
-     654
+     658
     ]
    ],
    "crafted": 7742,
