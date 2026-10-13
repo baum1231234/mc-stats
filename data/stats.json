@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-13T19:49:31Z",
+ "updated": "2026-10-13T19:51:03Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 3736222,
+ "serverTicks": 3742307,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T19:45:01Z",
-   "playTicks": 2834612,
+   "lastSeen": "2026-10-13T19:50:05Z",
+   "playTicks": 2840697,
    "deaths": 0,
-   "mobKills": 1573,
+   "mobKills": 1582,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 239986,
-   "damageTaken": 26992,
-   "distanceCm": 38448909,
-   "walkCm": 11353010,
-   "flyCm": 13685942,
-   "jumps": 60672,
-   "mined": 14449,
+   "damageDealt": 241157,
+   "damageTaken": 27065,
+   "distanceCm": 38643018,
+   "walkCm": 11379974,
+   "flyCm": 13750973,
+   "jumps": 60945,
+   "mined": 14450,
    "topMined": [
     [
      "spruce_log",
@@ -56,7 +56,7 @@
     ],
     [
      "zombie",
-     305
+     306
     ],
     [
      "slime",
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T19:45:01Z",
-   "playTicks": 1847597,
+   "lastSeen": "2026-10-13T19:50:05Z",
+   "playTicks": 1853682,
    "deaths": 2,
    "mobKills": 838,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 136698,
-   "damageTaken": 7957,
-   "distanceCm": 23269348,
-   "walkCm": 9823391,
-   "flyCm": 5710182,
-   "jumps": 22081,
-   "mined": 25242,
+   "damageTaken": 8003,
+   "distanceCm": 23337475,
+   "walkCm": 9825035,
+   "flyCm": 5722074,
+   "jumps": 22086,
+   "mined": 25245,
    "topMined": [
     [
      "grass_block",
@@ -217,6 +217,110 @@
      [
       "story/enchant_item",
       "2026-10-11T19:54:48Z"
+     ]
+    ]
+   }
+  },
+  {
+   "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
+   "name": "Ahxibrause",
+   "firstSeen": null,
+   "lastSeen": "2026-10-13T19:50:05Z",
+   "playTicks": 1480035,
+   "deaths": 0,
+   "mobKills": 725,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 112986,
+   "damageTaken": 23143,
+   "distanceCm": 24197560,
+   "walkCm": 4987597,
+   "flyCm": 10292467,
+   "jumps": 32369,
+   "mined": 12428,
+   "topMined": [
+    [
+     "spruce_log",
+     2871
+    ],
+    [
+     "spruce_leaves",
+     2489
+    ],
+    [
+     "stone",
+     1230
+    ]
+   ],
+   "crafted": 34388,
+   "topCrafted": [
+    [
+     "stick",
+     19624
+    ],
+    [
+     "spruce_planks",
+     10419
+    ],
+    [
+     "emerald",
+     980
+    ]
+   ],
+   "topKilled": [
+    [
+     "pillager",
+     198
+    ],
+    [
+     "zombie",
+     128
+    ],
+    [
+     "skeleton",
+     115
+    ]
+   ],
+   "topKilledBy": [],
+   "adv": {
+    "count": 25,
+    "byTab": {
+     "story": 11,
+     "adventure": 10,
+     "husbandry": 4
+    },
+    "recent": [
+     [
+      "story/lava_bucket",
+      "2026-10-13T18:51:21Z"
+     ],
+     [
+      "husbandry/plant_seed",
+      "2026-10-12T10:39:24Z"
+     ],
+     [
+      "husbandry/breed_an_animal",
+      "2026-10-11T22:17:06Z"
+     ],
+     [
+      "adventure/overoverkill",
+      "2026-10-11T19:10:53Z"
+     ],
+     [
+      "adventure/ol_betsy",
+      "2026-10-11T18:49:15Z"
+     ],
+     [
+      "adventure/shoot_arrow",
+      "2026-10-11T18:49:15Z"
+     ],
+     [
+      "adventure/totem_of_undying",
+      "2026-10-11T18:40:35Z"
+     ],
+     [
+      "adventure/hero_of_the_village",
+      "2026-10-11T10:17:09Z"
      ]
     ]
    }
@@ -321,110 +425,6 @@
      [
       "story/mine_diamond",
       "2026-10-10T21:51:02Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
-   "name": "Ahxibrause",
-   "firstSeen": null,
-   "lastSeen": "2026-10-13T19:45:01Z",
-   "playTicks": 1473950,
-   "deaths": 0,
-   "mobKills": 724,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 112776,
-   "damageTaken": 23007,
-   "distanceCm": 24086457,
-   "walkCm": 4967586,
-   "flyCm": 10237445,
-   "jumps": 32169,
-   "mined": 12419,
-   "topMined": [
-    [
-     "spruce_log",
-     2871
-    ],
-    [
-     "spruce_leaves",
-     2489
-    ],
-    [
-     "stone",
-     1230
-    ]
-   ],
-   "crafted": 34376,
-   "topCrafted": [
-    [
-     "stick",
-     19624
-    ],
-    [
-     "spruce_planks",
-     10419
-    ],
-    [
-     "emerald",
-     980
-    ]
-   ],
-   "topKilled": [
-    [
-     "pillager",
-     198
-    ],
-    [
-     "zombie",
-     127
-    ],
-    [
-     "skeleton",
-     115
-    ]
-   ],
-   "topKilledBy": [],
-   "adv": {
-    "count": 25,
-    "byTab": {
-     "story": 11,
-     "adventure": 10,
-     "husbandry": 4
-    },
-    "recent": [
-     [
-      "story/lava_bucket",
-      "2026-10-13T18:51:21Z"
-     ],
-     [
-      "husbandry/plant_seed",
-      "2026-10-12T10:39:24Z"
-     ],
-     [
-      "husbandry/breed_an_animal",
-      "2026-10-11T22:17:06Z"
-     ],
-     [
-      "adventure/overoverkill",
-      "2026-10-11T19:10:53Z"
-     ],
-     [
-      "adventure/ol_betsy",
-      "2026-10-11T18:49:15Z"
-     ],
-     [
-      "adventure/shoot_arrow",
-      "2026-10-11T18:49:15Z"
-     ],
-     [
-      "adventure/totem_of_undying",
-      "2026-10-11T18:40:35Z"
-     ],
-     [
-      "adventure/hero_of_the_village",
-      "2026-10-11T10:17:09Z"
      ]
     ]
    }
@@ -889,23 +889,23 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-13T19:45:01Z",
-   "playTicks": 712467,
+   "lastSeen": "2026-10-13T19:50:05Z",
+   "playTicks": 718552,
    "deaths": 2,
-   "mobKills": 74,
+   "mobKills": 75,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 10896,
-   "damageTaken": 8272,
-   "distanceCm": 7737636,
-   "walkCm": 3080403,
-   "flyCm": 2610042,
-   "jumps": 12338,
-   "mined": 15465,
+   "damageDealt": 11896,
+   "damageTaken": 8277,
+   "distanceCm": 7775137,
+   "walkCm": 3102397,
+   "flyCm": 2610473,
+   "jumps": 12404,
+   "mined": 15484,
    "topMined": [
     [
      "stone",
-     12653
+     12656
     ],
     [
      "spruce_log",
@@ -2455,8 +2455,8 @@
     "rendered": "2026-10-13T17:31:14Z"
    },
    "-7.-1": {
-    "mtime": "2026-10-13T16:04:10Z",
-    "rendered": "2026-10-13T16:50:00Z"
+    "mtime": "2026-10-13T17:29:51Z",
+    "rendered": "2026-10-13T19:51:03Z"
    },
    "-8.-2": {
     "mtime": "2026-10-13T17:29:51Z",
