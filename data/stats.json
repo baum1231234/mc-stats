@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-13T23:36:13Z",
+ "updated": "2026-10-13T23:40:59Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 4012588,
+ "serverTicks": 4018222,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T23:35:19Z",
-   "playTicks": 3090713,
+   "lastSeen": "2026-10-13T23:40:01Z",
+   "playTicks": 3096347,
    "deaths": 0,
    "mobKills": 1643,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 253480,
-   "damageTaken": 29628,
-   "distanceCm": 40858261,
-   "walkCm": 12576596,
-   "flyCm": 14594439,
-   "jumps": 64696,
-   "mined": 15600,
+   "damageTaken": 29730,
+   "distanceCm": 40920694,
+   "walkCm": 12611997,
+   "flyCm": 14614206,
+   "jumps": 64798,
+   "mined": 15683,
    "topMined": [
     [
      "spruce_log",
-     4902
+     4977
     ],
     [
      "packed_ice",
@@ -34,15 +34,15 @@
      1391
     ]
    ],
-   "crafted": 70101,
+   "crafted": 70709,
    "topCrafted": [
     [
      "stick",
-     40307
+     40563
     ],
     [
      "spruce_planks",
-     19992
+     20280
     ],
     [
      "spruce_slab",
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T23:35:19Z",
-   "playTicks": 2123963,
+   "lastSeen": "2026-10-13T23:40:01Z",
+   "playTicks": 2129597,
    "deaths": 2,
    "mobKills": 913,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 151163,
    "damageTaken": 9474,
-   "distanceCm": 25468516,
-   "walkCm": 10686059,
-   "flyCm": 6347125,
-   "jumps": 24601,
-   "mined": 28392,
+   "distanceCm": 25539188,
+   "walkCm": 10735696,
+   "flyCm": 6365921,
+   "jumps": 24709,
+   "mined": 28812,
    "topMined": [
     [
      "grass_block",
@@ -131,11 +131,11 @@
     ],
     [
      "sand",
-     5483
+     5868
     ],
     [
      "dirt",
-     5244
+     5256
     ]
    ],
    "crafted": 14389,
@@ -1225,6 +1225,119 @@
    }
   },
   {
+   "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
+   "name": "BANANENKRIEGER69",
+   "firstSeen": "2026-10-12T17:49:48Z",
+   "lastSeen": "2026-10-13T23:40:01Z",
+   "playTicks": 309532,
+   "deaths": 2,
+   "mobKills": 173,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 21636,
+   "damageTaken": 3338,
+   "distanceCm": 3852639,
+   "walkCm": 1394667,
+   "flyCm": 995970,
+   "jumps": 5599,
+   "mined": 2174,
+   "topMined": [
+    [
+     "grass_block",
+     271
+    ],
+    [
+     "stone",
+     228
+    ],
+    [
+     "spruce_log",
+     184
+    ]
+   ],
+   "crafted": 598,
+   "topCrafted": [
+    [
+     "spruce_planks",
+     152
+    ],
+    [
+     "oak_planks",
+     136
+    ],
+    [
+     "cooked_porkchop",
+     49
+    ]
+   ],
+   "topKilled": [
+    [
+     "pig",
+     39
+    ],
+    [
+     "sheep",
+     37
+    ],
+    [
+     "skeleton",
+     27
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "skeleton",
+     1
+    ],
+    [
+     "drowned",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 13,
+    "byTab": {
+     "adventure": 4,
+     "story": 8,
+     "husbandry": 1
+    },
+    "recent": [
+     [
+      "story/mine_diamond",
+      "2026-10-13T23:34:41Z"
+     ],
+     [
+      "adventure/minecraft_trials_edition",
+      "2026-10-13T23:33:16Z"
+     ],
+     [
+      "story/iron_tools",
+      "2026-10-13T16:26:49Z"
+     ],
+     [
+      "story/obtain_armor",
+      "2026-10-13T15:34:10Z"
+     ],
+     [
+      "story/deflect_arrow",
+      "2026-10-13T15:23:42Z"
+     ],
+     [
+      "adventure/sleep_in_bed",
+      "2026-10-13T15:05:19Z"
+     ],
+     [
+      "husbandry/root",
+      "2026-10-12T18:35:04Z"
+     ],
+     [
+      "story/upgrade_tools",
+      "2026-10-12T18:03:27Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
@@ -1324,119 +1437,6 @@
      [
       "adventure/minecraft_trials_edition",
       "2026-10-13T08:44:23Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
-   "name": "BANANENKRIEGER69",
-   "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-13T23:35:19Z",
-   "playTicks": 303898,
-   "deaths": 2,
-   "mobKills": 169,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 20636,
-   "damageTaken": 3230,
-   "distanceCm": 3784743,
-   "walkCm": 1360155,
-   "flyCm": 971773,
-   "jumps": 5447,
-   "mined": 2142,
-   "topMined": [
-    [
-     "grass_block",
-     271
-    ],
-    [
-     "stone",
-     228
-    ],
-    [
-     "spruce_log",
-     184
-    ]
-   ],
-   "crafted": 597,
-   "topCrafted": [
-    [
-     "spruce_planks",
-     152
-    ],
-    [
-     "oak_planks",
-     136
-    ],
-    [
-     "cooked_porkchop",
-     49
-    ]
-   ],
-   "topKilled": [
-    [
-     "pig",
-     39
-    ],
-    [
-     "sheep",
-     37
-    ],
-    [
-     "skeleton",
-     24
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "skeleton",
-     1
-    ],
-    [
-     "drowned",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 13,
-    "byTab": {
-     "adventure": 4,
-     "story": 8,
-     "husbandry": 1
-    },
-    "recent": [
-     [
-      "story/mine_diamond",
-      "2026-10-13T23:34:41Z"
-     ],
-     [
-      "adventure/minecraft_trials_edition",
-      "2026-10-13T23:33:16Z"
-     ],
-     [
-      "story/iron_tools",
-      "2026-10-13T16:26:49Z"
-     ],
-     [
-      "story/obtain_armor",
-      "2026-10-13T15:34:10Z"
-     ],
-     [
-      "story/deflect_arrow",
-      "2026-10-13T15:23:42Z"
-     ],
-     [
-      "adventure/sleep_in_bed",
-      "2026-10-13T15:05:19Z"
-     ],
-     [
-      "husbandry/root",
-      "2026-10-12T18:35:04Z"
-     ],
-     [
-      "story/upgrade_tools",
-      "2026-10-12T18:03:27Z"
      ]
     ]
    }
@@ -2768,8 +2768,8 @@
     "rendered": "2026-10-13T20:22:29Z"
    },
    "-2.-9": {
-    "mtime": "2026-10-13T18:57:18Z",
-    "rendered": "2026-10-13T20:39:52Z"
+    "mtime": "2026-10-13T22:09:28Z",
+    "rendered": "2026-10-13T23:40:59Z"
    },
    "-1.-10": {
     "mtime": "2026-10-13T19:03:26Z",
@@ -2823,8 +2823,8 @@
     "rendered": "2026-10-13T20:28:02Z"
    },
    "-2.-10": {
-    "mtime": "2026-10-13T18:56:37Z",
-    "rendered": "2026-10-13T20:39:52Z"
+    "mtime": "2026-10-13T22:09:28Z",
+    "rendered": "2026-10-13T23:40:59Z"
    },
    "-1.-11": {
     "mtime": "2026-10-13T18:50:02Z",
