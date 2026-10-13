@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T15:37:33Z",
+ "updated": "2026-10-13T15:40:33Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 3448222,
+ "serverTicks": 3454222,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1318,35 +1318,39 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-13T15:35:43Z",
-   "playTicks": 111139,
+   "lastSeen": "2026-10-13T15:40:43Z",
+   "playTicks": 117139,
    "deaths": 0,
-   "mobKills": 37,
+   "mobKills": 41,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 4284,
-   "damageTaken": 839,
-   "distanceCm": 1265291,
-   "walkCm": 433713,
-   "flyCm": 360892,
-   "jumps": 1829,
-   "mined": 696,
+   "damageDealt": 4984,
+   "damageTaken": 901,
+   "distanceCm": 1341297,
+   "walkCm": 469167,
+   "flyCm": 390520,
+   "jumps": 2011,
+   "mined": 752,
    "topMined": [
     [
      "coal_ore",
      149
     ],
     [
-     "cobweb",
-     64
+     "oak_log",
+     65
     ],
     [
-     "oak_log",
-     60
+     "cobweb",
+     64
     ]
    ],
-   "crafted": 115,
+   "crafted": 133,
    "topCrafted": [
+    [
+     "iron_ingot",
+     29
+    ],
     [
      "birch_planks",
      20
@@ -1354,10 +1358,6 @@
     [
      "stick",
      20
-    ],
-    [
-     "iron_ingot",
-     17
     ]
    ],
    "topKilled": [
@@ -1367,10 +1367,10 @@
     ],
     [
      "skeleton",
-     5
+     7
     ],
     [
-     "sheep",
+     "zombie",
      5
     ]
    ],
@@ -1584,9 +1584,9 @@
      "2026-10-12",
      "2026-10-13"
     ],
-    "rendered": "2026-10-13T12:39:56Z",
+    "rendered": "2026-10-13T15:40:33Z",
     "regions": {
-     "r.-11.1.mca": "2026-10-13T12:38:40Z"
+     "r.-11.1.mca": "2026-10-13T15:40:43Z"
     }
    }
   },
@@ -1632,8 +1632,8 @@
   "dir": "data/tiles/overworld",
   "regions": {
    "-11.1": {
-    "mtime": "2026-10-13T12:38:40Z",
-    "rendered": "2026-10-13T12:39:56Z"
+    "mtime": "2026-10-13T15:40:53Z",
+    "rendered": "2026-10-13T15:40:33Z"
    },
    "2.0": {
     "mtime": "2026-10-13T15:04:53Z",
@@ -1668,8 +1668,8 @@
     "rendered": "2026-10-13T15:29:26Z"
    },
    "-12.1": {
-    "mtime": "2026-10-13T12:27:32Z",
-    "rendered": "2026-10-13T12:39:56Z"
+    "mtime": "2026-10-13T15:24:29Z",
+    "rendered": "2026-10-13T15:40:33Z"
    },
    "-3.4": {
     "mtime": "2026-10-13T12:56:26Z",
@@ -1680,12 +1680,12 @@
     "rendered": "2026-10-13T15:29:26Z"
    },
    "-10.1": {
-    "mtime": "2026-10-13T12:25:42Z",
-    "rendered": "2026-10-13T12:39:56Z"
+    "mtime": "2026-10-13T14:39:22Z",
+    "rendered": "2026-10-13T15:40:33Z"
    },
    "-11.2": {
-    "mtime": "2026-10-13T12:26:43Z",
-    "rendered": "2026-10-13T12:39:56Z"
+    "mtime": "2026-10-13T14:39:08Z",
+    "rendered": "2026-10-13T15:40:33Z"
    },
    "-11.0": {
     "mtime": "2026-10-13T12:41:54Z",
