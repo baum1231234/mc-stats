@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-13T22:50:43Z",
+ "updated": "2026-10-13T22:55:33Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 3958639,
+ "serverTicks": 3964222,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T22:50:21Z",
-   "playTicks": 3036764,
+   "lastSeen": "2026-10-13T22:55:01Z",
+   "playTicks": 3042347,
    "deaths": 0,
    "mobKills": 1638,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 252344,
-   "damageTaken": 28975,
-   "distanceCm": 40368338,
-   "walkCm": 12311078,
-   "flyCm": 14413362,
-   "jumps": 63993,
-   "mined": 15388,
+   "damageDealt": 252479,
+   "damageTaken": 29072,
+   "distanceCm": 40418185,
+   "walkCm": 12340356,
+   "flyCm": 14427904,
+   "jumps": 64068,
+   "mined": 15389,
    "topMined": [
     [
      "spruce_log",
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T22:50:21Z",
-   "playTicks": 2070014,
+   "lastSeen": "2026-10-13T22:55:01Z",
+   "playTicks": 2075597,
    "deaths": 2,
-   "mobKills": 881,
+   "mobKills": 884,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 145480,
-   "damageTaken": 8938,
-   "distanceCm": 24997674,
-   "walkCm": 10469770,
-   "flyCm": 6181072,
-   "jumps": 23955,
-   "mined": 27740,
+   "damageDealt": 146130,
+   "damageTaken": 8949,
+   "distanceCm": 25063438,
+   "walkCm": 10495045,
+   "flyCm": 6212376,
+   "jumps": 24096,
+   "mined": 27775,
    "topMined": [
     [
      "grass_block",
@@ -131,11 +131,11 @@
     ],
     [
      "dirt",
-     5226
+     5237
     ],
     [
      "sand",
-     4930
+     4931
     ]
    ],
    "crafted": 14389,
@@ -156,11 +156,11 @@
    "topKilled": [
     [
      "zombie",
-     206
+     208
     ],
     [
      "skeleton",
-     204
+     205
     ],
     [
      "slime",
@@ -225,19 +225,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T22:50:21Z",
-   "playTicks": 1658186,
+   "lastSeen": "2026-10-13T22:55:01Z",
+   "playTicks": 1663769,
    "deaths": 0,
    "mobKills": 834,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 128683,
-   "damageTaken": 25764,
-   "distanceCm": 26016699,
-   "walkCm": 5834056,
-   "flyCm": 10971212,
-   "jumps": 35949,
-   "mined": 16168,
+   "damageTaken": 25816,
+   "distanceCm": 26079085,
+   "walkCm": 5860989,
+   "flyCm": 10991514,
+   "jumps": 36067,
+   "mined": 16232,
    "topMined": [
     [
      "spruce_log",
@@ -249,10 +249,10 @@
     ],
     [
      "snow_block",
-     2017
+     2039
     ]
    ],
-   "crafted": 36290,
+   "crafted": 36308,
    "topCrafted": [
     [
      "stick",
@@ -264,7 +264,7 @@
     ],
     [
      "emerald",
-     996
+     1008
     ]
    ],
    "topKilled": [
@@ -764,8 +764,8 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-13T22:50:21Z",
-   "playTicks": 928987,
+   "lastSeen": "2026-10-13T22:55:01Z",
+   "playTicks": 934570,
    "deaths": 2,
    "mobKills": 95,
    "playerKills": 0,
@@ -1332,19 +1332,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-13T22:50:21Z",
-   "playTicks": 249949,
+   "lastSeen": "2026-10-13T22:55:01Z",
+   "playTicks": 255532,
    "deaths": 1,
-   "mobKills": 89,
+   "mobKills": 94,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 9944,
-   "damageTaken": 1999,
-   "distanceCm": 2868316,
-   "walkCm": 1029134,
-   "flyCm": 627661,
-   "jumps": 3814,
-   "mined": 1746,
+   "damageDealt": 10815,
+   "damageTaken": 2115,
+   "distanceCm": 2969880,
+   "walkCm": 1061756,
+   "flyCm": 672174,
+   "jumps": 4010,
+   "mined": 1774,
    "topMined": [
     [
      "grass_block",
@@ -1356,7 +1356,7 @@
     ],
     [
      "stone",
-     156
+     161
     ]
    ],
    "crafted": 583,
@@ -1385,7 +1385,7 @@
     ],
     [
      "cow",
-     11
+     12
     ]
    ],
    "topKilledBy": [
