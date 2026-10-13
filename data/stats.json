@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-13T23:31:26Z",
+ "updated": "2026-10-13T23:36:13Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 4006222,
+ "serverTicks": 4012588,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T23:30:01Z",
-   "playTicks": 3084347,
+   "lastSeen": "2026-10-13T23:35:19Z",
+   "playTicks": 3090713,
    "deaths": 0,
-   "mobKills": 1642,
+   "mobKills": 1643,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 253279,
-   "damageTaken": 29530,
-   "distanceCm": 40794392,
-   "walkCm": 12549872,
-   "flyCm": 14563519,
-   "jumps": 64547,
-   "mined": 15572,
+   "damageDealt": 253480,
+   "damageTaken": 29628,
+   "distanceCm": 40858261,
+   "walkCm": 12576596,
+   "flyCm": 14594439,
+   "jumps": 64696,
+   "mined": 15600,
    "topMined": [
     [
      "spruce_log",
-     4878
+     4902
     ],
     [
      "packed_ice",
@@ -34,15 +34,15 @@
      1391
     ]
    ],
-   "crafted": 69691,
+   "crafted": 70101,
    "topCrafted": [
     [
      "stick",
-     40123
+     40307
     ],
     [
      "spruce_planks",
-     19812
+     19992
     ],
     [
      "spruce_slab",
@@ -56,7 +56,7 @@
     ],
     [
      "zombie",
-     330
+     331
     ],
     [
      "slime",
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T23:30:01Z",
-   "playTicks": 2117597,
+   "lastSeen": "2026-10-13T23:35:19Z",
+   "playTicks": 2123963,
    "deaths": 2,
-   "mobKills": 911,
+   "mobKills": 913,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 150813,
-   "damageTaken": 9468,
-   "distanceCm": 25397366,
-   "walkCm": 10639641,
-   "flyCm": 6336312,
-   "jumps": 24501,
-   "mined": 28326,
+   "damageDealt": 151163,
+   "damageTaken": 9474,
+   "distanceCm": 25468516,
+   "walkCm": 10686059,
+   "flyCm": 6347125,
+   "jumps": 24601,
+   "mined": 28392,
    "topMined": [
     [
      "grass_block",
@@ -131,7 +131,7 @@
     ],
     [
      "sand",
-     5469
+     5483
     ],
     [
      "dirt",
@@ -160,7 +160,7 @@
     ],
     [
      "skeleton",
-     217
+     218
     ],
     [
      "slime",
@@ -1332,19 +1332,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-13T23:30:01Z",
-   "playTicks": 297532,
+   "lastSeen": "2026-10-13T23:35:19Z",
+   "playTicks": 303898,
    "deaths": 2,
-   "mobKills": 165,
+   "mobKills": 169,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 19844,
-   "damageTaken": 3026,
-   "distanceCm": 3706705,
-   "walkCm": 1318226,
-   "flyCm": 944073,
-   "jumps": 5273,
-   "mined": 2103,
+   "damageDealt": 20636,
+   "damageTaken": 3230,
+   "distanceCm": 3784743,
+   "walkCm": 1360155,
+   "flyCm": 971773,
+   "jumps": 5447,
+   "mined": 2142,
    "topMined": [
     [
      "grass_block",
@@ -1352,7 +1352,7 @@
     ],
     [
      "stone",
-     226
+     228
     ],
     [
      "spruce_log",
@@ -1384,7 +1384,7 @@
      37
     ],
     [
-     "cow",
+     "skeleton",
      24
     ]
    ],
@@ -1399,13 +1399,21 @@
     ]
    ],
    "adv": {
-    "count": 11,
+    "count": 13,
     "byTab": {
-     "adventure": 3,
-     "story": 7,
+     "adventure": 4,
+     "story": 8,
      "husbandry": 1
     },
     "recent": [
+     [
+      "story/mine_diamond",
+      "2026-10-13T23:34:41Z"
+     ],
+     [
+      "adventure/minecraft_trials_edition",
+      "2026-10-13T23:33:16Z"
+     ],
      [
       "story/iron_tools",
       "2026-10-13T16:26:49Z"
@@ -1429,14 +1437,6 @@
      [
       "story/upgrade_tools",
       "2026-10-12T18:03:27Z"
-     ],
-     [
-      "story/mine_stone",
-      "2026-10-12T18:02:30Z"
-     ],
-     [
-      "story/root",
-      "2026-10-12T17:48:25Z"
      ]
     ]
    }
