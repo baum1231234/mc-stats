@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-13T15:34:19Z",
+ "updated": "2026-10-13T15:35:59Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 3446997,
+ "serverTicks": 3448222,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T15:30:43Z",
-   "playTicks": 2618264,
+   "lastSeen": "2026-10-13T15:35:43Z",
+   "playTicks": 2624264,
    "deaths": 0,
    "mobKills": 1402,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 203017,
    "damageTaken": 23373,
-   "distanceCm": 34577628,
-   "walkCm": 10530796,
-   "flyCm": 12065721,
-   "jumps": 55926,
-   "mined": 13383,
+   "distanceCm": 34618213,
+   "walkCm": 10554971,
+   "flyCm": 12080243,
+   "jumps": 55994,
+   "mined": 13401,
    "topMined": [
     [
      "spruce_log",
-     4237
+     4248
     ],
     [
      "packed_ice",
@@ -329,8 +329,8 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T15:30:43Z",
-   "playTicks": 1312944,
+   "lastSeen": "2026-10-13T15:35:43Z",
+   "playTicks": 1318944,
    "deaths": 0,
    "mobKills": 701,
    "playerKills": 0,
@@ -754,19 +754,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-13T15:30:43Z",
-   "playTicks": 660367,
+   "lastSeen": "2026-10-13T15:35:43Z",
+   "playTicks": 666367,
    "deaths": 18,
    "mobKills": 87,
    "playerKills": 0,
    "killedByPlayers": 3,
    "damageDealt": 9430,
    "damageTaken": 9238,
-   "distanceCm": 6093286,
-   "walkCm": 3434736,
-   "flyCm": 1446404,
-   "jumps": 8717,
-   "mined": 6891,
+   "distanceCm": 6120761,
+   "walkCm": 3454179,
+   "flyCm": 1454436,
+   "jumps": 8741,
+   "mined": 6958,
    "topMined": [
     [
      "stone",
@@ -774,7 +774,7 @@
     ],
     [
      "grass_block",
-     1199
+     1257
     ],
     [
      "spruce_log",
@@ -879,23 +879,23 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-13T15:30:43Z",
-   "playTicks": 618394,
+   "lastSeen": "2026-10-13T15:35:43Z",
+   "playTicks": 624394,
    "deaths": 2,
    "mobKills": 70,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 9576,
    "damageTaken": 7360,
-   "distanceCm": 7086712,
-   "walkCm": 2657444,
-   "flyCm": 2468520,
-   "jumps": 11228,
-   "mined": 12671,
+   "distanceCm": 7125802,
+   "walkCm": 2687120,
+   "flyCm": 2476099,
+   "jumps": 11278,
+   "mined": 12994,
    "topMined": [
     [
      "stone",
-     10375
+     10676
     ],
     [
      "snow_block",
@@ -1318,19 +1318,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-13T15:30:43Z",
-   "playTicks": 105139,
+   "lastSeen": "2026-10-13T15:35:43Z",
+   "playTicks": 111139,
    "deaths": 0,
-   "mobKills": 36,
+   "mobKills": 37,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 4184,
+   "damageDealt": 4284,
    "damageTaken": 839,
-   "distanceCm": 1237529,
-   "walkCm": 414034,
-   "flyCm": 355031,
-   "jumps": 1721,
-   "mined": 691,
+   "distanceCm": 1265291,
+   "walkCm": 433713,
+   "flyCm": 360892,
+   "jumps": 1829,
+   "mined": 696,
    "topMined": [
     [
      "coal_ore",
@@ -1345,7 +1345,7 @@
      60
     ]
    ],
-   "crafted": 91,
+   "crafted": 115,
    "topCrafted": [
     [
      "birch_planks",
@@ -1356,8 +1356,8 @@
      20
     ],
     [
-     "oak_planks",
-     16
+     "iron_ingot",
+     17
     ]
    ],
    "topKilled": [
@@ -1376,13 +1376,17 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 9,
+    "count": 10,
     "byTab": {
      "adventure": 3,
-     "story": 5,
+     "story": 6,
      "husbandry": 1
     },
     "recent": [
+     [
+      "story/obtain_armor",
+      "2026-10-13T15:34:10Z"
+     ],
      [
       "story/deflect_arrow",
       "2026-10-13T15:23:42Z"
@@ -1410,10 +1414,6 @@
      [
       "story/smelt_iron",
       "2026-10-12T17:48:19Z"
-     ],
-     [
-      "adventure/kill_a_mob",
-      "2026-10-12T17:47:49Z"
      ]
     ]
    }
@@ -1621,7 +1621,13 @@
    }
   }
  ],
- "ideas": [],
+ "ideas": [
+  {
+   "player": "4rtjom",
+   "text": "emmojis im chat",
+   "since": "2026-10-13T15:35:59Z"
+  }
+ ],
  "tiles": {
   "dir": "data/tiles/overworld",
   "regions": {
