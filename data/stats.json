@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T11:34:19Z",
+ "updated": "2026-10-13T11:40:13Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 3158854,
  "players": [
@@ -7,19 +7,19 @@
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T11:34:18Z",
-   "playTicks": 2370314,
+   "lastSeen": "2026-10-13T11:39:11Z",
+   "playTicks": 2376177,
    "deaths": 0,
    "mobKills": 1128,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 167961,
-   "damageTaken": 20831,
-   "distanceCm": 30618129,
-   "walkCm": 9277515,
-   "flyCm": 10641854,
-   "jumps": 50125,
-   "mined": 12072,
+   "damageDealt": 167966,
+   "damageTaken": 20975,
+   "distanceCm": 30744198,
+   "walkCm": 9294153,
+   "flyCm": 10682275,
+   "jumps": 50265,
+   "mined": 12094,
    "topMined": [
     [
      "spruce_log",
@@ -31,7 +31,7 @@
     ],
     [
      "grass_block",
-     1047
+     1048
     ]
    ],
    "crafted": 64258,
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T11:34:18Z",
-   "playTicks": 1654982,
+   "lastSeen": "2026-10-13T11:39:11Z",
+   "playTicks": 1660845,
    "deaths": 2,
    "mobKills": 636,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 120891,
-   "damageTaken": 7280,
-   "distanceCm": 20118330,
-   "walkCm": 8938702,
-   "flyCm": 4458135,
-   "jumps": 18748,
-   "mined": 24452,
+   "damageDealt": 120899,
+   "damageTaken": 7298,
+   "distanceCm": 20217481,
+   "walkCm": 8979269,
+   "flyCm": 4476188,
+   "jumps": 18856,
+   "mined": 24453,
    "topMined": [
     [
      "grass_block",
@@ -225,19 +225,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T11:30:12Z",
-   "playTicks": 1268875,
+   "lastSeen": "2026-10-13T11:39:11Z",
+   "playTicks": 1271954,
    "deaths": 0,
    "mobKills": 362,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 45396,
    "damageTaken": 5239,
-   "distanceCm": 14198108,
-   "walkCm": 5992896,
-   "flyCm": 5156771,
-   "jumps": 24201,
-   "mined": 16297,
+   "distanceCm": 14266268,
+   "walkCm": 6011362,
+   "flyCm": 5199667,
+   "jumps": 24362,
+   "mined": 16311,
    "topMined": [
     [
      "dark_oak_log",
@@ -249,7 +249,7 @@
     ],
     [
      "stone",
-     1770
+     1779
     ]
    ],
    "crafted": 48072,
