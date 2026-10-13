@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T08:44:59Z",
+ "updated": "2026-10-13T08:49:23Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2954717,
+ "serverTicks": 2960717,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -650,19 +650,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-13T08:44:11Z",
-   "playTicks": 642229,
+   "lastSeen": "2026-10-13T08:49:11Z",
+   "playTicks": 648229,
    "deaths": 1,
-   "mobKills": 564,
+   "mobKills": 578,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 18735,
-   "damageTaken": 2925,
-   "distanceCm": 4789053,
-   "walkCm": 2665590,
-   "flyCm": 1271788,
-   "jumps": 8604,
-   "mined": 9116,
+   "damageDealt": 21393,
+   "damageTaken": 2994,
+   "distanceCm": 4853575,
+   "walkCm": 2718177,
+   "flyCm": 1277230,
+   "jumps": 8642,
+   "mined": 9134,
    "topMined": [
     [
      "spruce_log",
@@ -708,13 +708,25 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 15,
+    "count": 18,
     "byTab": {
      "story": 9,
-     "adventure": 4,
-     "husbandry": 2
+     "adventure": 5,
+     "husbandry": 4
     },
     "recent": [
+     [
+      "husbandry/wax_on",
+      "2026-10-13T08:44:57Z"
+     ],
+     [
+      "husbandry/wax_off",
+      "2026-10-13T08:44:55Z"
+     ],
+     [
+      "adventure/minecraft_trials_edition",
+      "2026-10-13T08:44:21Z"
+     ],
      [
       "husbandry/make_a_sign_glow",
       "2026-10-12T19:54:42Z"
@@ -734,18 +746,6 @@
      [
       "story/mine_diamond",
       "2026-10-12T15:50:15Z"
-     ],
-     [
-      "adventure/sleep_in_bed",
-      "2026-10-12T15:45:16Z"
-     ],
-     [
-      "adventure/kill_a_mob",
-      "2026-10-12T15:44:43Z"
-     ],
-     [
-      "story/iron_tools",
-      "2026-10-12T15:42:57Z"
      ]
     ]
    }
@@ -1214,19 +1214,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-13T08:44:11Z",
-   "playTicks": 112965,
+   "lastSeen": "2026-10-13T08:49:11Z",
+   "playTicks": 118965,
    "deaths": 0,
-   "mobKills": 314,
+   "mobKills": 324,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 5361,
-   "damageTaken": 144,
-   "distanceCm": 489792,
-   "walkCm": 326115,
-   "flyCm": 17219,
-   "jumps": 539,
-   "mined": 624,
+   "damageDealt": 6855,
+   "damageTaken": 211,
+   "distanceCm": 567347,
+   "walkCm": 395462,
+   "flyCm": 18550,
+   "jumps": 560,
+   "mined": 646,
    "topMined": [
     [
      "spruce_log",
@@ -1237,8 +1237,8 @@
      22
     ],
     [
-     "kelp_plant",
-     1
+     "decorated_pot",
+     21
     ]
    ],
    "crafted": 1877,
@@ -1263,7 +1263,7 @@
     ],
     [
      "zombie",
-     97
+     100
     ],
     [
      "skeleton",
@@ -1272,13 +1272,29 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 7,
+    "count": 11,
     "byTab": {
-     "story": 2,
+     "story": 5,
      "husbandry": 1,
-     "adventure": 4
+     "adventure": 5
     },
     "recent": [
+     [
+      "story/mine_diamond",
+      "2026-10-13T08:48:50Z"
+     ],
+     [
+      "story/deflect_arrow",
+      "2026-10-13T08:48:20Z"
+     ],
+     [
+      "story/smelt_iron",
+      "2026-10-13T08:46:07Z"
+     ],
+     [
+      "adventure/minecraft_trials_edition",
+      "2026-10-13T08:44:23Z"
+     ],
      [
       "story/mine_stone",
       "2026-10-13T08:43:15Z"
@@ -1294,18 +1310,6 @@
      [
       "adventure/sleep_in_bed",
       "2026-10-13T07:37:46Z"
-     ],
-     [
-      "adventure/trade",
-      "2026-10-13T07:22:59Z"
-     ],
-     [
-      "husbandry/root",
-      "2026-10-13T07:19:18Z"
-     ],
-     [
-      "story/shiny_gear",
-      "2026-10-13T07:10:23Z"
      ]
     ]
    }
