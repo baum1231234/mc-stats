@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T09:07:12Z",
+ "updated": "2026-10-13T09:10:28Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 2978727,
+ "serverTicks": 2984717,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -546,18 +546,18 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-13T09:04:12Z",
-   "playTicks": 703695,
+   "lastSeen": "2026-10-13T09:09:11Z",
+   "playTicks": 709685,
    "deaths": 0,
    "mobKills": 102,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 11923,
-   "damageTaken": 3223,
-   "distanceCm": 4672622,
-   "walkCm": 2720242,
-   "flyCm": 1049529,
-   "jumps": 7299,
+   "damageTaken": 3283,
+   "distanceCm": 4693116,
+   "walkCm": 2732221,
+   "flyCm": 1055196,
+   "jumps": 7356,
    "mined": 6578,
    "topMined": [
     [
@@ -650,19 +650,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-13T09:04:12Z",
-   "playTicks": 666239,
+   "lastSeen": "2026-10-13T09:09:11Z",
+   "playTicks": 672229,
    "deaths": 1,
-   "mobKills": 660,
+   "mobKills": 690,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 33056,
-   "damageTaken": 3314,
-   "distanceCm": 5057607,
-   "walkCm": 2877828,
-   "flyCm": 1301740,
-   "jumps": 8803,
-   "mined": 9208,
+   "damageDealt": 37529,
+   "damageTaken": 3498,
+   "distanceCm": 5130895,
+   "walkCm": 2926486,
+   "flyCm": 1314810,
+   "jumps": 8885,
+   "mined": 9210,
    "topMined": [
     [
      "spruce_log",
@@ -677,7 +677,7 @@
      303
     ]
    ],
-   "crafted": 100440,
+   "crafted": 100441,
    "topCrafted": [
     [
      "stick",
@@ -708,13 +708,17 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 19,
+    "count": 20,
     "byTab": {
      "story": 9,
-     "adventure": 6,
+     "adventure": 7,
      "husbandry": 4
     },
     "recent": [
+     [
+      "adventure/revaulting",
+      "2026-10-13T09:06:49Z"
+     ],
      [
       "adventure/under_lock_and_key",
       "2026-10-13T08:51:59Z"
@@ -742,10 +746,6 @@
      [
       "story/deflect_arrow",
       "2026-10-12T16:52:02Z"
-     ],
-     [
-      "story/shiny_gear",
-      "2026-10-12T16:50:16Z"
      ]
     ]
    }
@@ -1214,19 +1214,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-13T09:04:12Z",
-   "playTicks": 136975,
+   "lastSeen": "2026-10-13T09:09:11Z",
+   "playTicks": 142965,
    "deaths": 0,
-   "mobKills": 355,
+   "mobKills": 362,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 10310,
-   "damageTaken": 420,
-   "distanceCm": 724581,
-   "walkCm": 530910,
-   "flyCm": 25590,
-   "jumps": 625,
-   "mined": 658,
+   "damageDealt": 11533,
+   "damageTaken": 480,
+   "distanceCm": 783275,
+   "walkCm": 583054,
+   "flyCm": 28552,
+   "jumps": 656,
+   "mined": 661,
    "topMined": [
     [
      "spruce_log",
@@ -1234,7 +1234,7 @@
     ],
     [
      "decorated_pot",
-     33
+     34
     ],
     [
      "spruce_leaves",
@@ -1272,13 +1272,17 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 13,
+    "count": 14,
     "byTab": {
      "story": 5,
      "husbandry": 1,
-     "adventure": 7
+     "adventure": 8
     },
     "recent": [
+     [
+      "adventure/revaulting",
+      "2026-10-13T09:06:59Z"
+     ],
      [
       "adventure/shoot_arrow",
       "2026-10-13T09:01:41Z"
@@ -1306,10 +1310,6 @@
      [
       "story/mine_stone",
       "2026-10-13T08:43:15Z"
-     ],
-     [
-      "adventure/kill_a_mob",
-      "2026-10-13T08:15:21Z"
      ]
     ]
    }
