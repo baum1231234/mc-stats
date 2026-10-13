@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-13T09:53:00Z",
+ "updated": "2026-10-13T09:55:57Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 3032812,
+ "serverTicks": 3038717,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T09:49:16Z",
-   "playTicks": 1528940,
+   "lastSeen": "2026-10-13T09:54:11Z",
+   "playTicks": 1534845,
    "deaths": 2,
    "mobKills": 377,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 75932,
-   "damageTaken": 6532,
-   "distanceCm": 18982641,
-   "walkCm": 8225513,
-   "flyCm": 4301502,
-   "jumps": 17397,
-   "mined": 24169,
+   "damageTaken": 6546,
+   "distanceCm": 19051045,
+   "walkCm": 8243006,
+   "flyCm": 4310808,
+   "jumps": 17492,
+   "mined": 24258,
    "topMined": [
     [
      "grass_block",
@@ -650,18 +650,18 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-13T09:49:16Z",
-   "playTicks": 720324,
+   "lastSeen": "2026-10-13T09:54:11Z",
+   "playTicks": 726229,
    "deaths": 1,
    "mobKills": 765,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 49662,
-   "damageTaken": 4024,
-   "distanceCm": 5657363,
-   "walkCm": 3172566,
-   "flyCm": 1460602,
-   "jumps": 9704,
+   "damageTaken": 4028,
+   "distanceCm": 5690586,
+   "walkCm": 3190867,
+   "flyCm": 1470030,
+   "jumps": 9783,
    "mined": 9357,
    "topMined": [
     [
@@ -996,19 +996,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-13T09:49:16Z",
-   "playTicks": 431726,
+   "lastSeen": "2026-10-13T09:54:11Z",
+   "playTicks": 437631,
    "deaths": 2,
    "mobKills": 63,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 8223,
-   "damageTaken": 5606,
-   "distanceCm": 5580659,
-   "walkCm": 1737543,
-   "flyCm": 2046313,
-   "jumps": 9430,
-   "mined": 4788,
+   "damageTaken": 5726,
+   "distanceCm": 5789924,
+   "walkCm": 1750660,
+   "flyCm": 2183572,
+   "jumps": 9553,
+   "mined": 4790,
    "topMined": [
     [
      "stone",
@@ -1214,34 +1214,34 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-13T09:49:16Z",
-   "playTicks": 191060,
+   "lastSeen": "2026-10-13T09:54:11Z",
+   "playTicks": 196965,
    "deaths": 0,
-   "mobKills": 386,
+   "mobKills": 387,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 15498,
-   "damageTaken": 899,
-   "distanceCm": 1144183,
-   "walkCm": 803986,
-   "flyCm": 52470,
-   "jumps": 1138,
-   "mined": 799,
+   "damageDealt": 15638,
+   "damageTaken": 901,
+   "distanceCm": 1169544,
+   "walkCm": 825420,
+   "flyCm": 52498,
+   "jumps": 1170,
+   "mined": 891,
    "topMined": [
     [
      "spruce_log",
      606
     ],
     [
-     "decorated_pot",
-     41
+     "stone",
+     76
     ],
     [
-     "stone",
-     36
+     "decorated_pot",
+     41
     ]
    ],
-   "crafted": 2710,
+   "crafted": 2711,
    "topCrafted": [
     [
      "stick",
@@ -1259,7 +1259,7 @@
    "topKilled": [
     [
      "creeper",
-     125
+     126
     ],
     [
      "zombie",
@@ -1852,8 +1852,8 @@
     "rendered": "2026-10-12T17:12:27Z"
    },
    "-12.3": {
-    "mtime": "2026-10-13T06:04:15Z",
-    "rendered": "2026-10-13T06:12:26Z",
+    "mtime": "2026-10-13T09:56:20Z",
+    "rendered": "2026-10-13T09:55:57Z",
     "empty": true
    },
    "-13.2": {
@@ -2401,6 +2401,15 @@
     "rendered": "2026-10-13T09:51:05Z",
     "empty": true
    },
+   "-9.-3": {
+    "mtime": "2026-10-13T09:51:41Z",
+    "rendered": "2026-10-13T09:55:57Z"
+   },
+   "-10.-4": {
+    "mtime": "2026-10-13T09:51:38Z",
+    "rendered": "2026-10-13T09:55:57Z",
+    "empty": true
+   },
    "2.-6": {
     "mtime": "2026-10-11T20:59:06Z",
     "rendered": "2026-10-12T17:49:48Z",
@@ -2482,6 +2491,11 @@
    "-7.-2": {
     "mtime": "2026-10-13T06:04:15Z",
     "rendered": "2026-10-13T06:32:56Z",
+    "empty": true
+   },
+   "-8.-3": {
+    "mtime": "2026-10-13T09:48:11Z",
+    "rendered": "2026-10-13T09:55:57Z",
     "empty": true
    },
    "2.8": {
