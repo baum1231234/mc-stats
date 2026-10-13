@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-13T20:13:17Z",
+ "updated": "2026-10-13T20:15:14Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 3766222,
+ "serverTicks": 3772222,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T20:10:01Z",
-   "playTicks": 2864612,
+   "lastSeen": "2026-10-13T20:15:01Z",
+   "playTicks": 2870612,
    "deaths": 0,
    "mobKills": 1595,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 243862,
    "damageTaken": 27401,
-   "distanceCm": 38893303,
-   "walkCm": 11487824,
-   "flyCm": 13876503,
-   "jumps": 61501,
-   "mined": 14494,
+   "distanceCm": 38928944,
+   "walkCm": 11508134,
+   "flyCm": 13890946,
+   "jumps": 61565,
+   "mined": 14501,
    "topMined": [
     [
      "spruce_log",
@@ -34,11 +34,11 @@
      1360
     ]
    ],
-   "crafted": 67062,
+   "crafted": 67132,
    "topCrafted": [
     [
      "stick",
-     39863
+     39903
     ],
     [
      "spruce_planks",
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T20:10:01Z",
-   "playTicks": 1877597,
+   "lastSeen": "2026-10-13T20:15:01Z",
+   "playTicks": 1883597,
    "deaths": 2,
    "mobKills": 839,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 136848,
    "damageTaken": 8034,
-   "distanceCm": 23551067,
-   "walkCm": 9864542,
+   "distanceCm": 23551835,
+   "walkCm": 9864550,
    "flyCm": 5796543,
-   "jumps": 22263,
-   "mined": 25304,
+   "jumps": 22265,
+   "mined": 25309,
    "topMined": [
     [
      "grass_block",
@@ -225,19 +225,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T20:10:01Z",
-   "playTicks": 1494704,
+   "lastSeen": "2026-10-13T20:15:01Z",
+   "playTicks": 1500704,
    "deaths": 0,
    "mobKills": 726,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 113237,
-   "damageTaken": 23339,
-   "distanceCm": 24355942,
-   "walkCm": 5055075,
-   "flyCm": 10356090,
-   "jumps": 32686,
-   "mined": 12619,
+   "damageTaken": 23469,
+   "distanceCm": 24453548,
+   "walkCm": 5075383,
+   "flyCm": 10413795,
+   "jumps": 32875,
+   "mined": 12654,
    "topMined": [
     [
      "spruce_log",
@@ -543,6 +543,115 @@
    }
   },
   {
+   "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
+   "name": "Dovid1346",
+   "firstSeen": "2026-10-12T15:11:10Z",
+   "lastSeen": "2026-10-13T20:15:01Z",
+   "playTicks": 1073355,
+   "deaths": 2,
+   "mobKills": 1081,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 98882,
+   "damageTaken": 8984,
+   "distanceCm": 10094551,
+   "walkCm": 4619105,
+   "flyCm": 2472700,
+   "jumps": 15260,
+   "mined": 10621,
+   "topMined": [
+    [
+     "spruce_log",
+     7407
+    ],
+    [
+     "dark_oak_log",
+     597
+    ],
+    [
+     "stone",
+     457
+    ]
+   ],
+   "crafted": 104789,
+   "topCrafted": [
+    [
+     "stick",
+     65032
+    ],
+    [
+     "spruce_planks",
+     31419
+    ],
+    [
+     "dark_oak_planks",
+     2368
+    ]
+   ],
+   "topKilled": [
+    [
+     "skeleton",
+     269
+    ],
+    [
+     "zombie",
+     178
+    ],
+    [
+     "creeper",
+     172
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "warden",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 24,
+    "byTab": {
+     "story": 10,
+     "adventure": 10,
+     "husbandry": 4
+    },
+    "recent": [
+     [
+      "adventure/voluntary_exile",
+      "2026-10-13T18:51:17Z"
+     ],
+     [
+      "adventure/avoid_vibration",
+      "2026-10-13T18:00:32Z"
+     ],
+     [
+      "story/form_obsidian",
+      "2026-10-13T17:39:28Z"
+     ],
+     [
+      "adventure/blowback",
+      "2026-10-13T13:34:11Z"
+     ],
+     [
+      "adventure/revaulting",
+      "2026-10-13T09:06:49Z"
+     ],
+     [
+      "adventure/under_lock_and_key",
+      "2026-10-13T08:51:59Z"
+     ],
+     [
+      "husbandry/wax_on",
+      "2026-10-13T08:44:57Z"
+     ],
+     [
+      "husbandry/wax_off",
+      "2026-10-13T08:44:55Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
@@ -647,115 +756,6 @@
      [
       "story/obtain_armor",
       "2026-10-12T07:54:54Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
-   "name": "Dovid1346",
-   "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-13T20:10:01Z",
-   "playTicks": 1067355,
-   "deaths": 2,
-   "mobKills": 1081,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 98882,
-   "damageTaken": 8959,
-   "distanceCm": 9984049,
-   "walkCm": 4571925,
-   "flyCm": 2418044,
-   "jumps": 15070,
-   "mined": 10559,
-   "topMined": [
-    [
-     "spruce_log",
-     7367
-    ],
-    [
-     "dark_oak_log",
-     597
-    ],
-    [
-     "stone",
-     457
-    ]
-   ],
-   "crafted": 104789,
-   "topCrafted": [
-    [
-     "stick",
-     65032
-    ],
-    [
-     "spruce_planks",
-     31419
-    ],
-    [
-     "dark_oak_planks",
-     2368
-    ]
-   ],
-   "topKilled": [
-    [
-     "skeleton",
-     269
-    ],
-    [
-     "zombie",
-     178
-    ],
-    [
-     "creeper",
-     172
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "warden",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 24,
-    "byTab": {
-     "story": 10,
-     "adventure": 10,
-     "husbandry": 4
-    },
-    "recent": [
-     [
-      "adventure/voluntary_exile",
-      "2026-10-13T18:51:17Z"
-     ],
-     [
-      "adventure/avoid_vibration",
-      "2026-10-13T18:00:32Z"
-     ],
-     [
-      "story/form_obsidian",
-      "2026-10-13T17:39:28Z"
-     ],
-     [
-      "adventure/blowback",
-      "2026-10-13T13:34:11Z"
-     ],
-     [
-      "adventure/revaulting",
-      "2026-10-13T09:06:49Z"
-     ],
-     [
-      "adventure/under_lock_and_key",
-      "2026-10-13T08:51:59Z"
-     ],
-     [
-      "husbandry/wax_on",
-      "2026-10-13T08:44:57Z"
-     ],
-     [
-      "husbandry/wax_off",
-      "2026-10-13T08:44:55Z"
      ]
     ]
    }
@@ -889,19 +889,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-13T20:10:01Z",
-   "playTicks": 739546,
+   "lastSeen": "2026-10-13T20:15:01Z",
+   "playTicks": 745546,
    "deaths": 2,
-   "mobKills": 79,
+   "mobKills": 80,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 13096,
+   "damageDealt": 13296,
    "damageTaken": 8717,
-   "distanceCm": 8008745,
-   "walkCm": 3180933,
-   "flyCm": 2703532,
-   "jumps": 12870,
-   "mined": 15486,
+   "distanceCm": 8044945,
+   "walkCm": 3196792,
+   "flyCm": 2704706,
+   "jumps": 12928,
+   "mined": 15498,
    "topMined": [
     [
      "stone",
@@ -916,11 +916,11 @@
      654
     ]
    ],
-   "crafted": 7732,
+   "crafted": 7742,
    "topCrafted": [
     [
      "stick",
-     4095
+     4103
     ],
     [
      "spruce_planks",
@@ -1995,8 +1995,8 @@
     "rendered": "2026-10-13T18:59:04Z"
    },
    "-1.-4": {
-    "mtime": "2026-10-13T17:07:34Z",
-    "rendered": "2026-10-13T17:14:59Z"
+    "mtime": "2026-10-13T19:20:56Z",
+    "rendered": "2026-10-13T20:15:14Z"
    },
    "-3.-2": {
     "mtime": "2026-10-13T17:29:51Z",
@@ -2165,8 +2165,8 @@
     "rendered": "2026-10-13T18:07:23Z"
    },
    "-2.-4": {
-    "mtime": "2026-10-13T17:14:57Z",
-    "rendered": "2026-10-13T17:14:59Z"
+    "mtime": "2026-10-13T19:20:01Z",
+    "rendered": "2026-10-13T20:15:14Z"
    },
    "-3.-3": {
     "mtime": "2026-10-13T19:19:48Z",
@@ -2335,12 +2335,12 @@
     "rendered": "2026-10-13T17:36:03Z"
    },
    "-2.-5": {
-    "mtime": "2026-10-13T17:14:57Z",
-    "rendered": "2026-10-13T17:14:59Z"
+    "mtime": "2026-10-13T19:19:55Z",
+    "rendered": "2026-10-13T20:15:14Z"
    },
    "-3.-4": {
-    "mtime": "2026-10-13T17:15:17Z",
-    "rendered": "2026-10-13T17:14:59Z"
+    "mtime": "2026-10-13T19:19:46Z",
+    "rendered": "2026-10-13T20:15:14Z"
    },
    "-4.-3": {
     "mtime": "2026-10-13T17:29:51Z",
