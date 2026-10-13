@@ -329,19 +329,35 @@ def fetch_icon(url):
     return f"data/icons/{stem}.{ext}"
 
 
-def read_bases(src, world, uuids, canon, old, now):
-    """Bases, die Spieler im Spiel mit /base markiert haben (bis zu drei pro Spieler)."""
-    raw = None
+def read_storage(src, world):
+    """Alles, was die Befehle im Spiel im Storage kbk:… abgelegt haben (Bases, Ideen)."""
     # neuere Versionen: data/<Namensraum>/command_storage.dat, ältere: data/command_storage_<Namensraum>.dat
     for path in (f"{world}/data/{STORAGE}/command_storage.dat", f"{world}/data/command_storage_{STORAGE}.dat"):
         try:
-            raw = read_nbt(src.read(path))
-            break
+            return read_nbt(src.read(path))
         except Exception:
             continue
-    if raw is None:
-        print("Bases: keine lesbare Storage-Datei gefunden")
-        return None  # Datei fehlt oder wird gerade geschrieben – alten Stand behalten
+    print("Storage: keine lesbare Datei gefunden")
+    return None  # Datei fehlt oder wird gerade geschrieben – alten Stand behalten
+
+
+def read_ideas(raw, canon, old, now):
+    """Ideen, die Spieler im Spiel mit /dashboard idee <Text> eingereicht haben."""
+    entries = (find_key(raw, "ideen") or {}).get("ideen")
+    ideas = []
+    for entry in entries if isinstance(entries, list) else []:
+        text = " ".join(str(entry.get("text") or "").split())[:256] if isinstance(entry, dict) else ""
+        if not text:
+            continue
+        player = str(entry.get("o") or "?")[:16]
+        player = canon.get(player.lower(), player)
+        if (player, text) not in [(i["player"], i["text"]) for i in ideas]:
+            ideas.append({"player": player, "text": text, "since": old.get((player, text), now)})
+    return ideas[:200]
+
+
+def read_bases(raw, uuids, canon, old, now):
+    """Bases, die Spieler im Spiel mit /base markiert haben (bis zu drei pro Spieler)."""
     # der Storage heißt kbk:bases und enthält selbst wieder den Schlüssel "bases" – bis zu den Einträgen absteigen
     entries = find_key(raw, "bases") or {}
     while isinstance(entries.get("bases"), dict) and "pos" not in entries["bases"]:
@@ -424,7 +440,7 @@ def main():
     except Exception:
         pass
 
-    old, old_bases, old_tiles, old_ticks = {}, [], {}, None
+    old, old_bases, old_tiles, old_ticks, old_ideas = {}, [], {}, None, []
     if OUT.exists():
         prev = json.loads(OUT.read_text(encoding="utf-8"))
         # nach einem Wechsel des Serverordners gilt der Lauf wieder als erster (niemand ist "neu")
@@ -433,6 +449,7 @@ def main():
             old_bases = prev.get("bases", [])
             old_tiles = prev.get("tiles", {})
             old_ticks = prev.get("serverTicks")
+            old_ideas = prev.get("ideas", [])
     first_run = not old
     now = now_iso()
 
@@ -475,10 +492,12 @@ def main():
     tiles = old_tiles
     canon = {p["name"].lower(): p["name"] for p in players}
     canon.update({name.lower(): name for name in names.values()})
-    bases = read_bases(src, world, uuids, canon, {(b["player"], b["name"]): b for b in old_bases}, now)
-    if bases is None:
-        bases = old_bases
+    storage = read_storage(src, world)
+    if storage is None:
+        bases, ideas = old_bases, old_ideas
     else:
+        bases = read_bases(storage, uuids, canon, {(b["player"], b["name"]): b for b in old_bases}, now)
+        ideas = read_ideas(storage, canon, {(i["player"], i["text"]): i["since"] for i in old_ideas}, now)
         try:
             sys.path.insert(0, str(Path(__file__).resolve().parent))
             import maps
@@ -491,15 +510,15 @@ def main():
         except Exception as err:
             print("Karten fehlgeschlagen:", err)  # die Stats sollen trotzdem geschrieben werden
 
-    if OUT.exists() and players == list(old.values()) and bases == old_bases and tiles == old_tiles:
+    if OUT.exists() and players == list(old.values()) and bases == old_bases and tiles == old_tiles and ideas == old_ideas:
         print("Keine Änderung")
         return
     OUT.parent.mkdir(exist_ok=True)
     # die Laufzeit allein löst kein Schreiben aus – sonst gäbe es auch ohne Spieler ständig neue Stände
     ticks = server_ticks(src, world) or old_ticks
-    out = {"updated": now, "source": source, "serverTicks": ticks, "players": players, "bases": bases, "tiles": tiles}
+    out = {"updated": now, "source": source, "serverTicks": ticks, "players": players, "bases": bases, "ideas": ideas, "tiles": tiles}
     OUT.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"{len(players)} Spieler, {len(bases)} Bases geschrieben")
+    print(f"{len(players)} Spieler, {len(bases)} Bases, {len(ideas)} Ideen geschrieben")
 
 
 if __name__ == "__main__":
