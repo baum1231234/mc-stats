@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-13T13:55:12Z",
+ "updated": "2026-10-13T13:56:47Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 3322222,
+ "serverTicks": 3328222,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T13:50:43Z",
-   "playTicks": 2498264,
+   "lastSeen": "2026-10-13T13:55:43Z",
+   "playTicks": 2504264,
    "deaths": 0,
-   "mobKills": 1351,
+   "mobKills": 1356,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 193710,
-   "damageTaken": 22962,
-   "distanceCm": 33334751,
-   "walkCm": 9906667,
-   "flyCm": 11564495,
-   "jumps": 53560,
-   "mined": 12830,
+   "damageDealt": 194710,
+   "damageTaken": 22976,
+   "distanceCm": 33403741,
+   "walkCm": 9949374,
+   "flyCm": 11584647,
+   "jumps": 53660,
+   "mined": 12837,
    "topMined": [
     [
      "spruce_log",
@@ -34,11 +34,11 @@
      1177
     ]
    ],
-   "crafted": 65266,
+   "crafted": 65290,
    "topCrafted": [
     [
      "stick",
-     39707
+     39715
     ],
     [
      "spruce_planks",
@@ -52,11 +52,11 @@
    "topKilled": [
     [
      "skeleton",
-     315
+     318
     ],
     [
      "zombie",
-     279
+     281
     ],
     [
      "slime",
@@ -225,27 +225,27 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T13:50:43Z",
-   "playTicks": 1427445,
+   "lastSeen": "2026-10-13T13:55:43Z",
+   "playTicks": 1433445,
    "deaths": 0,
-   "mobKills": 757,
+   "mobKills": 760,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 89651,
+   "damageDealt": 89991,
    "damageTaken": 5379,
-   "distanceCm": 14699563,
-   "walkCm": 6179708,
-   "flyCm": 5340725,
-   "jumps": 25345,
-   "mined": 16532,
+   "distanceCm": 14807814,
+   "walkCm": 6205859,
+   "flyCm": 5383932,
+   "jumps": 25524,
+   "mined": 16601,
    "topMined": [
     [
      "dark_oak_log",
-     3406
+     3407
     ],
     [
      "grass_block",
-     2158
+     2160
     ],
     [
      "stone",
@@ -270,7 +270,7 @@
    "topKilled": [
     [
      "skeleton",
-     467
+     470
     ],
     [
      "cod",
@@ -329,8 +329,8 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T13:50:43Z",
-   "playTicks": 1199750,
+   "lastSeen": "2026-10-13T13:55:43Z",
+   "playTicks": 1205750,
    "deaths": 0,
    "mobKills": 579,
    "playerKills": 0,
@@ -546,19 +546,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-12T07:02:09Z",
-   "lastSeen": "2026-10-13T13:50:43Z",
-   "playTicks": 887898,
+   "lastSeen": "2026-10-13T13:55:43Z",
+   "playTicks": 893898,
    "deaths": 0,
    "mobKills": 162,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 21591,
    "damageTaken": 5029,
-   "distanceCm": 5995211,
-   "walkCm": 3379912,
-   "flyCm": 1329741,
-   "jumps": 9021,
-   "mined": 7104,
+   "distanceCm": 6038575,
+   "walkCm": 3408107,
+   "flyCm": 1344079,
+   "jumps": 9092,
+   "mined": 7117,
    "topMined": [
     [
      "stone",
@@ -573,15 +573,15 @@
      567
     ]
    ],
-   "crafted": 3589,
+   "crafted": 3774,
    "topCrafted": [
     [
-     "stone",
-     511
+     "spruce_planks",
+     580
     ],
     [
-     "spruce_planks",
-     460
+     "stone",
+     536
     ],
     [
      "dark_oak_planks",
@@ -1776,8 +1776,8 @@
     "rendered": "2026-10-13T12:44:55Z"
    },
    "2.-2": {
-    "mtime": "2026-10-13T09:27:26Z",
-    "rendered": "2026-10-13T10:56:47Z"
+    "mtime": "2026-10-13T13:52:11Z",
+    "rendered": "2026-10-13T13:56:47Z"
    },
    "-2.-2": {
     "mtime": "2026-10-13T10:34:01Z",
@@ -1931,8 +1931,8 @@
     "rendered": "2026-10-12T22:00:59Z"
    },
    "2.-3": {
-    "mtime": "2026-10-13T09:17:23Z",
-    "rendered": "2026-10-13T10:56:47Z"
+    "mtime": "2026-10-13T13:51:56Z",
+    "rendered": "2026-10-13T13:56:47Z"
    },
    "-2.-3": {
     "mtime": "2026-10-13T10:15:21Z",
@@ -2101,8 +2101,8 @@
     "rendered": "2026-10-13T12:51:46Z"
    },
    "2.-4": {
-    "mtime": "2026-10-13T09:17:12Z",
-    "rendered": "2026-10-13T10:56:47Z"
+    "mtime": "2026-10-13T13:21:18Z",
+    "rendered": "2026-10-13T13:56:47Z"
    },
    "-1.-5": {
     "mtime": "2026-10-10T19:48:47Z",
