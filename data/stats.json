@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-13T21:17:46Z",
+ "updated": "2026-10-13T21:21:00Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 3844222,
+ "serverTicks": 3850311,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T21:15:01Z",
-   "playTicks": 2922347,
+   "lastSeen": "2026-10-13T21:20:05Z",
+   "playTicks": 2928436,
    "deaths": 0,
-   "mobKills": 1624,
+   "mobKills": 1629,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 249781,
-   "damageTaken": 28386,
-   "distanceCm": 39483274,
-   "walkCm": 11747890,
-   "flyCm": 14157935,
-   "jumps": 62467,
-   "mined": 14700,
+   "damageDealt": 250761,
+   "damageTaken": 28485,
+   "distanceCm": 39532748,
+   "walkCm": 11785221,
+   "flyCm": 14166542,
+   "jumps": 62539,
+   "mined": 14702,
    "topMined": [
     [
      "spruce_log",
@@ -34,11 +34,11 @@
      1361
     ]
    ],
-   "crafted": 67715,
+   "crafted": 67750,
    "topCrafted": [
     [
      "stick",
-     40019
+     40031
     ],
     [
      "spruce_planks",
@@ -56,7 +56,7 @@
     ],
     [
      "zombie",
-     320
+     325
     ],
     [
      "slime",
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T21:15:01Z",
-   "playTicks": 1955597,
+   "lastSeen": "2026-10-13T21:20:05Z",
+   "playTicks": 1961686,
    "deaths": 2,
-   "mobKills": 844,
+   "mobKills": 847,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 138186,
-   "damageTaken": 8651,
-   "distanceCm": 24033949,
-   "walkCm": 10025822,
-   "flyCm": 5877419,
-   "jumps": 22633,
-   "mined": 25624,
+   "damageDealt": 138726,
+   "damageTaken": 8662,
+   "distanceCm": 24082474,
+   "walkCm": 10056602,
+   "flyCm": 5892852,
+   "jumps": 22709,
+   "mined": 25711,
    "topMined": [
     [
      "grass_block",
@@ -135,10 +135,10 @@
     ],
     [
      "sand",
-     3785
+     3789
     ]
    ],
-   "crafted": 13566,
+   "crafted": 13593,
    "topCrafted": [
     [
      "bamboo_planks",
@@ -225,19 +225,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T21:15:01Z",
-   "playTicks": 1551960,
+   "lastSeen": "2026-10-13T21:20:05Z",
+   "playTicks": 1558049,
    "deaths": 0,
-   "mobKills": 739,
+   "mobKills": 744,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 116006,
-   "damageTaken": 23807,
-   "distanceCm": 25012196,
-   "walkCm": 5318160,
-   "flyCm": 10649740,
-   "jumps": 33989,
-   "mined": 14093,
+   "damageDealt": 116897,
+   "damageTaken": 23896,
+   "distanceCm": 25079511,
+   "walkCm": 5372178,
+   "flyCm": 10661611,
+   "jumps": 34070,
+   "mined": 14364,
    "topMined": [
     [
      "spruce_log",
@@ -249,7 +249,7 @@
     ],
     [
      "snow_block",
-     1260
+     1474
     ]
    ],
    "crafted": 35526,
@@ -274,7 +274,7 @@
     ],
     [
      "zombie",
-     138
+     143
     ],
     [
      "skeleton",
@@ -761,6 +761,120 @@
    }
   },
   {
+   "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
+   "name": "Ogerxy",
+   "firstSeen": "2026-10-11T15:50:26Z",
+   "lastSeen": "2026-10-13T21:20:05Z",
+   "playTicks": 823635,
+   "deaths": 2,
+   "mobKills": 86,
+   "playerKills": 0,
+   "killedByPlayers": 1,
+   "damageDealt": 15642,
+   "damageTaken": 9256,
+   "distanceCm": 8559667,
+   "walkCm": 3438909,
+   "flyCm": 2886456,
+   "jumps": 14146,
+   "mined": 15883,
+   "topMined": [
+    [
+     "stone",
+     12656
+    ],
+    [
+     "spruce_log",
+     902
+    ],
+    [
+     "snow_block",
+     658
+    ]
+   ],
+   "crafted": 7748,
+   "topCrafted": [
+    [
+     "stick",
+     4103
+    ],
+    [
+     "spruce_planks",
+     2248
+    ],
+    [
+     "bread",
+     279
+    ]
+   ],
+   "topKilled": [
+    [
+     "sheep",
+     20
+    ],
+    [
+     "zombie",
+     18
+    ],
+    [
+     "skeleton",
+     18
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "player",
+     1
+    ],
+    [
+     "creeper",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 19,
+    "byTab": {
+     "story": 11,
+     "adventure": 6,
+     "husbandry": 1,
+     "nether": 1
+    },
+    "recent": [
+     [
+      "story/lava_bucket",
+      "2026-10-13T20:02:55Z"
+     ],
+     [
+      "adventure/trade",
+      "2026-10-13T10:04:53Z"
+     ],
+     [
+      "story/cure_zombie_villager",
+      "2026-10-12T22:47:46Z"
+     ],
+     [
+      "nether/brew_potion",
+      "2026-10-12T22:43:58Z"
+     ],
+     [
+      "story/shiny_gear",
+      "2026-10-12T21:00:08Z"
+     ],
+     [
+      "adventure/avoid_vibration",
+      "2026-10-12T20:54:54Z"
+     ],
+     [
+      "story/deflect_arrow",
+      "2026-10-12T20:48:40Z"
+     ],
+     [
+      "adventure/kill_a_mob",
+      "2026-10-12T19:22:18Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
@@ -881,120 +995,6 @@
      [
       "husbandry/fishy_business",
       "2026-10-11T12:18:12Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
-   "name": "Ogerxy",
-   "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-13T21:15:01Z",
-   "playTicks": 817546,
-   "deaths": 2,
-   "mobKills": 84,
-   "playerKills": 0,
-   "killedByPlayers": 1,
-   "damageDealt": 14032,
-   "damageTaken": 9246,
-   "distanceCm": 8518081,
-   "walkCm": 3416140,
-   "flyCm": 2878435,
-   "jumps": 14083,
-   "mined": 15874,
-   "topMined": [
-    [
-     "stone",
-     12656
-    ],
-    [
-     "spruce_log",
-     901
-    ],
-    [
-     "snow_block",
-     658
-    ]
-   ],
-   "crafted": 7742,
-   "topCrafted": [
-    [
-     "stick",
-     4103
-    ],
-    [
-     "spruce_planks",
-     2248
-    ],
-    [
-     "bread",
-     279
-    ]
-   ],
-   "topKilled": [
-    [
-     "sheep",
-     20
-    ],
-    [
-     "zombie",
-     18
-    ],
-    [
-     "skeleton",
-     18
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "player",
-     1
-    ],
-    [
-     "creeper",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 19,
-    "byTab": {
-     "story": 11,
-     "adventure": 6,
-     "husbandry": 1,
-     "nether": 1
-    },
-    "recent": [
-     [
-      "story/lava_bucket",
-      "2026-10-13T20:02:55Z"
-     ],
-     [
-      "adventure/trade",
-      "2026-10-13T10:04:53Z"
-     ],
-     [
-      "story/cure_zombie_villager",
-      "2026-10-12T22:47:46Z"
-     ],
-     [
-      "nether/brew_potion",
-      "2026-10-12T22:43:58Z"
-     ],
-     [
-      "story/shiny_gear",
-      "2026-10-12T21:00:08Z"
-     ],
-     [
-      "adventure/avoid_vibration",
-      "2026-10-12T20:54:54Z"
-     ],
-     [
-      "story/deflect_arrow",
-      "2026-10-12T20:48:40Z"
-     ],
-     [
-      "adventure/kill_a_mob",
-      "2026-10-12T19:22:18Z"
      ]
     ]
    }
