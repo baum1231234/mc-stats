@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T20:51:42Z",
+ "updated": "2026-10-14T20:53:30Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 5110554,
+ "serverTicks": 5112904,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,8 +111,8 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T20:48:55Z",
-   "playTicks": 2355584,
+   "lastSeen": "2026-10-14T20:51:58Z",
+   "playTicks": 2359234,
    "deaths": 0,
    "mobKills": 869,
    "playerKills": 0,
@@ -329,18 +329,18 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T20:48:55Z",
-   "playTicks": 1972970,
+   "lastSeen": "2026-10-14T20:51:58Z",
+   "playTicks": 1976620,
    "deaths": 0,
    "mobKills": 1514,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 176658,
-   "damageTaken": 11158,
-   "distanceCm": 23667633,
-   "walkCm": 7894137,
-   "flyCm": 8538005,
-   "jumps": 34802,
+   "damageTaken": 11180,
+   "distanceCm": 23839616,
+   "walkCm": 7898761,
+   "flyCm": 8559255,
+   "jumps": 34816,
    "mined": 18944,
    "topMined": [
     [
@@ -655,19 +655,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-14T20:48:55Z",
-   "playTicks": 1285111,
+   "lastSeen": "2026-10-14T20:51:58Z",
+   "playTicks": 1288761,
    "deaths": 2,
    "mobKills": 121,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 21997,
-   "damageTaken": 11857,
-   "distanceCm": 11457306,
-   "walkCm": 4879649,
-   "flyCm": 3790425,
-   "jumps": 20026,
-   "mined": 18121,
+   "damageTaken": 11865,
+   "distanceCm": 11479894,
+   "walkCm": 4889884,
+   "flyCm": 3800965,
+   "jumps": 20082,
+   "mined": 18126,
    "topMined": [
     [
      "stone",
@@ -3133,6 +3133,11 @@
    "-9.24": {
     "mtime": "2026-10-10T19:56:10Z",
     "rendered": "2026-10-14T20:51:42Z",
+    "empty": true
+   },
+   "29.-20": {
+    "mtime": "2026-10-10T22:18:58Z",
+    "rendered": "2026-10-14T20:53:30Z",
     "empty": true
    }
   }
