@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T08:10:34Z",
+ "updated": "2026-10-14T08:15:51Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 4229424,
+ "serverTicks": 4235424,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -546,19 +546,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
-   "lastSeen": "2026-10-14T08:10:41Z",
-   "playTicks": 1143305,
+   "lastSeen": "2026-10-14T08:15:41Z",
+   "playTicks": 1149305,
    "deaths": 1,
    "mobKills": 197,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 26673,
-   "damageTaken": 7033,
-   "distanceCm": 8143708,
-   "walkCm": 4744852,
-   "flyCm": 1789390,
-   "jumps": 11712,
-   "mined": 9492,
+   "damageTaken": 7113,
+   "distanceCm": 8180343,
+   "walkCm": 4773123,
+   "flyCm": 1795693,
+   "jumps": 11736,
+   "mined": 9526,
    "topMined": [
     [
      "stone",
@@ -570,10 +570,10 @@
     ],
     [
      "grass_block",
-     614
+     616
     ]
    ],
-   "crafted": 5157,
+   "crafted": 5187,
    "topCrafted": [
     [
      "stone",
