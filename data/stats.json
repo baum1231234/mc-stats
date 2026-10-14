@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-14T01:18:22Z",
+ "updated": "2026-10-14T01:20:01Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 4132222,
+ "serverTicks": 4138675,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T01:15:01Z",
-   "playTicks": 3210347,
+   "lastSeen": "2026-10-14T01:20:01Z",
+   "playTicks": 3216347,
    "deaths": 0,
    "mobKills": 1652,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 255227,
-   "damageTaken": 30221,
-   "distanceCm": 42094948,
-   "walkCm": 13161288,
-   "flyCm": 15132539,
-   "jumps": 67373,
+   "damageDealt": 255277,
+   "damageTaken": 30263,
+   "distanceCm": 42182704,
+   "walkCm": 13218571,
+   "flyCm": 15155757,
+   "jumps": 67464,
    "mined": 16441,
    "topMined": [
     [
@@ -34,7 +34,7 @@
      1431
     ]
    ],
-   "crafted": 71397,
+   "crafted": 71401,
    "topCrafted": [
     [
      "stick",
@@ -111,18 +111,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T01:15:01Z",
-   "playTicks": 2243597,
+   "lastSeen": "2026-10-14T01:20:01Z",
+   "playTicks": 2249597,
    "deaths": 2,
-   "mobKills": 917,
+   "mobKills": 919,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 152145,
+   "damageDealt": 152760,
    "damageTaken": 9549,
-   "distanceCm": 26665680,
-   "walkCm": 11537979,
-   "flyCm": 6654188,
-   "jumps": 25630,
+   "distanceCm": 26704326,
+   "walkCm": 11551284,
+   "flyCm": 6678318,
+   "jumps": 25667,
    "mined": 31772,
    "topMined": [
     [
@@ -178,14 +178,18 @@
     ]
    ],
    "adv": {
-    "count": 28,
+    "count": 29,
     "byTab": {
      "adventure": 11,
-     "story": 12,
+     "story": 13,
      "husbandry": 4,
      "nether": 1
     },
     "recent": [
+     [
+      "story/follow_ender_eye",
+      "2026-10-14T01:18:25Z"
+     ],
      [
       "adventure/throw_trident",
       "2026-10-13T12:41:10Z"
@@ -213,10 +217,6 @@
      [
       "adventure/hero_of_the_village",
       "2026-10-11T20:07:22Z"
-     ],
-     [
-      "story/enchant_item",
-      "2026-10-11T19:54:48Z"
      ]
     ]
    }
