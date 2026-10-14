@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T14:59:57Z",
+ "updated": "2026-10-14T15:05:09Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 4686904,
+ "serverTicks": 4692904,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -225,8 +225,8 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T14:58:56Z",
-   "playTicks": 1984594,
+   "lastSeen": "2026-10-14T15:03:55Z",
+   "playTicks": 1990594,
    "deaths": 0,
    "mobKills": 849,
    "playerKills": 0,
@@ -329,19 +329,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T14:58:56Z",
-   "playTicks": 1557057,
+   "lastSeen": "2026-10-14T15:03:56Z",
+   "playTicks": 1563057,
    "deaths": 0,
-   "mobKills": 895,
+   "mobKills": 913,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 106276,
-   "damageTaken": 5770,
-   "distanceCm": 16561565,
-   "walkCm": 6874517,
-   "flyCm": 6179897,
-   "jumps": 28629,
-   "mined": 17171,
+   "damageDealt": 108657,
+   "damageTaken": 5837,
+   "distanceCm": 16622566,
+   "walkCm": 6909349,
+   "flyCm": 6196179,
+   "jumps": 28729,
+   "mined": 17189,
    "topMined": [
     [
      "dark_oak_log",
@@ -425,6 +425,115 @@
      [
       "adventure/trade",
       "2026-10-11T13:17:59Z"
+     ]
+    ]
+   }
+  },
+  {
+   "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
+   "name": "imoptimalfall187",
+   "firstSeen": "2026-10-13T19:10:19Z",
+   "lastSeen": "2026-10-14T15:03:56Z",
+   "playTicks": 1480108,
+   "deaths": 1,
+   "mobKills": 305,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 47316,
+   "damageTaken": 10177,
+   "distanceCm": 11314977,
+   "walkCm": 6148706,
+   "flyCm": 2445405,
+   "jumps": 15602,
+   "mined": 12500,
+   "topMined": [
+    [
+     "stone",
+     4788
+    ],
+    [
+     "dirt",
+     829
+    ],
+    [
+     "wheat",
+     731
+    ]
+   ],
+   "crafted": 9831,
+   "topCrafted": [
+    [
+     "stick",
+     2678
+    ],
+    [
+     "stone",
+     1017
+    ],
+    [
+     "cherry_planks",
+     940
+    ]
+   ],
+   "topKilled": [
+    [
+     "skeleton",
+     81
+    ],
+    [
+     "zombie",
+     63
+    ],
+    [
+     "sheep",
+     31
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "zombie",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 19,
+    "byTab": {
+     "adventure": 5,
+     "story": 10,
+     "husbandry": 4
+    },
+    "recent": [
+     [
+      "story/enchant_item",
+      "2026-10-14T12:42:57Z"
+     ],
+     [
+      "adventure/trade",
+      "2026-10-14T11:01:21Z"
+     ],
+     [
+      "story/form_obsidian",
+      "2026-10-14T10:45:59Z"
+     ],
+     [
+      "husbandry/tame_an_animal",
+      "2026-10-14T07:49:06Z"
+     ],
+     [
+      "story/shiny_gear",
+      "2026-10-13T12:34:11Z"
+     ],
+     [
+      "husbandry/breed_an_animal",
+      "2026-10-12T16:32:02Z"
+     ],
+     [
+      "husbandry/plant_seed",
+      "2026-10-12T16:12:58Z"
+     ],
+     [
+      "adventure/sleep_in_bed",
+      "2026-10-12T08:53:28Z"
      ]
     ]
    }
@@ -543,115 +652,6 @@
    }
   },
   {
-   "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
-   "name": "imoptimalfall187",
-   "firstSeen": "2026-10-13T19:10:19Z",
-   "lastSeen": "2026-10-14T14:58:56Z",
-   "playTicks": 1474108,
-   "deaths": 1,
-   "mobKills": 305,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 47316,
-   "damageTaken": 10177,
-   "distanceCm": 11271737,
-   "walkCm": 6117163,
-   "flyCm": 2433983,
-   "jumps": 15550,
-   "mined": 12496,
-   "topMined": [
-    [
-     "stone",
-     4787
-    ],
-    [
-     "dirt",
-     829
-    ],
-    [
-     "wheat",
-     731
-    ]
-   ],
-   "crafted": 9664,
-   "topCrafted": [
-    [
-     "stick",
-     2678
-    ],
-    [
-     "cherry_planks",
-     940
-    ],
-    [
-     "stone",
-     851
-    ]
-   ],
-   "topKilled": [
-    [
-     "skeleton",
-     81
-    ],
-    [
-     "zombie",
-     63
-    ],
-    [
-     "sheep",
-     31
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "zombie",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 19,
-    "byTab": {
-     "adventure": 5,
-     "story": 10,
-     "husbandry": 4
-    },
-    "recent": [
-     [
-      "story/enchant_item",
-      "2026-10-14T12:42:57Z"
-     ],
-     [
-      "adventure/trade",
-      "2026-10-14T11:01:21Z"
-     ],
-     [
-      "story/form_obsidian",
-      "2026-10-14T10:45:59Z"
-     ],
-     [
-      "husbandry/tame_an_animal",
-      "2026-10-14T07:49:06Z"
-     ],
-     [
-      "story/shiny_gear",
-      "2026-10-13T12:34:11Z"
-     ],
-     [
-      "husbandry/breed_an_animal",
-      "2026-10-12T16:32:02Z"
-     ],
-     [
-      "husbandry/plant_seed",
-      "2026-10-12T16:12:58Z"
-     ],
-     [
-      "adventure/sleep_in_bed",
-      "2026-10-12T08:53:28Z"
-     ]
-    ]
-   }
-  },
-  {
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
@@ -764,19 +764,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-14T14:58:56Z",
-   "playTicks": 1070496,
+   "lastSeen": "2026-10-14T15:03:56Z",
+   "playTicks": 1076496,
    "deaths": 2,
    "mobKills": 101,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 19411,
-   "damageTaken": 11054,
-   "distanceCm": 10115738,
-   "walkCm": 4285331,
-   "flyCm": 3372231,
-   "jumps": 17491,
-   "mined": 17272,
+   "damageTaken": 11059,
+   "distanceCm": 10149174,
+   "walkCm": 4305213,
+   "flyCm": 3380409,
+   "jumps": 17545,
+   "mined": 17299,
    "topMined": [
     [
      "stone",
@@ -791,7 +791,7 @@
      699
     ]
    ],
-   "crafted": 11352,
+   "crafted": 11427,
    "topCrafted": [
     [
      "stick",
@@ -803,7 +803,7 @@
     ],
     [
      "emerald",
-     444
+     518
     ]
    ],
    "topKilled": [
@@ -1124,27 +1124,27 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-14T14:58:56Z",
-   "playTicks": 491322,
+   "lastSeen": "2026-10-14T15:03:56Z",
+   "playTicks": 497322,
    "deaths": 2,
-   "mobKills": 211,
+   "mobKills": 228,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 27994,
-   "damageTaken": 4293,
-   "distanceCm": 5524994,
-   "walkCm": 2201464,
-   "flyCm": 1601871,
-   "jumps": 8663,
-   "mined": 3777,
+   "damageDealt": 31384,
+   "damageTaken": 4988,
+   "distanceCm": 5602879,
+   "walkCm": 2252340,
+   "flyCm": 1625251,
+   "jumps": 8811,
+   "mined": 3794,
    "topMined": [
     [
      "grass_block",
-     699
+     709
     ],
     [
      "dirt",
-     500
+     501
     ],
     [
      "dark_oak_log",
@@ -1172,12 +1172,12 @@
      40
     ],
     [
-     "sheep",
-     37
+     "skeleton",
+     38
     ],
     [
-     "skeleton",
-     34
+     "sheep",
+     37
     ]
    ],
    "topKilledBy": [
