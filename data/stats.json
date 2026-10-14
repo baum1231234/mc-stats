@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T21:55:21Z",
+ "updated": "2026-10-14T21:58:51Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 5184904,
+ "serverTicks": 5190904,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -329,19 +329,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T21:53:55Z",
-   "playTicks": 2028472,
+   "lastSeen": "2026-10-14T21:58:56Z",
+   "playTicks": 2034472,
    "deaths": 0,
-   "mobKills": 1605,
+   "mobKills": 1611,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 181444,
-   "damageTaken": 12054,
-   "distanceCm": 24830377,
-   "walkCm": 8026820,
-   "flyCm": 8955141,
-   "jumps": 35373,
-   "mined": 19093,
+   "damageDealt": 181634,
+   "damageTaken": 12172,
+   "distanceCm": 24988658,
+   "walkCm": 8049563,
+   "flyCm": 8991842,
+   "jumps": 35424,
+   "mined": 19198,
    "topMined": [
     [
      "dark_oak_log",
@@ -356,7 +356,7 @@
      2060
     ]
    ],
-   "crafted": 59664,
+   "crafted": 59707,
    "topCrafted": [
     [
      "stick",
@@ -374,7 +374,7 @@
    "topKilled": [
     [
      "skeleton",
-     807
+     808
     ],
     [
      "drowned",
@@ -655,23 +655,23 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-14T21:53:55Z",
-   "playTicks": 1363111,
+   "lastSeen": "2026-10-14T21:58:56Z",
+   "playTicks": 1369111,
    "deaths": 2,
    "mobKills": 123,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 22119,
-   "damageTaken": 12178,
-   "distanceCm": 12376443,
-   "walkCm": 5211442,
-   "flyCm": 4080227,
-   "jumps": 21089,
-   "mined": 18990,
+   "damageDealt": 22138,
+   "damageTaken": 12180,
+   "distanceCm": 12422431,
+   "walkCm": 5242454,
+   "flyCm": 4092475,
+   "jumps": 21153,
+   "mined": 19122,
    "topMined": [
     [
      "stone",
-     13641
+     13749
     ],
     [
      "spruce_log",
@@ -682,7 +682,7 @@
      771
     ]
    ],
-   "crafted": 12490,
+   "crafted": 12502,
    "topCrafted": [
     [
      "stick",
@@ -2148,8 +2148,8 @@
     "rendered": "2026-10-12T17:25:39Z"
    },
    "-7.1": {
-    "mtime": "2026-10-14T18:57:58Z",
-    "rendered": "2026-10-14T18:57:38Z"
+    "mtime": "2026-10-14T20:02:22Z",
+    "rendered": "2026-10-14T21:58:51Z"
    },
    "-8.0": {
     "mtime": "2026-10-14T19:03:06Z",
@@ -2338,16 +2338,16 @@
     "rendered": "2026-10-12T17:36:49Z"
    },
    "-6.1": {
-    "mtime": "2026-10-14T18:57:13Z",
-    "rendered": "2026-10-14T18:57:38Z"
+    "mtime": "2026-10-14T20:03:59Z",
+    "rendered": "2026-10-14T21:58:51Z"
    },
    "-8.-1": {
     "mtime": "2026-10-14T13:33:05Z",
     "rendered": "2026-10-14T20:03:28Z"
    },
    "-7.0": {
-    "mtime": "2026-10-14T18:58:00Z",
-    "rendered": "2026-10-14T18:57:38Z"
+    "mtime": "2026-10-14T20:02:40Z",
+    "rendered": "2026-10-14T21:58:51Z"
    },
    "-7.2": {
     "mtime": "2026-10-14T18:59:06Z",
