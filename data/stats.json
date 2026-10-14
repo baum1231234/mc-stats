@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-14T00:10:43Z",
+ "updated": "2026-10-14T00:15:33Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 4054222,
+ "serverTicks": 4060222,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T00:10:01Z",
-   "playTicks": 3132347,
+   "lastSeen": "2026-10-14T00:15:01Z",
+   "playTicks": 3138347,
    "deaths": 0,
    "mobKills": 1644,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 253640,
    "damageTaken": 29824,
-   "distanceCm": 41295285,
-   "walkCm": 12793053,
-   "flyCm": 14783922,
-   "jumps": 65675,
-   "mined": 15914,
+   "distanceCm": 41363415,
+   "walkCm": 12826196,
+   "flyCm": 14816459,
+   "jumps": 65816,
+   "mined": 15979,
    "topMined": [
     [
      "spruce_log",
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T00:10:01Z",
-   "playTicks": 2165597,
+   "lastSeen": "2026-10-14T00:15:01Z",
+   "playTicks": 2171597,
    "deaths": 2,
    "mobKills": 916,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 151945,
    "damageTaken": 9519,
-   "distanceCm": 25867517,
-   "walkCm": 10949189,
-   "flyCm": 6470828,
-   "jumps": 24990,
-   "mined": 31003,
+   "distanceCm": 25971380,
+   "walkCm": 11039093,
+   "flyCm": 6484787,
+   "jumps": 25031,
+   "mined": 31540,
    "topMined": [
     [
      "grass_block",
@@ -138,7 +138,7 @@
      6372
     ]
    ],
-   "crafted": 14405,
+   "crafted": 14731,
    "topCrafted": [
     [
      "bamboo_planks",
@@ -146,7 +146,7 @@
     ],
     [
      "bamboo_block",
-     3199
+     3525
     ],
     [
      "emerald",
