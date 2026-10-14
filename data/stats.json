@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-13T23:56:01Z",
+ "updated": "2026-10-14T00:00:52Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 4036222,
+ "serverTicks": 4042222,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T23:55:01Z",
-   "playTicks": 3114347,
+   "lastSeen": "2026-10-14T00:00:01Z",
+   "playTicks": 3120347,
    "deaths": 0,
    "mobKills": 1644,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 253640,
-   "damageTaken": 29744,
-   "distanceCm": 41107453,
-   "walkCm": 12705613,
-   "flyCm": 14698386,
-   "jumps": 65205,
-   "mined": 15756,
+   "damageTaken": 29816,
+   "distanceCm": 41145034,
+   "walkCm": 12725879,
+   "flyCm": 14711473,
+   "jumps": 65304,
+   "mined": 15759,
    "topMined": [
     [
      "spruce_log",
@@ -34,11 +34,11 @@
      1391
     ]
    ],
-   "crafted": 71057,
+   "crafted": 71084,
    "topCrafted": [
     [
      "stick",
-     40715
+     40735
     ],
     [
      "spruce_planks",
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T23:55:01Z",
-   "playTicks": 2147597,
+   "lastSeen": "2026-10-14T00:00:01Z",
+   "playTicks": 2153597,
    "deaths": 2,
-   "mobKills": 913,
+   "mobKills": 916,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 151163,
-   "damageTaken": 9478,
-   "distanceCm": 25611893,
-   "walkCm": 10764374,
-   "flyCm": 6405572,
-   "jumps": 24808,
-   "mined": 29065,
+   "damageDealt": 151945,
+   "damageTaken": 9489,
+   "distanceCm": 25670139,
+   "walkCm": 10796603,
+   "flyCm": 6431039,
+   "jumps": 24844,
+   "mined": 29409,
    "topMined": [
     [
      "grass_block",
@@ -131,11 +131,11 @@
     ],
     [
      "sand",
-     6026
+     6065
     ],
     [
      "dirt",
-     5349
+     5616
     ]
    ],
    "crafted": 14405,
@@ -156,11 +156,11 @@
    "topKilled": [
     [
      "zombie",
-     219
+     221
     ],
     [
      "skeleton",
-     218
+     219
     ],
     [
      "slime",
