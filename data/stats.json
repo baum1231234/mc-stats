@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T08:19:59Z",
+ "updated": "2026-10-14T08:21:34Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 4235424,
+ "serverTicks": 4241768,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -546,34 +546,34 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
-   "lastSeen": "2026-10-14T08:15:41Z",
-   "playTicks": 1149305,
+   "lastSeen": "2026-10-14T08:20:59Z",
+   "playTicks": 1155649,
    "deaths": 1,
    "mobKills": 197,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 26673,
-   "damageTaken": 7113,
-   "distanceCm": 8180343,
-   "walkCm": 4773123,
-   "flyCm": 1795693,
-   "jumps": 11736,
-   "mined": 9526,
+   "damageTaken": 7143,
+   "distanceCm": 8286044,
+   "walkCm": 4799489,
+   "flyCm": 1804828,
+   "jumps": 11812,
+   "mined": 9569,
    "topMined": [
     [
      "stone",
-     3959
+     3974
     ],
     [
      "dirt",
-     654
+     657
     ],
     [
      "grass_block",
-     616
+     617
     ]
    ],
-   "crafted": 5187,
+   "crafted": 5189,
    "topCrafted": [
     [
      "stone",
@@ -1726,8 +1726,8 @@
     "rendered": "2026-10-14T03:32:32Z"
    },
    "2.-1": {
-    "mtime": "2026-10-13T23:52:41Z",
-    "rendered": "2026-10-14T00:33:18Z"
+    "mtime": "2026-10-14T08:21:27Z",
+    "rendered": "2026-10-14T08:21:34Z"
    },
    "-1.-2": {
     "mtime": "2026-10-14T01:20:01Z",
@@ -1746,8 +1746,8 @@
     "rendered": "2026-10-14T04:10:21Z"
    },
    "3.-1": {
-    "mtime": "2026-10-13T23:47:00Z",
-    "rendered": "2026-10-14T02:14:30Z"
+    "mtime": "2026-10-14T08:21:27Z",
+    "rendered": "2026-10-14T08:21:34Z"
    },
    "4.0": {
     "mtime": "2026-10-14T08:20:12Z",
@@ -1879,8 +1879,8 @@
     "rendered": "2026-10-14T06:04:04Z"
    },
    "4.-1": {
-    "mtime": "2026-10-13T23:41:25Z",
-    "rendered": "2026-10-14T02:14:30Z"
+    "mtime": "2026-10-14T08:21:27Z",
+    "rendered": "2026-10-14T08:21:34Z"
    },
    "5.0": {
     "mtime": "2026-10-14T06:04:11Z",
