@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T09:36:01Z",
+ "updated": "2026-10-14T09:41:09Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 4302657,
+ "serverTicks": 4307805,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -546,19 +546,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
-   "lastSeen": "2026-10-14T09:36:06Z",
-   "playTicks": 1215338,
+   "lastSeen": "2026-10-14T09:40:23Z",
+   "playTicks": 1220486,
    "deaths": 1,
-   "mobKills": 238,
+   "mobKills": 242,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 33337,
-   "damageTaken": 7964,
-   "distanceCm": 8633997,
-   "walkCm": 4994786,
-   "flyCm": 1909800,
-   "jumps": 12618,
-   "mined": 9882,
+   "damageDealt": 34137,
+   "damageTaken": 8235,
+   "distanceCm": 8672746,
+   "walkCm": 5027189,
+   "flyCm": 1915265,
+   "jumps": 12711,
+   "mined": 9934,
    "topMined": [
     [
      "stone",
@@ -591,11 +591,11 @@
    "topKilled": [
     [
      "skeleton",
-     51
+     52
     ],
     [
      "zombie",
-     36
+     37
     ],
     [
      "sheep",
