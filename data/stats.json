@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T07:46:18Z",
+ "updated": "2026-10-14T07:51:26Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 4199424,
+ "serverTicks": 4205558,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -546,27 +546,27 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
-   "lastSeen": "2026-10-14T07:45:41Z",
-   "playTicks": 1113305,
+   "lastSeen": "2026-10-14T07:50:48Z",
+   "playTicks": 1119439,
    "deaths": 1,
-   "mobKills": 193,
+   "mobKills": 196,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 26071,
-   "damageTaken": 6776,
-   "distanceCm": 7856055,
-   "walkCm": 4529694,
-   "flyCm": 1737678,
-   "jumps": 11334,
-   "mined": 9319,
+   "damageDealt": 26483,
+   "damageTaken": 6865,
+   "distanceCm": 7923021,
+   "walkCm": 4572349,
+   "flyCm": 1756150,
+   "jumps": 11466,
+   "mined": 9348,
    "topMined": [
     [
      "stone",
-     3944
+     3959
     ],
     [
      "dirt",
-     643
+     650
     ],
     [
      "short_grass",
@@ -609,13 +609,17 @@
     ]
    ],
    "adv": {
-    "count": 15,
+    "count": 16,
     "byTab": {
      "adventure": 4,
      "story": 8,
-     "husbandry": 3
+     "husbandry": 4
     },
     "recent": [
+     [
+      "husbandry/tame_an_animal",
+      "2026-10-14T07:49:06Z"
+     ],
      [
       "story/shiny_gear",
       "2026-10-13T12:34:11Z"
@@ -643,10 +647,6 @@
      [
       "adventure/kill_a_mob",
       "2026-10-12T07:55:58Z"
-     ],
-     [
-      "story/obtain_armor",
-      "2026-10-12T07:54:54Z"
      ]
     ]
    }
