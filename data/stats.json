@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-14T12:05:10Z",
+ "updated": "2026-10-14T12:06:50Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 4476904,
+ "serverTicks": 4479678,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T12:03:55Z",
-   "playTicks": 3237480,
+   "lastSeen": "2026-10-14T12:06:14Z",
+   "playTicks": 3240254,
    "deaths": 0,
    "mobKills": 1663,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 256097,
-   "damageTaken": 30283,
-   "distanceCm": 42460974,
-   "walkCm": 13345521,
-   "flyCm": 15218605,
-   "jumps": 67910,
-   "mined": 16558,
+   "damageTaken": 30285,
+   "distanceCm": 42494479,
+   "walkCm": 13367276,
+   "flyCm": 15227930,
+   "jumps": 67965,
+   "mined": 16586,
    "topMined": [
     [
      "spruce_log",
@@ -27,7 +27,7 @@
     ],
     [
      "grass_block",
-     1442
+     1470
     ],
     [
      "packed_ice",
@@ -225,8 +225,8 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T12:03:55Z",
-   "playTicks": 1774594,
+   "lastSeen": "2026-10-14T12:06:14Z",
+   "playTicks": 1777368,
    "deaths": 0,
    "mobKills": 844,
    "playerKills": 0,
@@ -433,19 +433,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-14T12:03:55Z",
-   "playTicks": 1337698,
+   "lastSeen": "2026-10-14T12:06:14Z",
+   "playTicks": 1340472,
    "deaths": 4,
-   "mobKills": 814,
+   "mobKills": 816,
    "playerKills": 1,
    "killedByPlayers": 2,
-   "damageDealt": 69866,
-   "damageTaken": 11285,
-   "distanceCm": 11434120,
-   "walkCm": 5913742,
-   "flyCm": 3100457,
-   "jumps": 20196,
-   "mined": 18621,
+   "damageDealt": 70350,
+   "damageTaken": 11323,
+   "distanceCm": 11449899,
+   "walkCm": 5927290,
+   "flyCm": 3100674,
+   "jumps": 20220,
+   "mined": 18648,
    "topMined": [
     [
      "stone",
@@ -478,7 +478,7 @@
    "topKilled": [
     [
      "zombie",
-     277
+     278
     ],
     [
      "skeleton",
@@ -486,7 +486,7 @@
     ],
     [
      "creeper",
-     170
+     171
     ]
    ],
    "topKilledBy": [
