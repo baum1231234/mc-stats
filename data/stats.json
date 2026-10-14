@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T19:08:32Z",
+ "updated": "2026-10-14T19:10:30Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 4986904,
  "players": [
@@ -225,17 +225,17 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T19:06:51Z",
-   "playTicks": 2233098,
+   "lastSeen": "2026-10-14T19:08:55Z",
+   "playTicks": 2235584,
    "deaths": 0,
    "mobKills": 865,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 141093,
    "damageTaken": 28565,
-   "distanceCm": 30481706,
-   "walkCm": 7698680,
-   "flyCm": 12460362,
+   "distanceCm": 30487788,
+   "walkCm": 7701094,
+   "flyCm": 12460470,
    "jumps": 42739,
    "mined": 22280,
    "topMined": [
@@ -329,19 +329,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T19:06:51Z",
-   "playTicks": 1854571,
+   "lastSeen": "2026-10-14T19:08:55Z",
+   "playTicks": 1857057,
    "deaths": 0,
-   "mobKills": 1337,
+   "mobKills": 1339,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 146842,
-   "damageTaken": 7302,
-   "distanceCm": 20518898,
-   "walkCm": 7720715,
-   "flyCm": 7204640,
-   "jumps": 33866,
-   "mined": 18908,
+   "damageDealt": 147257,
+   "damageTaken": 7414,
+   "distanceCm": 20574400,
+   "walkCm": 7730950,
+   "flyCm": 7221744,
+   "jumps": 33946,
+   "mined": 18915,
    "topMined": [
     [
      "dark_oak_log",
@@ -382,7 +382,7 @@
     ],
     [
      "zombie",
-     94
+     95
     ]
    ],
    "topKilledBy": [],
@@ -1690,8 +1690,8 @@
     "rendered": "2026-10-14T16:47:52Z"
    },
    "1.1": {
-    "mtime": "2026-10-14T15:57:26Z",
-    "rendered": "2026-10-14T16:10:22Z"
+    "mtime": "2026-10-14T18:06:11Z",
+    "rendered": "2026-10-14T19:10:30Z"
    },
    "-3.5": {
     "mtime": "2026-10-14T18:30:38Z",
@@ -1734,12 +1734,12 @@
     "rendered": "2026-10-14T16:49:44Z"
    },
    "2.2": {
-    "mtime": "2026-10-14T15:50:57Z",
-    "rendered": "2026-10-14T16:10:22Z"
+    "mtime": "2026-10-14T17:29:54Z",
+    "rendered": "2026-10-14T19:10:30Z"
    },
    "3.1": {
-    "mtime": "2026-10-14T16:10:52Z",
-    "rendered": "2026-10-14T16:10:22Z"
+    "mtime": "2026-10-14T18:14:37Z",
+    "rendered": "2026-10-14T19:10:30Z"
    },
    "-1.-1": {
     "mtime": "2026-10-14T16:36:27Z",
@@ -1774,8 +1774,8 @@
     "rendered": "2026-10-14T16:47:52Z"
    },
    "1.2": {
-    "mtime": "2026-10-14T15:50:57Z",
-    "rendered": "2026-10-14T16:10:22Z"
+    "mtime": "2026-10-14T17:31:13Z",
+    "rendered": "2026-10-14T19:10:30Z"
    },
    "-4.5": {
     "mtime": "2026-10-13T23:26:50Z",
