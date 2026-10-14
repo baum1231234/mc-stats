@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T23:04:53Z",
+ "updated": "2026-10-14T23:06:49Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 5268904,
+ "serverTicks": 5272619,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1445,19 +1445,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-14T23:04:00Z",
-   "playTicks": 40750,
+   "lastSeen": "2026-10-14T23:07:05Z",
+   "playTicks": 44465,
    "deaths": 1,
    "mobKills": 3,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 430,
+   "damageDealt": 478,
    "damageTaken": 601,
-   "distanceCm": 510790,
-   "walkCm": 113003,
-   "flyCm": 111423,
-   "jumps": 578,
-   "mined": 70,
+   "distanceCm": 539532,
+   "walkCm": 129833,
+   "flyCm": 117655,
+   "jumps": 632,
+   "mined": 71,
    "topMined": [
     [
      "coal_ore",
@@ -1472,7 +1472,7 @@
      8
     ]
    ],
-   "crafted": 93,
+   "crafted": 100,
    "topCrafted": [
     [
      "oak_planks",
@@ -1483,8 +1483,8 @@
      2
     ],
     [
-     "bucket",
-     1
+     "iron_chestplate",
+     2
     ]
    ],
    "topKilled": [
@@ -2179,8 +2179,8 @@
     "rendered": "2026-10-14T21:55:21Z"
    },
    "-1.2": {
-    "mtime": "2026-10-14T20:05:33Z",
-    "rendered": "2026-10-14T20:05:08Z"
+    "mtime": "2026-10-14T20:06:15Z",
+    "rendered": "2026-10-14T23:06:49Z"
    },
    "0.3": {
     "mtime": "2026-10-14T14:48:55Z",
