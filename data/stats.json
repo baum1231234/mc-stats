@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T11:58:48Z",
+ "updated": "2026-10-14T12:00:25Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 4470904,
  "players": [
@@ -7,23 +7,23 @@
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T11:53:55Z",
-   "playTicks": 3225480,
+   "lastSeen": "2026-10-14T11:58:56Z",
+   "playTicks": 3231480,
    "deaths": 0,
-   "mobKills": 1660,
+   "mobKills": 1663,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 255797,
-   "damageTaken": 30277,
-   "distanceCm": 42327307,
-   "walkCm": 13284193,
-   "flyCm": 15190896,
-   "jumps": 67721,
-   "mined": 16445,
+   "damageDealt": 256097,
+   "damageTaken": 30283,
+   "distanceCm": 42425103,
+   "walkCm": 13315964,
+   "flyCm": 15213055,
+   "jumps": 67849,
+   "mined": 16500,
    "topMined": [
     [
      "spruce_log",
-     5258
+     5296
     ],
     [
      "grass_block",
@@ -34,7 +34,7 @@
      1431
     ]
    ],
-   "crafted": 71437,
+   "crafted": 71441,
    "topCrafted": [
     [
      "stick",
@@ -42,7 +42,7 @@
     ],
     [
      "spruce_planks",
-     20620
+     20624
     ],
     [
      "spruce_slab",
@@ -225,19 +225,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T11:53:55Z",
-   "playTicks": 1762594,
+   "lastSeen": "2026-10-14T11:58:55Z",
+   "playTicks": 1768594,
    "deaths": 0,
    "mobKills": 844,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 135109,
-   "damageTaken": 26230,
-   "distanceCm": 26837868,
-   "walkCm": 6259622,
-   "flyCm": 11213034,
-   "jumps": 37320,
-   "mined": 16831,
+   "damageTaken": 26232,
+   "distanceCm": 26858769,
+   "walkCm": 6270596,
+   "flyCm": 11219960,
+   "jumps": 37358,
+   "mined": 16872,
    "topMined": [
     [
      "spruce_log",
@@ -249,7 +249,7 @@
     ],
     [
      "snow_block",
-     2136
+     2175
     ]
    ],
    "crafted": 37656,
@@ -430,6 +430,119 @@
    }
   },
   {
+   "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
+   "name": "mcMinemanny",
+   "firstSeen": "2026-10-11T10:41:59Z",
+   "lastSeen": "2026-10-14T11:58:55Z",
+   "playTicks": 1331698,
+   "deaths": 4,
+   "mobKills": 814,
+   "playerKills": 1,
+   "killedByPlayers": 2,
+   "damageDealt": 69866,
+   "damageTaken": 11285,
+   "distanceCm": 11401885,
+   "walkCm": 5884227,
+   "flyCm": 3099255,
+   "jumps": 20191,
+   "mined": 18458,
+   "topMined": [
+    [
+     "spruce_log",
+     3865
+    ],
+    [
+     "stone",
+     3775
+    ],
+    [
+     "deepslate",
+     3057
+    ]
+   ],
+   "crafted": 44189,
+   "topCrafted": [
+    [
+     "stick",
+     21410
+    ],
+    [
+     "spruce_planks",
+     12427
+    ],
+    [
+     "deepslate_bricks",
+     2252
+    ]
+   ],
+   "topKilled": [
+    [
+     "zombie",
+     277
+    ],
+    [
+     "skeleton",
+     244
+    ],
+    [
+     "creeper",
+     170
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "player",
+     2
+    ],
+    [
+     "skeleton",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 19,
+    "byTab": {
+     "story": 9,
+     "husbandry": 4,
+     "adventure": 6
+    },
+    "recent": [
+     [
+      "adventure/avoid_vibration",
+      "2026-10-11T16:04:16Z"
+     ],
+     [
+      "husbandry/plant_seed",
+      "2026-10-11T14:48:23Z"
+     ],
+     [
+      "husbandry/breed_an_animal",
+      "2026-10-11T13:26:06Z"
+     ],
+     [
+      "adventure/trade",
+      "2026-10-11T12:08:56Z"
+     ],
+     [
+      "adventure/sleep_in_bed",
+      "2026-10-11T12:08:13Z"
+     ],
+     [
+      "story/shiny_gear",
+      "2026-10-11T12:01:28Z"
+     ],
+     [
+      "adventure/shoot_arrow",
+      "2026-10-11T11:19:01Z"
+     ],
+     [
+      "story/deflect_arrow",
+      "2026-10-11T11:16:19Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
@@ -534,119 +647,6 @@
      [
       "adventure/avoid_vibration",
       "2026-10-12T08:13:34Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
-   "name": "mcMinemanny",
-   "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-14T11:58:55Z",
-   "playTicks": 1325698,
-   "deaths": 4,
-   "mobKills": 814,
-   "playerKills": 1,
-   "killedByPlayers": 2,
-   "damageDealt": 69866,
-   "damageTaken": 11285,
-   "distanceCm": 11362551,
-   "walkCm": 5852031,
-   "flyCm": 3098114,
-   "jumps": 20181,
-   "mined": 18312,
-   "topMined": [
-    [
-     "spruce_log",
-     3865
-    ],
-    [
-     "stone",
-     3720
-    ],
-    [
-     "deepslate",
-     3057
-    ]
-   ],
-   "crafted": 44189,
-   "topCrafted": [
-    [
-     "stick",
-     21410
-    ],
-    [
-     "spruce_planks",
-     12427
-    ],
-    [
-     "deepslate_bricks",
-     2252
-    ]
-   ],
-   "topKilled": [
-    [
-     "zombie",
-     277
-    ],
-    [
-     "skeleton",
-     244
-    ],
-    [
-     "creeper",
-     170
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "player",
-     2
-    ],
-    [
-     "skeleton",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 19,
-    "byTab": {
-     "story": 9,
-     "husbandry": 4,
-     "adventure": 6
-    },
-    "recent": [
-     [
-      "adventure/avoid_vibration",
-      "2026-10-11T16:04:16Z"
-     ],
-     [
-      "husbandry/plant_seed",
-      "2026-10-11T14:48:23Z"
-     ],
-     [
-      "husbandry/breed_an_animal",
-      "2026-10-11T13:26:06Z"
-     ],
-     [
-      "adventure/trade",
-      "2026-10-11T12:08:56Z"
-     ],
-     [
-      "adventure/sleep_in_bed",
-      "2026-10-11T12:08:13Z"
-     ],
-     [
-      "story/shiny_gear",
-      "2026-10-11T12:01:28Z"
-     ],
-     [
-      "adventure/shoot_arrow",
-      "2026-10-11T11:19:01Z"
-     ],
-     [
-      "story/deflect_arrow",
-      "2026-10-11T11:16:19Z"
      ]
     ]
    }
