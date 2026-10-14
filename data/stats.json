@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T21:21:23Z",
+ "updated": "2026-10-14T21:23:04Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 5142904,
+ "serverTicks": 5146554,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,23 +111,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T21:18:55Z",
-   "playTicks": 2391584,
+   "lastSeen": "2026-10-14T21:21:58Z",
+   "playTicks": 2395234,
    "deaths": 0,
-   "mobKills": 880,
+   "mobKills": 881,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 144089,
-   "damageTaken": 29217,
-   "distanceCm": 31298888,
-   "walkCm": 8117606,
-   "flyCm": 12709470,
-   "jumps": 43957,
-   "mined": 23627,
+   "damageDealt": 144367,
+   "damageTaken": 29295,
+   "distanceCm": 31336716,
+   "walkCm": 8135044,
+   "flyCm": 12723610,
+   "jumps": 44072,
+   "mined": 23649,
    "topMined": [
     [
      "stone",
-     3969
+     3975
     ],
     [
      "spruce_log",
@@ -138,7 +138,7 @@
      2546
     ]
    ],
-   "crafted": 45998,
+   "crafted": 46070,
    "topCrafted": [
     [
      "stick",
@@ -146,7 +146,7 @@
     ],
     [
      "spruce_planks",
-     12103
+     12147
     ],
     [
      "emerald",
@@ -164,7 +164,7 @@
     ],
     [
      "skeleton",
-     154
+     155
     ]
    ],
    "topKilledBy": [],
@@ -655,19 +655,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-14T21:18:55Z",
-   "playTicks": 1321111,
+   "lastSeen": "2026-10-14T21:21:58Z",
+   "playTicks": 1324761,
    "deaths": 2,
    "mobKills": 123,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 22119,
-   "damageTaken": 12151,
-   "distanceCm": 12008654,
-   "walkCm": 4992595,
-   "flyCm": 4027591,
-   "jumps": 20610,
-   "mined": 18762,
+   "damageTaken": 12165,
+   "distanceCm": 12043596,
+   "walkCm": 5010529,
+   "flyCm": 4041257,
+   "jumps": 20696,
+   "mined": 18763,
    "topMined": [
     [
      "stone",
@@ -682,15 +682,15 @@
      771
     ]
    ],
-   "crafted": 12276,
+   "crafted": 12345,
    "topCrafted": [
     [
      "stick",
-     6091
+     6107
     ],
     [
      "spruce_planks",
-     3300
+     3308
     ],
     [
      "emerald",
@@ -1939,8 +1939,8 @@
     "rendered": "2026-10-14T19:56:48Z"
    },
    "-3.2": {
-    "mtime": "2026-10-14T18:22:55Z",
-    "rendered": "2026-10-14T18:22:27Z"
+    "mtime": "2026-10-14T20:05:46Z",
+    "rendered": "2026-10-14T21:23:04Z"
    },
    "-4.3": {
     "mtime": "2026-10-14T18:24:47Z",
@@ -2116,8 +2116,8 @@
     "rendered": "2026-10-14T19:58:39Z"
    },
    "-3.1": {
-    "mtime": "2026-10-14T18:22:55Z",
-    "rendered": "2026-10-14T18:22:27Z"
+    "mtime": "2026-10-14T20:05:40Z",
+    "rendered": "2026-10-14T21:23:04Z"
    },
    "-4.2": {
     "mtime": "2026-10-14T18:24:48Z",
@@ -2306,8 +2306,8 @@
     "empty": true
    },
    "-4.1": {
-    "mtime": "2026-10-14T18:22:26Z",
-    "rendered": "2026-10-14T18:22:27Z"
+    "mtime": "2026-10-14T20:05:21Z",
+    "rendered": "2026-10-14T21:23:04Z"
    },
    "-5.2": {
     "mtime": "2026-10-14T18:26:41Z",
