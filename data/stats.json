@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T15:19:22Z",
+ "updated": "2026-10-14T15:22:40Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 4710904,
+ "serverTicks": 4714013,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -225,8 +225,8 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T15:18:55Z",
-   "playTicks": 2008594,
+   "lastSeen": "2026-10-14T15:21:31Z",
+   "playTicks": 2011703,
    "deaths": 0,
    "mobKills": 849,
    "playerKills": 0,
@@ -329,19 +329,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T15:18:56Z",
-   "playTicks": 1581057,
+   "lastSeen": "2026-10-14T15:21:31Z",
+   "playTicks": 1584166,
    "deaths": 0,
    "mobKills": 954,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 113373,
-   "damageTaken": 5973,
-   "distanceCm": 16864654,
-   "walkCm": 7026154,
-   "flyCm": 6274395,
-   "jumps": 29186,
-   "mined": 17244,
+   "damageTaken": 6162,
+   "distanceCm": 16913656,
+   "walkCm": 7031051,
+   "flyCm": 6283704,
+   "jumps": 29220,
+   "mined": 17262,
    "topMined": [
     [
      "dark_oak_log",
@@ -356,7 +356,7 @@
      1891
     ]
    ],
-   "crafted": 49847,
+   "crafted": 49861,
    "topCrafted": [
     [
      "stick",
@@ -433,16 +433,16 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
-   "lastSeen": "2026-10-14T15:18:55Z",
-   "playTicks": 1498108,
+   "lastSeen": "2026-10-14T15:21:31Z",
+   "playTicks": 1501217,
    "deaths": 1,
    "mobKills": 307,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 47716,
    "damageTaken": 10206,
-   "distanceCm": 11574203,
-   "walkCm": 6234172,
+   "distanceCm": 11574928,
+   "walkCm": 6234897,
    "flyCm": 2545941,
    "jumps": 16018,
    "mined": 12608,
@@ -764,19 +764,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-14T15:18:56Z",
-   "playTicks": 1094496,
+   "lastSeen": "2026-10-14T15:21:31Z",
+   "playTicks": 1097605,
    "deaths": 2,
    "mobKills": 101,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 19437,
    "damageTaken": 11223,
-   "distanceCm": 10321773,
-   "walkCm": 4366073,
-   "flyCm": 3438686,
-   "jumps": 17857,
-   "mined": 17347,
+   "distanceCm": 10327360,
+   "walkCm": 4371345,
+   "flyCm": 3439001,
+   "jumps": 17859,
+   "mined": 17348,
    "topMined": [
     [
      "stone",
@@ -791,7 +791,7 @@
      699
     ]
    ],
-   "crafted": 11599,
+   "crafted": 11621,
    "topCrafted": [
     [
      "stick",
@@ -831,14 +831,18 @@
     ]
    ],
    "adv": {
-    "count": 20,
+    "count": 21,
     "byTab": {
      "story": 11,
      "adventure": 7,
-     "husbandry": 1,
+     "husbandry": 2,
      "nether": 1
     },
     "recent": [
+     [
+      "husbandry/make_a_sign_glow",
+      "2026-10-14T15:19:37Z"
+     ],
      [
       "adventure/shoot_arrow",
       "2026-10-13T22:31:23Z"
@@ -866,10 +870,6 @@
      [
       "adventure/avoid_vibration",
       "2026-10-12T20:54:54Z"
-     ],
-     [
-      "story/deflect_arrow",
-      "2026-10-12T20:48:40Z"
      ]
     ]
    }
@@ -1124,31 +1124,31 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-14T15:18:56Z",
-   "playTicks": 515322,
+   "lastSeen": "2026-10-14T15:21:31Z",
+   "playTicks": 518431,
    "deaths": 2,
    "mobKills": 230,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 31784,
-   "damageTaken": 5008,
-   "distanceCm": 5714229,
-   "walkCm": 2307015,
-   "flyCm": 1669841,
-   "jumps": 8992,
-   "mined": 3957,
+   "damageTaken": 5028,
+   "distanceCm": 5739676,
+   "walkCm": 2318177,
+   "flyCm": 1679494,
+   "jumps": 9032,
+   "mined": 3969,
    "topMined": [
     [
      "grass_block",
-     730
+     731
     ],
     [
      "dirt",
-     518
+     521
     ],
     [
      "stone",
-     342
+     350
     ]
    ],
    "crafted": 2802,
