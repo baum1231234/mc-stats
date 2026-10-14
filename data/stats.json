@@ -1,40 +1,40 @@
 {
- "updated": "2026-10-14T00:36:44Z",
+ "updated": "2026-10-14T00:41:30Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 4084540,
+ "serverTicks": 4090222,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T00:35:16Z",
-   "playTicks": 3162665,
+   "lastSeen": "2026-10-14T00:40:01Z",
+   "playTicks": 3168347,
    "deaths": 0,
    "mobKills": 1644,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 253640,
-   "damageTaken": 29952,
-   "distanceCm": 41615066,
-   "walkCm": 12933695,
-   "flyCm": 14937531,
-   "jumps": 66390,
-   "mined": 16234,
+   "damageTaken": 29954,
+   "distanceCm": 41669368,
+   "walkCm": 12965671,
+   "flyCm": 14955207,
+   "jumps": 66491,
+   "mined": 16349,
    "topMined": [
     [
      "spruce_log",
-     5174
+     5231
+    ],
+    [
+     "grass_block",
+     1437
     ],
     [
      "packed_ice",
      1431
-    ],
-    [
-     "grass_block",
-     1394
     ]
    ],
-   "crafted": 71120,
+   "crafted": 71166,
    "topCrafted": [
     [
      "stick",
@@ -42,11 +42,11 @@
     ],
     [
      "spruce_planks",
-     20448
+     20464
     ],
     [
      "spruce_slab",
-     2114
+     2144
     ]
    ],
    "topKilled": [
@@ -111,23 +111,23 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T00:35:16Z",
-   "playTicks": 2195915,
+   "lastSeen": "2026-10-14T00:40:01Z",
+   "playTicks": 2201597,
    "deaths": 2,
    "mobKills": 916,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 151945,
    "damageTaken": 9523,
-   "distanceCm": 26234480,
-   "walkCm": 11225063,
-   "flyCm": 6559017,
-   "jumps": 25306,
-   "mined": 31605,
+   "distanceCm": 26275671,
+   "walkCm": 11254060,
+   "flyCm": 6570986,
+   "jumps": 25350,
+   "mined": 31612,
    "topMined": [
     [
      "grass_block",
-     10365
+     10371
     ],
     [
      "sand",
@@ -135,7 +135,7 @@
     ],
     [
      "dirt",
-     6433
+     6434
     ]
    ],
    "crafted": 14731,
