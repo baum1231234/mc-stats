@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-14T00:57:00Z",
+ "updated": "2026-10-14T01:00:13Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 4108222,
+ "serverTicks": 4114222,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T00:55:01Z",
-   "playTicks": 3186347,
+   "lastSeen": "2026-10-14T01:00:01Z",
+   "playTicks": 3192347,
    "deaths": 0,
-   "mobKills": 1650,
+   "mobKills": 1652,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 254855,
-   "damageTaken": 30131,
-   "distanceCm": 41909397,
-   "walkCm": 13047901,
-   "flyCm": 15071979,
-   "jumps": 66987,
-   "mined": 16368,
+   "damageDealt": 255227,
+   "damageTaken": 30179,
+   "distanceCm": 41982559,
+   "walkCm": 13080539,
+   "flyCm": 15105040,
+   "jumps": 67154,
+   "mined": 16377,
    "topMined": [
     [
      "spruce_log",
-     5233
+     5239
     ],
     [
      "grass_block",
@@ -34,7 +34,7 @@
      1431
     ]
    ],
-   "crafted": 71292,
+   "crafted": 71310,
    "topCrafted": [
     [
      "stick",
@@ -56,7 +56,7 @@
     ],
     [
      "zombie",
-     331
+     332
     ],
     [
      "slime",
@@ -111,23 +111,23 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T00:55:01Z",
-   "playTicks": 2219597,
+   "lastSeen": "2026-10-14T01:00:01Z",
+   "playTicks": 2225597,
    "deaths": 2,
    "mobKills": 917,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 152145,
    "damageTaken": 9548,
-   "distanceCm": 26461356,
-   "walkCm": 11394554,
-   "flyCm": 6604345,
-   "jumps": 25476,
-   "mined": 31683,
+   "distanceCm": 26511607,
+   "walkCm": 11438249,
+   "flyCm": 6610451,
+   "jumps": 25509,
+   "mined": 31760,
    "topMined": [
     [
      "grass_block",
-     10374
+     10379
     ],
     [
      "sand",
@@ -135,7 +135,7 @@
     ],
     [
      "dirt",
-     6502
+     6574
     ]
    ],
    "crafted": 14731,
