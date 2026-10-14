@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T10:55:56Z",
+ "updated": "2026-10-14T11:00:02Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 4392904,
+ "serverTicks": 4398904,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -225,18 +225,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-13T23:21:00Z",
-   "playTicks": 1694959,
+   "lastSeen": "2026-10-14T10:58:55Z",
+   "playTicks": 1696594,
    "deaths": 0,
    "mobKills": 835,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 129683,
    "damageTaken": 25944,
-   "distanceCm": 26348900,
-   "walkCm": 6005979,
-   "flyCm": 11063979,
-   "jumps": 36473,
+   "distanceCm": 26359161,
+   "walkCm": 6010143,
+   "flyCm": 11065308,
+   "jumps": 36485,
    "mined": 16499,
    "topMined": [
     [
@@ -433,19 +433,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
-   "lastSeen": "2026-10-14T10:53:55Z",
-   "playTicks": 1304385,
+   "lastSeen": "2026-10-14T10:58:55Z",
+   "playTicks": 1310385,
    "deaths": 1,
    "mobKills": 274,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 41390,
-   "damageTaken": 9694,
-   "distanceCm": 9309447,
-   "walkCm": 5388470,
-   "flyCm": 2087622,
-   "jumps": 13924,
-   "mined": 10632,
+   "damageTaken": 9714,
+   "distanceCm": 9354979,
+   "walkCm": 5412171,
+   "flyCm": 2104621,
+   "jumps": 14009,
+   "mined": 10736,
    "topMined": [
     [
      "stone",
@@ -457,7 +457,7 @@
     ],
     [
      "grass_block",
-     618
+     628
     ]
    ],
    "crafted": 5760,
@@ -764,27 +764,27 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-14T10:53:55Z",
-   "playTicks": 956907,
+   "lastSeen": "2026-10-14T10:58:55Z",
+   "playTicks": 962907,
    "deaths": 2,
    "mobKills": 97,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 18440,
    "damageTaken": 10889,
-   "distanceCm": 9445173,
-   "walkCm": 3869217,
-   "flyCm": 3200779,
-   "jumps": 16266,
-   "mined": 16494,
+   "distanceCm": 9482658,
+   "walkCm": 3899206,
+   "flyCm": 3206500,
+   "jumps": 16326,
+   "mined": 16606,
    "topMined": [
     [
      "stone",
-     12868
+     12930
     ],
     [
      "spruce_log",
-     976
+     980
     ],
     [
      "snow_block",
