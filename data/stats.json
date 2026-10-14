@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T19:33:02Z",
+ "updated": "2026-10-14T19:34:41Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 5010904,
+ "serverTicks": 5016904,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -103,6 +103,110 @@
      [
       "story/upgrade_tools",
       "2026-10-11T12:02:25Z"
+     ]
+    ]
+   }
+  },
+  {
+   "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
+   "name": "Ahxibrause",
+   "firstSeen": null,
+   "lastSeen": "2026-10-14T19:33:55Z",
+   "playTicks": 2265584,
+   "deaths": 0,
+   "mobKills": 865,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 141093,
+   "damageTaken": 28565,
+   "distanceCm": 30487788,
+   "walkCm": 7701094,
+   "flyCm": 12460470,
+   "jumps": 42739,
+   "mined": 22280,
+   "topMined": [
+    [
+     "stone",
+     3549
+    ],
+    [
+     "spruce_log",
+     3435
+    ],
+    [
+     "spruce_leaves",
+     2546
+    ]
+   ],
+   "crafted": 41993,
+   "topCrafted": [
+    [
+     "stick",
+     20318
+    ],
+    [
+     "spruce_planks",
+     11519
+    ],
+    [
+     "emerald",
+     2358
+    ]
+   ],
+   "topKilled": [
+    [
+     "pillager",
+     198
+    ],
+    [
+     "zombie",
+     173
+    ],
+    [
+     "skeleton",
+     150
+    ]
+   ],
+   "topKilledBy": [],
+   "adv": {
+    "count": 26,
+    "byTab": {
+     "story": 11,
+     "adventure": 11,
+     "husbandry": 4
+    },
+    "recent": [
+     [
+      "adventure/avoid_vibration",
+      "2026-10-13T22:09:28Z"
+     ],
+     [
+      "story/lava_bucket",
+      "2026-10-13T18:51:21Z"
+     ],
+     [
+      "husbandry/plant_seed",
+      "2026-10-12T10:39:24Z"
+     ],
+     [
+      "husbandry/breed_an_animal",
+      "2026-10-11T22:17:06Z"
+     ],
+     [
+      "adventure/overoverkill",
+      "2026-10-11T19:10:53Z"
+     ],
+     [
+      "adventure/ol_betsy",
+      "2026-10-11T18:49:15Z"
+     ],
+     [
+      "adventure/shoot_arrow",
+      "2026-10-11T18:49:15Z"
+     ],
+     [
+      "adventure/totem_of_undying",
+      "2026-10-11T18:40:35Z"
      ]
     ]
    }
@@ -222,125 +326,21 @@
    }
   },
   {
-   "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
-   "name": "Ahxibrause",
-   "firstSeen": null,
-   "lastSeen": "2026-10-14T19:28:55Z",
-   "playTicks": 2259584,
-   "deaths": 0,
-   "mobKills": 865,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 141093,
-   "damageTaken": 28565,
-   "distanceCm": 30487788,
-   "walkCm": 7701094,
-   "flyCm": 12460470,
-   "jumps": 42739,
-   "mined": 22280,
-   "topMined": [
-    [
-     "stone",
-     3549
-    ],
-    [
-     "spruce_log",
-     3435
-    ],
-    [
-     "spruce_leaves",
-     2546
-    ]
-   ],
-   "crafted": 41993,
-   "topCrafted": [
-    [
-     "stick",
-     20318
-    ],
-    [
-     "spruce_planks",
-     11519
-    ],
-    [
-     "emerald",
-     2358
-    ]
-   ],
-   "topKilled": [
-    [
-     "pillager",
-     198
-    ],
-    [
-     "zombie",
-     173
-    ],
-    [
-     "skeleton",
-     150
-    ]
-   ],
-   "topKilledBy": [],
-   "adv": {
-    "count": 26,
-    "byTab": {
-     "story": 11,
-     "adventure": 11,
-     "husbandry": 4
-    },
-    "recent": [
-     [
-      "adventure/avoid_vibration",
-      "2026-10-13T22:09:28Z"
-     ],
-     [
-      "story/lava_bucket",
-      "2026-10-13T18:51:21Z"
-     ],
-     [
-      "husbandry/plant_seed",
-      "2026-10-12T10:39:24Z"
-     ],
-     [
-      "husbandry/breed_an_animal",
-      "2026-10-11T22:17:06Z"
-     ],
-     [
-      "adventure/overoverkill",
-      "2026-10-11T19:10:53Z"
-     ],
-     [
-      "adventure/ol_betsy",
-      "2026-10-11T18:49:15Z"
-     ],
-     [
-      "adventure/shoot_arrow",
-      "2026-10-11T18:49:15Z"
-     ],
-     [
-      "adventure/totem_of_undying",
-      "2026-10-11T18:40:35Z"
-     ]
-    ]
-   }
-  },
-  {
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T19:28:55Z",
-   "playTicks": 1881057,
+   "lastSeen": "2026-10-14T19:33:55Z",
+   "playTicks": 1887057,
    "deaths": 0,
-   "mobKills": 1349,
+   "mobKills": 1353,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 148368,
-   "damageTaken": 7490,
-   "distanceCm": 20811296,
-   "walkCm": 7772889,
+   "damageDealt": 149476,
+   "damageTaken": 7514,
+   "distanceCm": 20957300,
+   "walkCm": 7773003,
    "flyCm": 7276969,
-   "jumps": 34297,
+   "jumps": 34299,
    "mined": 18928,
    "topMined": [
     [
@@ -1814,8 +1814,8 @@
     "rendered": "2026-10-14T01:12:55Z"
    },
    "-9.1": {
-    "mtime": "2026-10-14T14:48:33Z",
-    "rendered": "2026-10-14T16:33:30Z"
+    "mtime": "2026-10-14T19:07:01Z",
+    "rendered": "2026-10-14T19:34:41Z"
    },
    "-10.2": {
     "mtime": "2026-10-14T14:47:58Z",
@@ -2477,6 +2477,10 @@
     "rendered": "2026-10-14T19:33:02Z",
     "empty": true
    },
+   "-16.0": {
+    "mtime": "2026-10-14T19:34:54Z",
+    "rendered": "2026-10-14T19:34:41Z"
+   },
    "-5.1": {
     "mtime": "2026-10-14T18:26:32Z",
     "rendered": "2026-10-14T18:26:19Z"
@@ -2619,6 +2623,10 @@
     "mtime": "2026-10-14T18:49:20Z",
     "rendered": "2026-10-14T18:54:17Z",
     "empty": true
+   },
+   "-16.-1": {
+    "mtime": "2026-10-14T19:34:54Z",
+    "rendered": "2026-10-14T19:34:41Z"
    },
    "1.8": {
     "mtime": "2026-10-14T16:47:49Z",
