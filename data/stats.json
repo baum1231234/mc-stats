@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T13:49:15Z",
+ "updated": "2026-10-14T13:51:11Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 4602904,
+ "serverTicks": 4605766,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -546,27 +546,27 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
-   "lastSeen": "2026-10-14T13:48:56Z",
-   "playTicks": 1390108,
+   "lastSeen": "2026-10-14T13:51:19Z",
+   "playTicks": 1392970,
    "deaths": 1,
    "mobKills": 284,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 43292,
    "damageTaken": 10023,
-   "distanceCm": 10330394,
-   "walkCm": 5660187,
-   "flyCm": 2258106,
-   "jumps": 14795,
-   "mined": 11257,
+   "distanceCm": 10341317,
+   "walkCm": 5670593,
+   "flyCm": 2258623,
+   "jumps": 14799,
+   "mined": 11380,
    "topMined": [
     [
      "stone",
-     4242
+     4316
     ],
     [
      "dirt",
-     805
+     815
     ],
     [
      "grass_block",
@@ -878,18 +878,18 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-14T13:48:56Z",
-   "playTicks": 945111,
+   "lastSeen": "2026-10-14T13:51:19Z",
+   "playTicks": 947973,
    "deaths": 26,
    "mobKills": 215,
    "playerKills": 0,
    "killedByPlayers": 3,
    "damageDealt": 17974,
-   "damageTaken": 13572,
-   "distanceCm": 8875888,
-   "walkCm": 4658546,
-   "flyCm": 2276339,
-   "jumps": 13447,
+   "damageTaken": 13589,
+   "distanceCm": 8913070,
+   "walkCm": 4671146,
+   "flyCm": 2290481,
+   "jumps": 13507,
    "mined": 8263,
    "topMined": [
     [
