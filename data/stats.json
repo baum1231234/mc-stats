@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T21:01:39Z",
+ "updated": "2026-10-14T21:04:53Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 5118904,
+ "serverTicks": 5124904,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,23 +111,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T20:58:55Z",
-   "playTicks": 2367584,
+   "lastSeen": "2026-10-14T21:03:55Z",
+   "playTicks": 2373584,
    "deaths": 0,
-   "mobKills": 872,
+   "mobKills": 876,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 142347,
-   "damageTaken": 28949,
-   "distanceCm": 31093303,
-   "walkCm": 8024245,
-   "flyCm": 12632944,
-   "jumps": 43610,
-   "mined": 22932,
+   "damageDealt": 143286,
+   "damageTaken": 29116,
+   "distanceCm": 31166030,
+   "walkCm": 8044253,
+   "flyCm": 12668709,
+   "jumps": 43716,
+   "mined": 23135,
    "topMined": [
     [
      "stone",
-     3947
+     3958
     ],
     [
      "spruce_log",
@@ -160,11 +160,11 @@
     ],
     [
      "zombie",
-     179
+     181
     ],
     [
      "skeleton",
-     150
+     152
     ]
    ],
    "topKilledBy": [],
@@ -329,19 +329,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T20:58:55Z",
-   "playTicks": 1984970,
+   "lastSeen": "2026-10-14T21:04:38Z",
+   "playTicks": 1991826,
    "deaths": 0,
-   "mobKills": 1514,
+   "mobKills": 1521,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 176738,
-   "damageTaken": 11667,
-   "distanceCm": 24271710,
-   "walkCm": 7909759,
-   "flyCm": 8773846,
-   "jumps": 34880,
-   "mined": 19047,
+   "damageDealt": 176849,
+   "damageTaken": 11806,
+   "distanceCm": 24387800,
+   "walkCm": 7927042,
+   "flyCm": 8812893,
+   "jumps": 34954,
+   "mined": 19053,
    "topMined": [
     [
      "dark_oak_log",
@@ -356,7 +356,7 @@
      2060
     ]
    ],
-   "crafted": 59315,
+   "crafted": 59443,
    "topCrafted": [
     [
      "stick",
@@ -655,19 +655,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-14T20:58:55Z",
-   "playTicks": 1297111,
+   "lastSeen": "2026-10-14T21:03:55Z",
+   "playTicks": 1303111,
    "deaths": 2,
-   "mobKills": 121,
+   "mobKills": 122,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 21997,
-   "damageTaken": 11887,
-   "distanceCm": 11526721,
-   "walkCm": 4917425,
-   "flyCm": 3816588,
-   "jumps": 20169,
-   "mined": 18444,
+   "damageDealt": 22077,
+   "damageTaken": 12052,
+   "distanceCm": 11731339,
+   "walkCm": 4941980,
+   "flyCm": 3932404,
+   "jumps": 20306,
+   "mined": 18561,
    "topMined": [
     [
      "stone",
@@ -703,11 +703,11 @@
      27
     ],
     [
-     "skeleton",
-     20
+     "sheep",
+     21
     ],
     [
-     "sheep",
+     "skeleton",
      20
     ]
    ],
