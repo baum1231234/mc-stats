@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T12:08:30Z",
+ "updated": "2026-10-14T12:10:07Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 4479678,
+ "serverTicks": 4482904,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -225,8 +225,8 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T12:06:14Z",
-   "playTicks": 1777368,
+   "lastSeen": "2026-10-14T12:08:55Z",
+   "playTicks": 1780594,
    "deaths": 0,
    "mobKills": 844,
    "playerKills": 0,
@@ -433,23 +433,23 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-14T12:06:14Z",
-   "playTicks": 1340472,
+   "lastSeen": "2026-10-14T12:08:55Z",
+   "playTicks": 1343698,
    "deaths": 4,
    "mobKills": 816,
    "playerKills": 1,
    "killedByPlayers": 2,
    "damageDealt": 70350,
-   "damageTaken": 11323,
-   "distanceCm": 11449899,
-   "walkCm": 5927290,
+   "damageTaken": 11327,
+   "distanceCm": 11452398,
+   "walkCm": 5929789,
    "flyCm": 3100674,
-   "jumps": 20220,
-   "mined": 18648,
+   "jumps": 20282,
+   "mined": 18775,
    "topMined": [
     [
      "stone",
-     3874
+     3984
     ],
     [
      "spruce_log",
