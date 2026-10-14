@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T11:00:02Z",
+ "updated": "2026-10-14T11:03:54Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 4398904,
+ "serverTicks": 4404904,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -225,7 +225,7 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T10:58:55Z",
+   "lastSeen": "2026-10-14T11:03:55Z",
    "playTicks": 1696594,
    "deaths": 0,
    "mobKills": 835,
@@ -433,19 +433,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
-   "lastSeen": "2026-10-14T10:58:55Z",
-   "playTicks": 1310385,
+   "lastSeen": "2026-10-14T11:03:55Z",
+   "playTicks": 1316385,
    "deaths": 1,
    "mobKills": 274,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 41390,
-   "damageTaken": 9714,
-   "distanceCm": 9354979,
-   "walkCm": 5412171,
-   "flyCm": 2104621,
-   "jumps": 14009,
-   "mined": 10736,
+   "damageTaken": 9754,
+   "distanceCm": 9390580,
+   "walkCm": 5428143,
+   "flyCm": 2115568,
+   "jumps": 14054,
+   "mined": 10781,
    "topMined": [
     [
      "stone",
@@ -453,26 +453,26 @@
     ],
     [
      "dirt",
-     767
+     778
     ],
     [
      "grass_block",
      628
     ]
    ],
-   "crafted": 5760,
+   "crafted": 6385,
    "topCrafted": [
     [
      "stone",
      761
     ],
     [
-     "spruce_planks",
-     588
+     "stick",
+     752
     ],
     [
-     "bone_meal",
-     447
+     "spruce_planks",
+     588
     ]
    ],
    "topKilled": [
@@ -496,13 +496,17 @@
     ]
    ],
    "adv": {
-    "count": 17,
+    "count": 18,
     "byTab": {
-     "adventure": 4,
+     "adventure": 5,
      "story": 9,
      "husbandry": 4
     },
     "recent": [
+     [
+      "adventure/trade",
+      "2026-10-14T11:01:21Z"
+     ],
      [
       "story/form_obsidian",
       "2026-10-14T10:45:59Z"
@@ -530,10 +534,6 @@
      [
       "adventure/avoid_vibration",
       "2026-10-12T08:13:34Z"
-     ],
-     [
-      "story/mine_diamond",
-      "2026-10-12T07:59:25Z"
      ]
     ]
    }
@@ -542,8 +542,8 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-13T19:38:41Z",
-   "playTicks": 1274436,
+   "lastSeen": "2026-10-14T11:03:56Z",
+   "playTicks": 1274439,
    "deaths": 4,
    "mobKills": 807,
    "playerKills": 1,
@@ -764,23 +764,23 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-14T10:58:55Z",
-   "playTicks": 962907,
+   "lastSeen": "2026-10-14T11:03:55Z",
+   "playTicks": 968907,
    "deaths": 2,
    "mobKills": 97,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 18440,
-   "damageTaken": 10889,
-   "distanceCm": 9482658,
-   "walkCm": 3899206,
-   "flyCm": 3206500,
-   "jumps": 16326,
-   "mined": 16606,
+   "damageTaken": 10899,
+   "distanceCm": 9534074,
+   "walkCm": 3944111,
+   "flyCm": 3212061,
+   "jumps": 16384,
+   "mined": 16767,
    "topMined": [
     [
      "stone",
-     12930
+     13060
     ],
     [
      "spruce_log",
@@ -788,10 +788,10 @@
     ],
     [
      "snow_block",
-     692
+     696
     ]
    ],
-   "crafted": 11042,
+   "crafted": 11082,
    "topCrafted": [
     [
      "stick",
@@ -878,19 +878,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-13T18:22:40Z",
-   "playTicks": 820336,
+   "lastSeen": "2026-10-14T11:03:56Z",
+   "playTicks": 822045,
    "deaths": 22,
    "mobKills": 166,
    "playerKills": 0,
    "killedByPlayers": 3,
    "damageDealt": 14496,
    "damageTaken": 11565,
-   "distanceCm": 7350158,
-   "walkCm": 4074807,
-   "flyCm": 1858735,
-   "jumps": 11022,
-   "mined": 8122,
+   "distanceCm": 7358680,
+   "walkCm": 4079825,
+   "flyCm": 1861564,
+   "jumps": 11038,
+   "mined": 8124,
    "topMined": [
     [
      "stone",
@@ -902,7 +902,7 @@
     ],
     [
      "spruce_log",
-     941
+     943
     ]
    ],
    "crafted": 9218,
