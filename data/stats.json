@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-14T10:29:06Z",
+ "updated": "2026-10-14T10:34:31Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 4362904,
+ "serverTicks": 4368904,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -430,6 +430,115 @@
    }
   },
   {
+   "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
+   "name": "imoptimalfall187",
+   "firstSeen": "2026-10-13T19:10:19Z",
+   "lastSeen": "2026-10-14T10:33:55Z",
+   "playTicks": 1280385,
+   "deaths": 1,
+   "mobKills": 274,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 41390,
+   "damageTaken": 9609,
+   "distanceCm": 9049605,
+   "walkCm": 5276636,
+   "flyCm": 2020647,
+   "jumps": 13608,
+   "mined": 10613,
+   "topMined": [
+    [
+     "stone",
+     4122
+    ],
+    [
+     "dirt",
+     767
+    ],
+    [
+     "grass_block",
+     618
+    ]
+   ],
+   "crafted": 5684,
+   "topCrafted": [
+    [
+     "stone",
+     761
+    ],
+    [
+     "spruce_planks",
+     588
+    ],
+    [
+     "dark_oak_planks",
+     396
+    ]
+   ],
+   "topKilled": [
+    [
+     "skeleton",
+     66
+    ],
+    [
+     "zombie",
+     52
+    ],
+    [
+     "sheep",
+     29
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "zombie",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 16,
+    "byTab": {
+     "adventure": 4,
+     "story": 8,
+     "husbandry": 4
+    },
+    "recent": [
+     [
+      "husbandry/tame_an_animal",
+      "2026-10-14T07:49:06Z"
+     ],
+     [
+      "story/shiny_gear",
+      "2026-10-13T12:34:11Z"
+     ],
+     [
+      "husbandry/breed_an_animal",
+      "2026-10-12T16:32:02Z"
+     ],
+     [
+      "husbandry/plant_seed",
+      "2026-10-12T16:12:58Z"
+     ],
+     [
+      "adventure/sleep_in_bed",
+      "2026-10-12T08:53:28Z"
+     ],
+     [
+      "adventure/avoid_vibration",
+      "2026-10-12T08:13:34Z"
+     ],
+     [
+      "story/mine_diamond",
+      "2026-10-12T07:59:25Z"
+     ],
+     [
+      "adventure/kill_a_mob",
+      "2026-10-12T07:55:58Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
@@ -538,115 +647,6 @@
      [
       "story/deflect_arrow",
       "2026-10-11T11:16:19Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
-   "name": "imoptimalfall187",
-   "firstSeen": "2026-10-13T19:10:19Z",
-   "lastSeen": "2026-10-14T10:28:55Z",
-   "playTicks": 1274385,
-   "deaths": 1,
-   "mobKills": 274,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 41390,
-   "damageTaken": 9609,
-   "distanceCm": 9004551,
-   "walkCm": 5257711,
-   "flyCm": 1996763,
-   "jumps": 13442,
-   "mined": 10557,
-   "topMined": [
-    [
-     "stone",
-     4079
-    ],
-    [
-     "dirt",
-     764
-    ],
-    [
-     "grass_block",
-     617
-    ]
-   ],
-   "crafted": 5678,
-   "topCrafted": [
-    [
-     "stone",
-     761
-    ],
-    [
-     "spruce_planks",
-     588
-    ],
-    [
-     "dark_oak_planks",
-     396
-    ]
-   ],
-   "topKilled": [
-    [
-     "skeleton",
-     66
-    ],
-    [
-     "zombie",
-     52
-    ],
-    [
-     "sheep",
-     29
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "zombie",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 16,
-    "byTab": {
-     "adventure": 4,
-     "story": 8,
-     "husbandry": 4
-    },
-    "recent": [
-     [
-      "husbandry/tame_an_animal",
-      "2026-10-14T07:49:06Z"
-     ],
-     [
-      "story/shiny_gear",
-      "2026-10-13T12:34:11Z"
-     ],
-     [
-      "husbandry/breed_an_animal",
-      "2026-10-12T16:32:02Z"
-     ],
-     [
-      "husbandry/plant_seed",
-      "2026-10-12T16:12:58Z"
-     ],
-     [
-      "adventure/sleep_in_bed",
-      "2026-10-12T08:53:28Z"
-     ],
-     [
-      "adventure/avoid_vibration",
-      "2026-10-12T08:13:34Z"
-     ],
-     [
-      "story/mine_diamond",
-      "2026-10-12T07:59:25Z"
-     ],
-     [
-      "adventure/kill_a_mob",
-      "2026-10-12T07:55:58Z"
      ]
     ]
    }
