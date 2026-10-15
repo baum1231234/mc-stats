@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-15T17:21:13Z",
+ "updated": "2026-10-15T17:24:17Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 6059084,
+ "serverTicks": 6065084,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T17:19:41Z",
-   "playTicks": 3938041,
+   "lastSeen": "2026-10-15T17:23:26Z",
+   "playTicks": 3942537,
    "deaths": 0,
    "mobKills": 2230,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 325135,
-   "damageTaken": 36699,
-   "distanceCm": 54167900,
-   "walkCm": 16067713,
-   "flyCm": 18759373,
-   "jumps": 81909,
+   "damageTaken": 36839,
+   "distanceCm": 54275078,
+   "walkCm": 16092559,
+   "flyCm": 18810774,
+   "jumps": 82105,
    "mined": 20948,
    "topMined": [
     [
@@ -225,18 +225,18 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T17:19:41Z",
-   "playTicks": 2624535,
+   "lastSeen": "2026-10-15T17:23:26Z",
+   "playTicks": 2629031,
    "deaths": 2,
-   "mobKills": 2409,
+   "mobKills": 2429,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 237888,
+   "damageDealt": 238988,
    "damageTaken": 15558,
-   "distanceCm": 29706603,
-   "walkCm": 9760011,
-   "flyCm": 10605209,
-   "jumps": 42185,
+   "distanceCm": 29717983,
+   "walkCm": 9770516,
+   "flyCm": 10606084,
+   "jumps": 42203,
    "mined": 24214,
    "topMined": [
     [
@@ -270,7 +270,7 @@
    "topKilled": [
     [
      "skeleton",
-     1459
+     1479
     ],
     [
      "drowned",
@@ -774,19 +774,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-15T17:19:41Z",
-   "playTicks": 1425743,
+   "lastSeen": "2026-10-15T17:23:26Z",
+   "playTicks": 1430239,
    "deaths": 2,
    "mobKills": 1820,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 179954,
    "damageTaken": 13412,
-   "distanceCm": 14779029,
-   "walkCm": 6212464,
-   "flyCm": 3314933,
-   "jumps": 20067,
-   "mined": 12080,
+   "distanceCm": 14806697,
+   "walkCm": 6228890,
+   "flyCm": 3320631,
+   "jumps": 20104,
+   "mined": 12082,
    "topMined": [
     [
      "spruce_log",
@@ -798,10 +798,10 @@
     ],
     [
      "stone",
-     576
+     577
     ]
    ],
-   "crafted": 105459,
+   "crafted": 105469,
    "topCrafted": [
     [
      "stick",
@@ -1008,19 +1008,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-15T17:19:41Z",
-   "playTicks": 1005565,
+   "lastSeen": "2026-10-15T17:23:26Z",
+   "playTicks": 1010061,
    "deaths": 2,
-   "mobKills": 310,
+   "mobKills": 313,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 45018,
-   "damageTaken": 6877,
-   "distanceCm": 8715695,
-   "walkCm": 4086855,
-   "flyCm": 2593761,
-   "jumps": 14031,
-   "mined": 6779,
+   "damageDealt": 45198,
+   "damageTaken": 6897,
+   "distanceCm": 8762302,
+   "walkCm": 4116172,
+   "flyCm": 2608439,
+   "jumps": 14170,
+   "mined": 6807,
    "topMined": [
     [
      "grass_block",
@@ -1032,7 +1032,7 @@
     ],
     [
      "stone",
-     702
+     703
     ]
    ],
    "crafted": 6130,
@@ -1053,7 +1053,7 @@
    "topKilled": [
     [
      "zombie",
-     59
+     61
     ],
     [
      "cow",
@@ -1121,18 +1121,18 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-15T17:19:41Z",
-   "playTicks": 843189,
+   "lastSeen": "2026-10-15T17:23:26Z",
+   "playTicks": 847685,
    "deaths": 8,
    "mobKills": 97,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 10594,
    "damageTaken": 4947,
-   "distanceCm": 5680986,
-   "walkCm": 5001806,
-   "flyCm": 381739,
-   "jumps": 4812,
+   "distanceCm": 5692900,
+   "walkCm": 5011439,
+   "flyCm": 384020,
+   "jumps": 4818,
    "mined": 12243,
    "topMined": [
     [
