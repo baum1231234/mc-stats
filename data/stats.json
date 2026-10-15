@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T08:35:07Z",
+ "updated": "2026-10-15T08:38:24Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 5452332,
+ "serverTicks": 5456203,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -544,6 +544,119 @@
    }
   },
   {
+   "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
+   "name": "mcMinemanny",
+   "firstSeen": "2026-10-11T10:41:59Z",
+   "lastSeen": "2026-10-15T08:37:40Z",
+   "playTicks": 1509808,
+   "deaths": 4,
+   "mobKills": 974,
+   "playerKills": 1,
+   "killedByPlayers": 2,
+   "damageDealt": 77540,
+   "damageTaken": 12429,
+   "distanceCm": 12852355,
+   "walkCm": 6813948,
+   "flyCm": 3427708,
+   "jumps": 22222,
+   "mined": 23221,
+   "topMined": [
+    [
+     "stone",
+     5203
+    ],
+    [
+     "deepslate",
+     4267
+    ],
+    [
+     "spruce_log",
+     3871
+    ]
+   ],
+   "crafted": 44393,
+   "topCrafted": [
+    [
+     "stick",
+     21462
+    ],
+    [
+     "spruce_planks",
+     12439
+    ],
+    [
+     "deepslate_bricks",
+     2252
+    ]
+   ],
+   "topKilled": [
+    [
+     "zombie",
+     317
+    ],
+    [
+     "skeleton",
+     308
+    ],
+    [
+     "creeper",
+     214
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "player",
+     2
+    ],
+    [
+     "skeleton",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 19,
+    "byTab": {
+     "story": 9,
+     "husbandry": 4,
+     "adventure": 6
+    },
+    "recent": [
+     [
+      "adventure/avoid_vibration",
+      "2026-10-11T16:04:16Z"
+     ],
+     [
+      "husbandry/plant_seed",
+      "2026-10-11T14:48:23Z"
+     ],
+     [
+      "husbandry/breed_an_animal",
+      "2026-10-11T13:26:06Z"
+     ],
+     [
+      "adventure/trade",
+      "2026-10-11T12:08:56Z"
+     ],
+     [
+      "adventure/sleep_in_bed",
+      "2026-10-11T12:08:13Z"
+     ],
+     [
+      "story/shiny_gear",
+      "2026-10-11T12:01:28Z"
+     ],
+     [
+      "adventure/shoot_arrow",
+      "2026-10-11T11:19:01Z"
+     ],
+     [
+      "story/deflect_arrow",
+      "2026-10-11T11:16:19Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
@@ -653,119 +766,6 @@
      [
       "adventure/avoid_vibration",
       "2026-10-12T20:54:54Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
-   "name": "mcMinemanny",
-   "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-15T08:34:27Z",
-   "playTicks": 1505937,
-   "deaths": 4,
-   "mobKills": 974,
-   "playerKills": 1,
-   "killedByPlayers": 2,
-   "damageDealt": 77540,
-   "damageTaken": 12425,
-   "distanceCm": 12837635,
-   "walkCm": 6799814,
-   "flyCm": 3427522,
-   "jumps": 22198,
-   "mined": 22932,
-   "topMined": [
-    [
-     "stone",
-     5203
-    ],
-    [
-     "deepslate",
-     3979
-    ],
-    [
-     "spruce_log",
-     3871
-    ]
-   ],
-   "crafted": 44393,
-   "topCrafted": [
-    [
-     "stick",
-     21462
-    ],
-    [
-     "spruce_planks",
-     12439
-    ],
-    [
-     "deepslate_bricks",
-     2252
-    ]
-   ],
-   "topKilled": [
-    [
-     "zombie",
-     317
-    ],
-    [
-     "skeleton",
-     308
-    ],
-    [
-     "creeper",
-     214
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "player",
-     2
-    ],
-    [
-     "skeleton",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 19,
-    "byTab": {
-     "story": 9,
-     "husbandry": 4,
-     "adventure": 6
-    },
-    "recent": [
-     [
-      "adventure/avoid_vibration",
-      "2026-10-11T16:04:16Z"
-     ],
-     [
-      "husbandry/plant_seed",
-      "2026-10-11T14:48:23Z"
-     ],
-     [
-      "husbandry/breed_an_animal",
-      "2026-10-11T13:26:06Z"
-     ],
-     [
-      "adventure/trade",
-      "2026-10-11T12:08:56Z"
-     ],
-     [
-      "adventure/sleep_in_bed",
-      "2026-10-11T12:08:13Z"
-     ],
-     [
-      "story/shiny_gear",
-      "2026-10-11T12:01:28Z"
-     ],
-     [
-      "adventure/shoot_arrow",
-      "2026-10-11T11:19:01Z"
-     ],
-     [
-      "story/deflect_arrow",
-      "2026-10-11T11:16:19Z"
      ]
     ]
    }
