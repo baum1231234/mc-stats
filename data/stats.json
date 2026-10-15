@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T22:18:43Z",
+ "updated": "2026-10-15T22:20:32Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 6400243,
  "players": [
@@ -438,23 +438,23 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-15T22:16:32Z",
-   "playTicks": 1890765,
+   "lastSeen": "2026-10-15T22:19:20Z",
+   "playTicks": 1894113,
    "deaths": 2,
    "mobKills": 195,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 30473,
    "damageTaken": 13831,
-   "distanceCm": 16483946,
-   "walkCm": 7038800,
-   "flyCm": 5471643,
-   "jumps": 27953,
-   "mined": 30901,
+   "distanceCm": 16504632,
+   "walkCm": 7055807,
+   "flyCm": 5475322,
+   "jumps": 27966,
+   "mined": 31137,
    "topMined": [
     [
      "stone",
-     23504
+     23714
     ],
     [
      "snow_block",
@@ -2047,8 +2047,8 @@
     "rendered": "2026-10-15T21:20:13Z"
    },
    "-13.1": {
-    "mtime": "2026-10-15T19:19:34Z",
-    "rendered": "2026-10-15T19:19:58Z"
+    "mtime": "2026-10-15T22:18:00Z",
+    "rendered": "2026-10-15T22:20:32Z"
    },
    "-3.3": {
     "mtime": "2026-10-15T21:39:33Z",
@@ -2075,8 +2075,8 @@
     "rendered": "2026-10-15T21:22:02Z"
    },
    "-11.3": {
-    "mtime": "2026-10-15T19:20:00Z",
-    "rendered": "2026-10-15T19:19:58Z"
+    "mtime": "2026-10-15T21:32:01Z",
+    "rendered": "2026-10-15T22:20:32Z"
    },
    "-10.0": {
     "mtime": "2026-10-15T21:22:27Z",
@@ -2139,8 +2139,8 @@
     "rendered": "2026-10-15T19:27:11Z"
    },
    "-1.-3": {
-    "mtime": "2026-10-15T19:00:19Z",
-    "rendered": "2026-10-15T19:19:58Z"
+    "mtime": "2026-10-15T22:06:40Z",
+    "rendered": "2026-10-15T22:20:32Z"
    },
    "3.2": {
     "mtime": "2026-10-15T16:13:04Z",
@@ -2211,9 +2211,8 @@
     "rendered": "2026-10-15T21:03:49Z"
    },
    "-12.3": {
-    "mtime": "2026-10-15T19:20:00Z",
-    "rendered": "2026-10-15T19:19:58Z",
-    "empty": true
+    "mtime": "2026-10-15T21:32:01Z",
+    "rendered": "2026-10-15T22:20:32Z"
    },
    "-13.2": {
     "mtime": "2026-10-15T19:21:54Z",
