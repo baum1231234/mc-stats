@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T00:37:29Z",
+ "updated": "2026-10-15T00:39:09Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 5380719,
+ "serverTicks": 5382904,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -215,18 +215,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T00:37:10Z",
-   "playTicks": 2424423,
+   "lastSeen": "2026-10-15T00:38:59Z",
+   "playTicks": 2426608,
    "deaths": 2,
-   "mobKills": 965,
+   "mobKills": 968,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 159437,
-   "damageTaken": 9744,
-   "distanceCm": 28219585,
-   "walkCm": 12544550,
-   "flyCm": 7105507,
-   "jumps": 27149,
+   "damageDealt": 160022,
+   "damageTaken": 9901,
+   "distanceCm": 28332164,
+   "walkCm": 12560459,
+   "flyCm": 7185474,
+   "jumps": 27204,
    "mined": 35581,
    "topMined": [
     [
@@ -260,11 +260,11 @@
    "topKilled": [
     [
      "zombie",
-     240
+     241
     ],
     [
      "skeleton",
-     223
+     224
     ],
     [
      "slime",
@@ -1008,8 +1008,8 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-15T00:37:10Z",
-   "playTicks": 868040,
+   "lastSeen": "2026-10-15T00:38:59Z",
+   "playTicks": 870225,
    "deaths": 2,
    "mobKills": 266,
    "playerKills": 0,
