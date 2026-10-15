@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-15T15:26:05Z",
+ "updated": "2026-10-15T15:30:17Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 5921084,
+ "serverTicks": 5927084,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T15:24:41Z",
-   "playTicks": 3816958,
+   "lastSeen": "2026-10-15T15:29:41Z",
+   "playTicks": 3822958,
    "deaths": 0,
-   "mobKills": 2128,
+   "mobKills": 2143,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 312077,
-   "damageTaken": 35596,
-   "distanceCm": 50702739,
-   "walkCm": 15675868,
-   "flyCm": 17847652,
-   "jumps": 79436,
+   "damageDealt": 313342,
+   "damageTaken": 35680,
+   "distanceCm": 51142066,
+   "walkCm": 15678474,
+   "flyCm": 17867814,
+   "jumps": 79467,
    "mined": 20349,
    "topMined": [
     [
@@ -222,6 +222,115 @@
    }
   },
   {
+   "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
+   "name": "Eingepacktt",
+   "firstSeen": null,
+   "lastSeen": "2026-10-15T15:29:41Z",
+   "playTicks": 2492535,
+   "deaths": 2,
+   "mobKills": 2037,
+   "playerKills": 2,
+   "killedByPlayers": 0,
+   "damageDealt": 220843,
+   "damageTaken": 15526,
+   "distanceCm": 29603182,
+   "walkCm": 9701333,
+   "flyCm": 10591135,
+   "jumps": 42037,
+   "mined": 24194,
+   "topMined": [
+    [
+     "dark_oak_log",
+     4099
+    ],
+    [
+     "spruce_log",
+     3241
+    ],
+    [
+     "grass_block",
+     2782
+    ]
+   ],
+   "crafted": 91741,
+   "topCrafted": [
+    [
+     "stick",
+     53577
+    ],
+    [
+     "dark_oak_planks",
+     15375
+    ],
+    [
+     "spruce_planks",
+     12888
+    ]
+   ],
+   "topKilled": [
+    [
+     "skeleton",
+     1104
+    ],
+    [
+     "drowned",
+     155
+    ],
+    [
+     "zombie",
+     153
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "warden",
+     2
+    ]
+   ],
+   "adv": {
+    "count": 21,
+    "byTab": {
+     "story": 9,
+     "adventure": 9,
+     "husbandry": 3
+    },
+    "recent": [
+     [
+      "adventure/avoid_vibration",
+      "2026-10-14T23:33:54Z"
+     ],
+     [
+      "adventure/revaulting",
+      "2026-10-14T15:11:08Z"
+     ],
+     [
+      "adventure/under_lock_and_key",
+      "2026-10-14T14:49:29Z"
+     ],
+     [
+      "adventure/minecraft_trials_edition",
+      "2026-10-14T14:48:13Z"
+     ],
+     [
+      "story/deflect_arrow",
+      "2026-10-12T21:38:29Z"
+     ],
+     [
+      "story/lava_bucket",
+      "2026-10-12T21:30:19Z"
+     ],
+     [
+      "husbandry/breed_an_animal",
+      "2026-10-12T15:56:26Z"
+     ],
+     [
+      "husbandry/plant_seed",
+      "2026-10-12T11:55:50Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
@@ -321,115 +430,6 @@
      [
       "adventure/totem_of_undying",
       "2026-10-11T18:40:35Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
-   "name": "Eingepacktt",
-   "firstSeen": null,
-   "lastSeen": "2026-10-15T15:24:41Z",
-   "playTicks": 2486535,
-   "deaths": 2,
-   "mobKills": 2020,
-   "playerKills": 2,
-   "killedByPlayers": 0,
-   "damageDealt": 220443,
-   "damageTaken": 15526,
-   "distanceCm": 29603182,
-   "walkCm": 9701333,
-   "flyCm": 10591135,
-   "jumps": 42037,
-   "mined": 24194,
-   "topMined": [
-    [
-     "dark_oak_log",
-     4099
-    ],
-    [
-     "spruce_log",
-     3241
-    ],
-    [
-     "grass_block",
-     2782
-    ]
-   ],
-   "crafted": 91741,
-   "topCrafted": [
-    [
-     "stick",
-     53577
-    ],
-    [
-     "dark_oak_planks",
-     15375
-    ],
-    [
-     "spruce_planks",
-     12888
-    ]
-   ],
-   "topKilled": [
-    [
-     "skeleton",
-     1087
-    ],
-    [
-     "drowned",
-     155
-    ],
-    [
-     "zombie",
-     153
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "warden",
-     2
-    ]
-   ],
-   "adv": {
-    "count": 21,
-    "byTab": {
-     "story": 9,
-     "adventure": 9,
-     "husbandry": 3
-    },
-    "recent": [
-     [
-      "adventure/avoid_vibration",
-      "2026-10-14T23:33:54Z"
-     ],
-     [
-      "adventure/revaulting",
-      "2026-10-14T15:11:08Z"
-     ],
-     [
-      "adventure/under_lock_and_key",
-      "2026-10-14T14:49:29Z"
-     ],
-     [
-      "adventure/minecraft_trials_edition",
-      "2026-10-14T14:48:13Z"
-     ],
-     [
-      "story/deflect_arrow",
-      "2026-10-12T21:38:29Z"
-     ],
-     [
-      "story/lava_bucket",
-      "2026-10-12T21:30:19Z"
-     ],
-     [
-      "husbandry/breed_an_animal",
-      "2026-10-12T15:56:26Z"
-     ],
-     [
-      "husbandry/plant_seed",
-      "2026-10-12T11:55:50Z"
      ]
     ]
    }
@@ -660,18 +660,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-15T15:24:41Z",
-   "playTicks": 1521219,
+   "lastSeen": "2026-10-15T15:29:41Z",
+   "playTicks": 1527219,
    "deaths": 2,
-   "mobKills": 128,
+   "mobKills": 130,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 22974,
-   "damageTaken": 12296,
-   "distanceCm": 13350092,
-   "walkCm": 5618005,
-   "flyCm": 4402153,
-   "jumps": 22894,
+   "damageDealt": 23300,
+   "damageTaken": 12310,
+   "distanceCm": 13437024,
+   "walkCm": 5647789,
+   "flyCm": 4442771,
+   "jumps": 23100,
    "mined": 19425,
    "topMined": [
     [
@@ -705,7 +705,7 @@
    "topKilled": [
     [
      "zombie",
-     31
+     32
     ],
     [
      "sheep",
@@ -774,19 +774,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-15T15:24:41Z",
-   "playTicks": 1293383,
+   "lastSeen": "2026-10-15T15:29:41Z",
+   "playTicks": 1299383,
    "deaths": 2,
-   "mobKills": 1698,
+   "mobKills": 1729,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 157606,
-   "damageTaken": 12413,
-   "distanceCm": 12690917,
-   "walkCm": 5921014,
-   "flyCm": 3104360,
-   "jumps": 18824,
-   "mined": 11766,
+   "damageDealt": 163844,
+   "damageTaken": 12540,
+   "distanceCm": 12758607,
+   "walkCm": 5970664,
+   "flyCm": 3115091,
+   "jumps": 18933,
+   "mined": 11773,
    "topMined": [
     [
      "spruce_log",
