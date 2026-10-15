@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T23:16:29Z",
+ "updated": "2026-10-15T23:18:21Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 6472243,
  "players": [
@@ -8,18 +8,18 @@
    "name": "4rtjom",
    "firstSeen": null,
    "lastSeen": "2026-10-15T23:16:32Z",
-   "playTicks": 4284163,
+   "playTicks": 4290163,
    "deaths": 0,
-   "mobKills": 2885,
+   "mobKills": 2886,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 394290,
-   "damageTaken": 44510,
-   "distanceCm": 65278281,
-   "walkCm": 17025836,
-   "flyCm": 21757303,
-   "jumps": 89384,
-   "mined": 23206,
+   "damageDealt": 394479,
+   "damageTaken": 44551,
+   "distanceCm": 65351631,
+   "walkCm": 17070728,
+   "flyCm": 21783966,
+   "jumps": 89488,
+   "mined": 23486,
    "topMined": [
     [
      "spruce_log",
@@ -31,7 +31,7 @@
     ],
     [
      "stone",
-     2410
+     2682
     ]
    ],
    "crafted": 85446,
@@ -220,19 +220,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T23:11:32Z",
-   "playTicks": 2735130,
+   "lastSeen": "2026-10-15T23:16:32Z",
+   "playTicks": 2741130,
    "deaths": 0,
-   "mobKills": 1664,
+   "mobKills": 1665,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 175271,
-   "damageTaken": 35734,
-   "distanceCm": 34748424,
-   "walkCm": 9139651,
-   "flyCm": 13510319,
-   "jumps": 48111,
-   "mined": 26157,
+   "damageDealt": 175461,
+   "damageTaken": 35802,
+   "distanceCm": 34870172,
+   "walkCm": 9155849,
+   "flyCm": 13542645,
+   "jumps": 48210,
+   "mined": 26387,
    "topMined": [
     [
      "stone",
@@ -3414,8 +3414,8 @@
     "rendered": "2026-10-15T23:16:29Z"
    },
    "-1.14": {
-    "mtime": "2026-10-15T19:53:12Z",
-    "rendered": "2026-10-15T20:16:43Z"
+    "mtime": "2026-10-15T21:32:01Z",
+    "rendered": "2026-10-15T23:18:21Z"
    },
    "-2.15": {
     "mtime": "2026-10-15T20:20:44Z",
@@ -3434,12 +3434,12 @@
     "rendered": "2026-10-15T16:48:46Z"
    },
    "2.12": {
-    "mtime": "2026-10-15T19:56:53Z",
-    "rendered": "2026-10-15T20:16:43Z"
+    "mtime": "2026-10-15T21:32:01Z",
+    "rendered": "2026-10-15T23:18:21Z"
    },
    "3.11": {
-    "mtime": "2026-10-15T19:57:25Z",
-    "rendered": "2026-10-15T20:16:43Z"
+    "mtime": "2026-10-15T21:32:01Z",
+    "rendered": "2026-10-15T23:18:21Z"
    },
    "-3.16": {
     "mtime": "2026-10-15T20:20:45Z",
