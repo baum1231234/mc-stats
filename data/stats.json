@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-14T23:56:55Z",
+ "updated": "2026-10-15T00:00:10Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 5328904,
+ "serverTicks": 5334904,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T23:54:00Z",
-   "playTicks": 3604121,
+   "lastSeen": "2026-10-14T23:58:59Z",
+   "playTicks": 3610121,
    "deaths": 0,
-   "mobKills": 1753,
+   "mobKills": 1757,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 266121,
-   "damageTaken": 32791,
-   "distanceCm": 46762806,
-   "walkCm": 14809073,
-   "flyCm": 16799265,
-   "jumps": 74867,
-   "mined": 19755,
+   "damageDealt": 266499,
+   "damageTaken": 32859,
+   "distanceCm": 46803207,
+   "walkCm": 14827157,
+   "flyCm": 16814197,
+   "jumps": 75064,
+   "mined": 19963,
    "topMined": [
     [
      "spruce_log",
@@ -56,7 +56,7 @@
     ],
     [
      "skeleton",
-     348
+     349
     ],
     [
      "slime",
@@ -215,31 +215,31 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T23:54:00Z",
-   "playTicks": 2372608,
+   "lastSeen": "2026-10-14T23:59:00Z",
+   "playTicks": 2378608,
    "deaths": 2,
-   "mobKills": 945,
+   "mobKills": 946,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 157783,
-   "damageTaken": 9658,
-   "distanceCm": 27824558,
-   "walkCm": 12327204,
-   "flyCm": 6947487,
-   "jumps": 26616,
-   "mined": 34643,
+   "damageDealt": 157973,
+   "damageTaken": 9674,
+   "distanceCm": 27905525,
+   "walkCm": 12373664,
+   "flyCm": 6978610,
+   "jumps": 26733,
+   "mined": 35032,
    "topMined": [
     [
      "grass_block",
-     11437
-    ],
-    [
-     "sand",
-     7346
+     11661
     ],
     [
      "dirt",
-     7304
+     7463
+    ],
+    [
+     "sand",
+     7350
     ]
    ],
    "crafted": 14887,
@@ -260,7 +260,7 @@
    "topKilled": [
     [
      "zombie",
-     237
+     238
     ],
     [
      "skeleton",
@@ -1129,19 +1129,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-14T23:54:00Z",
-   "playTicks": 816225,
+   "lastSeen": "2026-10-14T23:58:59Z",
+   "playTicks": 822225,
    "deaths": 2,
-   "mobKills": 260,
+   "mobKills": 261,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 37802,
-   "damageTaken": 6096,
-   "distanceCm": 7639402,
-   "walkCm": 3448083,
-   "flyCm": 2255227,
-   "jumps": 12161,
-   "mined": 5838,
+   "damageDealt": 38002,
+   "damageTaken": 6186,
+   "distanceCm": 7674986,
+   "walkCm": 3468630,
+   "flyCm": 2265942,
+   "jumps": 12222,
+   "mined": 5844,
    "topMined": [
     [
      "grass_block",
@@ -1149,14 +1149,14 @@
     ],
     [
      "dirt",
-     682
+     686
     ],
     [
      "stone",
      523
     ]
    ],
-   "crafted": 4944,
+   "crafted": 5028,
    "topCrafted": [
     [
      "stick",
@@ -1174,7 +1174,7 @@
    "topKilled": [
     [
      "zombie",
-     50
+     51
     ],
     [
      "skeleton",
@@ -1450,34 +1450,34 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-14T23:54:00Z",
-   "playTicks": 100750,
+   "lastSeen": "2026-10-14T23:58:59Z",
+   "playTicks": 106750,
    "deaths": 1,
    "mobKills": 22,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 4301,
    "damageTaken": 1543,
-   "distanceCm": 1067972,
-   "walkCm": 375939,
+   "distanceCm": 1081945,
+   "walkCm": 389912,
    "flyCm": 330625,
    "jumps": 1674,
-   "mined": 796,
+   "mined": 987,
    "topMined": [
     [
      "deepslate",
-     548
+     726
     ],
     [
      "tuff",
-     70
+     75
     ],
     [
      "gravel",
      36
     ]
    ],
-   "crafted": 158,
+   "crafted": 164,
    "topCrafted": [
     [
      "oak_planks",
@@ -1489,7 +1489,7 @@
     ],
     [
      "iron_pickaxe",
-     4
+     6
     ]
    ],
    "topKilled": [
