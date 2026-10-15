@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T08:38:24Z",
+ "updated": "2026-10-15T08:40:04Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 5456203,
+ "serverTicks": 5458332,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -547,19 +547,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-15T08:37:40Z",
-   "playTicks": 1509808,
+   "lastSeen": "2026-10-15T08:39:27Z",
+   "playTicks": 1511937,
    "deaths": 4,
    "mobKills": 974,
    "playerKills": 1,
    "killedByPlayers": 2,
    "damageDealt": 77540,
-   "damageTaken": 12429,
-   "distanceCm": 12852355,
-   "walkCm": 6813948,
-   "flyCm": 3427708,
-   "jumps": 22222,
-   "mined": 23221,
+   "damageTaken": 12433,
+   "distanceCm": 12860898,
+   "walkCm": 6820965,
+   "flyCm": 3428834,
+   "jumps": 22292,
+   "mined": 23233,
    "topMined": [
     [
      "stone",
@@ -567,14 +567,14 @@
     ],
     [
      "deepslate",
-     4267
+     4279
     ],
     [
      "spruce_log",
      3871
     ]
    ],
-   "crafted": 44393,
+   "crafted": 46825,
    "topCrafted": [
     [
      "stick",
@@ -586,7 +586,7 @@
     ],
     [
      "deepslate_bricks",
-     2252
+     3468
     ]
    ],
    "topKilled": [
