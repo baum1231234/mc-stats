@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T11:13:19Z",
+ "updated": "2026-10-15T11:15:11Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 5615084,
+ "serverTicks": 5621084,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T11:09:41Z",
-   "playTicks": 2523637,
+   "lastSeen": "2026-10-15T11:14:41Z",
+   "playTicks": 2529637,
    "deaths": 2,
-   "mobKills": 983,
+   "mobKills": 984,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 162755,
-   "damageTaken": 9975,
-   "distanceCm": 29063393,
-   "walkCm": 12877620,
-   "flyCm": 7572534,
-   "jumps": 27699,
-   "mined": 37068,
+   "damageDealt": 162955,
+   "damageTaken": 9983,
+   "distanceCm": 29086792,
+   "walkCm": 12894273,
+   "flyCm": 7578655,
+   "jumps": 27724,
+   "mined": 37232,
    "topMined": [
     [
      "grass_block",
@@ -138,7 +138,7 @@
      7622
     ]
    ],
-   "crafted": 15015,
+   "crafted": 15051,
    "topCrafted": [
     [
      "bamboo_planks",
@@ -156,7 +156,7 @@
    "topKilled": [
     [
      "zombie",
-     250
+     251
     ],
     [
      "skeleton",
@@ -329,19 +329,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T11:09:41Z",
-   "playTicks": 2194599,
+   "lastSeen": "2026-10-15T11:14:41Z",
+   "playTicks": 2200599,
    "deaths": 2,
-   "mobKills": 1709,
+   "mobKills": 1712,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 192593,
-   "damageTaken": 13966,
-   "distanceCm": 26843110,
-   "walkCm": 8810730,
-   "flyCm": 9703213,
-   "jumps": 38367,
-   "mined": 21284,
+   "damageDealt": 193125,
+   "damageTaken": 14006,
+   "distanceCm": 26925576,
+   "walkCm": 8824228,
+   "flyCm": 9723145,
+   "jumps": 38545,
+   "mined": 21293,
    "topMined": [
     [
      "dark_oak_log",
@@ -356,7 +356,7 @@
      2140
     ]
    ],
-   "crafted": 61133,
+   "crafted": 61154,
    "topCrafted": [
     [
      "stick",
@@ -374,7 +374,7 @@
    "topKilled": [
     [
      "skeleton",
-     816
+     817
     ],
     [
      "drowned",
@@ -382,7 +382,7 @@
     ],
     [
      "zombie",
-     147
+     148
     ]
    ],
    "topKilledBy": [
