@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-15T20:43:04Z",
+ "updated": "2026-10-15T20:47:45Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 6286243,
+ "serverTicks": 6292243,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T20:41:32Z",
-   "playTicks": 4105018,
+   "lastSeen": "2026-10-15T20:46:32Z",
+   "playTicks": 4111018,
    "deaths": 0,
-   "mobKills": 2379,
+   "mobKills": 2396,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 340386,
-   "damageTaken": 38577,
-   "distanceCm": 61043810,
-   "walkCm": 16370681,
-   "flyCm": 20083120,
-   "jumps": 84149,
+   "damageDealt": 343929,
+   "damageTaken": 39447,
+   "distanceCm": 61157114,
+   "walkCm": 16412666,
+   "flyCm": 20148622,
+   "jumps": 84412,
    "mined": 21685,
    "topMined": [
     [
@@ -438,18 +438,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-15T20:41:32Z",
-   "playTicks": 1776765,
+   "lastSeen": "2026-10-15T20:46:32Z",
+   "playTicks": 1782765,
    "deaths": 2,
    "mobKills": 176,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 27498,
    "damageTaken": 12738,
-   "distanceCm": 15177619,
-   "walkCm": 6712572,
-   "flyCm": 4909266,
-   "jumps": 25749,
+   "distanceCm": 15178453,
+   "walkCm": 6713257,
+   "flyCm": 4909415,
+   "jumps": 25751,
    "mined": 30536,
    "topMined": [
     [
@@ -665,18 +665,18 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-15T20:41:32Z",
-   "playTicks": 1607102,
+   "lastSeen": "2026-10-15T20:46:32Z",
+   "playTicks": 1613102,
    "deaths": 2,
-   "mobKills": 2423,
+   "mobKills": 2525,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 188338,
-   "damageTaken": 14706,
-   "distanceCm": 18342537,
-   "walkCm": 6748459,
+   "damageDealt": 189772,
+   "damageTaken": 14711,
+   "distanceCm": 18353402,
+   "walkCm": 6759324,
    "flyCm": 4050463,
-   "jumps": 22005,
+   "jumps": 22009,
    "mined": 12384,
    "topMined": [
     [
@@ -710,15 +710,15 @@
    "topKilled": [
     [
      "skeleton",
-     542
+     582
     ],
     [
      "zombie",
-     432
+     471
     ],
     [
      "creeper",
-     356
+     378
     ]
    ],
    "topKilledBy": [
