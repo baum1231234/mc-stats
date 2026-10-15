@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-15T21:31:10Z",
+ "updated": "2026-10-15T21:33:05Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 6346620,
+ "serverTicks": 6346844,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T21:30:54Z",
-   "playTicks": 4164253,
+   "lastSeen": "2026-10-15T21:32:02Z",
+   "playTicks": 4165619,
    "deaths": 0,
-   "mobKills": 2585,
+   "mobKills": 2590,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 373421,
-   "damageTaken": 43383,
-   "distanceCm": 62634968,
-   "walkCm": 16593861,
-   "flyCm": 20800507,
-   "jumps": 86520,
+   "damageDealt": 374220,
+   "damageTaken": 43445,
+   "distanceCm": 62685752,
+   "walkCm": 16596676,
+   "flyCm": 20811342,
+   "jumps": 86561,
    "mined": 21704,
    "topMined": [
     [
@@ -111,19 +111,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T21:30:54Z",
-   "playTicks": 2749308,
+   "lastSeen": "2026-10-15T21:32:02Z",
+   "playTicks": 2750674,
    "deaths": 2,
    "mobKills": 2537,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 253021,
-   "damageTaken": 17532,
-   "distanceCm": 33103231,
-   "walkCm": 10198362,
-   "flyCm": 12066957,
-   "jumps": 44301,
-   "mined": 24921,
+   "damageTaken": 17536,
+   "distanceCm": 33109718,
+   "walkCm": 10200196,
+   "flyCm": 12069205,
+   "jumps": 44335,
+   "mined": 24928,
    "topMined": [
     [
      "dark_oak_log",
@@ -334,19 +334,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T21:30:54Z",
-   "playTicks": 2614862,
+   "lastSeen": "2026-10-15T21:32:02Z",
+   "playTicks": 2616228,
    "deaths": 0,
    "mobKills": 895,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 149623,
-   "damageTaken": 32208,
-   "distanceCm": 33456436,
-   "walkCm": 8842253,
+   "damageTaken": 32248,
+   "distanceCm": 33462646,
+   "walkCm": 8843276,
    "flyCm": 13144356,
-   "jumps": 46224,
-   "mined": 25606,
+   "jumps": 46239,
+   "mined": 25652,
    "topMined": [
     [
      "stone",
@@ -438,18 +438,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-15T21:30:54Z",
-   "playTicks": 1836000,
+   "lastSeen": "2026-10-15T21:32:02Z",
+   "playTicks": 1837366,
    "deaths": 2,
    "mobKills": 192,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 30093,
    "damageTaken": 13401,
-   "distanceCm": 15646149,
-   "walkCm": 6887303,
-   "flyCm": 5126711,
-   "jumps": 26708,
+   "distanceCm": 15650081,
+   "walkCm": 6889293,
+   "flyCm": 5128653,
+   "jumps": 26730,
    "mined": 30660,
    "topMined": [
     [
@@ -665,8 +665,8 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-15T21:30:54Z",
-   "playTicks": 1656799,
+   "lastSeen": "2026-10-15T21:32:02Z",
+   "playTicks": 1658165,
    "deaths": 2,
    "mobKills": 2630,
    "playerKills": 0,
@@ -1242,18 +1242,18 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-15T21:30:54Z",
-   "playTicks": 396232,
+   "lastSeen": "2026-10-15T21:32:02Z",
+   "playTicks": 397598,
    "deaths": 0,
    "mobKills": 436,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 22694,
    "damageTaken": 1142,
-   "distanceCm": 2186657,
-   "walkCm": 1551969,
-   "flyCm": 70417,
-   "jumps": 1961,
+   "distanceCm": 2222014,
+   "walkCm": 1563595,
+   "flyCm": 71715,
+   "jumps": 1973,
    "mined": 8324,
    "topMined": [
     [
@@ -1631,6 +1631,16 @@
    "z": -2792,
    "dim": "overworld",
    "since": "2026-10-15T21:31:10Z",
+   "shared": [
+    {
+     "name": "4rtjom",
+     "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a"
+    },
+    {
+     "name": "snacx_27",
+     "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b"
+    }
+   ],
    "map": {
     "dir": "data/maps/Dovid1346_-262_-2792",
     "size": 256,
@@ -3224,6 +3234,15 @@
     "rendered": "2026-10-15T21:31:10Z",
     "empty": true
    },
+   "-4.-12": {
+    "mtime": "2026-10-14T06:04:11Z",
+    "rendered": "2026-10-15T21:33:05Z"
+   },
+   "-3.-13": {
+    "mtime": "2026-10-14T06:04:11Z",
+    "rendered": "2026-10-15T21:33:05Z",
+    "empty": true
+   },
    "3.9": {
     "mtime": "2026-10-11T21:09:40Z",
     "rendered": "2026-10-12T18:04:46Z",
@@ -3293,6 +3312,16 @@
    "-9.9": {
     "mtime": "2026-10-15T19:31:02Z",
     "rendered": "2026-10-15T20:11:16Z",
+    "empty": true
+   },
+   "-5.-12": {
+    "mtime": "2026-10-14T06:04:11Z",
+    "rendered": "2026-10-15T21:33:05Z",
+    "empty": true
+   },
+   "-4.-13": {
+    "mtime": "2026-10-14T06:04:11Z",
+    "rendered": "2026-10-15T21:33:05Z",
     "empty": true
    },
    "4.9": {
