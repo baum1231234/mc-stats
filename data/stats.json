@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T12:13:34Z",
+ "updated": "2026-10-15T12:15:28Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 5687084,
+ "serverTicks": 5693084,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -329,19 +329,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T12:09:41Z",
-   "playTicks": 2262086,
+   "lastSeen": "2026-10-15T12:14:41Z",
+   "playTicks": 2268086,
    "deaths": 2,
    "mobKills": 1719,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 194095,
-   "damageTaken": 14206,
-   "distanceCm": 27487362,
-   "walkCm": 9119994,
-   "flyCm": 9940115,
-   "jumps": 39883,
-   "mined": 22517,
+   "damageTaken": 14236,
+   "distanceCm": 27534801,
+   "walkCm": 9148886,
+   "flyCm": 9954473,
+   "jumps": 39959,
+   "mined": 22595,
    "topMined": [
     [
      "dark_oak_log",
@@ -356,11 +356,11 @@
      2140
     ]
    ],
-   "crafted": 68909,
+   "crafted": 72338,
    "topCrafted": [
     [
      "stick",
-     38947
+     40913
     ],
     [
      "dark_oak_planks",
@@ -368,7 +368,7 @@
     ],
     [
      "spruce_planks",
-     5572
+     6972
     ]
    ],
    "topKilled": [
@@ -438,23 +438,23 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-15T12:09:41Z",
-   "playTicks": 1628264,
+   "lastSeen": "2026-10-15T12:14:41Z",
+   "playTicks": 1634264,
    "deaths": 4,
-   "mobKills": 981,
+   "mobKills": 982,
    "playerKills": 1,
    "killedByPlayers": 2,
-   "damageDealt": 79491,
+   "damageDealt": 79691,
    "damageTaken": 12634,
-   "distanceCm": 13693424,
-   "walkCm": 7473380,
-   "flyCm": 3511756,
-   "jumps": 23128,
-   "mined": 26123,
+   "distanceCm": 13733528,
+   "walkCm": 7507205,
+   "flyCm": 3516889,
+   "jumps": 23167,
+   "mined": 26494,
    "topMined": [
     [
      "stone",
-     6506
+     6777
     ],
     [
      "deepslate",
@@ -487,7 +487,7 @@
     ],
     [
      "skeleton",
-     308
+     309
     ],
     [
      "creeper",
@@ -3071,6 +3071,23 @@
    "7.6": {
     "mtime": "2026-10-12T06:04:29Z",
     "rendered": "2026-10-15T12:13:34Z"
+   },
+   "0.-12": {
+    "mtime": "2026-10-14T06:04:11Z",
+    "rendered": "2026-10-15T12:15:28Z"
+   },
+   "1.-11": {
+    "mtime": "2026-10-14T06:04:11Z",
+    "rendered": "2026-10-15T12:15:28Z"
+   },
+   "-15.-6": {
+    "mtime": "2026-10-15T06:04:18Z",
+    "rendered": "2026-10-15T12:15:28Z",
+    "empty": true
+   },
+   "-5.-8": {
+    "mtime": "2026-10-13T17:36:55Z",
+    "rendered": "2026-10-15T12:15:28Z"
    },
    "-6.-7": {
     "mtime": "2026-10-14T06:04:11Z",
