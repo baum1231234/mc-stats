@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T11:20:17Z",
+ "updated": "2026-10-15T11:23:35Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 5627084,
+ "serverTicks": 5630948,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T11:19:41Z",
-   "playTicks": 2535637,
+   "lastSeen": "2026-10-15T11:22:54Z",
+   "playTicks": 2539501,
    "deaths": 2,
-   "mobKills": 984,
+   "mobKills": 988,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 162955,
-   "damageTaken": 9983,
-   "distanceCm": 29161902,
-   "walkCm": 12966567,
-   "flyCm": 7581471,
-   "jumps": 27761,
-   "mined": 38302,
+   "damageDealt": 163437,
+   "damageTaken": 9985,
+   "distanceCm": 29211612,
+   "walkCm": 13013385,
+   "flyCm": 7584359,
+   "jumps": 27797,
+   "mined": 38988,
    "topMined": [
     [
      "grass_block",
@@ -156,7 +156,7 @@
    "topKilled": [
     [
      "zombie",
-     251
+     255
     ],
     [
      "skeleton",
@@ -329,19 +329,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T11:19:41Z",
-   "playTicks": 2206599,
+   "lastSeen": "2026-10-15T11:22:54Z",
+   "playTicks": 2210463,
    "deaths": 2,
    "mobKills": 1715,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 193385,
    "damageTaken": 14016,
-   "distanceCm": 27011403,
-   "walkCm": 8854187,
-   "flyCm": 9766949,
-   "jumps": 38798,
-   "mined": 21402,
+   "distanceCm": 27026567,
+   "walkCm": 8864436,
+   "flyCm": 9770889,
+   "jumps": 38876,
+   "mined": 21545,
    "topMined": [
     [
      "dark_oak_log",
