@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T11:28:37Z",
+ "updated": "2026-10-15T11:30:31Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 5633084,
+ "serverTicks": 5639084,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T11:24:41Z",
-   "playTicks": 2541637,
+   "lastSeen": "2026-10-15T11:29:41Z",
+   "playTicks": 2547637,
    "deaths": 2,
-   "mobKills": 993,
+   "mobKills": 997,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 164279,
-   "damageTaken": 9985,
-   "distanceCm": 29240520,
-   "walkCm": 13041796,
-   "flyCm": 7584856,
-   "jumps": 27803,
-   "mined": 39347,
+   "damageDealt": 164971,
+   "damageTaken": 9988,
+   "distanceCm": 29307627,
+   "walkCm": 13104577,
+   "flyCm": 7589182,
+   "jumps": 27862,
+   "mined": 39989,
    "topMined": [
     [
      "grass_block",
@@ -131,7 +131,7 @@
     ],
     [
      "dirt",
-     7800
+     7846
     ],
     [
      "sand",
@@ -156,7 +156,7 @@
    "topKilled": [
     [
      "zombie",
-     259
+     263
     ],
     [
      "skeleton",
@@ -329,19 +329,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T11:24:41Z",
-   "playTicks": 2212599,
+   "lastSeen": "2026-10-15T11:29:41Z",
+   "playTicks": 2218599,
    "deaths": 2,
-   "mobKills": 1715,
+   "mobKills": 1716,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 193385,
+   "damageDealt": 193485,
    "damageTaken": 14016,
-   "distanceCm": 27031921,
-   "walkCm": 8869249,
-   "flyCm": 9771205,
-   "jumps": 38900,
-   "mined": 21631,
+   "distanceCm": 27065947,
+   "walkCm": 8889239,
+   "flyCm": 9782991,
+   "jumps": 39019,
+   "mined": 21805,
    "topMined": [
     [
      "dark_oak_log",
@@ -2292,6 +2292,10 @@
     "mtime": "2026-10-15T06:04:18Z",
     "rendered": "2026-10-15T11:28:37Z"
    },
+   "-15.1": {
+    "mtime": "2026-10-15T06:04:18Z",
+    "rendered": "2026-10-15T11:30:31Z"
+   },
    "-5.3": {
     "mtime": "2026-10-14T18:43:32Z",
     "rendered": "2026-10-14T21:26:54Z"
@@ -2389,6 +2393,11 @@
     "mtime": "2026-10-14T19:08:10Z",
     "rendered": "2026-10-14T20:14:30Z"
    },
+   "6.1": {
+    "mtime": "2026-10-10T22:18:58Z",
+    "rendered": "2026-10-15T11:30:31Z",
+    "empty": true
+   },
    "3.4": {
     "mtime": "2026-10-13T06:04:15Z",
     "rendered": "2026-10-13T06:21:48Z"
@@ -2412,6 +2421,14 @@
    "4.-3": {
     "mtime": "2026-10-15T09:40:55Z",
     "rendered": "2026-10-15T09:40:38Z"
+   },
+   "6.-1": {
+    "mtime": "2026-10-10T22:18:58Z",
+    "rendered": "2026-10-15T11:30:31Z"
+   },
+   "7.0": {
+    "mtime": "2026-10-10T22:18:58Z",
+    "rendered": "2026-10-15T11:30:31Z"
    },
    "1.-5": {
     "mtime": "2026-10-14T06:04:11Z",
