@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T12:21:10Z",
+ "updated": "2026-10-15T12:23:14Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 5699084,
+ "serverTicks": 5703117,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -329,19 +329,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T12:19:41Z",
-   "playTicks": 2274086,
+   "lastSeen": "2026-10-15T12:23:03Z",
+   "playTicks": 2278119,
    "deaths": 2,
    "mobKills": 1719,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 194095,
    "damageTaken": 14236,
-   "distanceCm": 27560870,
-   "walkCm": 9172339,
-   "flyCm": 9956821,
-   "jumps": 39969,
-   "mined": 22612,
+   "distanceCm": 27599745,
+   "walkCm": 9196371,
+   "flyCm": 9968062,
+   "jumps": 40027,
+   "mined": 22652,
    "topMined": [
     [
      "dark_oak_log",
@@ -356,7 +356,7 @@
      2140
     ]
    ],
-   "crafted": 74211,
+   "crafted": 74376,
    "topCrafted": [
     [
      "stick",
@@ -438,23 +438,23 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-15T12:19:41Z",
-   "playTicks": 1640264,
+   "lastSeen": "2026-10-15T12:23:03Z",
+   "playTicks": 1644297,
    "deaths": 4,
-   "mobKills": 982,
+   "mobKills": 985,
    "playerKills": 1,
    "killedByPlayers": 2,
-   "damageDealt": 79691,
-   "damageTaken": 12634,
-   "distanceCm": 13761486,
-   "walkCm": 7528221,
-   "flyCm": 3521176,
-   "jumps": 23186,
-   "mined": 26912,
+   "damageDealt": 80171,
+   "damageTaken": 12660,
+   "distanceCm": 13784304,
+   "walkCm": 7546805,
+   "flyCm": 3521260,
+   "jumps": 23199,
+   "mined": 27018,
    "topMined": [
     [
      "stone",
-     7126
+     7200
     ],
     [
      "deepslate",
@@ -3153,9 +3153,26 @@
     "rendered": "2026-10-15T12:21:10Z",
     "empty": true
    },
+   "7.8": {
+    "mtime": "2026-10-12T06:04:29Z",
+    "rendered": "2026-10-15T12:23:14Z"
+   },
+   "6.9": {
+    "mtime": "2026-10-12T06:04:29Z",
+    "rendered": "2026-10-15T12:23:14Z"
+   },
    "5.10": {
     "mtime": "2026-10-12T06:04:29Z",
     "rendered": "2026-10-12T18:22:44Z",
+    "empty": true
+   },
+   "8.7": {
+    "mtime": "2026-10-12T06:04:29Z",
+    "rendered": "2026-10-15T12:23:14Z"
+   },
+   "-6.-9": {
+    "mtime": "2026-10-14T06:04:11Z",
+    "rendered": "2026-10-15T12:23:14Z",
     "empty": true
    }
   }
