@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T11:47:21Z",
+ "updated": "2026-10-15T11:50:18Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 5657084,
+ "serverTicks": 5663084,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T11:44:41Z",
-   "playTicks": 2565637,
+   "lastSeen": "2026-10-15T11:49:41Z",
+   "playTicks": 2571637,
    "deaths": 2,
    "mobKills": 1011,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 167269,
-   "damageTaken": 10012,
-   "distanceCm": 29488620,
-   "walkCm": 13232313,
-   "flyCm": 7622511,
-   "jumps": 28038,
-   "mined": 41074,
+   "damageTaken": 10013,
+   "distanceCm": 29521454,
+   "walkCm": 13255791,
+   "flyCm": 7628545,
+   "jumps": 28070,
+   "mined": 41158,
    "topMined": [
     [
      "grass_block",
@@ -135,7 +135,7 @@
     ],
     [
      "sand",
-     7780
+     7861
     ]
    ],
    "crafted": 15051,
@@ -329,19 +329,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T11:44:41Z",
-   "playTicks": 2236503,
+   "lastSeen": "2026-10-15T11:49:41Z",
+   "playTicks": 2242503,
    "deaths": 2,
    "mobKills": 1719,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 194095,
-   "damageTaken": 14126,
-   "distanceCm": 27285504,
-   "walkCm": 8998642,
-   "flyCm": 9878127,
-   "jumps": 39514,
-   "mined": 21944,
+   "damageTaken": 14146,
+   "distanceCm": 27350316,
+   "walkCm": 9026673,
+   "flyCm": 9907695,
+   "jumps": 39663,
+   "mined": 21982,
    "topMined": [
     [
      "dark_oak_log",
@@ -349,18 +349,18 @@
     ],
     [
      "grass_block",
-     2759
+     2761
     ],
     [
      "stone",
      2140
     ]
    ],
-   "crafted": 62070,
+   "crafted": 62439,
    "topCrafted": [
     [
      "stick",
-     34437
+     34693
     ],
     [
      "dark_oak_planks",
@@ -2292,6 +2292,10 @@
     "mtime": "2026-10-15T06:04:18Z",
     "rendered": "2026-10-15T11:47:21Z"
    },
+   "-15.1": {
+    "mtime": "2026-10-15T06:04:18Z",
+    "rendered": "2026-10-15T11:50:18Z"
+   },
    "-5.3": {
     "mtime": "2026-10-14T18:43:32Z",
     "rendered": "2026-10-14T21:26:54Z"
@@ -2389,6 +2393,11 @@
     "mtime": "2026-10-14T19:08:10Z",
     "rendered": "2026-10-14T20:14:30Z"
    },
+   "6.1": {
+    "mtime": "2026-10-10T22:18:58Z",
+    "rendered": "2026-10-15T11:50:18Z",
+    "empty": true
+   },
    "3.4": {
     "mtime": "2026-10-13T06:04:15Z",
     "rendered": "2026-10-13T06:21:48Z"
@@ -2412,6 +2421,14 @@
    "4.-3": {
     "mtime": "2026-10-15T09:40:55Z",
     "rendered": "2026-10-15T09:40:38Z"
+   },
+   "6.-1": {
+    "mtime": "2026-10-10T22:18:58Z",
+    "rendered": "2026-10-15T11:50:18Z"
+   },
+   "7.0": {
+    "mtime": "2026-10-10T22:18:58Z",
+    "rendered": "2026-10-15T11:50:18Z"
    },
    "1.-5": {
     "mtime": "2026-10-14T06:04:11Z",
