@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T10:35:03Z",
+ "updated": "2026-10-15T10:40:48Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 5573084,
+ "serverTicks": 5579084,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -108,6 +108,120 @@
    }
   },
   {
+   "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
+   "name": "TheWinterSolgier",
+   "firstSeen": null,
+   "lastSeen": "2026-10-15T10:39:41Z",
+   "playTicks": 2487637,
+   "deaths": 2,
+   "mobKills": 983,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 162755,
+   "damageTaken": 9975,
+   "distanceCm": 28681772,
+   "walkCm": 12771675,
+   "flyCm": 7299797,
+   "jumps": 27612,
+   "mined": 35883,
+   "topMined": [
+    [
+     "grass_block",
+     11847
+    ],
+    [
+     "dirt",
+     7800
+    ],
+    [
+     "sand",
+     7559
+    ]
+   ],
+   "crafted": 15015,
+   "topCrafted": [
+    [
+     "bamboo_planks",
+     6398
+    ],
+    [
+     "bamboo_block",
+     3525
+    ],
+    [
+     "emerald",
+     1666
+    ]
+   ],
+   "topKilled": [
+    [
+     "zombie",
+     250
+    ],
+    [
+     "skeleton",
+     226
+    ],
+    [
+     "slime",
+     80
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "skeleton",
+     1
+    ],
+    [
+     "creeper",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 29,
+    "byTab": {
+     "adventure": 11,
+     "story": 13,
+     "husbandry": 4,
+     "nether": 1
+    },
+    "recent": [
+     [
+      "story/follow_ender_eye",
+      "2026-10-14T01:18:25Z"
+     ],
+     [
+      "adventure/throw_trident",
+      "2026-10-13T12:41:10Z"
+     ],
+     [
+      "adventure/shoot_arrow",
+      "2026-10-13T10:53:07Z"
+     ],
+     [
+      "adventure/revaulting",
+      "2026-10-13T09:58:15Z"
+     ],
+     [
+      "adventure/under_lock_and_key",
+      "2026-10-13T09:55:51Z"
+     ],
+     [
+      "adventure/minecraft_trials_edition",
+      "2026-10-13T09:43:57Z"
+     ],
+     [
+      "husbandry/breed_an_animal",
+      "2026-10-12T07:14:57Z"
+     ],
+     [
+      "adventure/hero_of_the_village",
+      "2026-10-11T20:07:22Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
@@ -207,120 +321,6 @@
      [
       "adventure/totem_of_undying",
       "2026-10-11T18:40:35Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
-   "name": "TheWinterSolgier",
-   "firstSeen": null,
-   "lastSeen": "2026-10-15T10:34:41Z",
-   "playTicks": 2481637,
-   "deaths": 2,
-   "mobKills": 983,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 162755,
-   "damageTaken": 9975,
-   "distanceCm": 28609638,
-   "walkCm": 12736370,
-   "flyCm": 7275503,
-   "jumps": 27583,
-   "mined": 35876,
-   "topMined": [
-    [
-     "grass_block",
-     11847
-    ],
-    [
-     "dirt",
-     7800
-    ],
-    [
-     "sand",
-     7553
-    ]
-   ],
-   "crafted": 15015,
-   "topCrafted": [
-    [
-     "bamboo_planks",
-     6398
-    ],
-    [
-     "bamboo_block",
-     3525
-    ],
-    [
-     "emerald",
-     1666
-    ]
-   ],
-   "topKilled": [
-    [
-     "zombie",
-     250
-    ],
-    [
-     "skeleton",
-     226
-    ],
-    [
-     "slime",
-     80
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "skeleton",
-     1
-    ],
-    [
-     "creeper",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 29,
-    "byTab": {
-     "adventure": 11,
-     "story": 13,
-     "husbandry": 4,
-     "nether": 1
-    },
-    "recent": [
-     [
-      "story/follow_ender_eye",
-      "2026-10-14T01:18:25Z"
-     ],
-     [
-      "adventure/throw_trident",
-      "2026-10-13T12:41:10Z"
-     ],
-     [
-      "adventure/shoot_arrow",
-      "2026-10-13T10:53:07Z"
-     ],
-     [
-      "adventure/revaulting",
-      "2026-10-13T09:58:15Z"
-     ],
-     [
-      "adventure/under_lock_and_key",
-      "2026-10-13T09:55:51Z"
-     ],
-     [
-      "adventure/minecraft_trials_edition",
-      "2026-10-13T09:43:57Z"
-     ],
-     [
-      "husbandry/breed_an_animal",
-      "2026-10-12T07:14:57Z"
-     ],
-     [
-      "adventure/hero_of_the_village",
-      "2026-10-11T20:07:22Z"
      ]
     ]
    }
