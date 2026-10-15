@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T19:03:07Z",
+ "updated": "2026-10-15T19:06:18Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 6166243,
  "players": [
@@ -103,6 +103,115 @@
      [
       "story/upgrade_tools",
       "2026-10-11T12:02:25Z"
+     ]
+    ]
+   }
+  },
+  {
+   "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
+   "name": "Eingepacktt",
+   "firstSeen": null,
+   "lastSeen": "2026-10-15T19:05:34Z",
+   "playTicks": 2662868,
+   "deaths": 2,
+   "mobKills": 2454,
+   "playerKills": 2,
+   "killedByPlayers": 0,
+   "damageDealt": 242851,
+   "damageTaken": 15926,
+   "distanceCm": 30345868,
+   "walkCm": 9985616,
+   "flyCm": 10890562,
+   "jumps": 43339,
+   "mined": 24690,
+   "topMined": [
+    [
+     "dark_oak_log",
+     4099
+    ],
+    [
+     "spruce_log",
+     3657
+    ],
+    [
+     "grass_block",
+     2785
+    ]
+   ],
+   "crafted": 91999,
+   "topCrafted": [
+    [
+     "stick",
+     53577
+    ],
+    [
+     "dark_oak_planks",
+     15375
+    ],
+    [
+     "spruce_planks",
+     12888
+    ]
+   ],
+   "topKilled": [
+    [
+     "skeleton",
+     1483
+    ],
+    [
+     "zombie",
+     160
+    ],
+    [
+     "drowned",
+     156
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "warden",
+     2
+    ]
+   ],
+   "adv": {
+    "count": 21,
+    "byTab": {
+     "story": 9,
+     "adventure": 9,
+     "husbandry": 3
+    },
+    "recent": [
+     [
+      "adventure/avoid_vibration",
+      "2026-10-14T23:33:54Z"
+     ],
+     [
+      "adventure/revaulting",
+      "2026-10-14T15:11:08Z"
+     ],
+     [
+      "adventure/under_lock_and_key",
+      "2026-10-14T14:49:29Z"
+     ],
+     [
+      "adventure/minecraft_trials_edition",
+      "2026-10-14T14:48:13Z"
+     ],
+     [
+      "story/deflect_arrow",
+      "2026-10-12T21:38:29Z"
+     ],
+     [
+      "story/lava_bucket",
+      "2026-10-12T21:30:19Z"
+     ],
+     [
+      "husbandry/breed_an_animal",
+      "2026-10-12T15:56:26Z"
+     ],
+     [
+      "husbandry/plant_seed",
+      "2026-10-12T11:55:50Z"
      ]
     ]
    }
@@ -217,115 +326,6 @@
      [
       "adventure/hero_of_the_village",
       "2026-10-11T20:07:22Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
-   "name": "Eingepacktt",
-   "firstSeen": null,
-   "lastSeen": "2026-10-15T19:01:32Z",
-   "playTicks": 2658042,
-   "deaths": 2,
-   "mobKills": 2454,
-   "playerKills": 2,
-   "killedByPlayers": 0,
-   "damageDealt": 242851,
-   "damageTaken": 15922,
-   "distanceCm": 30314158,
-   "walkCm": 9956014,
-   "flyCm": 10889779,
-   "jumps": 43305,
-   "mined": 24377,
-   "topMined": [
-    [
-     "dark_oak_log",
-     4099
-    ],
-    [
-     "spruce_log",
-     3344
-    ],
-    [
-     "grass_block",
-     2785
-    ]
-   ],
-   "crafted": 91999,
-   "topCrafted": [
-    [
-     "stick",
-     53577
-    ],
-    [
-     "dark_oak_planks",
-     15375
-    ],
-    [
-     "spruce_planks",
-     12888
-    ]
-   ],
-   "topKilled": [
-    [
-     "skeleton",
-     1483
-    ],
-    [
-     "zombie",
-     160
-    ],
-    [
-     "drowned",
-     156
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "warden",
-     2
-    ]
-   ],
-   "adv": {
-    "count": 21,
-    "byTab": {
-     "story": 9,
-     "adventure": 9,
-     "husbandry": 3
-    },
-    "recent": [
-     [
-      "adventure/avoid_vibration",
-      "2026-10-14T23:33:54Z"
-     ],
-     [
-      "adventure/revaulting",
-      "2026-10-14T15:11:08Z"
-     ],
-     [
-      "adventure/under_lock_and_key",
-      "2026-10-14T14:49:29Z"
-     ],
-     [
-      "adventure/minecraft_trials_edition",
-      "2026-10-14T14:48:13Z"
-     ],
-     [
-      "story/deflect_arrow",
-      "2026-10-12T21:38:29Z"
-     ],
-     [
-      "story/lava_bucket",
-      "2026-10-12T21:30:19Z"
-     ],
-     [
-      "husbandry/breed_an_animal",
-      "2026-10-12T15:56:26Z"
-     ],
-     [
-      "husbandry/plant_seed",
-      "2026-10-12T11:55:50Z"
      ]
     ]
    }
@@ -774,18 +774,18 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-15T19:01:32Z",
-   "playTicks": 1529415,
+   "lastSeen": "2026-10-15T19:06:32Z",
+   "playTicks": 1535415,
    "deaths": 2,
-   "mobKills": 2150,
+   "mobKills": 2226,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 185088,
+   "damageDealt": 185758,
    "damageTaken": 13763,
-   "distanceCm": 16169357,
-   "walkCm": 6527989,
-   "flyCm": 3579451,
-   "jumps": 21192,
+   "distanceCm": 16187177,
+   "walkCm": 6533975,
+   "flyCm": 3580057,
+   "jumps": 21194,
    "mined": 12341,
    "topMined": [
     [
@@ -819,11 +819,11 @@
    "topKilled": [
     [
      "skeleton",
-     461
+     483
     ],
     [
      "zombie",
-     340
+     363
     ],
     [
      "slime",
@@ -1121,23 +1121,23 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-15T19:01:32Z",
-   "playTicks": 868603,
+   "lastSeen": "2026-10-15T19:05:53Z",
+   "playTicks": 873819,
    "deaths": 8,
-   "mobKills": 104,
+   "mobKills": 105,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 11986,
-   "damageTaken": 5189,
-   "distanceCm": 5850184,
-   "walkCm": 5156687,
-   "flyCm": 395606,
-   "jumps": 4936,
-   "mined": 12844,
+   "damageDealt": 12208,
+   "damageTaken": 5208,
+   "distanceCm": 5889266,
+   "walkCm": 5190060,
+   "flyCm": 399590,
+   "jumps": 4960,
+   "mined": 12902,
    "topMined": [
     [
      "stone",
-     8249
+     8307
     ],
     [
      "grass_block",
@@ -1148,7 +1148,7 @@
      634
     ]
    ],
-   "crafted": 2582,
+   "crafted": 2585,
    "topCrafted": [
     [
      "pale_oak_planks",
