@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T19:49:10Z",
+ "updated": "2026-10-15T19:50:59Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 6220243,
+ "serverTicks": 6226243,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -665,19 +665,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-15T19:46:32Z",
-   "playTicks": 1583231,
+   "lastSeen": "2026-10-15T19:49:51Z",
+   "playTicks": 1587209,
    "deaths": 2,
    "mobKills": 2389,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 187398,
-   "damageTaken": 14334,
-   "distanceCm": 17423260,
-   "walkCm": 6665663,
-   "flyCm": 3892279,
-   "jumps": 21726,
-   "mined": 12361,
+   "damageDealt": 187412,
+   "damageTaken": 14366,
+   "distanceCm": 17459148,
+   "walkCm": 6686649,
+   "flyCm": 3902870,
+   "jumps": 21760,
+   "mined": 12382,
    "topMined": [
     [
      "spruce_log",
@@ -692,7 +692,7 @@
      577
     ]
    ],
-   "crafted": 106394,
+   "crafted": 106431,
    "topCrafted": [
     [
      "stick",
@@ -704,7 +704,7 @@
     ],
     [
      "emerald",
-     2591
+     2609
     ]
    ],
    "topKilled": [
@@ -2370,20 +2370,20 @@
     "rendered": "2026-10-15T18:49:16Z"
    },
    "-6.0": {
-    "mtime": "2026-10-15T16:42:27Z",
-    "rendered": "2026-10-15T16:42:14Z"
+    "mtime": "2026-10-15T19:37:13Z",
+    "rendered": "2026-10-15T19:50:59Z"
    },
    "-3.-3": {
     "mtime": "2026-10-15T16:44:45Z",
     "rendered": "2026-10-15T16:45:27Z"
    },
    "-4.-2": {
-    "mtime": "2026-10-15T16:44:03Z",
-    "rendered": "2026-10-15T16:43:50Z"
+    "mtime": "2026-10-15T19:02:39Z",
+    "rendered": "2026-10-15T19:50:59Z"
    },
    "-5.-1": {
-    "mtime": "2026-10-15T16:43:26Z",
-    "rendered": "2026-10-15T16:43:50Z"
+    "mtime": "2026-10-15T19:36:32Z",
+    "rendered": "2026-10-15T19:50:59Z"
    },
    "-1.-5": {
     "mtime": "2026-10-14T06:04:11Z",
@@ -2443,8 +2443,8 @@
     "rendered": "2026-10-14T06:09:47Z"
    },
    "-7.5": {
-    "mtime": "2026-10-15T16:49:56Z",
-    "rendered": "2026-10-15T16:50:23Z"
+    "mtime": "2026-10-15T19:15:43Z",
+    "rendered": "2026-10-15T19:50:59Z"
    },
    "-6.6": {
     "mtime": "2026-10-15T19:14:51Z",
