@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-15T22:29:49Z",
+ "updated": "2026-10-15T22:31:36Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 6412243,
+ "serverTicks": 6418243,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T22:26:32Z",
-   "playTicks": 4231018,
+   "lastSeen": "2026-10-15T22:31:11Z",
+   "playTicks": 4236593,
    "deaths": 0,
-   "mobKills": 2794,
+   "mobKills": 2802,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 391391,
-   "damageTaken": 44172,
-   "distanceCm": 64536203,
-   "walkCm": 16800797,
-   "flyCm": 21470624,
-   "jumps": 88187,
-   "mined": 21857,
+   "damageDealt": 391631,
+   "damageTaken": 44198,
+   "distanceCm": 64732264,
+   "walkCm": 16821364,
+   "flyCm": 21543968,
+   "jumps": 88395,
+   "mined": 21858,
    "topMined": [
     [
      "spruce_log",
@@ -220,19 +220,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T22:26:32Z",
-   "playTicks": 2681130,
+   "lastSeen": "2026-10-15T22:31:32Z",
+   "playTicks": 2687130,
    "deaths": 0,
-   "mobKills": 935,
+   "mobKills": 1026,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 154312,
-   "damageTaken": 34175,
-   "distanceCm": 34276220,
-   "walkCm": 9003217,
-   "flyCm": 13391558,
-   "jumps": 47305,
-   "mined": 26046,
+   "damageDealt": 155231,
+   "damageTaken": 34377,
+   "distanceCm": 34306366,
+   "walkCm": 9018487,
+   "flyCm": 13392981,
+   "jumps": 47415,
+   "mined": 26088,
    "topMined": [
     [
      "stone",
@@ -438,18 +438,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-15T22:19:20Z",
-   "playTicks": 1894113,
+   "lastSeen": "2026-10-15T22:31:32Z",
+   "playTicks": 1897581,
    "deaths": 2,
-   "mobKills": 195,
+   "mobKills": 197,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 30473,
-   "damageTaken": 13831,
-   "distanceCm": 16504632,
-   "walkCm": 7055807,
-   "flyCm": 5475322,
-   "jumps": 27966,
+   "damageDealt": 30915,
+   "damageTaken": 13931,
+   "distanceCm": 16545856,
+   "walkCm": 7069472,
+   "flyCm": 5491463,
+   "jumps": 28048,
    "mined": 31137,
    "topMined": [
     [
@@ -483,7 +483,7 @@
    "topKilled": [
     [
      "zombie",
-     44
+     45
     ],
     [
      "villager",
@@ -491,7 +491,7 @@
     ],
     [
      "skeleton",
-     22
+     23
     ]
    ],
    "topKilledBy": [
@@ -665,19 +665,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-15T22:26:32Z",
-   "playTicks": 1723356,
+   "lastSeen": "2026-10-15T22:31:32Z",
+   "playTicks": 1729356,
    "deaths": 2,
-   "mobKills": 2643,
+   "mobKills": 2647,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 193711,
-   "damageTaken": 15914,
-   "distanceCm": 19647098,
-   "walkCm": 7048977,
-   "flyCm": 4606917,
-   "jumps": 23166,
-   "mined": 13231,
+   "damageDealt": 193846,
+   "damageTaken": 16116,
+   "distanceCm": 19705704,
+   "walkCm": 7089173,
+   "flyCm": 4614693,
+   "jumps": 23208,
+   "mined": 13413,
    "topMined": [
     [
      "spruce_log",
@@ -1242,8 +1242,8 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-15T22:26:32Z",
-   "playTicks": 462997,
+   "lastSeen": "2026-10-15T22:31:08Z",
+   "playTicks": 468521,
    "deaths": 0,
    "mobKills": 442,
    "playerKills": 0,
@@ -1891,8 +1891,8 @@
     "rendered": "2026-10-15T19:36:12Z"
    },
    "-2.0": {
-    "mtime": "2026-10-15T19:01:52Z",
-    "rendered": "2026-10-15T19:30:58Z"
+    "mtime": "2026-10-15T21:43:52Z",
+    "rendered": "2026-10-15T22:31:36Z"
    },
    "-3.5": {
     "mtime": "2026-10-15T21:36:03Z",
@@ -2300,8 +2300,8 @@
     "empty": true
    },
    "-1.-9": {
-    "mtime": "2026-10-15T19:31:32Z",
-    "rendered": "2026-10-15T19:30:58Z"
+    "mtime": "2026-10-15T19:42:19Z",
+    "rendered": "2026-10-15T22:31:36Z"
    },
    "1.-7": {
     "mtime": "2026-10-14T06:04:11Z",
@@ -2825,12 +2825,12 @@
     "rendered": "2026-10-15T22:29:49Z"
    },
    "-7.6": {
-    "mtime": "2026-10-15T19:14:51Z",
-    "rendered": "2026-10-15T19:14:30Z"
+    "mtime": "2026-10-15T21:32:01Z",
+    "rendered": "2026-10-15T22:31:36Z"
    },
    "-8.5": {
-    "mtime": "2026-10-15T19:14:19Z",
-    "rendered": "2026-10-15T19:14:30Z"
+    "mtime": "2026-10-15T21:32:01Z",
+    "rendered": "2026-10-15T22:31:36Z"
    },
    "-15.-1": {
     "mtime": "2026-10-15T06:04:18Z",
