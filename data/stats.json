@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-15T17:03:15Z",
+ "updated": "2026-10-15T17:04:45Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 6035084,
+ "serverTicks": 6041084,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T16:59:41Z",
-   "playTicks": 3914041,
+   "lastSeen": "2026-10-15T17:04:41Z",
+   "playTicks": 3920041,
    "deaths": 0,
    "mobKills": 2220,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 324043,
    "damageTaken": 36541,
-   "distanceCm": 53753439,
-   "walkCm": 15959611,
-   "flyCm": 18633952,
-   "jumps": 81409,
-   "mined": 20671,
+   "distanceCm": 53783827,
+   "walkCm": 15982383,
+   "flyCm": 18638480,
+   "jumps": 81461,
+   "mined": 20702,
    "topMined": [
     [
      "spruce_log",
-     5774
+     5805
     ],
     [
      "dirt",
@@ -34,7 +34,7 @@
      1685
     ]
    ],
-   "crafted": 76028,
+   "crafted": 76030,
    "topCrafted": [
     [
      "stick",
@@ -225,8 +225,8 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T16:59:41Z",
-   "playTicks": 2600535,
+   "lastSeen": "2026-10-15T17:04:41Z",
+   "playTicks": 2606535,
    "deaths": 2,
    "mobKills": 2332,
    "playerKills": 2,
@@ -1008,8 +1008,8 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-15T16:59:41Z",
-   "playTicks": 981565,
+   "lastSeen": "2026-10-15T17:04:41Z",
+   "playTicks": 987565,
    "deaths": 2,
    "mobKills": 307,
    "playerKills": 0,
@@ -3275,6 +3275,21 @@
    "12.10": {
     "mtime": "2026-10-10T19:48:47Z",
     "rendered": "2026-10-15T17:03:15Z",
+    "empty": true
+   },
+   "-3.-21": {
+    "mtime": "2026-10-14T06:04:11Z",
+    "rendered": "2026-10-15T17:04:45Z",
+    "empty": true
+   },
+   "-9.24": {
+    "mtime": "2026-10-10T19:56:10Z",
+    "rendered": "2026-10-15T17:04:45Z",
+    "empty": true
+   },
+   "29.-20": {
+    "mtime": "2026-10-10T22:18:58Z",
+    "rendered": "2026-10-15T17:04:45Z",
     "empty": true
    }
   }
