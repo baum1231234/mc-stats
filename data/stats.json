@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T18:35:02Z",
+ "updated": "2026-10-15T18:36:41Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 6130243,
+ "serverTicks": 6136243,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -774,19 +774,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-15T18:31:30Z",
-   "playTicks": 1493415,
+   "lastSeen": "2026-10-15T18:36:30Z",
+   "playTicks": 1499415,
    "deaths": 2,
-   "mobKills": 1822,
+   "mobKills": 1829,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 181125,
-   "damageTaken": 13492,
-   "distanceCm": 15847223,
-   "walkCm": 6434957,
-   "flyCm": 3467657,
-   "jumps": 20830,
-   "mined": 12282,
+   "damageDealt": 182278,
+   "damageTaken": 13513,
+   "distanceCm": 15960227,
+   "walkCm": 6477016,
+   "flyCm": 3500907,
+   "jumps": 20936,
+   "mined": 12285,
    "topMined": [
     [
      "spruce_log",
@@ -801,7 +801,7 @@
      577
     ]
    ],
-   "crafted": 105741,
+   "crafted": 105825,
    "topCrafted": [
     [
      "stick",
