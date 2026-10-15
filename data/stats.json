@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T11:06:20Z",
+ "updated": "2026-10-15T11:07:59Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 5609084,
+ "serverTicks": 5613103,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -329,19 +329,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T11:04:41Z",
-   "playTicks": 2188599,
+   "lastSeen": "2026-10-15T11:08:02Z",
+   "playTicks": 2192618,
    "deaths": 2,
-   "mobKills": 1695,
+   "mobKills": 1707,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 190227,
-   "damageTaken": 13829,
-   "distanceCm": 26800044,
-   "walkCm": 8789664,
-   "flyCm": 9684916,
-   "jumps": 38179,
-   "mined": 21282,
+   "damageDealt": 192212,
+   "damageTaken": 13929,
+   "distanceCm": 26836393,
+   "walkCm": 8805995,
+   "flyCm": 9701681,
+   "jumps": 38287,
+   "mined": 21284,
    "topMined": [
     [
      "dark_oak_log",
@@ -356,15 +356,15 @@
      2140
     ]
    ],
-   "crafted": 61118,
+   "crafted": 61133,
    "topCrafted": [
     [
      "stick",
-     34097
+     34101
     ],
     [
      "dark_oak_planks",
-     15371
+     15375
     ],
     [
      "spruce_planks",
@@ -374,7 +374,7 @@
    "topKilled": [
     [
      "skeleton",
-     811
+     815
     ],
     [
      "drowned",
@@ -382,7 +382,7 @@
     ],
     [
      "zombie",
-     142
+     146
     ]
    ],
    "topKilledBy": [
