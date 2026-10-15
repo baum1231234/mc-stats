@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T10:54:51Z",
+ "updated": "2026-10-15T10:59:45Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 5597084,
+ "serverTicks": 5603084,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,19 +111,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T10:54:41Z",
-   "playTicks": 2505637,
+   "lastSeen": "2026-10-15T10:59:41Z",
+   "playTicks": 2511637,
    "deaths": 2,
    "mobKills": 983,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 162755,
    "damageTaken": 9975,
-   "distanceCm": 28972349,
-   "walkCm": 12803486,
-   "flyCm": 7557654,
-   "jumps": 27648,
-   "mined": 36245,
+   "distanceCm": 29022833,
+   "walkCm": 12839844,
+   "flyCm": 7569750,
+   "jumps": 27677,
+   "mined": 36664,
    "topMined": [
     [
      "grass_block",
@@ -135,7 +135,7 @@
     ],
     [
      "sand",
-     7617
+     7622
     ]
    ],
    "crafted": 15015,
@@ -329,19 +329,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T10:54:41Z",
-   "playTicks": 2176599,
+   "lastSeen": "2026-10-15T10:59:41Z",
+   "playTicks": 2182599,
    "deaths": 2,
-   "mobKills": 1692,
+   "mobKills": 1695,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 189799,
-   "damageTaken": 13734,
-   "distanceCm": 26746391,
-   "walkCm": 8755329,
-   "flyCm": 9668659,
-   "jumps": 38036,
-   "mined": 20932,
+   "damageDealt": 190227,
+   "damageTaken": 13829,
+   "distanceCm": 26783166,
+   "walkCm": 8773143,
+   "flyCm": 9684559,
+   "jumps": 38125,
+   "mined": 21065,
    "topMined": [
     [
      "dark_oak_log",
@@ -349,14 +349,14 @@
     ],
     [
      "grass_block",
-     2758
+     2759
     ],
     [
      "stone",
-     2099
+     2140
     ]
    ],
-   "crafted": 61098,
+   "crafted": 61118,
    "topCrafted": [
     [
      "stick",
@@ -374,7 +374,7 @@
    "topKilled": [
     [
      "skeleton",
-     810
+     811
     ],
     [
      "drowned",
@@ -382,7 +382,7 @@
     ],
     [
      "zombie",
-     140
+     142
     ]
    ],
    "topKilledBy": [
