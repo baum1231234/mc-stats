@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-15T00:01:53Z",
+ "updated": "2026-10-15T00:05:12Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 5334904,
+ "serverTicks": 5340904,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T23:58:59Z",
-   "playTicks": 3610121,
+   "lastSeen": "2026-10-15T00:03:59Z",
+   "playTicks": 3616121,
    "deaths": 0,
-   "mobKills": 1757,
+   "mobKills": 1758,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 266499,
-   "damageTaken": 32859,
-   "distanceCm": 46803207,
-   "walkCm": 14827157,
-   "flyCm": 16814197,
-   "jumps": 75064,
-   "mined": 19963,
+   "damageDealt": 266579,
+   "damageTaken": 32893,
+   "distanceCm": 46855604,
+   "walkCm": 14853098,
+   "flyCm": 16836203,
+   "jumps": 75247,
+   "mined": 20038,
    "topMined": [
     [
      "spruce_log",
@@ -27,14 +27,14 @@
     ],
     [
      "dirt",
-     2718
+     2749
     ],
     [
      "grass_block",
-     1679
+     1680
     ]
    ],
-   "crafted": 73143,
+   "crafted": 73269,
    "topCrafted": [
     [
      "stick",
@@ -215,31 +215,31 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-14T23:59:00Z",
-   "playTicks": 2378608,
+   "lastSeen": "2026-10-15T00:04:00Z",
+   "playTicks": 2384608,
    "deaths": 2,
-   "mobKills": 946,
+   "mobKills": 961,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 157973,
+   "damageDealt": 158667,
    "damageTaken": 9674,
-   "distanceCm": 27905525,
-   "walkCm": 12373664,
-   "flyCm": 6978610,
-   "jumps": 26733,
-   "mined": 35032,
+   "distanceCm": 27963900,
+   "walkCm": 12423769,
+   "flyCm": 6986639,
+   "jumps": 26764,
+   "mined": 35192,
    "topMined": [
     [
      "grass_block",
-     11661
+     11717
     ],
     [
      "dirt",
-     7463
+     7477
     ],
     [
      "sand",
-     7350
+     7438
     ]
    ],
    "crafted": 14887,
@@ -1129,19 +1129,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-14T23:58:59Z",
-   "playTicks": 822225,
+   "lastSeen": "2026-10-15T00:03:59Z",
+   "playTicks": 828225,
    "deaths": 2,
    "mobKills": 261,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 38002,
-   "damageTaken": 6186,
-   "distanceCm": 7674986,
-   "walkCm": 3468630,
-   "flyCm": 2265942,
-   "jumps": 12222,
-   "mined": 5844,
+   "damageTaken": 6206,
+   "distanceCm": 7700301,
+   "walkCm": 3490352,
+   "flyCm": 2266194,
+   "jumps": 12226,
+   "mined": 5937,
    "topMined": [
     [
      "grass_block",
@@ -1149,14 +1149,14 @@
     ],
     [
      "dirt",
-     686
+     694
     ],
     [
      "stone",
-     523
+     567
     ]
    ],
-   "crafted": 5028,
+   "crafted": 5029,
    "topCrafted": [
     [
      "stick",
@@ -1450,27 +1450,27 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-14T23:58:59Z",
-   "playTicks": 106750,
+   "lastSeen": "2026-10-15T00:03:59Z",
+   "playTicks": 112750,
    "deaths": 1,
    "mobKills": 22,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 4301,
    "damageTaken": 1543,
-   "distanceCm": 1081945,
-   "walkCm": 389912,
+   "distanceCm": 1100366,
+   "walkCm": 408333,
    "flyCm": 330625,
    "jumps": 1674,
-   "mined": 987,
+   "mined": 1223,
    "topMined": [
     [
      "deepslate",
-     726
+     956
     ],
     [
      "tuff",
-     75
+     79
     ],
     [
      "gravel",
