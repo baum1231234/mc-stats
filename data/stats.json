@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-15T15:53:00Z",
+ "updated": "2026-10-15T15:54:34Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 5955498,
+ "serverTicks": 5957084,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -225,8 +225,8 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T15:49:41Z",
-   "playTicks": 2516535,
+   "lastSeen": "2026-10-15T15:53:22Z",
+   "playTicks": 2520949,
    "deaths": 2,
    "mobKills": 2095,
    "playerKills": 2,
@@ -548,120 +548,11 @@
    }
   },
   {
-   "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
-   "name": "imoptimalfall187",
-   "firstSeen": "2026-10-13T19:10:19Z",
-   "lastSeen": "2026-10-15T09:38:20Z",
-   "playTicks": 1553478,
-   "deaths": 1,
-   "mobKills": 309,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 48103,
-   "damageTaken": 10351,
-   "distanceCm": 11846561,
-   "walkCm": 6337093,
-   "flyCm": 2628803,
-   "jumps": 16397,
-   "mined": 12639,
-   "topMined": [
-    [
-     "stone",
-     4812
-    ],
-    [
-     "dirt",
-     831
-    ],
-    [
-     "wheat",
-     731
-    ]
-   ],
-   "crafted": 9885,
-   "topCrafted": [
-    [
-     "stick",
-     2678
-    ],
-    [
-     "stone",
-     1017
-    ],
-    [
-     "cherry_planks",
-     940
-    ]
-   ],
-   "topKilled": [
-    [
-     "skeleton",
-     81
-    ],
-    [
-     "zombie",
-     63
-    ],
-    [
-     "sheep",
-     31
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "zombie",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 19,
-    "byTab": {
-     "adventure": 5,
-     "story": 10,
-     "husbandry": 4
-    },
-    "recent": [
-     [
-      "story/enchant_item",
-      "2026-10-14T12:42:57Z"
-     ],
-     [
-      "adventure/trade",
-      "2026-10-14T11:01:21Z"
-     ],
-     [
-      "story/form_obsidian",
-      "2026-10-14T10:45:59Z"
-     ],
-     [
-      "husbandry/tame_an_animal",
-      "2026-10-14T07:49:06Z"
-     ],
-     [
-      "story/shiny_gear",
-      "2026-10-13T12:34:11Z"
-     ],
-     [
-      "husbandry/breed_an_animal",
-      "2026-10-12T16:32:02Z"
-     ],
-     [
-      "husbandry/plant_seed",
-      "2026-10-12T16:12:58Z"
-     ],
-     [
-      "adventure/sleep_in_bed",
-      "2026-10-12T08:53:28Z"
-     ]
-    ]
-   }
-  },
-  {
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-15T15:49:41Z",
-   "playTicks": 1551219,
+   "lastSeen": "2026-10-15T15:54:41Z",
+   "playTicks": 1557219,
    "deaths": 2,
    "mobKills": 130,
    "playerKills": 0,
@@ -771,11 +662,120 @@
    }
   },
   {
+   "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
+   "name": "imoptimalfall187",
+   "firstSeen": "2026-10-13T19:10:19Z",
+   "lastSeen": "2026-10-15T09:38:20Z",
+   "playTicks": 1553478,
+   "deaths": 1,
+   "mobKills": 309,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 48103,
+   "damageTaken": 10351,
+   "distanceCm": 11846561,
+   "walkCm": 6337093,
+   "flyCm": 2628803,
+   "jumps": 16397,
+   "mined": 12639,
+   "topMined": [
+    [
+     "stone",
+     4812
+    ],
+    [
+     "dirt",
+     831
+    ],
+    [
+     "wheat",
+     731
+    ]
+   ],
+   "crafted": 9885,
+   "topCrafted": [
+    [
+     "stick",
+     2678
+    ],
+    [
+     "stone",
+     1017
+    ],
+    [
+     "cherry_planks",
+     940
+    ]
+   ],
+   "topKilled": [
+    [
+     "skeleton",
+     81
+    ],
+    [
+     "zombie",
+     63
+    ],
+    [
+     "sheep",
+     31
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "zombie",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 19,
+    "byTab": {
+     "adventure": 5,
+     "story": 10,
+     "husbandry": 4
+    },
+    "recent": [
+     [
+      "story/enchant_item",
+      "2026-10-14T12:42:57Z"
+     ],
+     [
+      "adventure/trade",
+      "2026-10-14T11:01:21Z"
+     ],
+     [
+      "story/form_obsidian",
+      "2026-10-14T10:45:59Z"
+     ],
+     [
+      "husbandry/tame_an_animal",
+      "2026-10-14T07:49:06Z"
+     ],
+     [
+      "story/shiny_gear",
+      "2026-10-13T12:34:11Z"
+     ],
+     [
+      "husbandry/breed_an_animal",
+      "2026-10-12T16:32:02Z"
+     ],
+     [
+      "husbandry/plant_seed",
+      "2026-10-12T16:12:58Z"
+     ],
+     [
+      "adventure/sleep_in_bed",
+      "2026-10-12T08:53:28Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-15T15:49:41Z",
-   "playTicks": 1322972,
+   "lastSeen": "2026-10-15T15:54:41Z",
+   "playTicks": 1328972,
    "deaths": 2,
    "mobKills": 1765,
    "playerKills": 0,
@@ -1008,19 +1008,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-15T15:49:41Z",
-   "playTicks": 897565,
+   "lastSeen": "2026-10-15T15:54:41Z",
+   "playTicks": 903565,
    "deaths": 2,
    "mobKills": 266,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 39032,
-   "damageTaken": 6477,
-   "distanceCm": 8040394,
-   "walkCm": 3726934,
-   "flyCm": 2351116,
-   "jumps": 12744,
-   "mined": 6409,
+   "damageTaken": 6487,
+   "distanceCm": 8100281,
+   "walkCm": 3765918,
+   "flyCm": 2367458,
+   "jumps": 12820,
+   "mined": 6443,
    "topMined": [
     [
      "grass_block",
@@ -1028,14 +1028,14 @@
     ],
     [
      "dirt",
-     696
+     700
     ],
     [
      "stone",
-     588
+     590
     ]
    ],
-   "crafted": 5214,
+   "crafted": 5247,
    "topCrafted": [
     [
      "stick",
@@ -1831,8 +1831,8 @@
     "rendered": "2026-10-15T15:09:08Z"
    },
    "0.-2": {
-    "mtime": "2026-10-15T12:54:33Z",
-    "rendered": "2026-10-15T12:54:23Z"
+    "mtime": "2026-10-15T14:48:36Z",
+    "rendered": "2026-10-15T15:54:34Z"
    },
    "0.-1": {
     "mtime": "2026-10-15T15:04:52Z",
@@ -1895,8 +1895,8 @@
     "rendered": "2026-10-15T15:00:20Z"
    },
    "-1.-2": {
-    "mtime": "2026-10-15T12:46:37Z",
-    "rendered": "2026-10-15T12:54:23Z"
+    "mtime": "2026-10-15T14:48:35Z",
+    "rendered": "2026-10-15T15:54:34Z"
    },
    "2.2": {
     "mtime": "2026-10-15T15:30:53Z",
