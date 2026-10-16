@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-16T01:37:39Z",
+ "updated": "2026-10-16T01:39:30Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 6640243,
+ "serverTicks": 6643456,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T01:36:32Z",
-   "playTicks": 4458163,
+   "lastSeen": "2026-10-16T01:39:13Z",
+   "playTicks": 4461376,
    "deaths": 0,
-   "mobKills": 2939,
+   "mobKills": 2940,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 404053,
-   "damageTaken": 45705,
-   "distanceCm": 67199878,
-   "walkCm": 17968521,
-   "flyCm": 22427882,
-   "jumps": 92867,
-   "mined": 25807,
+   "damageDealt": 404252,
+   "damageTaken": 45757,
+   "distanceCm": 67249378,
+   "walkCm": 17977559,
+   "flyCm": 22434539,
+   "jumps": 92907,
+   "mined": 25810,
    "topMined": [
     [
      "spruce_log",
@@ -56,7 +56,7 @@
     ],
     [
      "zombie",
-     409
+     410
     ],
     [
      "slime",
@@ -111,8 +111,8 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T01:36:32Z",
-   "playTicks": 2908372,
+   "lastSeen": "2026-10-16T01:39:13Z",
+   "playTicks": 2911585,
    "deaths": 3,
    "mobKills": 2712,
    "playerKills": 2,
@@ -217,6 +217,120 @@
    }
   },
   {
+   "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
+   "name": "TheWinterSolgier",
+   "firstSeen": null,
+   "lastSeen": "2026-10-16T01:39:13Z",
+   "playTicks": 2771514,
+   "deaths": 2,
+   "mobKills": 1101,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 183426,
+   "damageTaken": 10510,
+   "distanceCm": 30833813,
+   "walkCm": 13993445,
+   "flyCm": 7988379,
+   "jumps": 29782,
+   "mined": 42728,
+   "topMined": [
+    [
+     "grass_block",
+     11855
+    ],
+    [
+     "sand",
+     8171
+    ],
+    [
+     "dirt",
+     7996
+    ]
+   ],
+   "crafted": 15052,
+   "topCrafted": [
+    [
+     "bamboo_planks",
+     6398
+    ],
+    [
+     "bamboo_block",
+     3525
+    ],
+    [
+     "emerald",
+     1666
+    ]
+   ],
+   "topKilled": [
+    [
+     "zombie",
+     319
+    ],
+    [
+     "skeleton",
+     248
+    ],
+    [
+     "slime",
+     80
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "skeleton",
+     1
+    ],
+    [
+     "creeper",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 29,
+    "byTab": {
+     "adventure": 11,
+     "story": 13,
+     "husbandry": 4,
+     "nether": 1
+    },
+    "recent": [
+     [
+      "story/follow_ender_eye",
+      "2026-10-14T01:18:25Z"
+     ],
+     [
+      "adventure/throw_trident",
+      "2026-10-13T12:41:10Z"
+     ],
+     [
+      "adventure/shoot_arrow",
+      "2026-10-13T10:53:07Z"
+     ],
+     [
+      "adventure/revaulting",
+      "2026-10-13T09:58:15Z"
+     ],
+     [
+      "adventure/under_lock_and_key",
+      "2026-10-13T09:55:51Z"
+     ],
+     [
+      "adventure/minecraft_trials_edition",
+      "2026-10-13T09:43:57Z"
+     ],
+     [
+      "husbandry/breed_an_animal",
+      "2026-10-12T07:14:57Z"
+     ],
+     [
+      "adventure/hero_of_the_village",
+      "2026-10-11T20:07:22Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
@@ -316,120 +430,6 @@
      [
       "adventure/totem_of_undying",
       "2026-10-11T18:40:35Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
-   "name": "TheWinterSolgier",
-   "firstSeen": null,
-   "lastSeen": "2026-10-16T01:36:32Z",
-   "playTicks": 2768301,
-   "deaths": 2,
-   "mobKills": 1099,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 183266,
-   "damageTaken": 10498,
-   "distanceCm": 30801747,
-   "walkCm": 13982592,
-   "flyCm": 7974845,
-   "jumps": 29748,
-   "mined": 42727,
-   "topMined": [
-    [
-     "grass_block",
-     11855
-    ],
-    [
-     "sand",
-     8171
-    ],
-    [
-     "dirt",
-     7996
-    ]
-   ],
-   "crafted": 15052,
-   "topCrafted": [
-    [
-     "bamboo_planks",
-     6398
-    ],
-    [
-     "bamboo_block",
-     3525
-    ],
-    [
-     "emerald",
-     1666
-    ]
-   ],
-   "topKilled": [
-    [
-     "zombie",
-     317
-    ],
-    [
-     "skeleton",
-     248
-    ],
-    [
-     "slime",
-     80
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "skeleton",
-     1
-    ],
-    [
-     "creeper",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 29,
-    "byTab": {
-     "adventure": 11,
-     "story": 13,
-     "husbandry": 4,
-     "nether": 1
-    },
-    "recent": [
-     [
-      "story/follow_ender_eye",
-      "2026-10-14T01:18:25Z"
-     ],
-     [
-      "adventure/throw_trident",
-      "2026-10-13T12:41:10Z"
-     ],
-     [
-      "adventure/shoot_arrow",
-      "2026-10-13T10:53:07Z"
-     ],
-     [
-      "adventure/revaulting",
-      "2026-10-13T09:58:15Z"
-     ],
-     [
-      "adventure/under_lock_and_key",
-      "2026-10-13T09:55:51Z"
-     ],
-     [
-      "adventure/minecraft_trials_edition",
-      "2026-10-13T09:43:57Z"
-     ],
-     [
-      "husbandry/breed_an_animal",
-      "2026-10-12T07:14:57Z"
-     ],
-     [
-      "adventure/hero_of_the_village",
-      "2026-10-11T20:07:22Z"
      ]
     ]
    }
@@ -552,19 +552,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-16T01:36:32Z",
-   "playTicks": 1951305,
+   "lastSeen": "2026-10-16T01:39:13Z",
+   "playTicks": 1954518,
    "deaths": 2,
    "mobKills": 2787,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 207677,
    "damageTaken": 17745,
-   "distanceCm": 22853395,
-   "walkCm": 8414691,
-   "flyCm": 5367879,
-   "jumps": 26806,
-   "mined": 18481,
+   "distanceCm": 22875678,
+   "walkCm": 8433502,
+   "flyCm": 5370901,
+   "jumps": 26838,
+   "mined": 18506,
    "topMined": [
     [
      "spruce_log",
@@ -579,7 +579,7 @@
      876
     ]
    ],
-   "crafted": 107303,
+   "crafted": 107322,
    "topCrafted": [
     [
      "stick",
@@ -883,18 +883,18 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-16T01:36:32Z",
-   "playTicks": 1079627,
+   "lastSeen": "2026-10-16T01:39:13Z",
+   "playTicks": 1082840,
    "deaths": 3,
    "mobKills": 326,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 47773,
-   "damageTaken": 7712,
-   "distanceCm": 9587642,
-   "walkCm": 4352181,
-   "flyCm": 2991167,
-   "jumps": 15788,
+   "damageTaken": 7782,
+   "distanceCm": 9651697,
+   "walkCm": 4364969,
+   "flyCm": 3017576,
+   "jumps": 15928,
    "mined": 7000,
    "topMined": [
     [
@@ -1121,19 +1121,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-16T01:36:32Z",
-   "playTicks": 917271,
+   "lastSeen": "2026-10-16T01:39:13Z",
+   "playTicks": 920484,
    "deaths": 8,
    "mobKills": 114,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 14114,
    "damageTaken": 5883,
-   "distanceCm": 6472812,
-   "walkCm": 5521982,
+   "distanceCm": 6474560,
+   "walkCm": 5523730,
    "flyCm": 523991,
-   "jumps": 5665,
-   "mined": 12947,
+   "jumps": 5673,
+   "mined": 12949,
    "topMined": [
     [
      "stone",
@@ -3062,8 +3062,8 @@
     "rendered": "2026-10-16T01:09:34Z"
    },
    "-8.-3": {
-    "mtime": "2026-10-15T22:26:45Z",
-    "rendered": "2026-10-15T22:38:03Z"
+    "mtime": "2026-10-15T22:49:59Z",
+    "rendered": "2026-10-16T01:39:30Z"
    },
    "-9.-4": {
     "mtime": "2026-10-15T22:49:35Z",
@@ -3409,6 +3409,18 @@
    "5.8": {
     "mtime": "2026-10-12T06:04:29Z",
     "rendered": "2026-10-12T18:12:14Z"
+   },
+   "6.7": {
+    "mtime": "2026-10-12T06:04:29Z",
+    "rendered": "2026-10-16T01:39:30Z"
+   },
+   "7.6": {
+    "mtime": "2026-10-12T06:04:29Z",
+    "rendered": "2026-10-16T01:39:30Z"
+   },
+   "2.11": {
+    "mtime": "2026-10-15T21:32:01Z",
+    "rendered": "2026-10-16T01:39:30Z"
    }
   }
  }
