@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-16T17:01:42Z",
+ "updated": "2026-10-16T17:03:32Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7301141,
+ "serverTicks": 7304432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,8 +111,8 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T17:00:29Z",
-   "playTicks": 3260412,
+   "lastSeen": "2026-10-16T17:03:13Z",
+   "playTicks": 3263703,
    "deaths": 4,
    "mobKills": 2855,
    "playerKills": 2,
@@ -1450,19 +1450,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-16T17:00:29Z",
-   "playTicks": 319178,
+   "lastSeen": "2026-10-16T17:03:13Z",
+   "playTicks": 322469,
    "deaths": 4,
    "mobKills": 74,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 15325,
-   "damageTaken": 4882,
-   "distanceCm": 3008399,
-   "walkCm": 1190714,
-   "flyCm": 1127737,
-   "jumps": 5577,
-   "mined": 3182,
+   "damageTaken": 4892,
+   "distanceCm": 3099507,
+   "walkCm": 1198172,
+   "flyCm": 1158562,
+   "jumps": 5672,
+   "mined": 3183,
    "topMined": [
     [
      "deepslate",
@@ -1517,13 +1517,21 @@
     ]
    ],
    "adv": {
-    "count": 15,
+    "count": 17,
     "byTab": {
-     "story": 9,
+     "story": 11,
      "adventure": 5,
      "husbandry": 1
     },
     "recent": [
+     [
+      "story/lava_bucket",
+      "2026-10-16T17:01:25Z"
+     ],
+     [
+      "story/form_obsidian",
+      "2026-10-16T17:01:17Z"
+     ],
      [
       "adventure/sleep_in_bed",
       "2026-10-16T16:13:11Z"
@@ -1547,14 +1555,6 @@
      [
       "adventure/kill_a_mob",
       "2026-10-14T22:54:38Z"
-     ],
-     [
-      "story/deflect_arrow",
-      "2026-10-14T22:54:23Z"
-     ],
-     [
-      "story/mine_stone",
-      "2026-10-14T22:53:17Z"
      ]
     ]
    }
