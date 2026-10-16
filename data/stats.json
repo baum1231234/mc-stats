@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-16T14:02:33Z",
+ "updated": "2026-10-16T14:04:10Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7084907,
+ "serverTicks": 7088432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -225,19 +225,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T14:00:17Z",
-   "playTicks": 3044178,
+   "lastSeen": "2026-10-16T14:03:13Z",
+   "playTicks": 3047703,
    "deaths": 4,
-   "mobKills": 2781,
+   "mobKills": 2783,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 272587,
-   "damageTaken": 20960,
-   "distanceCm": 38397765,
-   "walkCm": 10991653,
-   "flyCm": 14052706,
-   "jumps": 47868,
-   "mined": 27715,
+   "damageDealt": 273087,
+   "damageTaken": 20999,
+   "distanceCm": 38466389,
+   "walkCm": 11012048,
+   "flyCm": 14071221,
+   "jumps": 47959,
+   "mined": 27717,
    "topMined": [
     [
      "dark_oak_log",
@@ -252,7 +252,7 @@
      2806
     ]
    ],
-   "crafted": 97242,
+   "crafted": 97244,
    "topCrafted": [
     [
      "stick",
@@ -274,7 +274,7 @@
     ],
     [
      "zombie",
-     183
+     184
     ],
     [
      "drowned",
@@ -334,8 +334,8 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T14:00:17Z",
-   "playTicks": 2984585,
+   "lastSeen": "2026-10-16T14:03:13Z",
+   "playTicks": 2988110,
    "deaths": 0,
    "mobKills": 3297,
    "playerKills": 0,
@@ -996,31 +996,31 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-16T14:00:17Z",
-   "playTicks": 1139487,
+   "lastSeen": "2026-10-16T14:03:13Z",
+   "playTicks": 1143012,
    "deaths": 10,
-   "mobKills": 190,
+   "mobKills": 193,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 24474,
-   "damageTaken": 8804,
-   "distanceCm": 8471653,
-   "walkCm": 6946105,
-   "flyCm": 790647,
-   "jumps": 8127,
-   "mined": 16547,
+   "damageDealt": 25070,
+   "damageTaken": 8826,
+   "distanceCm": 8509423,
+   "walkCm": 6981363,
+   "flyCm": 792384,
+   "jumps": 8134,
+   "mined": 16622,
    "topMined": [
     [
      "stone",
-     8601
+     8612
     ],
     [
      "grass_block",
-     3441
+     3458
     ],
     [
      "dirt",
-     1597
+     1643
     ]
    ],
    "crafted": 2992,
@@ -1041,7 +1041,7 @@
    "topKilled": [
     [
      "zombie",
-     52
+     55
     ],
     [
      "sheep",
