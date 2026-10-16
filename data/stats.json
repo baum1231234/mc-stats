@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-16T23:47:55Z",
+ "updated": "2026-10-16T23:49:33Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7786622,
+ "serverTicks": 7790432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -220,19 +220,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T23:45:58Z",
-   "playTicks": 3341580,
+   "lastSeen": "2026-10-16T23:49:08Z",
+   "playTicks": 3345390,
    "deaths": 2,
    "mobKills": 1655,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 231257,
-   "damageTaken": 11935,
-   "distanceCm": 35671791,
-   "walkCm": 16040212,
-   "flyCm": 9782901,
-   "jumps": 35555,
-   "mined": 55994,
+   "damageTaken": 11941,
+   "distanceCm": 35719143,
+   "walkCm": 16057918,
+   "flyCm": 9806970,
+   "jumps": 35610,
+   "mined": 56026,
    "topMined": [
     [
      "grass_block",
@@ -247,7 +247,7 @@
      9167
     ]
    ],
-   "crafted": 30362,
+   "crafted": 30740,
    "topCrafted": [
     [
      "bamboo_planks",
@@ -1242,8 +1242,8 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-16T23:45:58Z",
-   "playTicks": 747422,
+   "lastSeen": "2026-10-16T23:49:08Z",
+   "playTicks": 751232,
    "deaths": 4,
    "mobKills": 80,
    "playerKills": 0,
@@ -2042,8 +2042,8 @@
     "rendered": "2026-10-16T22:04:38Z"
    },
    "-4.5": {
-    "mtime": "2026-10-16T12:54:15Z",
-    "rendered": "2026-10-16T12:56:28Z"
+    "mtime": "2026-10-16T23:48:42Z",
+    "rendered": "2026-10-16T23:49:33Z"
    },
    "-3.6": {
     "mtime": "2026-10-16T20:01:02Z",
@@ -2074,8 +2074,8 @@
     "rendered": "2026-10-16T21:47:38Z"
    },
    "-4.4": {
-    "mtime": "2026-10-16T12:53:27Z",
-    "rendered": "2026-10-16T12:58:16Z"
+    "mtime": "2026-10-16T23:48:42Z",
+    "rendered": "2026-10-16T23:49:33Z"
    },
    "-2.6": {
     "mtime": "2026-10-16T20:00:46Z",
@@ -2218,8 +2218,8 @@
     "rendered": "2026-10-16T10:25:21Z"
    },
    "-4.6": {
-    "mtime": "2026-10-16T02:14:47Z",
-    "rendered": "2026-10-16T02:15:01Z"
+    "mtime": "2026-10-16T23:49:36Z",
+    "rendered": "2026-10-16T23:49:33Z"
    },
    "-3.7": {
     "mtime": "2026-10-15T23:29:08Z",
