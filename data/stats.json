@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-16T20:16:55Z",
+ "updated": "2026-10-16T20:20:01Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7534394,
+ "serverTicks": 7538432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T20:15:46Z",
-   "playTicks": 4865533,
+   "lastSeen": "2026-10-16T20:19:08Z",
+   "playTicks": 4869571,
    "deaths": 0,
    "mobKills": 3116,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 420497,
    "damageTaken": 49424,
-   "distanceCm": 74759401,
-   "walkCm": 19354071,
-   "flyCm": 24966687,
-   "jumps": 102158,
+   "distanceCm": 74777837,
+   "walkCm": 19364567,
+   "flyCm": 24972825,
+   "jumps": 102208,
    "mined": 27674,
    "topMined": [
     [
@@ -34,7 +34,7 @@
      2788
     ]
    ],
-   "crafted": 90698,
+   "crafted": 90785,
    "topCrafted": [
     [
      "stick",
@@ -220,19 +220,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T20:15:46Z",
-   "playTicks": 3293383,
+   "lastSeen": "2026-10-16T20:19:08Z",
+   "playTicks": 3297421,
    "deaths": 2,
    "mobKills": 1651,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 230502,
    "damageTaken": 11928,
-   "distanceCm": 35444753,
-   "walkCm": 15927944,
-   "flyCm": 9712388,
-   "jumps": 35181,
-   "mined": 54687,
+   "distanceCm": 35453015,
+   "walkCm": 15929778,
+   "flyCm": 9718587,
+   "jumps": 35329,
+   "mined": 54776,
    "topMined": [
     [
      "grass_block",
@@ -247,7 +247,7 @@
      9167
     ]
    ],
-   "crafted": 25711,
+   "crafted": 25839,
    "topCrafted": [
     [
      "bamboo_planks",
@@ -438,19 +438,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-16T20:15:46Z",
-   "playTicks": 2398692,
+   "lastSeen": "2026-10-16T20:19:08Z",
+   "playTicks": 2402730,
    "deaths": 2,
-   "mobKills": 708,
+   "mobKills": 714,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 75171,
-   "damageTaken": 18347,
-   "distanceCm": 21557614,
-   "walkCm": 9394852,
-   "flyCm": 6922035,
-   "jumps": 35591,
-   "mined": 45778,
+   "damageDealt": 76310,
+   "damageTaken": 18425,
+   "distanceCm": 21584332,
+   "walkCm": 9415982,
+   "flyCm": 6923433,
+   "jumps": 35630,
+   "mined": 45890,
    "topMined": [
     [
      "stone",
@@ -458,7 +458,7 @@
     ],
     [
      "waxed_copper_block",
-     2997
+     3039
     ],
     [
      "snow_block",
@@ -552,18 +552,18 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-16T20:15:46Z",
-   "playTicks": 2193413,
+   "lastSeen": "2026-10-16T20:19:08Z",
+   "playTicks": 2197451,
    "deaths": 2,
-   "mobKills": 2851,
+   "mobKills": 2852,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 215082,
-   "damageTaken": 19168,
-   "distanceCm": 26645664,
-   "walkCm": 9151607,
-   "flyCm": 6137484,
-   "jumps": 29704,
+   "damageDealt": 215422,
+   "damageTaken": 19302,
+   "distanceCm": 26907615,
+   "walkCm": 9160941,
+   "flyCm": 6160228,
+   "jumps": 29754,
    "mined": 23031,
    "topMined": [
     [
@@ -1346,8 +1346,8 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-16T20:15:46Z",
-   "playTicks": 495194,
+   "lastSeen": "2026-10-16T20:19:08Z",
+   "playTicks": 499232,
    "deaths": 4,
    "mobKills": 80,
    "playerKills": 0,
