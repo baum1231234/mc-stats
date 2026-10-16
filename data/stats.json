@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T02:19:38Z",
+ "updated": "2026-10-16T02:21:21Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 6688243,
  "players": [
@@ -883,19 +883,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-16T02:16:32Z",
-   "playTicks": 1127627,
+   "lastSeen": "2026-10-16T02:21:32Z",
+   "playTicks": 1133627,
    "deaths": 3,
-   "mobKills": 346,
+   "mobKills": 347,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 51521,
-   "damageTaken": 9711,
-   "distanceCm": 10264188,
-   "walkCm": 4599577,
-   "flyCm": 3182880,
-   "jumps": 16969,
-   "mined": 7199,
+   "damageDealt": 51601,
+   "damageTaken": 9721,
+   "distanceCm": 10381875,
+   "walkCm": 4616875,
+   "flyCm": 3205586,
+   "jumps": 17095,
+   "mined": 7201,
    "topMined": [
     [
      "grass_block",
@@ -907,7 +907,7 @@
     ],
     [
      "stone",
-     766
+     767
     ]
    ],
    "crafted": 6433,
@@ -3392,6 +3392,11 @@
     "rendered": "2026-10-16T02:19:38Z",
     "empty": true
    },
+   "9.-3": {
+    "mtime": "2026-10-16T02:21:19Z",
+    "rendered": "2026-10-16T02:21:21Z",
+    "empty": true
+   },
    "-7.10": {
     "mtime": "2026-10-15T21:32:01Z",
     "rendered": "2026-10-16T01:11:28Z"
@@ -3468,6 +3473,20 @@
     "mtime": "2026-10-15T21:32:01Z",
     "rendered": "2026-10-16T01:39:30Z"
    },
+   "11.-2": {
+    "mtime": "2026-10-16T02:21:43Z",
+    "rendered": "2026-10-16T02:21:21Z"
+   },
+   "10.-3": {
+    "mtime": "",
+    "rendered": "2026-10-16T02:21:21Z",
+    "empty": true
+   },
+   "12.-1": {
+    "mtime": "",
+    "rendered": "2026-10-16T02:21:21Z",
+    "empty": true
+   },
    "-8.10": {
     "mtime": "2026-10-15T21:06:00Z",
     "rendered": "2026-10-16T01:43:09Z",
@@ -3497,10 +3516,6 @@
     "mtime": "2026-10-15T06:04:18Z",
     "rendered": "2026-10-16T01:48:35Z",
     "empty": true
-   },
-   "1.12": {
-    "mtime": "2026-10-15T21:32:01Z",
-    "rendered": "2026-10-16T01:50:17Z"
    }
   }
  }
