@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-16T16:31:47Z",
+ "updated": "2026-10-16T16:33:42Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7265238,
+ "serverTicks": 7268432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T16:30:34Z",
-   "playTicks": 4637468,
+   "lastSeen": "2026-10-16T16:33:13Z",
+   "playTicks": 4640662,
    "deaths": 0,
-   "mobKills": 2972,
+   "mobKills": 2973,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 409177,
-   "damageTaken": 47554,
-   "distanceCm": 70290952,
-   "walkCm": 18808748,
-   "flyCm": 23480813,
-   "jumps": 96768,
+   "damageDealt": 409277,
+   "damageTaken": 47578,
+   "distanceCm": 70632104,
+   "walkCm": 18814123,
+   "flyCm": 23513729,
+   "jumps": 96841,
    "mined": 26890,
    "topMined": [
     [
@@ -111,8 +111,8 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T16:30:34Z",
-   "playTicks": 3224509,
+   "lastSeen": "2026-10-16T16:33:13Z",
+   "playTicks": 3227703,
    "deaths": 4,
    "mobKills": 2855,
    "playerKills": 2,
@@ -883,8 +883,8 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-16T16:30:34Z",
-   "playTicks": 1305765,
+   "lastSeen": "2026-10-16T16:33:13Z",
+   "playTicks": 1308959,
    "deaths": 3,
    "mobKills": 411,
    "playerKills": 0,
@@ -1450,19 +1450,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-16T16:30:34Z",
-   "playTicks": 283275,
+   "lastSeen": "2026-10-16T16:33:13Z",
+   "playTicks": 286469,
    "deaths": 3,
-   "mobKills": 65,
+   "mobKills": 67,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 13690,
-   "damageTaken": 3834,
-   "distanceCm": 2566036,
-   "walkCm": 1062349,
-   "flyCm": 912079,
-   "jumps": 4533,
-   "mined": 2997,
+   "damageDealt": 14090,
+   "damageTaken": 3921,
+   "distanceCm": 2609902,
+   "walkCm": 1074605,
+   "flyCm": 936706,
+   "jumps": 4646,
+   "mined": 3000,
    "topMined": [
     [
      "deepslate",
@@ -1495,7 +1495,7 @@
    "topKilled": [
     [
      "zombie",
-     35
+     36
     ],
     [
      "skeleton",
@@ -2272,8 +2272,8 @@
     "rendered": "2026-10-16T16:31:47Z"
    },
    "-9.2": {
-    "mtime": "2026-10-16T10:26:52Z",
-    "rendered": "2026-10-16T10:29:01Z"
+    "mtime": "2026-10-16T16:33:49Z",
+    "rendered": "2026-10-16T16:33:42Z"
    },
    "-10.3": {
     "mtime": "2026-10-16T10:26:35Z",
@@ -2333,20 +2333,20 @@
     "rendered": "2026-10-15T21:43:42Z"
    },
    "-5.1": {
-    "mtime": "2026-10-15T20:56:14Z",
-    "rendered": "2026-10-15T21:46:49Z"
+    "mtime": "2026-10-16T16:30:57Z",
+    "rendered": "2026-10-16T16:33:42Z"
    },
    "-4.-1": {
     "mtime": "2026-10-16T16:30:17Z",
     "rendered": "2026-10-16T16:29:55Z"
    },
    "-5.0": {
-    "mtime": "2026-10-15T22:48:21Z",
-    "rendered": "2026-10-16T01:23:36Z"
+    "mtime": "2026-10-16T16:31:12Z",
+    "rendered": "2026-10-16T16:33:42Z"
    },
    "-3.-2": {
-    "mtime": "2026-10-15T22:47:05Z",
-    "rendered": "2026-10-15T22:48:28Z"
+    "mtime": "2026-10-16T16:29:55Z",
+    "rendered": "2026-10-16T16:33:42Z"
    },
    "-2.-3": {
     "mtime": "2026-10-16T16:03:12Z",
