@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T15:39:01Z",
+ "updated": "2026-10-16T15:40:41Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 7202432,
  "players": [
@@ -1450,19 +1450,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-16T15:38:13Z",
-   "playTicks": 220968,
+   "lastSeen": "2026-10-16T15:39:47Z",
+   "playTicks": 222851,
    "deaths": 3,
-   "mobKills": 35,
+   "mobKills": 36,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 7562,
-   "damageTaken": 2975,
-   "distanceCm": 1831324,
-   "walkCm": 749442,
-   "flyCm": 598505,
-   "jumps": 3086,
-   "mined": 2333,
+   "damageDealt": 7762,
+   "damageTaken": 3049,
+   "distanceCm": 1866376,
+   "walkCm": 765271,
+   "flyCm": 615178,
+   "jumps": 3173,
+   "mined": 2334,
    "topMined": [
     [
      "deepslate",
@@ -1499,7 +1499,7 @@
     ],
     [
      "skeleton",
-     8
+     9
     ],
     [
      "spider",
@@ -1980,8 +1980,8 @@
     "rendered": "2026-10-16T15:30:46Z"
    },
    "-1.-1": {
-    "mtime": "2026-10-16T12:22:08Z",
-    "rendered": "2026-10-16T12:39:35Z"
+    "mtime": "2026-10-16T13:28:06Z",
+    "rendered": "2026-10-16T15:40:41Z"
    },
    "3.-1": {
     "mtime": "2026-10-16T15:28:53Z",
