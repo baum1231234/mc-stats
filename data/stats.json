@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-16T16:37:27Z",
+ "updated": "2026-10-16T16:39:18Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7268432,
+ "serverTicks": 7274432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T16:33:13Z",
-   "playTicks": 4640662,
+   "lastSeen": "2026-10-16T16:38:13Z",
+   "playTicks": 4646662,
    "deaths": 0,
    "mobKills": 2973,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 409277,
-   "damageTaken": 47578,
-   "distanceCm": 70632104,
-   "walkCm": 18814123,
-   "flyCm": 23513729,
-   "jumps": 96841,
+   "damageTaken": 47584,
+   "distanceCm": 70731562,
+   "walkCm": 18843876,
+   "flyCm": 23570822,
+   "jumps": 97133,
    "mined": 26890,
    "topMined": [
     [
@@ -111,8 +111,8 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T16:33:13Z",
-   "playTicks": 3227703,
+   "lastSeen": "2026-10-16T16:38:13Z",
+   "playTicks": 3233703,
    "deaths": 4,
    "mobKills": 2855,
    "playerKills": 2,
@@ -1450,19 +1450,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-16T16:33:13Z",
-   "playTicks": 286469,
+   "lastSeen": "2026-10-16T16:38:13Z",
+   "playTicks": 292469,
    "deaths": 3,
    "mobKills": 67,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 14090,
-   "damageTaken": 3921,
-   "distanceCm": 2609902,
-   "walkCm": 1074605,
-   "flyCm": 936706,
-   "jumps": 4646,
-   "mined": 3000,
+   "damageTaken": 4001,
+   "distanceCm": 2626252,
+   "walkCm": 1081982,
+   "flyCm": 936808,
+   "jumps": 4676,
+   "mined": 3063,
    "topMined": [
     [
      "deepslate",
@@ -1470,14 +1470,14 @@
     ],
     [
      "grass_block",
-     410
+     411
     ],
     [
      "spruce_log",
      305
     ]
    ],
-   "crafted": 3749,
+   "crafted": 3751,
    "topCrafted": [
     [
      "stick",
@@ -2774,8 +2774,8 @@
     "rendered": "2026-10-16T16:12:17Z"
    },
    "-6.-1": {
-    "mtime": "2026-10-15T22:48:30Z",
-    "rendered": "2026-10-15T22:58:32Z"
+    "mtime": "2026-10-16T16:31:08Z",
+    "rendered": "2026-10-16T16:39:18Z"
    },
    "-5.-2": {
     "mtime": "2026-10-15T22:47:54Z",
@@ -2900,8 +2900,8 @@
     "rendered": "2026-10-16T08:03:09Z"
    },
    "-7.-1": {
-    "mtime": "2026-10-15T22:50:03Z",
-    "rendered": "2026-10-15T23:00:25Z"
+    "mtime": "2026-10-16T16:31:24Z",
+    "rendered": "2026-10-16T16:39:18Z"
    },
    "-8.-2": {
     "mtime": "2026-10-16T15:56:20Z",
