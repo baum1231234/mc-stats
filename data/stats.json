@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T00:43:20Z",
+ "updated": "2026-10-16T00:45:08Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 6574243,
  "players": [
@@ -438,19 +438,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-16T00:41:32Z",
-   "playTicks": 2053581,
+   "lastSeen": "2026-10-16T00:44:53Z",
+   "playTicks": 2057596,
    "deaths": 2,
    "mobKills": 373,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 36563,
-   "damageTaken": 14927,
-   "distanceCm": 18072300,
-   "walkCm": 7680067,
-   "flyCm": 5946638,
-   "jumps": 30299,
-   "mined": 37193,
+   "damageTaken": 14951,
+   "distanceCm": 18111552,
+   "walkCm": 7695693,
+   "flyCm": 5964933,
+   "jumps": 30398,
+   "mined": 37199,
    "topMined": [
     [
      "stone",
@@ -2171,8 +2171,8 @@
     "rendered": "2026-10-14T20:16:24Z"
    },
    "0.-4": {
-    "mtime": "2026-10-15T21:44:04Z",
-    "rendered": "2026-10-15T21:43:42Z"
+    "mtime": "2026-10-15T22:43:43Z",
+    "rendered": "2026-10-16T00:45:08Z"
    },
    "1.-3": {
     "mtime": "2026-10-15T22:05:24Z",
@@ -2255,8 +2255,8 @@
     "rendered": "2026-10-15T22:39:54Z"
    },
    "-8.1": {
-    "mtime": "2026-10-15T21:09:43Z",
-    "rendered": "2026-10-15T21:43:42Z"
+    "mtime": "2026-10-15T22:49:40Z",
+    "rendered": "2026-10-16T00:45:08Z"
    },
    "-9.0": {
     "mtime": "2026-10-15T21:08:35Z",
@@ -3024,6 +3024,10 @@
     "mtime": "2026-10-15T21:32:01Z",
     "rendered": "2026-10-16T00:43:20Z"
    },
+   "-2.11": {
+    "mtime": "2026-10-15T21:32:01Z",
+    "rendered": "2026-10-16T00:45:08Z"
+   },
    "-7.-2": {
     "mtime": "2026-10-15T19:08:25Z",
     "rendered": "2026-10-15T22:08:09Z"
@@ -3054,6 +3058,10 @@
    "-4.-10": {
     "mtime": "2026-10-14T06:04:11Z",
     "rendered": "2026-10-15T16:52:04Z"
+   },
+   "-3.-11": {
+    "mtime": "2026-10-14T06:04:11Z",
+    "rendered": "2026-10-16T00:45:08Z"
    },
    "-6.-3": {
     "mtime": "2026-10-15T22:26:46Z",
