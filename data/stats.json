@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-16T12:06:50Z",
+ "updated": "2026-10-16T12:08:25Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 6944432,
+ "serverTicks": 6950432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -220,19 +220,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T12:03:13Z",
-   "playTicks": 2951943,
+   "lastSeen": "2026-10-16T12:08:13Z",
+   "playTicks": 2957943,
    "deaths": 2,
-   "mobKills": 1222,
+   "mobKills": 1231,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 193504,
-   "damageTaken": 11067,
-   "distanceCm": 32977793,
-   "walkCm": 14840409,
-   "flyCm": 9003938,
-   "jumps": 32036,
-   "mined": 46853,
+   "damageDealt": 195013,
+   "damageTaken": 11158,
+   "distanceCm": 33011215,
+   "walkCm": 14856966,
+   "flyCm": 9011316,
+   "jumps": 32155,
+   "mined": 47002,
    "topMined": [
     [
      "grass_block",
@@ -265,11 +265,11 @@
    "topKilled": [
     [
      "zombie",
-     333
+     337
     ],
     [
      "skeleton",
-     260
+     261
     ],
     [
      "slime",
@@ -1121,23 +1121,23 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-16T12:03:13Z",
-   "playTicks": 1025915,
+   "lastSeen": "2026-10-16T12:08:13Z",
+   "playTicks": 1031915,
    "deaths": 9,
    "mobKills": 166,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 20545,
    "damageTaken": 7391,
-   "distanceCm": 7685339,
-   "walkCm": 6298371,
-   "flyCm": 684920,
-   "jumps": 7141,
-   "mined": 13186,
+   "distanceCm": 7731118,
+   "walkCm": 6340873,
+   "flyCm": 687209,
+   "jumps": 7209,
+   "mined": 13256,
    "topMined": [
     [
      "stone",
-     8344
+     8402
     ],
     [
      "grass_block",
