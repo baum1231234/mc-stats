@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-16T09:55:07Z",
+ "updated": "2026-10-16T09:58:20Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 6788432,
+ "serverTicks": 6794432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -220,19 +220,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T09:53:13Z",
-   "playTicks": 2847173,
+   "lastSeen": "2026-10-16T09:58:13Z",
+   "playTicks": 2853173,
    "deaths": 2,
    "mobKills": 1108,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 184820,
-   "damageTaken": 10725,
-   "distanceCm": 31481037,
-   "walkCm": 14395430,
-   "flyCm": 8161358,
-   "jumps": 30430,
-   "mined": 44686,
+   "damageTaken": 10729,
+   "distanceCm": 31505679,
+   "walkCm": 14415334,
+   "flyCm": 8164846,
+   "jumps": 30491,
+   "mined": 44900,
    "topMined": [
     [
      "grass_block",
@@ -240,7 +240,7 @@
     ],
     [
      "dirt",
-     8748
+     8750
     ],
     [
      "sand",
@@ -438,19 +438,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-16T09:53:13Z",
-   "playTicks": 2086099,
+   "lastSeen": "2026-10-16T09:58:13Z",
+   "playTicks": 2092099,
    "deaths": 2,
    "mobKills": 373,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 36563,
    "damageTaken": 14965,
-   "distanceCm": 18430670,
-   "walkCm": 7800702,
-   "flyCm": 6081302,
-   "jumps": 30952,
-   "mined": 37220,
+   "distanceCm": 18512387,
+   "walkCm": 7826681,
+   "flyCm": 6128424,
+   "jumps": 31231,
+   "mined": 37222,
    "topMined": [
     [
      "stone",
@@ -661,23 +661,23 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-16T09:53:13Z",
-   "playTicks": 1786424,
+   "lastSeen": "2026-10-16T09:58:13Z",
+   "playTicks": 1792424,
    "deaths": 4,
-   "mobKills": 1016,
+   "mobKills": 1017,
    "playerKills": 1,
    "killedByPlayers": 2,
-   "damageDealt": 86263,
-   "damageTaken": 13178,
-   "distanceCm": 15816717,
-   "walkCm": 8100294,
-   "flyCm": 3911044,
-   "jumps": 25218,
-   "mined": 28503,
+   "damageDealt": 86283,
+   "damageTaken": 13304,
+   "distanceCm": 15858046,
+   "walkCm": 8122928,
+   "flyCm": 3911866,
+   "jumps": 25235,
+   "mined": 28718,
    "topMined": [
     [
      "stone",
-     7513
+     7525
     ],
     [
      "deepslate",
