@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-16T02:39:34Z",
+ "updated": "2026-10-16T02:41:26Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 6715326,
+ "serverTicks": 6718243,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -883,18 +883,18 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-16T02:39:06Z",
-   "playTicks": 1154710,
+   "lastSeen": "2026-10-16T02:41:32Z",
+   "playTicks": 1157627,
    "deaths": 3,
-   "mobKills": 378,
+   "mobKills": 379,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 57778,
-   "damageTaken": 10791,
-   "distanceCm": 10634984,
-   "walkCm": 4711775,
-   "flyCm": 3329655,
-   "jumps": 17800,
+   "damageDealt": 57867,
+   "damageTaken": 10857,
+   "distanceCm": 10683824,
+   "walkCm": 4720060,
+   "flyCm": 3351025,
+   "jumps": 17890,
    "mined": 7311,
    "topMined": [
     [
@@ -1121,19 +1121,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-16T02:39:06Z",
-   "playTicks": 992354,
+   "lastSeen": "2026-10-16T02:41:32Z",
+   "playTicks": 995271,
    "deaths": 9,
-   "mobKills": 159,
+   "mobKills": 161,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 19375,
+   "damageDealt": 19495,
    "damageTaken": 7206,
-   "distanceCm": 7354273,
-   "walkCm": 6042742,
-   "flyCm": 624158,
-   "jumps": 6753,
-   "mined": 13112,
+   "distanceCm": 7395250,
+   "walkCm": 6069731,
+   "flyCm": 634693,
+   "jumps": 6837,
+   "mined": 13120,
    "topMined": [
     [
      "stone",
@@ -1170,11 +1170,11 @@
     ],
     [
      "sheep",
-     31
+     32
     ],
     [
      "chicken",
-     28
+     29
     ]
    ],
    "topKilledBy": [
@@ -1684,9 +1684,9 @@
      "2026-10-15",
      "2026-10-16"
     ],
-    "rendered": "2026-10-15T23:40:04Z",
+    "rendered": "2026-10-16T02:41:26Z",
     "regions": {
-     "r.2.0.mca": "2026-10-15T23:40:25Z"
+     "r.2.0.mca": "2026-10-16T02:40:53Z"
     }
    }
   },
@@ -1774,10 +1774,10 @@
      "2026-10-15",
      "2026-10-16"
     ],
-    "rendered": "2026-10-15T23:40:04Z",
+    "rendered": "2026-10-16T02:41:26Z",
     "regions": {
-     "r.2.0.mca": "2026-10-15T23:40:25Z",
-     "r.3.0.mca": "2026-10-15T20:53:08Z"
+     "r.2.0.mca": "2026-10-16T02:40:53Z",
+     "r.3.0.mca": "2026-10-16T02:41:42Z"
     }
    }
   },
@@ -2008,8 +2008,8 @@
     "rendered": "2026-10-16T00:21:26Z"
    },
    "1.2": {
-    "mtime": "2026-10-15T23:40:36Z",
-    "rendered": "2026-10-15T23:40:04Z"
+    "mtime": "2026-10-15T23:42:13Z",
+    "rendered": "2026-10-16T02:41:26Z"
    },
    "-1.1": {
     "mtime": "2026-10-15T23:37:45Z",
@@ -2788,12 +2788,12 @@
     "rendered": "2026-10-14T16:49:44Z"
    },
    "4.4": {
-    "mtime": "2026-10-15T23:34:39Z",
-    "rendered": "2026-10-15T23:40:04Z"
+    "mtime": "2026-10-15T23:47:28Z",
+    "rendered": "2026-10-16T02:41:26Z"
    },
    "5.3": {
-    "mtime": "2026-10-15T23:34:39Z",
-    "rendered": "2026-10-15T23:40:04Z"
+    "mtime": "2026-10-15T23:48:03Z",
+    "rendered": "2026-10-16T02:41:26Z"
    },
    "6.2": {
     "mtime": "2026-10-16T01:25:23Z",
