@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-16T13:04:39Z",
+ "updated": "2026-10-16T13:09:27Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7016432,
+ "serverTicks": 7022432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,23 +111,23 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T13:03:13Z",
-   "playTicks": 3023943,
+   "lastSeen": "2026-10-16T13:08:13Z",
+   "playTicks": 3029943,
    "deaths": 2,
-   "mobKills": 1272,
+   "mobKills": 1305,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 202923,
-   "damageTaken": 11333,
-   "distanceCm": 33511285,
-   "walkCm": 15154472,
-   "flyCm": 9158664,
-   "jumps": 33093,
-   "mined": 49521,
+   "damageDealt": 209894,
+   "damageTaken": 11378,
+   "distanceCm": 33612061,
+   "walkCm": 15208824,
+   "flyCm": 9199818,
+   "jumps": 33261,
+   "mined": 49524,
    "topMined": [
     [
      "grass_block",
-     12357
+     12360
     ],
     [
      "dirt",
@@ -156,15 +156,15 @@
    "topKilled": [
     [
      "zombie",
-     359
+     373
     ],
     [
      "skeleton",
-     266
+     277
     ],
     [
-     "slime",
-     80
+     "spider",
+     83
     ]
    ],
    "topKilledBy": [
@@ -438,18 +438,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-16T13:03:13Z",
-   "playTicks": 2299161,
+   "lastSeen": "2026-10-16T13:08:13Z",
+   "playTicks": 2305161,
    "deaths": 2,
-   "mobKills": 591,
+   "mobKills": 661,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 66763,
-   "damageTaken": 17175,
-   "distanceCm": 20512459,
-   "walkCm": 8878148,
-   "flyCm": 6713354,
-   "jumps": 34313,
+   "damageDealt": 68379,
+   "damageTaken": 17243,
+   "distanceCm": 20662607,
+   "walkCm": 8889606,
+   "flyCm": 6741725,
+   "jumps": 34402,
    "mined": 42374,
    "topMined": [
     [
@@ -483,7 +483,7 @@
    "topKilled": [
     [
      "guardian",
-     169
+     239
     ],
     [
      "skeleton",
