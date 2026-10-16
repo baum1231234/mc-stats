@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-16T10:12:16Z",
+ "updated": "2026-10-16T10:14:04Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 6810880,
+ "serverTicks": 6812432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -220,16 +220,16 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T10:11:56Z",
-   "playTicks": 2869621,
+   "lastSeen": "2026-10-16T10:13:13Z",
+   "playTicks": 2871173,
    "deaths": 2,
    "mobKills": 1112,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 185620,
    "damageTaken": 10825,
-   "distanceCm": 31669960,
-   "walkCm": 14494350,
+   "distanceCm": 31681958,
+   "walkCm": 14506348,
    "flyCm": 8205912,
    "jumps": 30706,
    "mined": 45115,
@@ -438,23 +438,23 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-16T10:11:56Z",
-   "playTicks": 2108547,
+   "lastSeen": "2026-10-16T10:13:13Z",
+   "playTicks": 2110099,
    "deaths": 2,
    "mobKills": 373,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 36563,
    "damageTaken": 15173,
-   "distanceCm": 18746711,
-   "walkCm": 7887028,
-   "flyCm": 6242051,
-   "jumps": 31752,
-   "mined": 37222,
+   "distanceCm": 18756675,
+   "walkCm": 7890431,
+   "flyCm": 6248174,
+   "jumps": 31774,
+   "mined": 37300,
    "topMined": [
     [
      "stone",
-     28421
+     28464
     ],
     [
      "snow_block",
@@ -505,14 +505,18 @@
     ]
    ],
    "adv": {
-    "count": 21,
+    "count": 22,
     "byTab": {
      "story": 11,
-     "adventure": 7,
+     "adventure": 8,
      "husbandry": 2,
      "nether": 1
     },
     "recent": [
+     [
+      "adventure/minecraft_trials_edition",
+      "2026-10-16T10:12:39Z"
+     ],
      [
       "husbandry/make_a_sign_glow",
       "2026-10-14T15:19:37Z"
@@ -540,10 +544,6 @@
      [
       "story/shiny_gear",
       "2026-10-12T21:00:08Z"
-     ],
-     [
-      "adventure/avoid_vibration",
-      "2026-10-12T20:54:54Z"
      ]
     ]
    }
@@ -661,19 +661,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-16T10:11:56Z",
-   "playTicks": 1808872,
+   "lastSeen": "2026-10-16T10:13:13Z",
+   "playTicks": 1810424,
    "deaths": 4,
    "mobKills": 1017,
    "playerKills": 1,
    "killedByPlayers": 2,
    "damageDealt": 86283,
    "damageTaken": 13306,
-   "distanceCm": 15997317,
-   "walkCm": 8234845,
+   "distanceCm": 16007189,
+   "walkCm": 8236063,
    "flyCm": 3921007,
    "jumps": 25302,
-   "mined": 29670,
+   "mined": 29671,
    "topMined": [
     [
      "stone",
