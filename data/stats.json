@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-16T01:39:30Z",
+ "updated": "2026-10-16T01:41:21Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 6643456,
+ "serverTicks": 6646243,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -552,19 +552,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-16T01:39:13Z",
-   "playTicks": 1954518,
+   "lastSeen": "2026-10-16T01:41:32Z",
+   "playTicks": 1957305,
    "deaths": 2,
    "mobKills": 2787,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 207677,
    "damageTaken": 17745,
-   "distanceCm": 22875678,
-   "walkCm": 8433502,
-   "flyCm": 5370901,
-   "jumps": 26838,
-   "mined": 18506,
+   "distanceCm": 22899975,
+   "walkCm": 8457333,
+   "flyCm": 5371367,
+   "jumps": 26857,
+   "mined": 18526,
    "topMined": [
     [
      "spruce_log",
@@ -883,15 +883,15 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-16T01:39:13Z",
-   "playTicks": 1082840,
+   "lastSeen": "2026-10-16T01:41:32Z",
+   "playTicks": 1085627,
    "deaths": 3,
    "mobKills": 326,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 47773,
    "damageTaken": 7782,
-   "distanceCm": 9651697,
+   "distanceCm": 9703810,
    "walkCm": 4364969,
    "flyCm": 3017576,
    "jumps": 15928,
@@ -1849,6 +1849,11 @@
    "player": "4rtjom",
    "text": "emmojis im chat",
    "since": "2026-10-13T15:35:59Z"
+  },
+  {
+   "player": "4rtjom",
+   "text": "jeder kann eine totemdatei für sich hinzufügen, heißt wenn man ein totemm in der hand hält sieht mman seins aber man sieht bei den anderen deren designs",
+   "since": "2026-10-16T01:41:21Z"
   }
  ],
  "tiles": {
@@ -2207,8 +2212,8 @@
     "rendered": "2026-10-15T22:44:51Z"
    },
    "-3.7": {
-    "mtime": "2026-10-15T21:34:18Z",
-    "rendered": "2026-10-15T22:39:54Z"
+    "mtime": "2026-10-15T23:29:08Z",
+    "rendered": "2026-10-16T01:41:21Z"
    },
    "1.-5": {
     "mtime": "2026-10-15T22:08:19Z",
@@ -2251,8 +2256,8 @@
     "rendered": "2026-10-15T23:30:42Z"
    },
    "-2.7": {
-    "mtime": "2026-10-15T21:35:43Z",
-    "rendered": "2026-10-15T22:39:54Z"
+    "mtime": "2026-10-15T23:29:35Z",
+    "rendered": "2026-10-16T01:41:21Z"
    },
    "-8.1": {
     "mtime": "2026-10-15T22:49:40Z",
@@ -2408,8 +2413,8 @@
     "rendered": "2026-10-16T01:20:00Z"
    },
    "-3.8": {
-    "mtime": "2026-10-15T21:32:59Z",
-    "rendered": "2026-10-15T22:39:54Z"
+    "mtime": "2026-10-15T23:29:07Z",
+    "rendered": "2026-10-16T01:41:21Z"
    },
    "2.-5": {
     "mtime": "2026-10-14T00:54:25Z",
@@ -2457,8 +2462,8 @@
     "rendered": "2026-10-15T23:36:13Z"
    },
    "-2.8": {
-    "mtime": "2026-10-15T21:33:52Z",
-    "rendered": "2026-10-15T22:39:54Z"
+    "mtime": "2026-10-15T23:29:06Z",
+    "rendered": "2026-10-16T01:41:21Z"
    },
    "-1.7": {
     "mtime": "2026-10-15T21:35:38Z",
