@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-16T02:21:21Z",
+ "updated": "2026-10-16T02:22:59Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 6688243,
+ "serverTicks": 6694243,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T02:16:32Z",
-   "playTicks": 4506163,
+   "lastSeen": "2026-10-16T02:21:32Z",
+   "playTicks": 4512163,
    "deaths": 0,
    "mobKills": 2955,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 407010,
-   "damageTaken": 46153,
-   "distanceCm": 67708752,
-   "walkCm": 18229379,
-   "flyCm": 22584202,
-   "jumps": 93657,
-   "mined": 26295,
+   "damageTaken": 46155,
+   "distanceCm": 67775099,
+   "walkCm": 18249531,
+   "flyCm": 22617847,
+   "jumps": 93794,
+   "mined": 26303,
    "topMined": [
     [
      "spruce_log",
@@ -34,11 +34,11 @@
      2761
     ]
    ],
-   "crafted": 85566,
+   "crafted": 85586,
    "topCrafted": [
     [
      "stick",
-     48477
+     48481
     ],
     [
      "spruce_planks",
@@ -111,19 +111,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T02:16:32Z",
-   "playTicks": 2956372,
+   "lastSeen": "2026-10-16T02:21:32Z",
+   "playTicks": 2962372,
    "deaths": 3,
-   "mobKills": 2754,
+   "mobKills": 2757,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 268846,
-   "damageTaken": 19872,
-   "distanceCm": 36721784,
-   "walkCm": 10707155,
-   "flyCm": 13489466,
-   "jumps": 46814,
-   "mined": 25414,
+   "damageDealt": 269705,
+   "damageTaken": 20125,
+   "distanceCm": 36875831,
+   "walkCm": 10718735,
+   "flyCm": 13508352,
+   "jumps": 46839,
+   "mined": 25611,
    "topMined": [
     [
      "dark_oak_log",
@@ -164,7 +164,7 @@
     ],
     [
      "drowned",
-     163
+     165
     ]
    ],
    "topKilledBy": [
@@ -220,19 +220,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T02:16:32Z",
-   "playTicks": 2816301,
+   "lastSeen": "2026-10-16T02:21:32Z",
+   "playTicks": 2822301,
    "deaths": 2,
    "mobKills": 1107,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 184590,
-   "damageTaken": 10608,
-   "distanceCm": 31245333,
-   "walkCm": 14236014,
-   "flyCm": 8116729,
-   "jumps": 30252,
-   "mined": 44023,
+   "damageTaken": 10613,
+   "distanceCm": 31309183,
+   "walkCm": 14292966,
+   "flyCm": 8120324,
+   "jumps": 30288,
+   "mined": 44060,
    "topMined": [
     [
      "grass_block",
@@ -240,7 +240,7 @@
     ],
     [
      "dirt",
-     8713
+     8715
     ],
     [
      "sand",
@@ -1121,23 +1121,23 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-16T02:16:32Z",
-   "playTicks": 965271,
+   "lastSeen": "2026-10-16T02:21:32Z",
+   "playTicks": 971271,
    "deaths": 8,
    "mobKills": 137,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 17654,
    "damageTaken": 6795,
-   "distanceCm": 6927058,
-   "walkCm": 5808645,
-   "flyCm": 551357,
-   "jumps": 6274,
-   "mined": 13012,
+   "distanceCm": 7038963,
+   "walkCm": 5832743,
+   "flyCm": 559334,
+   "jumps": 6383,
+   "mined": 13015,
    "topMined": [
     [
      "stone",
-     8321
+     8323
     ],
     [
      "grass_block",
@@ -1145,7 +1145,7 @@
     ],
     [
      "dirt",
-     634
+     635
     ]
    ],
    "crafted": 2812,
@@ -3487,6 +3487,11 @@
     "rendered": "2026-10-16T02:21:21Z",
     "empty": true
    },
+   "9.-4": {
+    "mtime": "2026-10-16T02:23:19Z",
+    "rendered": "2026-10-16T02:22:59Z",
+    "empty": true
+   },
    "-8.10": {
     "mtime": "2026-10-15T21:06:00Z",
     "rendered": "2026-10-16T01:43:09Z",
@@ -3511,11 +3516,6 @@
    "-6.12": {
     "mtime": "2026-10-15T23:21:57Z",
     "rendered": "2026-10-16T01:48:35Z"
-   },
-   "-15.-6": {
-    "mtime": "2026-10-15T06:04:18Z",
-    "rendered": "2026-10-16T01:48:35Z",
-    "empty": true
    }
   }
  }
