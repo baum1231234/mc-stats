@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-16T20:53:23Z",
+ "updated": "2026-10-16T20:55:06Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7574432,
+ "serverTicks": 7580432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T20:49:08Z",
-   "playTicks": 4905571,
+   "lastSeen": "2026-10-16T20:54:08Z",
+   "playTicks": 4911571,
    "deaths": 0,
-   "mobKills": 3116,
+   "mobKills": 3123,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 420497,
-   "damageTaken": 49510,
-   "distanceCm": 74903195,
-   "walkCm": 19392478,
-   "flyCm": 25013939,
-   "jumps": 102378,
-   "mined": 27740,
+   "damageDealt": 421296,
+   "damageTaken": 49656,
+   "distanceCm": 75205713,
+   "walkCm": 19405673,
+   "flyCm": 25084372,
+   "jumps": 102521,
+   "mined": 27741,
    "topMined": [
     [
      "spruce_log",
@@ -56,7 +56,7 @@
     ],
     [
      "zombie",
-     415
+     418
     ],
     [
      "slime",
@@ -1346,8 +1346,8 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-16T20:49:08Z",
-   "playTicks": 535232,
+   "lastSeen": "2026-10-16T20:54:08Z",
+   "playTicks": 541232,
    "deaths": 4,
    "mobKills": 80,
    "playerKills": 0,
@@ -2617,8 +2617,8 @@
     "rendered": "2026-10-16T20:53:23Z"
    },
    "-5.-5": {
-    "mtime": "2026-10-16T16:01:58Z",
-    "rendered": "2026-10-16T16:10:28Z"
+    "mtime": "2026-10-16T20:55:26Z",
+    "rendered": "2026-10-16T20:55:06Z"
    },
    "-7.5": {
     "mtime": "2026-10-15T21:32:01Z",
@@ -2826,8 +2826,8 @@
     "rendered": "2026-10-16T13:21:44Z"
    },
    "-5.-4": {
-    "mtime": "2026-10-16T16:01:13Z",
-    "rendered": "2026-10-16T16:12:17Z"
+    "mtime": "2026-10-16T20:55:28Z",
+    "rendered": "2026-10-16T20:55:06Z"
    },
    "-6.-5": {
     "mtime": "2026-10-16T16:00:48Z",
@@ -2958,8 +2958,8 @@
     "rendered": "2026-10-16T18:14:15Z"
    },
    "-5.-3": {
-    "mtime": "2026-10-16T15:59:45Z",
-    "rendered": "2026-10-16T16:17:59Z"
+    "mtime": "2026-10-16T20:55:28Z",
+    "rendered": "2026-10-16T20:55:06Z"
    },
    "3.6": {
     "mtime": "2026-10-16T19:45:44Z",
