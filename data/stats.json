@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-16T11:01:37Z",
+ "updated": "2026-10-16T11:03:13Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 6868622,
+ "serverTicks": 6872432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -334,19 +334,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T11:00:03Z",
-   "playTicks": 2825470,
+   "lastSeen": "2026-10-16T11:03:13Z",
+   "playTicks": 2829280,
    "deaths": 0,
    "mobKills": 2667,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 202947,
-   "damageTaken": 37409,
-   "distanceCm": 35742530,
-   "walkCm": 9381609,
-   "flyCm": 13944335,
-   "jumps": 49708,
-   "mined": 26658,
+   "damageTaken": 37463,
+   "distanceCm": 35786406,
+   "walkCm": 9396625,
+   "flyCm": 13964109,
+   "jumps": 49766,
+   "mined": 26661,
    "topMined": [
     [
      "stone",
@@ -361,7 +361,7 @@
      2546
     ]
    ],
-   "crafted": 51274,
+   "crafted": 51546,
    "topCrafted": [
     [
      "stick",
@@ -373,7 +373,7 @@
     ],
     [
      "emerald",
-     4542
+     4803
     ]
    ],
    "topKilled": [
@@ -438,23 +438,23 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-16T11:00:03Z",
-   "playTicks": 2166289,
+   "lastSeen": "2026-10-16T11:03:13Z",
+   "playTicks": 2170099,
    "deaths": 2,
-   "mobKills": 489,
+   "mobKills": 490,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 55246,
-   "damageTaken": 15879,
-   "distanceCm": 19386231,
-   "walkCm": 8112151,
-   "flyCm": 6499896,
-   "jumps": 32962,
-   "mined": 37312,
+   "damageDealt": 55446,
+   "damageTaken": 15885,
+   "distanceCm": 19399107,
+   "walkCm": 8115645,
+   "flyCm": 6507853,
+   "jumps": 33001,
+   "mined": 37334,
    "topMined": [
     [
      "stone",
-     28464
+     28482
     ],
     [
      "snow_block",
@@ -487,7 +487,7 @@
     ],
     [
      "skeleton",
-     73
+     74
     ],
     [
      "zombie",
@@ -661,19 +661,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-16T11:00:03Z",
-   "playTicks": 1866614,
+   "lastSeen": "2026-10-16T11:03:13Z",
+   "playTicks": 1870424,
    "deaths": 4,
    "mobKills": 1018,
    "playerKills": 1,
    "killedByPlayers": 2,
    "damageDealt": 86492,
    "damageTaken": 13646,
-   "distanceCm": 16638543,
-   "walkCm": 8472570,
-   "flyCm": 4151607,
-   "jumps": 26686,
-   "mined": 30446,
+   "distanceCm": 16674476,
+   "walkCm": 8486410,
+   "flyCm": 4162893,
+   "jumps": 26753,
+   "mined": 30462,
    "topMined": [
     [
      "stone",
