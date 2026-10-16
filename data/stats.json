@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-16T10:14:04Z",
+ "updated": "2026-10-16T10:18:47Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 6812432,
+ "serverTicks": 6818432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -220,19 +220,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T10:13:13Z",
-   "playTicks": 2871173,
+   "lastSeen": "2026-10-16T10:18:13Z",
+   "playTicks": 2877173,
    "deaths": 2,
-   "mobKills": 1112,
+   "mobKills": 1133,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 185620,
-   "damageTaken": 10825,
-   "distanceCm": 31681958,
-   "walkCm": 14506348,
-   "flyCm": 8205912,
-   "jumps": 30706,
-   "mined": 45115,
+   "damageDealt": 189834,
+   "damageTaken": 10861,
+   "distanceCm": 31805472,
+   "walkCm": 14560342,
+   "flyCm": 8270384,
+   "jumps": 30862,
+   "mined": 45139,
    "topMined": [
     [
      "grass_block",
@@ -240,14 +240,14 @@
     ],
     [
      "dirt",
-     8752
+     8776
     ],
     [
      "sand",
      8197
     ]
    ],
-   "crafted": 15235,
+   "crafted": 15310,
    "topCrafted": [
     [
      "bamboo_planks",
@@ -265,11 +265,11 @@
    "topKilled": [
     [
      "zombie",
-     323
+     324
     ],
     [
      "skeleton",
-     252
+     259
     ],
     [
      "slime",
@@ -334,18 +334,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-15T23:42:23Z",
-   "playTicks": 2771154,
+   "lastSeen": "2026-10-16T10:18:13Z",
+   "playTicks": 2775280,
    "deaths": 0,
    "mobKills": 2324,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 189336,
-   "damageTaken": 36368,
-   "distanceCm": 35072448,
-   "walkCm": 9224127,
-   "flyCm": 13643452,
-   "jumps": 48624,
+   "damageTaken": 36372,
+   "distanceCm": 35148573,
+   "walkCm": 9238128,
+   "flyCm": 13682276,
+   "jumps": 48772,
    "mined": 26630,
    "topMined": [
     [
@@ -438,18 +438,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-16T10:13:13Z",
-   "playTicks": 2110099,
+   "lastSeen": "2026-10-16T10:18:13Z",
+   "playTicks": 2116099,
    "deaths": 2,
-   "mobKills": 373,
+   "mobKills": 393,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 36563,
-   "damageTaken": 15173,
-   "distanceCm": 18756675,
-   "walkCm": 7890431,
-   "flyCm": 6248174,
-   "jumps": 31774,
+   "damageDealt": 40045,
+   "damageTaken": 15292,
+   "distanceCm": 18836419,
+   "walkCm": 7932836,
+   "flyCm": 6273189,
+   "jumps": 31914,
    "mined": 37300,
    "topMined": [
     [
@@ -490,8 +490,8 @@
      49
     ],
     [
-     "villager",
-     32
+     "skeleton",
+     43
     ]
    ],
    "topKilledBy": [
@@ -505,14 +505,22 @@
     ]
    ],
    "adv": {
-    "count": 22,
+    "count": 24,
     "byTab": {
      "story": 11,
-     "adventure": 8,
+     "adventure": 10,
      "husbandry": 2,
      "nether": 1
     },
     "recent": [
+     [
+      "adventure/who_needs_rockets",
+      "2026-10-16T10:16:55Z"
+     ],
+     [
+      "adventure/under_lock_and_key",
+      "2026-10-16T10:16:38Z"
+     ],
      [
       "adventure/minecraft_trials_edition",
       "2026-10-16T10:12:39Z"
@@ -536,14 +544,6 @@
      [
       "story/cure_zombie_villager",
       "2026-10-12T22:47:46Z"
-     ],
-     [
-      "nether/brew_potion",
-      "2026-10-12T22:43:58Z"
-     ],
-     [
-      "story/shiny_gear",
-      "2026-10-12T21:00:08Z"
      ]
     ]
    }
@@ -661,23 +661,23 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-16T10:13:13Z",
-   "playTicks": 1810424,
+   "lastSeen": "2026-10-16T10:18:13Z",
+   "playTicks": 1816424,
    "deaths": 4,
    "mobKills": 1017,
    "playerKills": 1,
    "killedByPlayers": 2,
    "damageDealt": 86283,
    "damageTaken": 13306,
-   "distanceCm": 16007189,
-   "walkCm": 8236063,
+   "distanceCm": 16041616,
+   "walkCm": 8252618,
    "flyCm": 3921007,
-   "jumps": 25302,
-   "mined": 29671,
+   "jumps": 25317,
+   "mined": 30019,
    "topMined": [
     [
      "stone",
-     7954
+     7958
     ],
     [
      "deepslate",
