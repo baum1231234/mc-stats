@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-16T13:03:11Z",
+ "updated": "2026-10-16T13:04:39Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7013010,
+ "serverTicks": 7016432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,18 +111,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T13:00:22Z",
-   "playTicks": 3020521,
+   "lastSeen": "2026-10-16T13:03:13Z",
+   "playTicks": 3023943,
    "deaths": 2,
-   "mobKills": 1262,
+   "mobKills": 1272,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 201318,
-   "damageTaken": 11288,
-   "distanceCm": 33463698,
-   "walkCm": 15130645,
-   "flyCm": 9139433,
-   "jumps": 33005,
+   "damageDealt": 202923,
+   "damageTaken": 11333,
+   "distanceCm": 33511285,
+   "walkCm": 15154472,
+   "flyCm": 9158664,
+   "jumps": 33093,
    "mined": 49521,
    "topMined": [
     [
@@ -138,7 +138,7 @@
      8530
     ]
    ],
-   "crafted": 15340,
+   "crafted": 15516,
    "topCrafted": [
     [
      "bamboo_planks",
@@ -156,11 +156,11 @@
    "topKilled": [
     [
      "zombie",
-     358
+     359
     ],
     [
      "skeleton",
-     265
+     266
     ],
     [
      "slime",
@@ -2072,8 +2072,8 @@
     "rendered": "2026-10-16T12:31:28Z"
    },
    "-1.5": {
-    "mtime": "2026-10-16T01:37:56Z",
-    "rendered": "2026-10-16T03:38:28Z"
+    "mtime": "2026-10-16T13:04:59Z",
+    "rendered": "2026-10-16T13:04:39Z"
    },
    "-9.1": {
     "mtime": "2026-10-16T10:26:54Z",
@@ -2108,8 +2108,8 @@
     "rendered": "2026-10-16T10:23:32Z"
    },
    "-1.4": {
-    "mtime": "2026-10-16T01:37:34Z",
-    "rendered": "2026-10-16T03:38:28Z"
+    "mtime": "2026-10-16T13:05:02Z",
+    "rendered": "2026-10-16T13:04:39Z"
    },
    "1.-6": {
     "mtime": "2026-10-15T22:08:29Z",
