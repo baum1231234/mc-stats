@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-16T14:29:11Z",
+ "updated": "2026-10-16T14:30:51Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7118432,
+ "serverTicks": 7120993,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,19 +111,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T14:28:13Z",
-   "playTicks": 3077703,
+   "lastSeen": "2026-10-16T14:30:21Z",
+   "playTicks": 3080264,
    "deaths": 4,
-   "mobKills": 2791,
+   "mobKills": 2792,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 274619,
+   "damageDealt": 274819,
    "damageTaken": 21179,
-   "distanceCm": 38920178,
-   "walkCm": 11182221,
-   "flyCm": 14235327,
-   "jumps": 48502,
-   "mined": 27767,
+   "distanceCm": 38964472,
+   "walkCm": 11191367,
+   "flyCm": 14247895,
+   "jumps": 48532,
+   "mined": 27777,
    "topMined": [
     [
      "dark_oak_log",
@@ -138,7 +138,7 @@
      2810
     ]
    ],
-   "crafted": 97261,
+   "crafted": 97297,
    "topCrafted": [
     [
      "stick",
@@ -160,7 +160,7 @@
     ],
     [
      "zombie",
-     184
+     185
     ],
     [
      "drowned",
@@ -334,19 +334,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T14:28:13Z",
-   "playTicks": 3018110,
+   "lastSeen": "2026-10-16T14:30:21Z",
+   "playTicks": 3020671,
    "deaths": 0,
-   "mobKills": 3297,
+   "mobKills": 3299,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 257590,
-   "damageTaken": 42542,
-   "distanceCm": 37983248,
-   "walkCm": 9799377,
-   "flyCm": 14919698,
-   "jumps": 52301,
-   "mined": 26773,
+   "damageDealt": 258030,
+   "damageTaken": 42625,
+   "distanceCm": 38011106,
+   "walkCm": 9807544,
+   "flyCm": 14928113,
+   "jumps": 52341,
+   "mined": 26780,
    "topMined": [
     [
      "stone",
@@ -361,7 +361,7 @@
      2546
     ]
    ],
-   "crafted": 55067,
+   "crafted": 55162,
    "topCrafted": [
     [
      "stick",
@@ -387,7 +387,7 @@
     ],
     [
      "zombie",
-     223
+     225
     ]
    ],
    "topKilledBy": [],
@@ -774,18 +774,18 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
-   "lastSeen": "2026-10-16T14:28:13Z",
-   "playTicks": 1589663,
+   "lastSeen": "2026-10-16T14:30:21Z",
+   "playTicks": 1592224,
    "deaths": 1,
    "mobKills": 309,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 48193,
    "damageTaken": 10432,
-   "distanceCm": 12411742,
-   "walkCm": 6636333,
-   "flyCm": 2850943,
-   "jumps": 17330,
+   "distanceCm": 12449499,
+   "walkCm": 6653141,
+   "flyCm": 2868542,
+   "jumps": 17383,
    "mined": 12991,
    "topMined": [
     [
@@ -801,7 +801,7 @@
      830
     ]
    ],
-   "crafted": 9958,
+   "crafted": 9961,
    "topCrafted": [
     [
      "stick",
@@ -996,31 +996,31 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-16T14:28:13Z",
-   "playTicks": 1173012,
+   "lastSeen": "2026-10-16T14:30:21Z",
+   "playTicks": 1175573,
    "deaths": 10,
    "mobKills": 195,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 25441,
    "damageTaken": 8837,
-   "distanceCm": 8654236,
-   "walkCm": 7115733,
+   "distanceCm": 8662954,
+   "walkCm": 7124451,
    "flyCm": 802377,
    "jumps": 8186,
-   "mined": 18622,
+   "mined": 18829,
    "topMined": [
     [
      "stone",
-     8706
+     8714
     ],
     [
      "grass_block",
-     4005
+     4078
     ],
     [
      "dirt",
-     2992
+     3116
     ]
    ],
    "crafted": 3027,
@@ -1450,23 +1450,23 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-16T14:28:13Z",
-   "playTicks": 136968,
+   "lastSeen": "2026-10-16T14:30:21Z",
+   "playTicks": 139529,
    "deaths": 1,
    "mobKills": 29,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 5731,
    "damageTaken": 1829,
-   "distanceCm": 1142724,
-   "walkCm": 450613,
+   "distanceCm": 1148460,
+   "walkCm": 455880,
    "flyCm": 330703,
-   "jumps": 1701,
-   "mined": 1626,
+   "jumps": 1702,
+   "mined": 1671,
    "topMined": [
     [
      "deepslate",
-     1322
+     1367
     ],
     [
      "tuff",
