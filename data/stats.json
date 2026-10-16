@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-16T03:04:23Z",
+ "updated": "2026-10-16T03:06:06Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 6742243,
+ "serverTicks": 6748243,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1121,23 +1121,23 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-16T03:01:32Z",
-   "playTicks": 1019271,
+   "lastSeen": "2026-10-16T03:06:01Z",
+   "playTicks": 1024639,
    "deaths": 9,
-   "mobKills": 162,
+   "mobKills": 166,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 19786,
-   "damageTaken": 7298,
-   "distanceCm": 7595433,
-   "walkCm": 6229038,
-   "flyCm": 667524,
-   "jumps": 7025,
-   "mined": 13169,
+   "damageDealt": 20545,
+   "damageTaken": 7391,
+   "distanceCm": 7681697,
+   "walkCm": 6294756,
+   "flyCm": 684893,
+   "jumps": 7141,
+   "mined": 13186,
    "topMined": [
     [
      "stone",
-     8334
+     8344
     ],
     [
      "grass_block",
@@ -1166,7 +1166,7 @@
    "topKilled": [
     [
      "zombie",
-     41
+     44
     ],
     [
      "sheep",
@@ -2893,6 +2893,10 @@
     "mtime": "2026-10-15T21:32:01Z",
     "rendered": "2026-10-16T03:04:23Z"
    },
+   "-2.10": {
+    "mtime": "2026-10-15T23:28:36Z",
+    "rendered": "2026-10-16T03:06:06Z"
+   },
    "-7.-1": {
     "mtime": "2026-10-15T22:50:03Z",
     "rendered": "2026-10-15T23:00:25Z"
@@ -2931,6 +2935,18 @@
    "-3.-10": {
     "mtime": "2026-10-14T06:04:11Z",
     "rendered": "2026-10-15T16:37:52Z"
+   },
+   "-2.-11": {
+    "mtime": "2026-10-15T19:40:53Z",
+    "rendered": "2026-10-16T03:06:06Z"
+   },
+   "-1.-12": {
+    "mtime": "2026-10-14T06:04:11Z",
+    "rendered": "2026-10-16T03:06:06Z"
+   },
+   "0.-11": {
+    "mtime": "2026-10-15T21:14:43Z",
+    "rendered": "2026-10-16T03:06:06Z"
    },
    "1.-10": {
     "mtime": "2026-10-15T21:11:39Z",
