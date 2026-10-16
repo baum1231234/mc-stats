@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T03:01:14Z",
+ "updated": "2026-10-16T03:04:23Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 6742243,
  "players": [
@@ -883,19 +883,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-16T02:56:32Z",
-   "playTicks": 1175627,
+   "lastSeen": "2026-10-16T03:01:32Z",
+   "playTicks": 1181627,
    "deaths": 3,
    "mobKills": 379,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 57867,
-   "damageTaken": 10897,
-   "distanceCm": 11172811,
-   "walkCm": 4781312,
-   "flyCm": 3566724,
-   "jumps": 18581,
-   "mined": 7322,
+   "damageTaken": 10911,
+   "distanceCm": 11256378,
+   "walkCm": 4807204,
+   "flyCm": 3602904,
+   "jumps": 18747,
+   "mined": 7324,
    "topMined": [
     [
      "grass_block",
@@ -903,18 +903,18 @@
     ],
     [
      "dirt",
-     808
+     809
     ],
     [
      "stone",
      769
     ]
    ],
-   "crafted": 6449,
+   "crafted": 6480,
    "topCrafted": [
     [
      "stick",
-     940
+     944
     ],
     [
      "spruce_planks",
@@ -1121,19 +1121,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-16T02:56:32Z",
-   "playTicks": 1013271,
+   "lastSeen": "2026-10-16T03:01:32Z",
+   "playTicks": 1019271,
    "deaths": 9,
-   "mobKills": 161,
+   "mobKills": 162,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 19495,
-   "damageTaken": 7216,
-   "distanceCm": 7495620,
-   "walkCm": 6150974,
-   "flyCm": 650845,
-   "jumps": 6910,
-   "mined": 13166,
+   "damageDealt": 19786,
+   "damageTaken": 7298,
+   "distanceCm": 7595433,
+   "walkCm": 6229038,
+   "flyCm": 667524,
+   "jumps": 7025,
+   "mined": 13169,
    "topMined": [
     [
      "stone",
@@ -1141,14 +1141,14 @@
     ],
     [
      "grass_block",
-     1438
+     1439
     ],
     [
      "dirt",
      638
     ]
    ],
-   "crafted": 2978,
+   "crafted": 2989,
    "topCrafted": [
     [
      "pale_oak_planks",
@@ -1166,7 +1166,7 @@
    "topKilled": [
     [
      "zombie",
-     40
+     41
     ],
     [
      "sheep",
@@ -2859,6 +2859,20 @@
     "mtime": "2026-10-15T06:04:18Z",
     "rendered": "2026-10-16T03:01:14Z"
    },
+   "-16.2": {
+    "mtime": "2026-10-15T06:04:18Z",
+    "rendered": "2026-10-16T03:04:23Z",
+    "empty": true
+   },
+   "-16.0": {
+    "mtime": "2026-10-15T06:04:18Z",
+    "rendered": "2026-10-16T03:04:23Z"
+   },
+   "-14.-2": {
+    "mtime": "2026-10-15T06:04:18Z",
+    "rendered": "2026-10-16T03:04:23Z",
+    "empty": true
+   },
    "-7.3": {
     "mtime": "2026-10-15T21:11:07Z",
     "rendered": "2026-10-15T21:57:38Z"
@@ -2874,6 +2888,10 @@
    "0.8": {
     "mtime": "2026-10-15T19:49:35Z",
     "rendered": "2026-10-15T19:58:26Z"
+   },
+   "-1.9": {
+    "mtime": "2026-10-15T21:32:01Z",
+    "rendered": "2026-10-16T03:04:23Z"
    },
    "-7.-1": {
     "mtime": "2026-10-15T22:50:03Z",
