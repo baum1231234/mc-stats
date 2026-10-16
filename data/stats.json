@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T15:18:31Z",
+ "updated": "2026-10-16T15:20:15Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 7178432,
  "players": [
@@ -883,19 +883,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-16T15:18:13Z",
-   "playTicks": 1233012,
+   "lastSeen": "2026-10-16T15:20:01Z",
+   "playTicks": 1235172,
    "deaths": 10,
    "mobKills": 208,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 28011,
    "damageTaken": 9272,
-   "distanceCm": 9041828,
-   "walkCm": 7462835,
+   "distanceCm": 9042226,
+   "walkCm": 7463233,
    "flyCm": 836777,
    "jumps": 8585,
-   "mined": 20482,
+   "mined": 20484,
    "topMined": [
     [
      "stone",
@@ -903,11 +903,11 @@
     ],
     [
      "grass_block",
-     4399
+     4400
     ],
     [
      "dirt",
-     3760
+     3761
     ]
    ],
    "crafted": 3027,
