@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-16T16:44:10Z",
+ "updated": "2026-10-16T16:45:48Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7280432,
+ "serverTicks": 7283129,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T16:43:13Z",
-   "playTicks": 4652662,
+   "lastSeen": "2026-10-16T16:45:28Z",
+   "playTicks": 4655359,
    "deaths": 0,
    "mobKills": 2973,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 409277,
-   "damageTaken": 47586,
-   "distanceCm": 70759981,
-   "walkCm": 18856555,
-   "flyCm": 23578688,
-   "jumps": 97182,
-   "mined": 26890,
+   "damageTaken": 47640,
+   "distanceCm": 70856288,
+   "walkCm": 18865913,
+   "flyCm": 23607439,
+   "jumps": 97276,
+   "mined": 26893,
    "topMined": [
     [
      "spruce_log",
@@ -111,8 +111,8 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T16:43:13Z",
-   "playTicks": 3239703,
+   "lastSeen": "2026-10-16T16:45:28Z",
+   "playTicks": 3242400,
    "deaths": 4,
    "mobKills": 2855,
    "playerKills": 2,
@@ -1450,19 +1450,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-16T16:43:13Z",
-   "playTicks": 298469,
+   "lastSeen": "2026-10-16T16:45:28Z",
+   "playTicks": 301166,
    "deaths": 4,
    "mobKills": 68,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 14130,
    "damageTaken": 4421,
-   "distanceCm": 2686637,
-   "walkCm": 1105817,
-   "flyCm": 961120,
-   "jumps": 4787,
-   "mined": 3070,
+   "distanceCm": 2705914,
+   "walkCm": 1111492,
+   "flyCm": 968673,
+   "jumps": 4827,
+   "mined": 3097,
    "topMined": [
     [
      "deepslate",
@@ -1470,14 +1470,14 @@
     ],
     [
      "grass_block",
-     413
+     414
     ],
     [
      "spruce_log",
      305
     ]
    ],
-   "crafted": 3880,
+   "crafted": 3881,
    "topCrafted": [
     [
      "stick",
