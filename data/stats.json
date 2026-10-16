@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-16T13:38:25Z",
+ "updated": "2026-10-16T13:43:10Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7058432,
+ "serverTicks": 7064432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -225,19 +225,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T13:38:13Z",
-   "playTicks": 3017703,
+   "lastSeen": "2026-10-16T13:43:13Z",
+   "playTicks": 3023703,
    "deaths": 4,
    "mobKills": 2778,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 271988,
    "damageTaken": 20870,
-   "distanceCm": 38166095,
-   "walkCm": 10879460,
-   "flyCm": 14005108,
-   "jumps": 47635,
-   "mined": 26429,
+   "distanceCm": 38221978,
+   "walkCm": 10886906,
+   "flyCm": 14024244,
+   "jumps": 47674,
+   "mined": 26631,
    "topMined": [
     [
      "dark_oak_log",
@@ -249,7 +249,7 @@
     ],
     [
      "grass_block",
-     2797
+     2798
     ]
    ],
    "crafted": 97242,
@@ -996,19 +996,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-16T13:38:13Z",
-   "playTicks": 1113012,
-   "deaths": 9,
+   "lastSeen": "2026-10-16T13:43:13Z",
+   "playTicks": 1119012,
+   "deaths": 10,
    "mobKills": 190,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 24474,
-   "damageTaken": 8525,
-   "distanceCm": 8350052,
-   "walkCm": 6838560,
-   "flyCm": 777291,
-   "jumps": 8031,
-   "mined": 15492,
+   "damageTaken": 8804,
+   "distanceCm": 8394645,
+   "walkCm": 6879316,
+   "flyCm": 780703,
+   "jumps": 8062,
+   "mined": 15820,
    "topMined": [
     [
      "stone",
@@ -1016,11 +1016,11 @@
     ],
     [
      "grass_block",
-     2979
+     3123
     ],
     [
      "dirt",
-     1025
+     1208
     ]
    ],
    "crafted": 2992,
@@ -1058,11 +1058,11 @@
      3
     ],
     [
-     "player",
-     1
+     "creeper",
+     2
     ],
     [
-     "creeper",
+     "player",
      1
     ],
     [
