@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-16T09:38:44Z",
+ "updated": "2026-10-16T09:42:03Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 6770432,
+ "serverTicks": 6774884,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -438,23 +438,23 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-16T09:38:13Z",
-   "playTicks": 2075596,
+   "lastSeen": "2026-10-16T09:41:56Z",
+   "playTicks": 2080048,
    "deaths": 2,
    "mobKills": 373,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 36563,
    "damageTaken": 14965,
-   "distanceCm": 18310744,
-   "walkCm": 7762117,
-   "flyCm": 6014575,
-   "jumps": 30653,
-   "mined": 37219,
+   "distanceCm": 18350102,
+   "walkCm": 7777832,
+   "flyCm": 6033190,
+   "jumps": 30755,
+   "mined": 37220,
    "topMined": [
     [
      "stone",
-     28420
+     28421
     ],
     [
      "snow_block",
@@ -465,7 +465,7 @@
      1477
     ]
    ],
-   "crafted": 16379,
+   "crafted": 16633,
    "topCrafted": [
     [
      "stick",
@@ -661,19 +661,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-16T09:38:13Z",
-   "playTicks": 1768424,
+   "lastSeen": "2026-10-16T09:41:56Z",
+   "playTicks": 1772876,
    "deaths": 4,
    "mobKills": 1011,
    "playerKills": 1,
    "killedByPlayers": 2,
    "damageDealt": 85503,
-   "damageTaken": 13121,
-   "distanceCm": 15556216,
-   "walkCm": 7992852,
-   "flyCm": 3786255,
-   "jumps": 24719,
-   "mined": 28451,
+   "damageTaken": 13128,
+   "distanceCm": 15592049,
+   "walkCm": 8007367,
+   "flyCm": 3803979,
+   "jumps": 24781,
+   "mined": 28457,
    "topMined": [
     [
      "stone",
@@ -688,15 +688,15 @@
      4118
     ]
    ],
-   "crafted": 48923,
+   "crafted": 51887,
    "topCrafted": [
     [
      "stick",
-     21462
+     23398
     ],
     [
      "spruce_planks",
-     12439
+     13407
     ],
     [
      "deepslate_bricks",
