@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-16T15:27:08Z",
+ "updated": "2026-10-16T15:29:00Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7184432,
+ "serverTicks": 7190432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T15:23:13Z",
-   "playTicks": 4556662,
+   "lastSeen": "2026-10-16T15:28:13Z",
+   "playTicks": 4562662,
    "deaths": 0,
    "mobKills": 2962,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 408246,
    "damageTaken": 46504,
-   "distanceCm": 68347410,
-   "walkCm": 18512724,
-   "flyCm": 22849739,
-   "jumps": 94847,
-   "mined": 26564,
+   "distanceCm": 68398791,
+   "walkCm": 18536965,
+   "flyCm": 22874574,
+   "jumps": 94975,
+   "mined": 26578,
    "topMined": [
     [
      "spruce_log",
@@ -27,14 +27,14 @@
     ],
     [
      "stone",
-     3718
+     3728
     ],
     [
      "dirt",
      2761
     ]
    ],
-   "crafted": 86195,
+   "crafted": 86235,
    "topCrafted": [
     [
      "stick",
@@ -111,16 +111,16 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T15:23:13Z",
-   "playTicks": 3143703,
+   "lastSeen": "2026-10-16T15:28:13Z",
+   "playTicks": 3149703,
    "deaths": 4,
-   "mobKills": 2829,
+   "mobKills": 2840,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 279643,
+   "damageDealt": 280459,
    "damageTaken": 21802,
-   "distanceCm": 39739691,
-   "walkCm": 11530661,
+   "distanceCm": 39741745,
+   "walkCm": 11532715,
    "flyCm": 14570791,
    "jumps": 49646,
    "mined": 28000,
@@ -156,7 +156,7 @@
    "topKilled": [
     [
      "skeleton",
-     1704
+     1715
     ],
     [
      "zombie",
@@ -220,8 +220,8 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T15:23:13Z",
-   "playTicks": 3084110,
+   "lastSeen": "2026-10-16T15:28:13Z",
+   "playTicks": 3090110,
    "deaths": 0,
    "mobKills": 3302,
    "playerKills": 0,
@@ -552,19 +552,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-16T15:25:13Z",
-   "playTicks": 2030772,
+   "lastSeen": "2026-10-16T15:28:13Z",
+   "playTicks": 2034260,
    "deaths": 2,
    "mobKills": 2789,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 207969,
-   "damageTaken": 18172,
-   "distanceCm": 23608500,
-   "walkCm": 8811561,
-   "flyCm": 5624662,
-   "jumps": 27987,
-   "mined": 19066,
+   "damageTaken": 18178,
+   "distanceCm": 23650506,
+   "walkCm": 8827318,
+   "flyCm": 5647561,
+   "jumps": 28090,
+   "mined": 19133,
    "topMined": [
     [
      "spruce_log",
@@ -1004,18 +1004,18 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-16T15:23:13Z",
-   "playTicks": 1224959,
+   "lastSeen": "2026-10-16T15:28:13Z",
+   "playTicks": 1230959,
    "deaths": 3,
    "mobKills": 406,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 61544,
    "damageTaken": 11213,
-   "distanceCm": 11825013,
-   "walkCm": 5007352,
-   "flyCm": 3907582,
-   "jumps": 19958,
+   "distanceCm": 11855827,
+   "walkCm": 5021758,
+   "flyCm": 3922265,
+   "jumps": 20032,
    "mined": 7356,
    "topMined": [
     [
@@ -1450,19 +1450,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-16T15:23:13Z",
-   "playTicks": 202968,
+   "lastSeen": "2026-10-16T15:28:13Z",
+   "playTicks": 208968,
    "deaths": 3,
    "mobKills": 34,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 7082,
-   "damageTaken": 2714,
-   "distanceCm": 1573274,
-   "walkCm": 655578,
-   "flyCm": 485607,
-   "jumps": 2558,
-   "mined": 2249,
+   "damageTaken": 2734,
+   "distanceCm": 1669161,
+   "walkCm": 687411,
+   "flyCm": 534139,
+   "jumps": 2768,
+   "mined": 2264,
    "topMined": [
     [
      "deepslate",
@@ -2092,8 +2092,8 @@
     "rendered": "2026-10-16T06:05:35Z"
    },
    "-10.0": {
-    "mtime": "2026-10-16T11:44:55Z",
-    "rendered": "2026-10-16T12:27:57Z"
+    "mtime": "2026-10-16T15:26:03Z",
+    "rendered": "2026-10-16T15:29:00Z"
    },
    "-11.-1": {
     "mtime": "2026-10-15T22:53:57Z",
