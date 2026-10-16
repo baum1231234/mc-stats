@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-16T18:12:38Z",
+ "updated": "2026-10-16T18:14:15Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7382432,
+ "serverTicks": 7388432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,8 +111,8 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T18:08:13Z",
-   "playTicks": 3341703,
+   "lastSeen": "2026-10-16T18:13:15Z",
+   "playTicks": 3347703,
    "deaths": 4,
    "mobKills": 2888,
    "playerKills": 2,
@@ -220,19 +220,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T18:08:13Z",
-   "playTicks": 3150662,
+   "lastSeen": "2026-10-16T18:13:15Z",
+   "playTicks": 3156662,
    "deaths": 2,
-   "mobKills": 1621,
+   "mobKills": 1629,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 224033,
-   "damageTaken": 11708,
-   "distanceCm": 34213537,
-   "walkCm": 15493009,
-   "flyCm": 9390236,
-   "jumps": 33799,
-   "mined": 51234,
+   "damageDealt": 225488,
+   "damageTaken": 11759,
+   "distanceCm": 34253486,
+   "walkCm": 15508704,
+   "flyCm": 9408590,
+   "jumps": 33853,
+   "mined": 51235,
    "topMined": [
     [
      "grass_block",
@@ -240,7 +240,7 @@
     ],
     [
      "dirt",
-     9380
+     9381
     ],
     [
      "sand",
@@ -265,7 +265,7 @@
    "topKilled": [
     [
      "zombie",
-     381
+     384
     ],
     [
      "guardian",
@@ -273,7 +273,7 @@
     ],
     [
      "skeleton",
-     281
+     283
     ]
    ],
    "topKilledBy": [
@@ -552,19 +552,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-16T18:08:13Z",
-   "playTicks": 2042711,
+   "lastSeen": "2026-10-16T18:13:15Z",
+   "playTicks": 2048711,
    "deaths": 2,
-   "mobKills": 2789,
+   "mobKills": 2791,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 207969,
-   "damageTaken": 18190,
-   "distanceCm": 23721051,
-   "walkCm": 8864585,
-   "flyCm": 5668114,
-   "jumps": 28235,
-   "mined": 19156,
+   "damageDealt": 208199,
+   "damageTaken": 18280,
+   "distanceCm": 23994288,
+   "walkCm": 8890834,
+   "flyCm": 5723307,
+   "jumps": 28365,
+   "mined": 19157,
    "topMined": [
     [
      "spruce_log",
@@ -597,7 +597,7 @@
    "topKilled": [
     [
      "skeleton",
-     635
+     636
     ],
     [
      "zombie",
@@ -1450,19 +1450,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-16T18:08:13Z",
-   "playTicks": 343232,
+   "lastSeen": "2026-10-16T18:13:15Z",
+   "playTicks": 349232,
    "deaths": 4,
-   "mobKills": 78,
+   "mobKills": 80,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 16204,
-   "damageTaken": 5270,
-   "distanceCm": 3385410,
-   "walkCm": 1289798,
-   "flyCm": 1231099,
-   "jumps": 6093,
-   "mined": 3406,
+   "damageDealt": 16555,
+   "damageTaken": 5355,
+   "distanceCm": 3487776,
+   "walkCm": 1341508,
+   "flyCm": 1274375,
+   "jumps": 6288,
+   "mined": 3437,
    "topMined": [
     [
      "deepslate",
@@ -1495,15 +1495,15 @@
    "topKilled": [
     [
      "zombie",
-     43
+     44
     ],
     [
      "skeleton",
      16
     ],
     [
-     "iron_golem",
-     4
+     "spider",
+     5
     ]
    ],
    "topKilledBy": [
@@ -2778,8 +2778,8 @@
     "rendered": "2026-10-16T16:39:18Z"
    },
    "-5.-2": {
-    "mtime": "2026-10-15T22:47:54Z",
-    "rendered": "2026-10-15T22:58:32Z"
+    "mtime": "2026-10-16T18:14:13Z",
+    "rendered": "2026-10-16T18:14:15Z"
    },
    "3.5": {
     "mtime": "2026-10-16T06:04:45Z",
@@ -2954,8 +2954,8 @@
     "rendered": "2026-10-15T23:05:49Z"
    },
    "-6.-2": {
-    "mtime": "2026-10-15T22:48:23Z",
-    "rendered": "2026-10-16T01:34:15Z"
+    "mtime": "2026-10-16T18:14:10Z",
+    "rendered": "2026-10-16T18:14:15Z"
    },
    "-5.-3": {
     "mtime": "2026-10-16T15:59:45Z",
