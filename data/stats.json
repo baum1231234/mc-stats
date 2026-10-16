@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-16T17:15:42Z",
+ "updated": "2026-10-16T17:18:42Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7319186,
+ "serverTicks": 7322432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,8 +111,8 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T17:15:31Z",
-   "playTicks": 3278457,
+   "lastSeen": "2026-10-16T17:18:13Z",
+   "playTicks": 3281703,
    "deaths": 4,
    "mobKills": 2888,
    "playerKills": 2,
@@ -324,16 +324,16 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T17:15:31Z",
-   "playTicks": 3087416,
+   "lastSeen": "2026-10-16T17:18:13Z",
+   "playTicks": 3090662,
    "deaths": 2,
-   "mobKills": 1391,
+   "mobKills": 1434,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 216168,
-   "damageTaken": 11518,
-   "distanceCm": 34037898,
-   "walkCm": 15405546,
+   "damageDealt": 220499,
+   "damageTaken": 11593,
+   "distanceCm": 34039786,
+   "walkCm": 15407434,
    "flyCm": 9324904,
    "jumps": 33572,
    "mined": 50677,
@@ -377,7 +377,7 @@
     ],
     [
      "guardian",
-     140
+     183
     ]
    ],
    "topKilledBy": [
