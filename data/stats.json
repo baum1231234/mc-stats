@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-16T20:06:52Z",
+ "updated": "2026-10-16T20:09:35Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7520432,
+ "serverTicks": 7526432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T20:04:08Z",
-   "playTicks": 4851571,
+   "lastSeen": "2026-10-16T20:09:08Z",
+   "playTicks": 4857571,
    "deaths": 0,
    "mobKills": 3116,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 420497,
    "damageTaken": 49424,
-   "distanceCm": 74659452,
-   "walkCm": 19308742,
-   "flyCm": 24923200,
-   "jumps": 101869,
-   "mined": 27653,
+   "distanceCm": 74692793,
+   "walkCm": 19328634,
+   "flyCm": 24933511,
+   "jumps": 101965,
+   "mined": 27670,
    "topMined": [
     [
      "spruce_log",
@@ -27,14 +27,14 @@
     ],
     [
      "stone",
-     4096
+     4107
     ],
     [
      "dirt",
-     2787
+     2788
     ]
    ],
-   "crafted": 90691,
+   "crafted": 90696,
    "topCrafted": [
     [
      "stick",
@@ -65,13 +65,17 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 37,
+    "count": 38,
     "byTab": {
      "story": 11,
      "adventure": 17,
-     "husbandry": 9
+     "husbandry": 10
     },
     "recent": [
+     [
+      "husbandry/plant_any_sniffer_seed",
+      "2026-10-16T20:06:40Z"
+     ],
      [
       "husbandry/obtain_sniffer_egg",
       "2026-10-16T18:54:52Z"
@@ -99,10 +103,6 @@
      [
       "adventure/totem_of_undying",
       "2026-10-11T19:15:13Z"
-     ],
-     [
-      "husbandry/tame_an_animal",
-      "2026-10-11T15:26:03Z"
      ]
     ]
    }
@@ -220,19 +220,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T20:04:08Z",
-   "playTicks": 3279421,
+   "lastSeen": "2026-10-16T20:09:08Z",
+   "playTicks": 3285421,
    "deaths": 2,
-   "mobKills": 1647,
+   "mobKills": 1651,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 229302,
+   "damageDealt": 230502,
    "damageTaken": 11928,
-   "distanceCm": 35431865,
-   "walkCm": 15922022,
-   "flyCm": 9708198,
-   "jumps": 34805,
-   "mined": 54260,
+   "distanceCm": 35444383,
+   "walkCm": 15927588,
+   "flyCm": 9712388,
+   "jumps": 34951,
+   "mined": 54515,
    "topMined": [
     [
      "grass_block",
@@ -265,7 +265,7 @@
    "topKilled": [
     [
      "zombie",
-     392
+     395
     ],
     [
      "guardian",
@@ -438,19 +438,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-16T20:04:08Z",
-   "playTicks": 2384730,
+   "lastSeen": "2026-10-16T20:09:08Z",
+   "playTicks": 2390730,
    "deaths": 2,
-   "mobKills": 701,
+   "mobKills": 708,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 73801,
-   "damageTaken": 18182,
-   "distanceCm": 21450131,
-   "walkCm": 9328258,
-   "flyCm": 6902964,
-   "jumps": 35443,
-   "mined": 45211,
+   "damageDealt": 75171,
+   "damageTaken": 18309,
+   "distanceCm": 21488310,
+   "walkCm": 9354061,
+   "flyCm": 6905752,
+   "jumps": 35477,
+   "mined": 45471,
    "topMined": [
     [
      "stone",
@@ -458,7 +458,7 @@
     ],
     [
      "waxed_copper_block",
-     2754
+     2877
     ],
     [
      "snow_block",
@@ -487,7 +487,7 @@
     ],
     [
      "skeleton",
-     113
+     119
     ],
     [
      "zombie",
@@ -552,19 +552,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-16T20:04:08Z",
-   "playTicks": 2179451,
+   "lastSeen": "2026-10-16T20:09:08Z",
+   "playTicks": 2185451,
    "deaths": 2,
    "mobKills": 2846,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 214582,
    "damageTaken": 18781,
-   "distanceCm": 26476715,
-   "walkCm": 9089900,
-   "flyCm": 6094286,
-   "jumps": 29478,
-   "mined": 22900,
+   "distanceCm": 26502158,
+   "walkCm": 9105647,
+   "flyCm": 6099155,
+   "jumps": 29552,
+   "mined": 22939,
    "topMined": [
     [
      "spruce_log",
@@ -1346,8 +1346,8 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-16T20:04:08Z",
-   "playTicks": 481232,
+   "lastSeen": "2026-10-16T20:09:08Z",
+   "playTicks": 487232,
    "deaths": 4,
    "mobKills": 80,
    "playerKills": 0,
