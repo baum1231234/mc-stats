@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-16T18:41:43Z",
+ "updated": "2026-10-16T18:43:18Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7418432,
+ "serverTicks": 7424432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T18:38:15Z",
-   "playTicks": 4749571,
+   "lastSeen": "2026-10-16T18:43:15Z",
+   "playTicks": 4755571,
    "deaths": 0,
-   "mobKills": 3094,
+   "mobKills": 3098,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 417507,
-   "damageTaken": 48833,
-   "distanceCm": 73034561,
-   "walkCm": 19161140,
-   "flyCm": 24490286,
-   "jumps": 100310,
+   "damageDealt": 417797,
+   "damageTaken": 48961,
+   "distanceCm": 73263132,
+   "walkCm": 19178319,
+   "flyCm": 24567026,
+   "jumps": 100505,
    "mined": 27305,
    "topMined": [
     [
@@ -111,16 +111,16 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T18:38:15Z",
-   "playTicks": 3377703,
+   "lastSeen": "2026-10-16T18:43:15Z",
+   "playTicks": 3383703,
    "deaths": 4,
-   "mobKills": 2888,
+   "mobKills": 2915,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 281651,
+   "damageDealt": 282548,
    "damageTaken": 21804,
-   "distanceCm": 39746563,
-   "walkCm": 11537433,
+   "distanceCm": 39748798,
+   "walkCm": 11539668,
    "flyCm": 14570891,
    "jumps": 49646,
    "mined": 28000,
@@ -156,7 +156,7 @@
    "topKilled": [
     [
      "skeleton",
-     1763
+     1790
     ],
     [
      "zombie",
@@ -220,19 +220,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-16T18:38:15Z",
-   "playTicks": 3186662,
+   "lastSeen": "2026-10-16T18:43:15Z",
+   "playTicks": 3192662,
    "deaths": 2,
-   "mobKills": 1630,
+   "mobKills": 1633,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 225648,
-   "damageTaken": 11763,
-   "distanceCm": 34485227,
-   "walkCm": 15577458,
-   "flyCm": 9485466,
-   "jumps": 34005,
-   "mined": 51799,
+   "damageDealt": 226318,
+   "damageTaken": 11813,
+   "distanceCm": 34528216,
+   "walkCm": 15606744,
+   "flyCm": 9491634,
+   "jumps": 34046,
+   "mined": 52136,
    "topMined": [
     [
      "grass_block",
@@ -247,7 +247,7 @@
      8535
     ]
    ],
-   "crafted": 21466,
+   "crafted": 22468,
    "topCrafted": [
     [
      "bamboo_planks",
@@ -255,7 +255,7 @@
     ],
     [
      "spruce_planks",
-     4212
+     4964
     ],
     [
      "bamboo_block",
@@ -273,7 +273,7 @@
     ],
     [
      "skeleton",
-     283
+     284
     ]
    ],
    "topKilledBy": [
@@ -552,18 +552,18 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-16T18:39:42Z",
-   "playTicks": 2080441,
+   "lastSeen": "2026-10-16T18:43:15Z",
+   "playTicks": 2083664,
    "deaths": 2,
    "mobKills": 2794,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 208799,
-   "damageTaken": 18446,
-   "distanceCm": 24691447,
-   "walkCm": 8933673,
-   "flyCm": 5834325,
-   "jumps": 28566,
+   "damageTaken": 18490,
+   "distanceCm": 24789861,
+   "walkCm": 8938817,
+   "flyCm": 5859680,
+   "jumps": 28598,
    "mined": 19165,
    "topMined": [
     [
@@ -1343,6 +1343,119 @@
    }
   },
   {
+   "uuid": "775e2172-8576-416e-b390-8328646044f9",
+   "name": "htxl",
+   "firstSeen": "2026-10-14T22:34:53Z",
+   "lastSeen": "2026-10-16T18:43:15Z",
+   "playTicks": 385232,
+   "deaths": 4,
+   "mobKills": 80,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 16555,
+   "damageTaken": 5355,
+   "distanceCm": 3579701,
+   "walkCm": 1408214,
+   "flyCm": 1284743,
+   "jumps": 6407,
+   "mined": 3708,
+   "topMined": [
+    [
+     "deepslate",
+     1553
+    ],
+    [
+     "grass_block",
+     416
+    ],
+    [
+     "spruce_log",
+     305
+    ]
+   ],
+   "crafted": 3997,
+   "topCrafted": [
+    [
+     "stick",
+     2112
+    ],
+    [
+     "spruce_planks",
+     1216
+    ],
+    [
+     "emerald",
+     128
+    ]
+   ],
+   "topKilled": [
+    [
+     "zombie",
+     44
+    ],
+    [
+     "skeleton",
+     16
+    ],
+    [
+     "spider",
+     5
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "zombie",
+     2
+    ],
+    [
+     "skeleton",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 17,
+    "byTab": {
+     "story": 11,
+     "adventure": 5,
+     "husbandry": 1
+    },
+    "recent": [
+     [
+      "story/lava_bucket",
+      "2026-10-16T17:01:25Z"
+     ],
+     [
+      "story/form_obsidian",
+      "2026-10-16T17:01:17Z"
+     ],
+     [
+      "adventure/sleep_in_bed",
+      "2026-10-16T16:13:11Z"
+     ],
+     [
+      "adventure/trade",
+      "2026-10-16T15:07:48Z"
+     ],
+     [
+      "story/shiny_gear",
+      "2026-10-16T15:02:57Z"
+     ],
+     [
+      "story/mine_diamond",
+      "2026-10-14T23:22:20Z"
+     ],
+     [
+      "adventure/avoid_vibration",
+      "2026-10-14T23:14:16Z"
+     ],
+     [
+      "adventure/kill_a_mob",
+      "2026-10-14T22:54:38Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "e0716f67-b0d0-4d15-b374-ed3a090ab96a",
    "name": "Bensen1405",
    "firstSeen": null,
@@ -1442,119 +1555,6 @@
      [
       "adventure/kill_a_mob",
       "2026-10-10T18:00:49Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "775e2172-8576-416e-b390-8328646044f9",
-   "name": "htxl",
-   "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-16T18:38:15Z",
-   "playTicks": 379232,
-   "deaths": 4,
-   "mobKills": 80,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 16555,
-   "damageTaken": 5355,
-   "distanceCm": 3577683,
-   "walkCm": 1406196,
-   "flyCm": 1284743,
-   "jumps": 6407,
-   "mined": 3649,
-   "topMined": [
-    [
-     "deepslate",
-     1553
-    ],
-    [
-     "grass_block",
-     416
-    ],
-    [
-     "spruce_log",
-     305
-    ]
-   ],
-   "crafted": 3989,
-   "topCrafted": [
-    [
-     "stick",
-     2112
-    ],
-    [
-     "spruce_planks",
-     1216
-    ],
-    [
-     "emerald",
-     128
-    ]
-   ],
-   "topKilled": [
-    [
-     "zombie",
-     44
-    ],
-    [
-     "skeleton",
-     16
-    ],
-    [
-     "spider",
-     5
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "zombie",
-     2
-    ],
-    [
-     "skeleton",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 17,
-    "byTab": {
-     "story": 11,
-     "adventure": 5,
-     "husbandry": 1
-    },
-    "recent": [
-     [
-      "story/lava_bucket",
-      "2026-10-16T17:01:25Z"
-     ],
-     [
-      "story/form_obsidian",
-      "2026-10-16T17:01:17Z"
-     ],
-     [
-      "adventure/sleep_in_bed",
-      "2026-10-16T16:13:11Z"
-     ],
-     [
-      "adventure/trade",
-      "2026-10-16T15:07:48Z"
-     ],
-     [
-      "story/shiny_gear",
-      "2026-10-16T15:02:57Z"
-     ],
-     [
-      "story/mine_diamond",
-      "2026-10-14T23:22:20Z"
-     ],
-     [
-      "adventure/avoid_vibration",
-      "2026-10-14T23:14:16Z"
-     ],
-     [
-      "adventure/kill_a_mob",
-      "2026-10-14T22:54:38Z"
      ]
     ]
    }
@@ -2020,8 +2020,8 @@
     "rendered": "2026-10-16T15:57:40Z"
    },
    "-2.2": {
-    "mtime": "2026-10-15T21:42:07Z",
-    "rendered": "2026-10-16T00:39:38Z"
+    "mtime": "2026-10-16T18:43:16Z",
+    "rendered": "2026-10-16T18:43:18Z"
    },
    "-1.0": {
     "mtime": "2026-10-16T15:23:17Z",
@@ -2132,8 +2132,8 @@
     "rendered": "2026-10-16T12:46:05Z"
    },
    "-3.2": {
-    "mtime": "2026-10-15T21:43:08Z",
-    "rendered": "2026-10-16T00:39:38Z"
+    "mtime": "2026-10-16T18:43:44Z",
+    "rendered": "2026-10-16T18:43:18Z"
    },
    "-4.1": {
     "mtime": "2026-10-16T16:30:51Z",
@@ -2329,8 +2329,8 @@
     "rendered": "2026-10-16T12:46:05Z"
    },
    "-4.2": {
-    "mtime": "2026-10-15T21:43:05Z",
-    "rendered": "2026-10-15T21:43:42Z"
+    "mtime": "2026-10-16T18:43:44Z",
+    "rendered": "2026-10-16T18:43:18Z"
    },
    "-5.1": {
     "mtime": "2026-10-16T16:30:57Z",
