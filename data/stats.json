@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-17T19:46:35Z",
+ "updated": "2026-10-17T19:48:28Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 8961547,
+ "serverTicks": 8967811,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T19:41:44Z",
-   "playTicks": 5259094,
+   "lastSeen": "2026-10-17T19:47:51Z",
+   "playTicks": 5265358,
    "deaths": 0,
-   "mobKills": 3256,
+   "mobKills": 3258,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 443132,
-   "damageTaken": 54199,
-   "distanceCm": 82746362,
-   "walkCm": 21534475,
-   "flyCm": 27400919,
-   "jumps": 110941,
-   "mined": 57519,
+   "damageDealt": 443530,
+   "damageTaken": 54553,
+   "distanceCm": 83126689,
+   "walkCm": 21546937,
+   "flyCm": 27459134,
+   "jumps": 111059,
+   "mined": 57528,
    "topMined": [
     [
      "netherrack",
@@ -31,7 +31,7 @@
     ],
     [
      "stone",
-     4208
+     4209
     ]
    ],
    "crafted": 91809,
@@ -336,23 +336,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T19:41:44Z",
-   "playTicks": 3450123,
+   "lastSeen": "2026-10-17T19:47:51Z",
+   "playTicks": 3456387,
    "deaths": 0,
    "mobKills": 3490,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 270939,
-   "damageTaken": 46634,
-   "distanceCm": 41271235,
-   "walkCm": 11479006,
-   "flyCm": 15821042,
-   "jumps": 56140,
-   "mined": 55233,
+   "damageTaken": 47050,
+   "distanceCm": 41340814,
+   "walkCm": 11528115,
+   "flyCm": 15839065,
+   "jumps": 56270,
+   "mined": 56465,
    "topMined": [
     [
      "netherrack",
-     22250
+     23446
     ],
     [
      "stone",
@@ -555,19 +555,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-17T19:41:44Z",
-   "playTicks": 2500239,
+   "lastSeen": "2026-10-17T19:47:51Z",
+   "playTicks": 2506347,
    "deaths": 2,
-   "mobKills": 2958,
+   "mobKills": 2971,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 238033,
-   "damageTaken": 24507,
-   "distanceCm": 32941077,
-   "walkCm": 10406917,
-   "flyCm": 7715895,
-   "jumps": 34574,
-   "mined": 32895,
+   "damageDealt": 240855,
+   "damageTaken": 24812,
+   "distanceCm": 32998348,
+   "walkCm": 10437475,
+   "flyCm": 7741408,
+   "jumps": 34710,
+   "mined": 32896,
    "topMined": [
     [
      "spruce_log",
@@ -618,14 +618,18 @@
     ]
    ],
    "adv": {
-    "count": 40,
+    "count": 41,
     "byTab": {
      "story": 12,
      "adventure": 12,
      "husbandry": 7,
-     "nether": 9
+     "nether": 10
     },
     "recent": [
+     [
+      "nether/explore_nether",
+      "2026-10-17T19:43:35Z"
+     ],
      [
       "nether/obtain_blaze_rod",
       "2026-10-17T19:41:34Z"
@@ -653,10 +657,6 @@
      [
       "nether/loot_bastion",
       "2026-10-17T17:44:36Z"
-     ],
-     [
-      "nether/find_bastion",
-      "2026-10-17T17:43:40Z"
      ]
     ]
    }
@@ -779,19 +779,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-17T19:41:44Z",
-   "playTicks": 2031576,
+   "lastSeen": "2026-10-17T19:47:51Z",
+   "playTicks": 2037840,
    "deaths": 4,
    "mobKills": 1024,
    "playerKills": 1,
    "killedByPlayers": 2,
    "damageDealt": 87839,
-   "damageTaken": 14619,
-   "distanceCm": 19112590,
-   "walkCm": 9670034,
-   "flyCm": 4860094,
-   "jumps": 30662,
-   "mined": 43970,
+   "damageTaken": 14623,
+   "distanceCm": 19160501,
+   "walkCm": 9704631,
+   "flyCm": 4869838,
+   "jumps": 30773,
+   "mined": 43985,
    "topMined": [
     [
      "netherrack",
@@ -806,7 +806,7 @@
      4476
     ]
    ],
-   "crafted": 57130,
+   "crafted": 57203,
    "topCrafted": [
     [
      "stick",
@@ -1012,6 +1012,132 @@
    }
   },
   {
+   "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
+   "name": "BANANENKRIEGER69",
+   "firstSeen": "2026-10-12T17:49:48Z",
+   "lastSeen": "2026-10-17T19:47:51Z",
+   "playTicks": 1522444,
+   "deaths": 8,
+   "mobKills": 456,
+   "playerKills": 1,
+   "killedByPlayers": 1,
+   "damageDealt": 73797,
+   "damageTaken": 15312,
+   "distanceCm": 14389644,
+   "walkCm": 6062784,
+   "flyCm": 4684930,
+   "jumps": 23866,
+   "mined": 8163,
+   "topMined": [
+    [
+     "grass_block",
+     1036
+    ],
+    [
+     "dirt",
+     912
+    ],
+    [
+     "stone",
+     781
+    ]
+   ],
+   "crafted": 10204,
+   "topCrafted": [
+    [
+     "emerald",
+     1680
+    ],
+    [
+     "stick",
+     1376
+    ],
+    [
+     "iron_ingot",
+     1086
+    ]
+   ],
+   "topKilled": [
+    [
+     "zombie",
+     94
+    ],
+    [
+     "skeleton",
+     68
+    ],
+    [
+     "cow",
+     67
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "vex",
+     3
+    ],
+    [
+     "skeleton",
+     1
+    ],
+    [
+     "witch",
+     1
+    ],
+    [
+     "player",
+     1
+    ],
+    [
+     "drowned",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 25,
+    "byTab": {
+     "adventure": 10,
+     "story": 12,
+     "husbandry": 2,
+     "nether": 1
+    },
+    "recent": [
+     [
+      "nether/root",
+      "2026-10-17T18:20:34Z"
+     ],
+     [
+      "story/enter_the_nether",
+      "2026-10-17T18:20:34Z"
+     ],
+     [
+      "story/form_obsidian",
+      "2026-10-17T18:07:27Z"
+     ],
+     [
+      "adventure/hero_of_the_village",
+      "2026-10-17T16:00:38Z"
+     ],
+     [
+      "adventure/voluntary_exile",
+      "2026-10-17T15:54:44Z"
+     ],
+     [
+      "adventure/totem_of_undying",
+      "2026-10-17T15:45:56Z"
+     ],
+     [
+      "adventure/lightning_rod_with_villager_no_fire",
+      "2026-10-16T16:16:10Z"
+     ],
+     [
+      "adventure/shoot_arrow",
+      "2026-10-15T16:46:58Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
@@ -1133,132 +1259,6 @@
      [
       "story/enter_the_nether",
       "2026-10-17T02:31:36Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
-   "name": "BANANENKRIEGER69",
-   "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-17T18:45:10Z",
-   "playTicks": 1516244,
-   "deaths": 8,
-   "mobKills": 456,
-   "playerKills": 1,
-   "killedByPlayers": 1,
-   "damageDealt": 73797,
-   "damageTaken": 15312,
-   "distanceCm": 14387187,
-   "walkCm": 6060327,
-   "flyCm": 4684930,
-   "jumps": 23865,
-   "mined": 8160,
-   "topMined": [
-    [
-     "grass_block",
-     1036
-    ],
-    [
-     "dirt",
-     909
-    ],
-    [
-     "stone",
-     781
-    ]
-   ],
-   "crafted": 10204,
-   "topCrafted": [
-    [
-     "emerald",
-     1680
-    ],
-    [
-     "stick",
-     1376
-    ],
-    [
-     "iron_ingot",
-     1086
-    ]
-   ],
-   "topKilled": [
-    [
-     "zombie",
-     94
-    ],
-    [
-     "skeleton",
-     68
-    ],
-    [
-     "cow",
-     67
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "vex",
-     3
-    ],
-    [
-     "skeleton",
-     1
-    ],
-    [
-     "witch",
-     1
-    ],
-    [
-     "player",
-     1
-    ],
-    [
-     "drowned",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 25,
-    "byTab": {
-     "adventure": 10,
-     "story": 12,
-     "husbandry": 2,
-     "nether": 1
-    },
-    "recent": [
-     [
-      "nether/root",
-      "2026-10-17T18:20:34Z"
-     ],
-     [
-      "story/enter_the_nether",
-      "2026-10-17T18:20:34Z"
-     ],
-     [
-      "story/form_obsidian",
-      "2026-10-17T18:07:27Z"
-     ],
-     [
-      "adventure/hero_of_the_village",
-      "2026-10-17T16:00:38Z"
-     ],
-     [
-      "adventure/voluntary_exile",
-      "2026-10-17T15:54:44Z"
-     ],
-     [
-      "adventure/totem_of_undying",
-      "2026-10-17T15:45:56Z"
-     ],
-     [
-      "adventure/lightning_rod_with_villager_no_fire",
-      "2026-10-16T16:16:10Z"
-     ],
-     [
-      "adventure/shoot_arrow",
-      "2026-10-15T16:46:58Z"
      ]
     ]
    }
@@ -1601,19 +1601,19 @@
    "uuid": "33ea52e3-86de-4e6b-9526-ef4483a31005",
    "name": "mcGammler",
    "firstSeen": "2026-10-17T17:31:12Z",
-   "lastSeen": "2026-10-17T19:41:44Z",
-   "playTicks": 104285,
+   "lastSeen": "2026-10-17T19:48:45Z",
+   "playTicks": 111355,
    "deaths": 1,
-   "mobKills": 1,
+   "mobKills": 4,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 76,
-   "damageTaken": 1177,
-   "distanceCm": 1500856,
-   "walkCm": 623388,
-   "flyCm": 522040,
-   "jumps": 2694,
-   "mined": 807,
+   "damageDealt": 724,
+   "damageTaken": 1469,
+   "distanceCm": 1563685,
+   "walkCm": 654682,
+   "flyCm": 546574,
+   "jumps": 2836,
+   "mined": 858,
    "topMined": [
     [
      "grass_block",
@@ -1628,8 +1628,12 @@
      104
     ]
    ],
-   "crafted": 327,
+   "crafted": 563,
    "topCrafted": [
+    [
+     "spruce_planks",
+     208
+    ],
     [
      "oak_planks",
      108
@@ -1637,15 +1641,19 @@
     [
      "birch_planks",
      52
-    ],
-    [
-     "stone",
-     48
     ]
    ],
    "topKilled": [
     [
+     "zombie",
+     2
+    ],
+    [
      "chicken",
+     1
+    ],
+    [
+     "spider",
      1
     ]
    ],
@@ -1656,13 +1664,17 @@
     ]
    ],
    "adv": {
-    "count": 9,
+    "count": 10,
     "byTab": {
-     "adventure": 1,
+     "adventure": 2,
      "husbandry": 2,
      "story": 6
     },
     "recent": [
+     [
+      "adventure/kill_a_mob",
+      "2026-10-17T19:41:55Z"
+     ],
      [
       "story/mine_diamond",
       "2026-10-17T18:34:03Z"
@@ -1690,10 +1702,6 @@
      [
       "husbandry/tame_an_animal",
       "2026-10-17T17:45:29Z"
-     ],
-     [
-      "husbandry/root",
-      "2026-10-17T17:45:02Z"
      ]
     ]
    }
@@ -2282,8 +2290,8 @@
     "rendered": "2026-10-17T16:53:13Z"
    },
    "1.-2": {
-    "mtime": "2026-10-17T16:45:03Z",
-    "rendered": "2026-10-17T16:48:22Z"
+    "mtime": "2026-10-17T19:15:36Z",
+    "rendered": "2026-10-17T19:48:28Z"
    },
    "0.1": {
     "mtime": "2026-10-17T18:45:59Z",
@@ -2706,20 +2714,20 @@
     "rendered": "2026-10-17T19:46:35Z"
    },
    "5.-3": {
-    "mtime": "2026-10-17T14:38:34Z",
-    "rendered": "2026-10-17T16:38:18Z"
+    "mtime": "2026-10-17T19:46:21Z",
+    "rendered": "2026-10-17T19:48:28Z"
    },
    "-12.-2": {
     "mtime": "2026-10-17T14:44:10Z",
     "rendered": "2026-10-17T16:56:30Z"
    },
    "-13.-1": {
-    "mtime": "2026-10-17T14:43:34Z",
-    "rendered": "2026-10-17T15:28:28Z"
+    "mtime": "2026-10-17T17:23:56Z",
+    "rendered": "2026-10-17T19:48:28Z"
    },
    "-13.3": {
-    "mtime": "2026-10-16T06:04:45Z",
-    "rendered": "2026-10-16T06:11:06Z"
+    "mtime": "2026-10-17T17:24:03Z",
+    "rendered": "2026-10-17T19:48:28Z"
    },
    "-14.0": {
     "mtime": "2026-10-17T12:27:26Z",
@@ -3708,14 +3716,6 @@
    "2.-12": {
     "mtime": "2026-10-17T12:37:09Z",
     "rendered": "2026-10-17T18:15:17Z"
-   },
-   "5.-9": {
-    "mtime": "2026-10-17T15:41:11Z",
-    "rendered": "2026-10-17T18:37:23Z"
-   },
-   "6.-8": {
-    "mtime": "2026-10-17T15:41:11Z",
-    "rendered": "2026-10-17T18:16:51Z"
    }
   }
  }
