@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T17:40:58Z",
+ "updated": "2026-10-17T17:42:37Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 8858590,
+ "serverTicks": 8864590,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1261,18 +1261,18 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-17T16:44:10Z",
-   "playTicks": 1071955,
+   "lastSeen": "2026-10-17T17:42:11Z",
+   "playTicks": 1077047,
    "deaths": 27,
-   "mobKills": 267,
+   "mobKills": 268,
    "playerKills": 0,
    "killedByPlayers": 3,
-   "damageDealt": 20141,
+   "damageDealt": 20171,
    "damageTaken": 14471,
-   "distanceCm": 10352608,
-   "walkCm": 5285059,
-   "flyCm": 2758320,
-   "jumps": 15886,
+   "distanceCm": 10402254,
+   "walkCm": 5298310,
+   "flyCm": 2765615,
+   "jumps": 15955,
    "mined": 8976,
    "topMined": [
     [
@@ -1340,13 +1340,22 @@
     ]
    ],
    "adv": {
-    "count": 17,
+    "count": 19,
     "byTab": {
-     "story": 9,
+     "story": 10,
      "adventure": 5,
-     "husbandry": 3
+     "husbandry": 3,
+     "nether": 1
     },
     "recent": [
+     [
+      "nether/root",
+      "2026-10-17T17:40:55Z"
+     ],
+     [
+      "story/enter_the_nether",
+      "2026-10-17T17:40:55Z"
+     ],
      [
       "story/shiny_gear",
       "2026-10-11T18:00:08Z"
@@ -1370,14 +1379,6 @@
      [
       "husbandry/plant_seed",
       "2026-10-11T17:22:25Z"
-     ],
-     [
-      "adventure/shoot_arrow",
-      "2026-10-11T17:10:58Z"
-     ],
-     [
-      "husbandry/fishy_business",
-      "2026-10-11T12:18:12Z"
      ]
     ]
    }
@@ -2070,8 +2071,8 @@
     "rendered": "2026-10-17T17:40:58Z"
    },
    "-2.0": {
-    "mtime": "2026-10-17T14:41:21Z",
-    "rendered": "2026-10-17T14:41:06Z"
+    "mtime": "2026-10-17T17:28:23Z",
+    "rendered": "2026-10-17T17:42:37Z"
    },
    "-3.5": {
     "mtime": "2026-10-17T14:43:37Z",
@@ -2194,8 +2195,8 @@
     "rendered": "2026-10-17T17:14:57Z"
    },
    "-2.-1": {
-    "mtime": "2026-10-17T14:41:21Z",
-    "rendered": "2026-10-17T14:41:06Z"
+    "mtime": "2026-10-17T17:28:23Z",
+    "rendered": "2026-10-17T17:42:37Z"
    },
    "-2.-5": {
     "mtime": "2026-10-17T16:43:57Z",
@@ -3210,6 +3211,14 @@
    "-3.11": {
     "mtime": "2026-10-17T14:46:07Z",
     "rendered": "2026-10-17T17:40:58Z"
+   },
+   "-16.-1": {
+    "mtime": "2026-10-17T12:37:09Z",
+    "rendered": "2026-10-17T17:42:37Z"
+   },
+   "-15.-2": {
+    "mtime": "2026-10-17T12:37:09Z",
+    "rendered": "2026-10-17T17:42:37Z"
    },
    "1.8": {
     "mtime": "2026-10-15T19:47:56Z",
