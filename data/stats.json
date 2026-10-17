@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T03:09:32Z",
+ "updated": "2026-10-17T03:12:35Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 8024432,
+ "serverTicks": 8030432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,19 +111,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T03:09:08Z",
-   "playTicks": 3650876,
+   "lastSeen": "2026-10-17T03:12:24Z",
+   "playTicks": 3654784,
    "deaths": 4,
-   "mobKills": 3247,
+   "mobKills": 3250,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 308666,
-   "damageTaken": 24185,
-   "distanceCm": 41877971,
-   "walkCm": 12317308,
-   "flyCm": 15412083,
-   "jumps": 52480,
-   "mined": 31921,
+   "damageDealt": 309141,
+   "damageTaken": 24279,
+   "distanceCm": 41934299,
+   "walkCm": 12341028,
+   "flyCm": 15437996,
+   "jumps": 52604,
+   "mined": 32156,
    "topMined": [
     [
      "spruce_log",
@@ -156,7 +156,7 @@
    "topKilled": [
     [
      "skeleton",
-     2010
+     2011
     ],
     [
      "zombie",
@@ -884,18 +884,18 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-17T03:09:08Z",
-   "playTicks": 1434655,
+   "lastSeen": "2026-10-17T03:11:51Z",
+   "playTicks": 1437917,
    "deaths": 12,
    "mobKills": 234,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 31362,
    "damageTaken": 10563,
-   "distanceCm": 10644835,
-   "walkCm": 8684372,
-   "flyCm": 1072029,
-   "jumps": 10501,
+   "distanceCm": 10649657,
+   "walkCm": 8688028,
+   "flyCm": 1073195,
+   "jumps": 10515,
    "mined": 23066,
    "topMined": [
     [
@@ -911,7 +911,7 @@
      4094
     ]
    ],
-   "crafted": 3108,
+   "crafted": 3145,
    "topCrafted": [
     [
      "pale_oak_planks",
