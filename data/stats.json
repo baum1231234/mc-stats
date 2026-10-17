@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T04:10:19Z",
+ "updated": "2026-10-17T04:15:02Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 8102432,
+ "serverTicks": 8108432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1116,6 +1116,128 @@
    }
   },
   {
+   "uuid": "775e2172-8576-416e-b390-8328646044f9",
+   "name": "htxl",
+   "firstSeen": "2026-10-14T22:34:53Z",
+   "lastSeen": "2026-10-17T04:14:08Z",
+   "playTicks": 1069232,
+   "deaths": 10,
+   "mobKills": 253,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 32846,
+   "damageTaken": 10798,
+   "distanceCm": 5938651,
+   "walkCm": 2550102,
+   "flyCm": 2263316,
+   "jumps": 11136,
+   "mined": 4432,
+   "topMined": [
+    [
+     "deepslate",
+     1556
+    ],
+    [
+     "grass_block",
+     433
+    ],
+    [
+     "spruce_log",
+     376
+    ]
+   ],
+   "crafted": 7875,
+   "topCrafted": [
+    [
+     "stick",
+     2640
+    ],
+    [
+     "spruce_planks",
+     1499
+    ],
+    [
+     "iron_ingot",
+     1480
+    ]
+   ],
+   "topKilled": [
+    [
+     "zombie",
+     55
+    ],
+    [
+     "pillager",
+     41
+    ],
+    [
+     "vindicator",
+     37
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "stray",
+     4
+    ],
+    [
+     "vex",
+     2
+    ],
+    [
+     "zombie",
+     2
+    ],
+    [
+     "skeleton",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 26,
+    "byTab": {
+     "story": 12,
+     "adventure": 10,
+     "husbandry": 1,
+     "nether": 3
+    },
+    "recent": [
+     [
+      "nether/obtain_blaze_rod",
+      "2026-10-17T02:37:23Z"
+     ],
+     [
+      "nether/find_fortress",
+      "2026-10-17T02:35:24Z"
+     ],
+     [
+      "nether/root",
+      "2026-10-17T02:31:36Z"
+     ],
+     [
+      "story/enter_the_nether",
+      "2026-10-17T02:31:36Z"
+     ],
+     [
+      "adventure/hero_of_the_village",
+      "2026-10-17T01:35:15Z"
+     ],
+     [
+      "adventure/voluntary_exile",
+      "2026-10-17T01:22:42Z"
+     ],
+     [
+      "adventure/shoot_arrow",
+      "2026-10-17T01:16:55Z"
+     ],
+     [
+      "adventure/under_lock_and_key",
+      "2026-10-17T00:55:02Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
@@ -1236,128 +1358,6 @@
      [
       "husbandry/fishy_business",
       "2026-10-11T12:18:12Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "775e2172-8576-416e-b390-8328646044f9",
-   "name": "htxl",
-   "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-17T04:09:08Z",
-   "playTicks": 1063232,
-   "deaths": 10,
-   "mobKills": 253,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 32846,
-   "damageTaken": 10798,
-   "distanceCm": 5938651,
-   "walkCm": 2550102,
-   "flyCm": 2263316,
-   "jumps": 11136,
-   "mined": 4432,
-   "topMined": [
-    [
-     "deepslate",
-     1556
-    ],
-    [
-     "grass_block",
-     433
-    ],
-    [
-     "spruce_log",
-     376
-    ]
-   ],
-   "crafted": 7875,
-   "topCrafted": [
-    [
-     "stick",
-     2640
-    ],
-    [
-     "spruce_planks",
-     1499
-    ],
-    [
-     "iron_ingot",
-     1480
-    ]
-   ],
-   "topKilled": [
-    [
-     "zombie",
-     55
-    ],
-    [
-     "pillager",
-     41
-    ],
-    [
-     "vindicator",
-     37
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "stray",
-     4
-    ],
-    [
-     "vex",
-     2
-    ],
-    [
-     "zombie",
-     2
-    ],
-    [
-     "skeleton",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 26,
-    "byTab": {
-     "story": 12,
-     "adventure": 10,
-     "husbandry": 1,
-     "nether": 3
-    },
-    "recent": [
-     [
-      "nether/obtain_blaze_rod",
-      "2026-10-17T02:37:23Z"
-     ],
-     [
-      "nether/find_fortress",
-      "2026-10-17T02:35:24Z"
-     ],
-     [
-      "nether/root",
-      "2026-10-17T02:31:36Z"
-     ],
-     [
-      "story/enter_the_nether",
-      "2026-10-17T02:31:36Z"
-     ],
-     [
-      "adventure/hero_of_the_village",
-      "2026-10-17T01:35:15Z"
-     ],
-     [
-      "adventure/voluntary_exile",
-      "2026-10-17T01:22:42Z"
-     ],
-     [
-      "adventure/shoot_arrow",
-      "2026-10-17T01:16:55Z"
-     ],
-     [
-      "adventure/under_lock_and_key",
-      "2026-10-17T00:55:02Z"
      ]
     ]
    }
