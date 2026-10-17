@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T12:16:19Z",
+ "updated": "2026-10-17T12:17:57Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 8592406,
+ "serverTicks": 8597209,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -553,19 +553,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-17T12:13:13Z",
-   "playTicks": 2305842,
+   "lastSeen": "2026-10-17T12:17:02Z",
+   "playTicks": 2309424,
    "deaths": 2,
-   "mobKills": 2855,
+   "mobKills": 2856,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 216175,
-   "damageTaken": 19799,
-   "distanceCm": 28197641,
-   "walkCm": 9356012,
-   "flyCm": 6641024,
-   "jumps": 30843,
-   "mined": 24408,
+   "damageDealt": 216472,
+   "damageTaken": 19817,
+   "distanceCm": 28439291,
+   "walkCm": 9358173,
+   "flyCm": 6654058,
+   "jumps": 30866,
+   "mined": 24428,
    "topMined": [
     [
      "spruce_log",
@@ -577,7 +577,7 @@
     ],
     [
      "sand",
-     1911
+     1919
     ]
    ],
    "crafted": 118871,
@@ -3367,6 +3367,10 @@
     "mtime": "2026-10-17T12:14:38Z",
     "rendered": "2026-10-17T12:16:19Z"
    },
+   "-17.-2": {
+    "mtime": "2026-10-17T12:12:39Z",
+    "rendered": "2026-10-17T12:17:57Z"
+   },
    "1.10": {
     "mtime": "2026-10-15T21:32:01Z",
     "rendered": "2026-10-17T11:48:09Z"
@@ -3406,6 +3410,18 @@
     "mtime": "2026-10-14T06:04:11Z",
     "rendered": "2026-10-17T11:53:33Z",
     "empty": true
+   },
+   "1.-13": {
+    "mtime": "2026-10-17T12:15:50Z",
+    "rendered": "2026-10-17T12:17:57Z"
+   },
+   "2.-12": {
+    "mtime": "2026-10-17T12:15:07Z",
+    "rendered": "2026-10-17T12:17:57Z"
+   },
+   "0.-14": {
+    "mtime": "2026-10-17T12:16:49Z",
+    "rendered": "2026-10-17T12:17:57Z"
    },
    "3.9": {
     "mtime": "2026-10-11T21:09:40Z",
