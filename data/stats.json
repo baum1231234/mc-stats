@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T01:59:48Z",
+ "updated": "2026-10-17T02:01:26Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7946432,
+ "serverTicks": 7948899,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,8 +111,8 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T01:59:08Z",
-   "playTicks": 3568885,
+   "lastSeen": "2026-10-17T02:01:11Z",
+   "playTicks": 3571352,
    "deaths": 4,
    "mobKills": 3185,
    "playerKills": 2,
@@ -883,18 +883,18 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-17T01:59:08Z",
-   "playTicks": 1350655,
+   "lastSeen": "2026-10-17T02:01:11Z",
+   "playTicks": 1353122,
    "deaths": 11,
    "mobKills": 229,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 30730,
    "damageTaken": 10014,
-   "distanceCm": 9929043,
-   "walkCm": 8218272,
-   "flyCm": 943744,
-   "jumps": 9484,
+   "distanceCm": 9939251,
+   "walkCm": 8226874,
+   "flyCm": 945350,
+   "jumps": 9491,
    "mined": 22455,
    "topMined": [
     [
@@ -1242,13 +1242,13 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-17T01:59:08Z",
-   "playTicks": 907232,
+   "lastSeen": "2026-10-17T02:01:11Z",
+   "playTicks": 909699,
    "deaths": 8,
-   "mobKills": 187,
+   "mobKills": 191,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 22578,
+   "damageDealt": 22598,
    "damageTaken": 8043,
    "distanceCm": 4704044,
    "walkCm": 1988291,
@@ -1269,7 +1269,7 @@
      376
     ]
    ],
-   "crafted": 6986,
+   "crafted": 6988,
    "topCrafted": [
     [
      "stick",
@@ -1291,11 +1291,11 @@
     ],
     [
      "pillager",
-     37
+     40
     ],
     [
      "vindicator",
-     32
+     33
     ]
    ],
    "topKilledBy": [
