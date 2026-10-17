@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T02:31:22Z",
+ "updated": "2026-10-17T02:34:34Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7984822,
+ "serverTicks": 7988432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,19 +111,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T02:31:08Z",
-   "playTicks": 3605891,
+   "lastSeen": "2026-10-17T02:34:08Z",
+   "playTicks": 3609501,
    "deaths": 4,
-   "mobKills": 3221,
+   "mobKills": 3224,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 303841,
-   "damageTaken": 23423,
-   "distanceCm": 41536633,
-   "walkCm": 12129324,
-   "flyCm": 15286299,
-   "jumps": 51628,
-   "mined": 29240,
+   "damageDealt": 304041,
+   "damageTaken": 23483,
+   "distanceCm": 41575835,
+   "walkCm": 12147913,
+   "flyCm": 15300486,
+   "jumps": 51716,
+   "mined": 29290,
    "topMined": [
     [
      "spruce_log",
@@ -156,7 +156,7 @@
    "topKilled": [
     [
      "skeleton",
-     2008
+     2010
     ],
     [
      "zombie",
@@ -174,14 +174,18 @@
     ]
    ],
    "adv": {
-    "count": 25,
+    "count": 26,
     "byTab": {
      "story": 11,
      "adventure": 10,
      "husbandry": 3,
-     "nether": 1
+     "nether": 2
     },
     "recent": [
+     [
+      "nether/find_bastion",
+      "2026-10-17T02:33:50Z"
+     ],
      [
       "nether/root",
       "2026-10-17T02:31:00Z"
@@ -209,10 +213,6 @@
      [
       "adventure/under_lock_and_key",
       "2026-10-14T14:49:29Z"
-     ],
-     [
-      "adventure/minecraft_trials_edition",
-      "2026-10-14T14:48:13Z"
      ]
     ]
    }
@@ -884,19 +884,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-17T02:31:08Z",
-   "playTicks": 1389045,
+   "lastSeen": "2026-10-17T02:34:08Z",
+   "playTicks": 1392655,
    "deaths": 11,
-   "mobKills": 229,
+   "mobKills": 231,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 30870,
-   "damageTaken": 10044,
-   "distanceCm": 10240773,
-   "walkCm": 8441639,
-   "flyCm": 1007998,
-   "jumps": 9965,
-   "mined": 22879,
+   "damageDealt": 31039,
+   "damageTaken": 10160,
+   "distanceCm": 10269351,
+   "walkCm": 8467288,
+   "flyCm": 1008652,
+   "jumps": 10009,
+   "mined": 22883,
    "topMined": [
     [
      "stone",
@@ -959,13 +959,22 @@
     ]
    ],
    "adv": {
-    "count": 15,
+    "count": 17,
     "byTab": {
-     "story": 9,
+     "story": 10,
      "adventure": 4,
-     "husbandry": 2
+     "husbandry": 2,
+     "nether": 1
     },
     "recent": [
+     [
+      "nether/root",
+      "2026-10-17T02:31:42Z"
+     ],
+     [
+      "story/enter_the_nether",
+      "2026-10-17T02:31:42Z"
+     ],
      [
       "adventure/shoot_arrow",
       "2026-10-16T12:45:47Z"
@@ -989,14 +998,6 @@
      [
       "story/mine_diamond",
       "2026-10-11T16:47:14Z"
-     ],
-     [
-      "story/obtain_armor",
-      "2026-10-11T16:09:09Z"
-     ],
-     [
-      "story/smelt_iron",
-      "2026-10-11T16:09:03Z"
      ]
     ]
    }
@@ -1243,19 +1244,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-17T02:31:08Z",
-   "playTicks": 945622,
+   "lastSeen": "2026-10-17T02:34:08Z",
+   "playTicks": 949232,
    "deaths": 10,
-   "mobKills": 203,
+   "mobKills": 208,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 23633,
-   "damageTaken": 8885,
-   "distanceCm": 5250600,
-   "walkCm": 2196508,
-   "flyCm": 1982202,
-   "jumps": 9736,
-   "mined": 4155,
+   "damageDealt": 25027,
+   "damageTaken": 9068,
+   "distanceCm": 5282598,
+   "walkCm": 2220462,
+   "flyCm": 1987505,
+   "jumps": 9775,
+   "mined": 4167,
    "topMined": [
     [
      "deepslate",
@@ -1288,7 +1289,7 @@
    "topKilled": [
     [
      "zombie",
-     46
+     47
     ],
     [
      "pillager",
@@ -1318,13 +1319,22 @@
     ]
    ],
    "adv": {
-    "count": 22,
+    "count": 24,
     "byTab": {
-     "story": 11,
+     "story": 12,
      "adventure": 10,
-     "husbandry": 1
+     "husbandry": 1,
+     "nether": 1
     },
     "recent": [
+     [
+      "nether/root",
+      "2026-10-17T02:31:36Z"
+     ],
+     [
+      "story/enter_the_nether",
+      "2026-10-17T02:31:36Z"
+     ],
      [
       "adventure/hero_of_the_village",
       "2026-10-17T01:35:15Z"
@@ -1348,14 +1358,6 @@
      [
       "story/lava_bucket",
       "2026-10-16T17:01:25Z"
-     ],
-     [
-      "story/form_obsidian",
-      "2026-10-16T17:01:17Z"
-     ],
-     [
-      "adventure/sleep_in_bed",
-      "2026-10-16T16:13:11Z"
      ]
     ]
    }
