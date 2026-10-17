@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T16:48:22Z",
+ "updated": "2026-10-17T16:49:57Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 8851949,
+ "serverTicks": 8853547,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -888,16 +888,16 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-17T16:43:27Z",
-   "playTicks": 1697666,
+   "lastSeen": "2026-10-17T16:49:08Z",
+   "playTicks": 1697873,
    "deaths": 15,
    "mobKills": 271,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 36915,
    "damageTaken": 12252,
-   "distanceCm": 13067905,
-   "walkCm": 10408372,
+   "distanceCm": 13068551,
+   "walkCm": 10409018,
    "flyCm": 1651247,
    "jumps": 14350,
    "mined": 24904,
@@ -3300,6 +3300,22 @@
    "9.1": {
     "mtime": "2026-10-16T06:04:45Z",
     "rendered": "2026-10-17T16:48:22Z"
+   },
+   "7.-3": {
+    "mtime": "2026-10-16T06:04:45Z",
+    "rendered": "2026-10-17T16:49:57Z"
+   },
+   "9.-1": {
+    "mtime": "2026-10-16T06:04:45Z",
+    "rendered": "2026-10-17T16:49:57Z"
+   },
+   "8.-2": {
+    "mtime": "2026-10-16T06:04:45Z",
+    "rendered": "2026-10-17T16:49:57Z"
+   },
+   "10.0": {
+    "mtime": "2026-10-16T06:04:45Z",
+    "rendered": "2026-10-17T16:49:57Z"
    },
    "-7.-4": {
     "mtime": "2026-10-17T14:02:18Z",
