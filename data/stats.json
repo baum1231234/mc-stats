@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T02:34:34Z",
+ "updated": "2026-10-17T02:39:20Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7988432,
+ "serverTicks": 7994432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,19 +111,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T02:34:08Z",
-   "playTicks": 3609501,
+   "lastSeen": "2026-10-17T02:39:08Z",
+   "playTicks": 3614876,
    "deaths": 4,
-   "mobKills": 3224,
+   "mobKills": 3229,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 304041,
-   "damageTaken": 23483,
-   "distanceCm": 41575835,
-   "walkCm": 12147913,
-   "flyCm": 15300486,
-   "jumps": 51716,
-   "mined": 29290,
+   "damageDealt": 305972,
+   "damageTaken": 23803,
+   "distanceCm": 41616412,
+   "walkCm": 12178355,
+   "flyCm": 15307181,
+   "jumps": 51788,
+   "mined": 29375,
    "topMined": [
     [
      "spruce_log",
@@ -174,14 +174,26 @@
     ]
    ],
    "adv": {
-    "count": 26,
+    "count": 29,
     "byTab": {
      "story": 11,
-     "adventure": 10,
+     "adventure": 11,
      "husbandry": 3,
-     "nether": 2
+     "nether": 4
     },
     "recent": [
+     [
+      "adventure/totem_of_undying",
+      "2026-10-17T02:38:31Z"
+     ],
+     [
+      "nether/obtain_ancient_debris",
+      "2026-10-17T02:36:46Z"
+     ],
+     [
+      "nether/loot_bastion",
+      "2026-10-17T02:36:44Z"
+     ],
      [
       "nether/find_bastion",
       "2026-10-17T02:33:50Z"
@@ -201,18 +213,6 @@
      [
       "adventure/trim_with_any_armor_pattern",
       "2026-10-15T21:37:51Z"
-     ],
-     [
-      "adventure/avoid_vibration",
-      "2026-10-14T23:33:54Z"
-     ],
-     [
-      "adventure/revaulting",
-      "2026-10-14T15:11:08Z"
-     ],
-     [
-      "adventure/under_lock_and_key",
-      "2026-10-14T14:49:29Z"
      ]
     ]
    }
@@ -884,19 +884,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-17T02:34:08Z",
-   "playTicks": 1392655,
-   "deaths": 11,
+   "lastSeen": "2026-10-17T02:39:08Z",
+   "playTicks": 1398655,
+   "deaths": 12,
    "mobKills": 231,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 31039,
-   "damageTaken": 10160,
-   "distanceCm": 10269351,
-   "walkCm": 8467288,
-   "flyCm": 1008652,
-   "jumps": 10009,
-   "mined": 22883,
+   "damageDealt": 31143,
+   "damageTaken": 10386,
+   "distanceCm": 10355716,
+   "walkCm": 8540004,
+   "flyCm": 1020876,
+   "jumps": 10092,
+   "mined": 22893,
    "topMined": [
     [
      "stone",
@@ -959,14 +959,18 @@
     ]
    ],
    "adv": {
-    "count": 17,
+    "count": 18,
     "byTab": {
      "story": 10,
      "adventure": 4,
      "husbandry": 2,
-     "nether": 1
+     "nether": 2
     },
     "recent": [
+     [
+      "nether/find_fortress",
+      "2026-10-17T02:35:27Z"
+     ],
      [
       "nether/root",
       "2026-10-17T02:31:42Z"
@@ -994,10 +998,6 @@
      [
       "story/shiny_gear",
       "2026-10-11T16:47:40Z"
-     ],
-     [
-      "story/mine_diamond",
-      "2026-10-11T16:47:14Z"
      ]
     ]
    }
@@ -1244,19 +1244,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-17T02:34:08Z",
-   "playTicks": 949232,
+   "lastSeen": "2026-10-17T02:39:08Z",
+   "playTicks": 955232,
    "deaths": 10,
-   "mobKills": 208,
+   "mobKills": 217,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 25027,
-   "damageTaken": 9068,
-   "distanceCm": 5282598,
-   "walkCm": 2220462,
-   "flyCm": 1987505,
-   "jumps": 9775,
-   "mined": 4167,
+   "damageDealt": 26998,
+   "damageTaken": 9507,
+   "distanceCm": 5388025,
+   "walkCm": 2290573,
+   "flyCm": 2021545,
+   "jumps": 9933,
+   "mined": 4217,
    "topMined": [
     [
      "deepslate",
@@ -1319,14 +1319,22 @@
     ]
    ],
    "adv": {
-    "count": 24,
+    "count": 26,
     "byTab": {
      "story": 12,
      "adventure": 10,
      "husbandry": 1,
-     "nether": 1
+     "nether": 3
     },
     "recent": [
+     [
+      "nether/obtain_blaze_rod",
+      "2026-10-17T02:37:23Z"
+     ],
+     [
+      "nether/find_fortress",
+      "2026-10-17T02:35:24Z"
+     ],
      [
       "nether/root",
       "2026-10-17T02:31:36Z"
@@ -1350,14 +1358,6 @@
      [
       "adventure/under_lock_and_key",
       "2026-10-17T00:55:02Z"
-     ],
-     [
-      "adventure/minecraft_trials_edition",
-      "2026-10-17T00:48:08Z"
-     ],
-     [
-      "story/lava_bucket",
-      "2026-10-16T17:01:25Z"
      ]
     ]
    }
