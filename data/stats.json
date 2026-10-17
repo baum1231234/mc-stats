@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T13:23:11Z",
+ "updated": "2026-10-17T13:27:28Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 8670406,
+ "serverTicks": 8676406,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -103,6 +103,120 @@
      [
       "adventure/totem_of_undying",
       "2026-10-11T19:15:13Z"
+     ]
+    ]
+   }
+  },
+  {
+   "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
+   "name": "TheWinterSolgier",
+   "firstSeen": null,
+   "lastSeen": "2026-10-17T13:27:04Z",
+   "playTicks": 3722848,
+   "deaths": 2,
+   "mobKills": 1747,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 251505,
+   "damageTaken": 12668,
+   "distanceCm": 39320765,
+   "walkCm": 17482711,
+   "flyCm": 10805607,
+   "jumps": 38787,
+   "mined": 62823,
+   "topMined": [
+    [
+     "grass_block",
+     12748
+    ],
+    [
+     "dirt",
+     9450
+    ],
+    [
+     "sand",
+     9202
+    ]
+   ],
+   "crafted": 42540,
+   "topCrafted": [
+    [
+     "spruce_planks",
+     10522
+    ],
+    [
+     "bamboo_planks",
+     6526
+    ],
+    [
+     "dark_oak_planks",
+     4900
+    ]
+   ],
+   "topKilled": [
+    [
+     "zombie",
+     433
+    ],
+    [
+     "guardian",
+     372
+    ],
+    [
+     "skeleton",
+     295
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "skeleton",
+     1
+    ],
+    [
+     "creeper",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 31,
+    "byTab": {
+     "adventure": 11,
+     "story": 14,
+     "husbandry": 4,
+     "nether": 2
+    },
+    "recent": [
+     [
+      "nether/root",
+      "2026-10-17T11:04:50Z"
+     ],
+     [
+      "story/enter_the_nether",
+      "2026-10-17T11:04:50Z"
+     ],
+     [
+      "story/follow_ender_eye",
+      "2026-10-14T01:18:25Z"
+     ],
+     [
+      "adventure/throw_trident",
+      "2026-10-13T12:41:10Z"
+     ],
+     [
+      "adventure/shoot_arrow",
+      "2026-10-13T10:53:07Z"
+     ],
+     [
+      "adventure/revaulting",
+      "2026-10-13T09:58:15Z"
+     ],
+     [
+      "adventure/under_lock_and_key",
+      "2026-10-13T09:55:51Z"
+     ],
+     [
+      "adventure/minecraft_trials_edition",
+      "2026-10-13T09:43:57Z"
      ]
     ]
    }
@@ -218,125 +332,11 @@
    }
   },
   {
-   "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
-   "name": "TheWinterSolgier",
-   "firstSeen": null,
-   "lastSeen": "2026-10-17T13:22:04Z",
-   "playTicks": 3716848,
-   "deaths": 2,
-   "mobKills": 1747,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 251505,
-   "damageTaken": 12668,
-   "distanceCm": 39239850,
-   "walkCm": 17480717,
-   "flyCm": 10799667,
-   "jumps": 38783,
-   "mined": 62821,
-   "topMined": [
-    [
-     "grass_block",
-     12748
-    ],
-    [
-     "dirt",
-     9450
-    ],
-    [
-     "sand",
-     9202
-    ]
-   ],
-   "crafted": 42540,
-   "topCrafted": [
-    [
-     "spruce_planks",
-     10522
-    ],
-    [
-     "bamboo_planks",
-     6526
-    ],
-    [
-     "dark_oak_planks",
-     4900
-    ]
-   ],
-   "topKilled": [
-    [
-     "zombie",
-     433
-    ],
-    [
-     "guardian",
-     372
-    ],
-    [
-     "skeleton",
-     295
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "skeleton",
-     1
-    ],
-    [
-     "creeper",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 31,
-    "byTab": {
-     "adventure": 11,
-     "story": 14,
-     "husbandry": 4,
-     "nether": 2
-    },
-    "recent": [
-     [
-      "nether/root",
-      "2026-10-17T11:04:50Z"
-     ],
-     [
-      "story/enter_the_nether",
-      "2026-10-17T11:04:50Z"
-     ],
-     [
-      "story/follow_ender_eye",
-      "2026-10-14T01:18:25Z"
-     ],
-     [
-      "adventure/throw_trident",
-      "2026-10-13T12:41:10Z"
-     ],
-     [
-      "adventure/shoot_arrow",
-      "2026-10-13T10:53:07Z"
-     ],
-     [
-      "adventure/revaulting",
-      "2026-10-13T09:58:15Z"
-     ],
-     [
-      "adventure/under_lock_and_key",
-      "2026-10-13T09:55:51Z"
-     ],
-     [
-      "adventure/minecraft_trials_edition",
-      "2026-10-13T09:43:57Z"
-     ]
-    ]
-   }
-  },
-  {
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T13:22:04Z",
-   "playTicks": 3241824,
+   "lastSeen": "2026-10-17T13:27:04Z",
+   "playTicks": 3247824,
    "deaths": 0,
    "mobKills": 3311,
    "playerKills": 0,
@@ -662,23 +662,23 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
-   "lastSeen": "2026-10-17T13:22:04Z",
-   "playTicks": 1936063,
+   "lastSeen": "2026-10-17T13:27:04Z",
+   "playTicks": 1942063,
    "deaths": 3,
    "mobKills": 404,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 60185,
-   "damageTaken": 11903,
-   "distanceCm": 15231581,
-   "walkCm": 8137149,
-   "flyCm": 3306907,
-   "jumps": 20232,
-   "mined": 23883,
+   "damageTaken": 11928,
+   "distanceCm": 15246424,
+   "walkCm": 8147957,
+   "flyCm": 3310342,
+   "jumps": 20257,
+   "mined": 23955,
    "topMined": [
     [
      "stone",
-     11417
+     11484
     ],
     [
      "diorite",
@@ -1123,19 +1123,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-17T13:22:04Z",
-   "playTicks": 1300072,
+   "lastSeen": "2026-10-17T13:27:04Z",
+   "playTicks": 1306072,
    "deaths": 10,
-   "mobKills": 387,
+   "mobKills": 395,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 60825,
-   "damageTaken": 12734,
-   "distanceCm": 7152006,
-   "walkCm": 2987289,
-   "flyCm": 2854195,
-   "jumps": 13725,
-   "mined": 4593,
+   "damageDealt": 62605,
+   "damageTaken": 12830,
+   "distanceCm": 7325498,
+   "walkCm": 3006529,
+   "flyCm": 2895763,
+   "jumps": 13871,
+   "mined": 4602,
    "topMined": [
     [
      "deepslate",
@@ -1168,7 +1168,7 @@
    "topKilled": [
     [
      "pillager",
-     133
+     140
     ],
     [
      "zombie",
@@ -2036,8 +2036,8 @@
     "rendered": "2026-10-17T10:30:05Z"
    },
    "1.2": {
-    "mtime": "2026-10-17T09:36:49Z",
-    "rendered": "2026-10-17T10:25:31Z"
+    "mtime": "2026-10-17T12:29:47Z",
+    "rendered": "2026-10-17T13:27:28Z"
    },
    "-1.1": {
     "mtime": "2026-10-16T18:59:52Z",
@@ -2180,8 +2180,8 @@
     "rendered": "2026-10-17T11:06:14Z"
    },
    "3.2": {
-    "mtime": "2026-10-17T09:40:41Z",
-    "rendered": "2026-10-17T10:25:31Z"
+    "mtime": "2026-10-17T13:26:35Z",
+    "rendered": "2026-10-17T13:27:28Z"
    },
    "4.1": {
     "mtime": "2026-10-17T11:52:02Z",
@@ -2276,8 +2276,8 @@
     "rendered": "2026-10-17T11:49:57Z"
    },
    "-1.6": {
-    "mtime": "2026-10-16T19:54:03Z",
-    "rendered": "2026-10-16T19:53:43Z"
+    "mtime": "2026-10-17T13:26:51Z",
+    "rendered": "2026-10-17T13:27:28Z"
    },
    "0.5": {
     "mtime": "2026-10-16T19:54:08Z",
