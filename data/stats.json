@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T15:25:27Z",
+ "updated": "2026-10-17T15:27:01Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 8790406,
  "players": [
@@ -1582,20 +1582,33 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-17T15:25:21Z",
-   "playTicks": 140,
+   "lastSeen": "2026-10-17T15:26:47Z",
+   "playTicks": 1056,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 0,
    "damageTaken": 0,
-   "distanceCm": 0,
-   "walkCm": 0,
-   "flyCm": 0,
-   "jumps": 0,
-   "mined": 0,
-   "topMined": [],
+   "distanceCm": 13106,
+   "walkCm": 8036,
+   "flyCm": 4620,
+   "jumps": 27,
+   "mined": 10,
+   "topMined": [
+    [
+     "oak_leaves",
+     4
+    ],
+    [
+     "birch_leaves",
+     3
+    ],
+    [
+     "short_grass",
+     2
+    ]
+   ],
    "crafted": 0,
    "topCrafted": [],
    "topKilled": [],
@@ -3405,8 +3418,8 @@
     "rendered": "2026-10-17T15:17:58Z"
    },
    "-16.-3": {
-    "mtime": "2026-10-17T12:25:07Z",
-    "rendered": "2026-10-17T12:25:43Z",
+    "mtime": "2026-10-17T12:37:09Z",
+    "rendered": "2026-10-17T15:27:01Z",
     "empty": true
    },
    "1.10": {
