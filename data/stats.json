@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T00:14:05Z",
+ "updated": "2026-10-17T00:15:41Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7820432,
+ "serverTicks": 7822775,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -220,19 +220,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T00:09:08Z",
-   "playTicks": 3369390,
+   "lastSeen": "2026-10-17T00:14:08Z",
+   "playTicks": 3375390,
    "deaths": 2,
-   "mobKills": 1655,
+   "mobKills": 1660,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 231257,
-   "damageTaken": 11943,
-   "distanceCm": 35920293,
-   "walkCm": 16212422,
-   "flyCm": 9852292,
-   "jumps": 35799,
-   "mined": 56630,
+   "damageDealt": 232581,
+   "damageTaken": 11960,
+   "distanceCm": 35931519,
+   "walkCm": 16222111,
+   "flyCm": 9853150,
+   "jumps": 35808,
+   "mined": 56631,
    "topMined": [
     [
      "grass_block",
@@ -247,7 +247,7 @@
      9167
     ]
    ],
-   "crafted": 32353,
+   "crafted": 32781,
    "topCrafted": [
     [
      "bamboo_planks",
@@ -258,14 +258,14 @@
      6229
     ],
     [
-     "bamboo_block",
-     3525
+     "dark_oak_planks",
+     3592
     ]
    ],
    "topKilled": [
     [
      "zombie",
-     395
+     399
     ],
     [
      "guardian",
