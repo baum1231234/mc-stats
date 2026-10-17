@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T15:36:03Z",
+ "updated": "2026-10-17T15:37:37Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 8796406,
  "players": [
@@ -2834,6 +2834,11 @@
     "rendered": "2026-10-15T16:22:00Z",
     "empty": true
    },
+   "4.-6": {
+    "mtime": "2026-10-17T15:37:42Z",
+    "rendered": "2026-10-17T15:37:37Z",
+    "empty": true
+   },
    "-6.2": {
     "mtime": "2026-10-17T08:44:50Z",
     "rendered": "2026-10-17T08:53:04Z"
@@ -3567,10 +3572,6 @@
    },
    "-7.10": {
     "mtime": "2026-10-15T21:32:01Z",
-    "rendered": "2026-10-17T11:59:44Z"
-   },
-   "-8.9": {
-    "mtime": "2026-10-15T21:09:43Z",
     "rendered": "2026-10-17T11:59:44Z"
    }
   }
