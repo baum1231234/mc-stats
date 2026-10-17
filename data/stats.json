@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T23:12:47Z",
+ "updated": "2026-10-17T23:14:42Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 9201547,
+ "serverTicks": 9207547,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -441,18 +441,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-17T23:10:02Z",
-   "playTicks": 2945418,
+   "lastSeen": "2026-10-17T23:14:34Z",
+   "playTicks": 2950859,
    "deaths": 2,
    "mobKills": 825,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 84781,
-   "damageTaken": 23860,
-   "distanceCm": 28514450,
-   "walkCm": 12613379,
-   "flyCm": 9345768,
-   "jumps": 45145,
+   "damageDealt": 84796,
+   "damageTaken": 23906,
+   "distanceCm": 28558550,
+   "walkCm": 12628121,
+   "flyCm": 9372613,
+   "jumps": 45216,
    "mined": 99531,
    "topMined": [
     [
@@ -2227,8 +2227,8 @@
     "rendered": "2026-10-17T21:57:44Z"
    },
    "-2.-6": {
-    "mtime": "2026-10-17T20:01:27Z",
-    "rendered": "2026-10-17T20:13:35Z"
+    "mtime": "2026-10-17T21:25:05Z",
+    "rendered": "2026-10-17T23:14:42Z"
    },
    "1.-4": {
     "mtime": "2026-10-17T19:51:12Z",
@@ -2239,8 +2239,8 @@
     "rendered": "2026-10-17T20:46:53Z"
    },
    "-1.-7": {
-    "mtime": "2026-10-17T20:01:27Z",
-    "rendered": "2026-10-17T20:13:35Z"
+    "mtime": "2026-10-17T21:25:05Z",
+    "rendered": "2026-10-17T23:14:42Z"
    },
    "0.-6": {
     "mtime": "2026-10-17T21:25:05Z",
@@ -2327,8 +2327,8 @@
     "rendered": "2026-10-17T20:43:51Z"
    },
    "-2.-5": {
-    "mtime": "2026-10-17T20:01:27Z",
-    "rendered": "2026-10-17T20:13:35Z"
+    "mtime": "2026-10-17T21:28:24Z",
+    "rendered": "2026-10-17T23:14:42Z"
    },
    "-3.6": {
     "mtime": "2026-10-17T18:52:25Z",
@@ -3521,6 +3521,10 @@
    "-3.12": {
     "mtime": "2026-10-17T17:25:55Z",
     "rendered": "2026-10-17T23:10:48Z"
+   },
+   "-4.11": {
+    "mtime": "2026-10-17T17:26:37Z",
+    "rendered": "2026-10-17T23:14:42Z"
    },
    "-7.8": {
     "mtime": "2026-10-17T17:27:56Z",
