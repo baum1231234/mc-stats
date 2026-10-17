@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T02:48:57Z",
+ "updated": "2026-10-17T02:50:34Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 8006432,
  "players": [
@@ -111,19 +111,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T02:46:13Z",
-   "playTicks": 3623371,
+   "lastSeen": "2026-10-17T02:49:08Z",
+   "playTicks": 3626876,
    "deaths": 4,
    "mobKills": 3236,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 307557,
    "damageTaken": 23907,
-   "distanceCm": 41669318,
-   "walkCm": 12218054,
-   "flyCm": 15316663,
-   "jumps": 51886,
-   "mined": 30237,
+   "distanceCm": 41683982,
+   "walkCm": 12232088,
+   "flyCm": 15317293,
+   "jumps": 51915,
+   "mined": 30721,
    "topMined": [
     [
      "spruce_log",
@@ -884,18 +884,18 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-17T02:46:13Z",
-   "playTicks": 1407150,
+   "lastSeen": "2026-10-17T02:49:08Z",
+   "playTicks": 1410655,
    "deaths": 12,
    "mobKills": 231,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 31143,
    "damageTaken": 10406,
-   "distanceCm": 10422593,
-   "walkCm": 8568922,
+   "distanceCm": 10425313,
+   "walkCm": 8571642,
    "flyCm": 1031461,
-   "jumps": 10174,
+   "jumps": 10176,
    "mined": 22893,
    "topMined": [
     [
@@ -959,14 +959,18 @@
     ]
    ],
    "adv": {
-    "count": 18,
+    "count": 19,
     "byTab": {
      "story": 10,
      "adventure": 4,
      "husbandry": 2,
-     "nether": 2
+     "nether": 3
     },
     "recent": [
+     [
+      "nether/obtain_blaze_rod",
+      "2026-10-17T02:48:45Z"
+     ],
      [
       "nether/find_fortress",
       "2026-10-17T02:35:27Z"
@@ -994,10 +998,6 @@
      [
       "story/iron_tools",
       "2026-10-12T16:25:15Z"
-     ],
-     [
-      "story/shiny_gear",
-      "2026-10-11T16:47:40Z"
      ]
     ]
    }
@@ -2087,8 +2087,8 @@
     "rendered": "2026-10-16T21:47:38Z"
    },
    "-4.4": {
-    "mtime": "2026-10-16T23:48:42Z",
-    "rendered": "2026-10-16T23:49:33Z"
+    "mtime": "2026-10-16T23:54:19Z",
+    "rendered": "2026-10-17T02:50:34Z"
    },
    "-2.6": {
     "mtime": "2026-10-16T23:48:28Z",
