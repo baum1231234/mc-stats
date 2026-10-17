@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T01:14:25Z",
+ "updated": "2026-10-17T01:16:03Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7892432,
+ "serverTicks": 7894896,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -996,23 +996,23 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-17T01:14:08Z",
-   "playTicks": 1296655,
+   "lastSeen": "2026-10-17T01:16:11Z",
+   "playTicks": 1299119,
    "deaths": 11,
    "mobKills": 214,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 29302,
    "damageTaken": 9726,
-   "distanceCm": 9498657,
-   "walkCm": 7869907,
+   "distanceCm": 9504229,
+   "walkCm": 7875479,
    "flyCm": 876139,
    "jumps": 8899,
-   "mined": 21173,
+   "mined": 21308,
    "topMined": [
     [
      "stone",
-     8905
+     9023
     ],
     [
      "grass_block",
@@ -1020,7 +1020,7 @@
     ],
     [
      "dirt",
-     3761
+     3778
     ]
    ],
    "crafted": 3057,
@@ -1242,18 +1242,18 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-17T01:14:08Z",
-   "playTicks": 853232,
+   "lastSeen": "2026-10-17T01:16:11Z",
+   "playTicks": 855696,
    "deaths": 8,
-   "mobKills": 101,
+   "mobKills": 102,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 20878,
-   "damageTaken": 7756,
-   "distanceCm": 4296366,
-   "walkCm": 1809367,
-   "flyCm": 1526811,
-   "jumps": 7607,
+   "damageDealt": 21078,
+   "damageTaken": 7832,
+   "distanceCm": 4336156,
+   "walkCm": 1824937,
+   "flyCm": 1544097,
+   "jumps": 7708,
    "mined": 3985,
    "topMined": [
     [
@@ -1290,11 +1290,11 @@
      44
     ],
     [
-     "stray",
-     16
+     "skeleton",
+     17
     ],
     [
-     "skeleton",
+     "stray",
      16
     ]
    ],
