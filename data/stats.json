@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T13:07:33Z",
+ "updated": "2026-10-17T13:11:57Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 8652406,
+ "serverTicks": 8658406,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -662,23 +662,23 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
-   "lastSeen": "2026-10-17T13:07:04Z",
-   "playTicks": 1918063,
+   "lastSeen": "2026-10-17T13:12:04Z",
+   "playTicks": 1924063,
    "deaths": 3,
    "mobKills": 404,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 60185,
    "damageTaken": 11903,
-   "distanceCm": 15127040,
-   "walkCm": 8036077,
+   "distanceCm": 15165859,
+   "walkCm": 8074896,
    "flyCm": 3303888,
-   "jumps": 20163,
-   "mined": 23290,
+   "jumps": 20192,
+   "mined": 23548,
    "topMined": [
     [
      "stone",
-     11093
+     11244
     ],
     [
      "diorite",
@@ -686,7 +686,7 @@
     ],
     [
      "coal_ore",
-     1031
+     1035
     ]
    ],
    "crafted": 10160,
@@ -1123,19 +1123,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-17T13:07:04Z",
-   "playTicks": 1282072,
+   "lastSeen": "2026-10-17T13:12:04Z",
+   "playTicks": 1288072,
    "deaths": 10,
-   "mobKills": 338,
+   "mobKills": 344,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 49065,
-   "damageTaken": 12212,
-   "distanceCm": 6871301,
-   "walkCm": 2904325,
-   "flyCm": 2675144,
-   "jumps": 13011,
-   "mined": 4583,
+   "damageDealt": 50575,
+   "damageTaken": 12396,
+   "distanceCm": 6889049,
+   "walkCm": 2913573,
+   "flyCm": 2681625,
+   "jumps": 13055,
+   "mined": 4586,
    "topMined": [
     [
      "deepslate",
@@ -1168,7 +1168,7 @@
    "topKilled": [
     [
      "pillager",
-     84
+     90
     ],
     [
      "zombie",
@@ -1768,10 +1768,10 @@
      "2026-10-16",
      "2026-10-17"
     ],
-    "rendered": "2026-10-17T10:11:25Z",
+    "rendered": "2026-10-17T13:11:57Z",
     "regions": {
-     "r.1.1.mca": "2026-10-17T10:01:27Z",
-     "r.2.1.mca": "2026-10-17T10:01:41Z"
+     "r.1.1.mca": "2026-10-17T13:06:41Z",
+     "r.2.1.mca": "2026-10-17T13:12:15Z"
     }
    }
   },
@@ -1900,8 +1900,8 @@
     "rendered": "2026-10-17T12:08:15Z"
    },
    "2.1": {
-    "mtime": "2026-10-17T10:01:41Z",
-    "rendered": "2026-10-17T10:11:25Z"
+    "mtime": "2026-10-17T13:12:20Z",
+    "rendered": "2026-10-17T13:11:57Z"
    },
    "3.0": {
     "mtime": "2026-10-17T10:13:25Z",
@@ -1920,8 +1920,8 @@
     "rendered": "2026-10-17T11:57:55Z"
    },
    "1.1": {
-    "mtime": "2026-10-17T10:01:27Z",
-    "rendered": "2026-10-17T10:11:25Z"
+    "mtime": "2026-10-17T13:06:41Z",
+    "rendered": "2026-10-17T13:11:57Z"
    },
    "-2.1": {
     "mtime": "2026-10-16T18:59:26Z",
@@ -1996,8 +1996,8 @@
     "rendered": "2026-10-16T22:17:48Z"
    },
    "2.2": {
-    "mtime": "2026-10-17T09:36:49Z",
-    "rendered": "2026-10-17T10:11:25Z"
+    "mtime": "2026-10-17T13:11:48Z",
+    "rendered": "2026-10-17T13:11:57Z"
    },
    "3.1": {
     "mtime": "2026-10-17T10:13:26Z",
