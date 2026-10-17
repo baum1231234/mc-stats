@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T21:48:14Z",
+ "updated": "2026-10-17T21:50:08Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 9103028,
+ "serverTicks": 9105547,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -336,19 +336,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T21:47:56Z",
-   "playTicks": 3565875,
+   "lastSeen": "2026-10-17T21:50:02Z",
+   "playTicks": 3568394,
    "deaths": 0,
    "mobKills": 3735,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 282317,
-   "damageTaken": 48892,
-   "distanceCm": 42772582,
-   "walkCm": 11961405,
-   "flyCm": 16483607,
-   "jumps": 58730,
-   "mined": 58733,
+   "damageTaken": 48898,
+   "distanceCm": 42792892,
+   "walkCm": 11975263,
+   "flyCm": 16488277,
+   "jumps": 58775,
+   "mined": 58794,
    "topMined": [
     [
      "netherrack",
@@ -356,7 +356,7 @@
     ],
     [
      "stone",
-     5950
+     5975
     ],
     [
      "mangrove_leaves",
@@ -441,19 +441,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-17T21:47:56Z",
-   "playTicks": 2846899,
+   "lastSeen": "2026-10-17T21:50:02Z",
+   "playTicks": 2849418,
    "deaths": 2,
    "mobKills": 814,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 82607,
-   "damageTaken": 23129,
-   "distanceCm": 27433470,
-   "walkCm": 11886847,
+   "damageTaken": 23195,
+   "distanceCm": 27454871,
+   "walkCm": 11908248,
    "flyCm": 9060711,
-   "jumps": 43005,
-   "mined": 80403,
+   "jumps": 43010,
+   "mined": 81147,
    "topMined": [
     [
      "stone",
@@ -461,7 +461,7 @@
     ],
     [
      "netherrack",
-     27867
+     28539
     ],
     [
      "waxed_copper_block",
@@ -893,19 +893,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-17T21:47:56Z",
-   "playTicks": 1843257,
+   "lastSeen": "2026-10-17T21:50:02Z",
+   "playTicks": 1845776,
    "deaths": 18,
    "mobKills": 319,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 45425,
    "damageTaken": 13970,
-   "distanceCm": 14906828,
-   "walkCm": 11914043,
+   "distanceCm": 14928004,
+   "walkCm": 11935219,
    "flyCm": 1934052,
    "jumps": 16335,
-   "mined": 26735,
+   "mined": 26752,
    "topMined": [
     [
      "stone",
@@ -1015,19 +1015,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-17T21:47:56Z",
-   "playTicks": 1657661,
+   "lastSeen": "2026-10-17T21:50:02Z",
+   "playTicks": 1660180,
    "deaths": 8,
    "mobKills": 517,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 81140,
    "damageTaken": 17445,
-   "distanceCm": 15628181,
-   "walkCm": 6453217,
-   "flyCm": 5188447,
-   "jumps": 25712,
-   "mined": 8629,
+   "distanceCm": 15639319,
+   "walkCm": 6460532,
+   "flyCm": 5192270,
+   "jumps": 25758,
+   "mined": 8647,
    "topMined": [
     [
      "grass_block",
@@ -1039,10 +1039,10 @@
     ],
     [
      "stone",
-     897
+     908
     ]
    ],
-   "crafted": 10911,
+   "crafted": 10919,
    "topCrafted": [
     [
      "emerald",
@@ -3464,20 +3464,20 @@
     "rendered": "2026-10-17T21:48:14Z"
    },
    "2.8": {
-    "mtime": "2026-10-17T06:04:13Z",
-    "rendered": "2026-10-17T06:14:55Z"
+    "mtime": "2026-10-17T17:30:33Z",
+    "rendered": "2026-10-17T21:50:08Z"
    },
    "3.7": {
-    "mtime": "2026-10-17T06:04:13Z",
-    "rendered": "2026-10-17T06:14:55Z"
+    "mtime": "2026-10-17T17:30:56Z",
+    "rendered": "2026-10-17T21:50:08Z"
    },
    "4.6": {
-    "mtime": "2026-10-17T06:04:13Z",
-    "rendered": "2026-10-17T06:14:55Z"
+    "mtime": "2026-10-17T17:31:20Z",
+    "rendered": "2026-10-17T21:50:08Z"
    },
    "5.5": {
-    "mtime": "2026-10-11T21:16:19Z",
-    "rendered": "2026-10-12T17:42:30Z",
+    "mtime": "2026-10-17T17:31:33Z",
+    "rendered": "2026-10-17T21:50:08Z",
     "empty": true
    },
    "8.2": {
