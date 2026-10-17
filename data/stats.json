@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T00:32:27Z",
+ "updated": "2026-10-17T00:34:21Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7840800,
+ "serverTicks": 7844432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,27 +111,27 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T00:31:06Z",
-   "playTicks": 3463253,
+   "lastSeen": "2026-10-17T00:34:08Z",
+   "playTicks": 3466885,
    "deaths": 4,
    "mobKills": 3017,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 285340,
    "damageTaken": 21926,
-   "distanceCm": 39929726,
-   "walkCm": 11615429,
-   "flyCm": 14633642,
-   "jumps": 49868,
-   "mined": 28326,
+   "distanceCm": 39965547,
+   "walkCm": 11650451,
+   "flyCm": 14634141,
+   "jumps": 49874,
+   "mined": 28736,
    "topMined": [
+    [
+     "spruce_log",
+     4334
+    ],
     [
      "dark_oak_log",
      4099
-    ],
-    [
-     "spruce_log",
-     3924
     ],
     [
      "grass_block",
@@ -996,19 +996,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-17T00:31:06Z",
-   "playTicks": 1245023,
+   "lastSeen": "2026-10-17T00:34:08Z",
+   "playTicks": 1248655,
    "deaths": 10,
    "mobKills": 210,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 28093,
    "damageTaken": 9272,
-   "distanceCm": 9132005,
-   "walkCm": 7544167,
-   "flyCm": 845397,
-   "jumps": 8654,
-   "mined": 20526,
+   "distanceCm": 9150573,
+   "walkCm": 7562707,
+   "flyCm": 845425,
+   "jumps": 8667,
+   "mined": 20589,
    "topMined": [
     [
      "stone",
@@ -1242,8 +1242,8 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-17T00:31:06Z",
-   "playTicks": 801600,
+   "lastSeen": "2026-10-17T00:34:08Z",
+   "playTicks": 805232,
    "deaths": 4,
    "mobKills": 80,
    "playerKills": 0,
