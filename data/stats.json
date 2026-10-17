@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T23:24:24Z",
+ "updated": "2026-10-17T23:26:12Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 9213547,
+ "serverTicks": 9219547,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -893,19 +893,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-17T23:20:02Z",
-   "playTicks": 1953776,
+   "lastSeen": "2026-10-17T23:25:02Z",
+   "playTicks": 1959776,
    "deaths": 20,
-   "mobKills": 361,
+   "mobKills": 367,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 53205,
-   "damageTaken": 15353,
-   "distanceCm": 15943874,
-   "walkCm": 12773817,
-   "flyCm": 2087699,
-   "jumps": 17206,
-   "mined": 27633,
+   "damageDealt": 54315,
+   "damageTaken": 15436,
+   "distanceCm": 16021021,
+   "walkCm": 12831337,
+   "flyCm": 2106551,
+   "jumps": 17339,
+   "mined": 27667,
    "topMined": [
     [
      "stone",
@@ -938,7 +938,7 @@
    "topKilled": [
     [
      "zombie",
-     128
+     133
     ],
     [
      "sheep",
@@ -946,7 +946,7 @@
     ],
     [
      "skeleton",
-     36
+     37
     ]
    ],
    "topKilledBy": [
@@ -1015,19 +1015,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-17T23:20:02Z",
-   "playTicks": 1768180,
+   "lastSeen": "2026-10-17T23:25:02Z",
+   "playTicks": 1774180,
    "deaths": 8,
-   "mobKills": 615,
+   "mobKills": 629,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 101366,
-   "damageTaken": 20484,
-   "distanceCm": 16539742,
-   "walkCm": 6942434,
-   "flyCm": 5545023,
-   "jumps": 27628,
-   "mined": 9406,
+   "damageDealt": 104248,
+   "damageTaken": 20792,
+   "distanceCm": 16615081,
+   "walkCm": 6982831,
+   "flyCm": 5575038,
+   "jumps": 27791,
+   "mined": 9420,
    "topMined": [
     [
      "grass_block",
@@ -1039,7 +1039,7 @@
     ],
     [
      "dirt",
-     946
+     947
     ]
    ],
    "crafted": 11194,
@@ -1060,7 +1060,7 @@
    "topKilled": [
     [
      "zombie",
-     161
+     167
     ],
     [
      "skeleton",
@@ -1094,14 +1094,18 @@
     ]
    ],
    "adv": {
-    "count": 33,
+    "count": 34,
     "byTab": {
      "adventure": 10,
-     "story": 12,
+     "story": 13,
      "husbandry": 4,
      "nether": 7
     },
     "recent": [
+     [
+      "story/cure_zombie_villager",
+      "2026-10-17T23:21:54Z"
+     ],
      [
       "nether/brew_potion",
       "2026-10-17T21:47:52Z"
@@ -1129,10 +1133,6 @@
      [
       "nether/obtain_blaze_rod",
       "2026-10-17T20:50:35Z"
-     ],
-     [
-      "nether/find_fortress",
-      "2026-10-17T20:47:55Z"
      ]
     ]
    }
@@ -3634,6 +3634,24 @@
    "6.-7": {
     "mtime": "2026-10-17T17:31:40Z",
     "rendered": "2026-10-17T23:24:24Z"
+   },
+   "9.-4": {
+    "mtime": "2026-10-17T19:52:06Z",
+    "rendered": "2026-10-17T23:26:12Z"
+   },
+   "8.-5": {
+    "mtime": "2026-10-17T19:52:06Z",
+    "rendered": "2026-10-17T23:26:12Z",
+    "empty": true
+   },
+   "10.1": {
+    "mtime": "2026-10-17T17:29:32Z",
+    "rendered": "2026-10-17T23:26:12Z",
+    "empty": true
+   },
+   "2.9": {
+    "mtime": "2026-10-17T17:30:34Z",
+    "rendered": "2026-10-17T23:26:12Z"
    },
    "3.8": {
     "mtime": "2026-10-17T17:30:57Z",
