@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T02:20:12Z",
+ "updated": "2026-10-17T02:24:57Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7970432,
+ "serverTicks": 7976432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,18 +111,18 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T02:19:08Z",
-   "playTicks": 3591501,
+   "lastSeen": "2026-10-17T02:24:08Z",
+   "playTicks": 3597501,
    "deaths": 4,
    "mobKills": 3221,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 303841,
-   "damageTaken": 23047,
-   "distanceCm": 41210097,
-   "walkCm": 12069366,
-   "flyCm": 15132522,
-   "jumps": 51242,
+   "damageTaken": 23075,
+   "distanceCm": 41353360,
+   "walkCm": 12098231,
+   "flyCm": 15193270,
+   "jumps": 51411,
    "mined": 29060,
    "topMined": [
     [
@@ -883,19 +883,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-17T02:19:08Z",
-   "playTicks": 1374655,
+   "lastSeen": "2026-10-17T02:24:08Z",
+   "playTicks": 1380655,
    "deaths": 11,
    "mobKills": 229,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 30870,
    "damageTaken": 10024,
-   "distanceCm": 10116835,
-   "walkCm": 8369799,
+   "distanceCm": 10132751,
+   "walkCm": 8385715,
    "flyCm": 976327,
-   "jumps": 9813,
-   "mined": 22869,
+   "jumps": 9823,
+   "mined": 22879,
    "topMined": [
     [
      "stone",
@@ -907,7 +907,7 @@
     ],
     [
      "dirt",
-     4083
+     4093
     ]
    ],
    "crafted": 3081,
@@ -1242,19 +1242,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-17T02:19:08Z",
-   "playTicks": 931232,
+   "lastSeen": "2026-10-17T02:24:08Z",
+   "playTicks": 937232,
    "deaths": 10,
-   "mobKills": 202,
+   "mobKills": 203,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 23624,
+   "damageDealt": 23633,
    "damageTaken": 8875,
-   "distanceCm": 5027675,
-   "walkCm": 2109235,
-   "flyCm": 1865269,
-   "jumps": 9241,
-   "mined": 4123,
+   "distanceCm": 5099236,
+   "walkCm": 2135573,
+   "flyCm": 1903009,
+   "jumps": 9409,
+   "mined": 4151,
    "topMined": [
     [
      "deepslate",
@@ -1269,7 +1269,7 @@
      376
     ]
    ],
-   "crafted": 7085,
+   "crafted": 7088,
    "topCrafted": [
     [
      "stick",
