@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T13:49:40Z",
+ "updated": "2026-10-17T13:51:17Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 8700406,
  "players": [
@@ -553,19 +553,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-17T13:48:29Z",
-   "playTicks": 2328665,
+   "lastSeen": "2026-10-17T13:51:22Z",
+   "playTicks": 2331666,
    "deaths": 2,
-   "mobKills": 2866,
+   "mobKills": 2874,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 218334,
-   "damageTaken": 20502,
-   "distanceCm": 29308607,
-   "walkCm": 9416057,
-   "flyCm": 6908822,
-   "jumps": 31120,
-   "mined": 24436,
+   "damageDealt": 220313,
+   "damageTaken": 20988,
+   "distanceCm": 29366229,
+   "walkCm": 9451623,
+   "flyCm": 6928603,
+   "jumps": 31193,
+   "mined": 24437,
    "topMined": [
     [
      "spruce_log",
@@ -598,11 +598,11 @@
    "topKilled": [
     [
      "skeleton",
-     636
+     637
     ],
     [
      "zombie",
-     516
+     519
     ],
     [
      "creeper",
@@ -616,13 +616,17 @@
     ]
    ],
    "adv": {
-    "count": 28,
+    "count": 29,
     "byTab": {
      "story": 11,
-     "adventure": 11,
+     "adventure": 12,
      "husbandry": 6
     },
     "recent": [
+     [
+      "adventure/totem_of_undying",
+      "2026-10-17T13:51:17Z"
+     ],
      [
       "story/lava_bucket",
       "2026-10-17T11:43:18Z"
@@ -650,10 +654,6 @@
      [
       "story/form_obsidian",
       "2026-10-13T17:39:28Z"
-     ],
-     [
-      "adventure/blowback",
-      "2026-10-13T13:34:11Z"
      ]
     ]
    }
