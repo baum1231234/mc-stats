@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T16:28:05Z",
+ "updated": "2026-10-17T16:29:44Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 8832406,
+ "serverTicks": 8838406,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -439,18 +439,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-17T16:23:07Z",
-   "playTicks": 2731650,
+   "lastSeen": "2026-10-17T16:28:47Z",
+   "playTicks": 2736839,
    "deaths": 2,
-   "mobKills": 812,
+   "mobKills": 813,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 82327,
-   "damageTaken": 22173,
-   "distanceCm": 26308824,
-   "walkCm": 10880321,
-   "flyCm": 8958718,
-   "jumps": 42015,
+   "damageDealt": 82417,
+   "damageTaken": 22345,
+   "distanceCm": 26385967,
+   "walkCm": 10908383,
+   "flyCm": 8993965,
+   "jumps": 42122,
    "mined": 50151,
    "topMined": [
     [
@@ -488,7 +488,7 @@
     ],
     [
      "skeleton",
-     120
+     121
     ],
     [
      "zombie",
@@ -1007,6 +1007,132 @@
    }
   },
   {
+   "uuid": "775e2172-8576-416e-b390-8328646044f9",
+   "name": "htxl",
+   "firstSeen": "2026-10-14T22:34:53Z",
+   "lastSeen": "2026-10-17T16:29:55Z",
+   "playTicks": 1468072,
+   "deaths": 21,
+   "mobKills": 561,
+   "playerKills": 1,
+   "killedByPlayers": 1,
+   "damageDealt": 80108,
+   "damageTaken": 17696,
+   "distanceCm": 9160924,
+   "walkCm": 3685916,
+   "flyCm": 3718923,
+   "jumps": 17660,
+   "mined": 4712,
+   "topMined": [
+    [
+     "deepslate",
+     1556
+    ],
+    [
+     "grass_block",
+     449
+    ],
+    [
+     "spruce_log",
+     376
+    ]
+   ],
+   "crafted": 11081,
+   "topCrafted": [
+    [
+     "stick",
+     3724
+    ],
+    [
+     "iron_ingot",
+     2056
+    ],
+    [
+     "spruce_planks",
+     1499
+    ]
+   ],
+   "topKilled": [
+    [
+     "pillager",
+     198
+    ],
+    [
+     "vindicator",
+     82
+    ],
+    [
+     "zombie",
+     66
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "vex",
+     12
+    ],
+    [
+     "stray",
+     4
+    ],
+    [
+     "zombie",
+     2
+    ],
+    [
+     "skeleton",
+     1
+    ],
+    [
+     "player",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 29,
+    "byTab": {
+     "story": 13,
+     "adventure": 11,
+     "husbandry": 1,
+     "nether": 4
+    },
+    "recent": [
+     [
+      "adventure/ol_betsy",
+      "2026-10-17T14:46:09Z"
+     ],
+     [
+      "story/cure_zombie_villager",
+      "2026-10-17T14:01:07Z"
+     ],
+     [
+      "nether/brew_potion",
+      "2026-10-17T12:23:14Z"
+     ],
+     [
+      "nether/obtain_blaze_rod",
+      "2026-10-17T02:37:23Z"
+     ],
+     [
+      "nether/find_fortress",
+      "2026-10-17T02:35:24Z"
+     ],
+     [
+      "nether/root",
+      "2026-10-17T02:31:36Z"
+     ],
+     [
+      "story/enter_the_nether",
+      "2026-10-17T02:31:36Z"
+     ],
+     [
+      "adventure/hero_of_the_village",
+      "2026-10-17T01:35:15Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
@@ -1127,132 +1253,6 @@
      [
       "story/lava_bucket",
       "2026-10-14T15:50:22Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "775e2172-8576-416e-b390-8328646044f9",
-   "name": "htxl",
-   "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-17T16:23:07Z",
-   "playTicks": 1462072,
-   "deaths": 21,
-   "mobKills": 561,
-   "playerKills": 1,
-   "killedByPlayers": 1,
-   "damageDealt": 80108,
-   "damageTaken": 17696,
-   "distanceCm": 9146911,
-   "walkCm": 3673660,
-   "flyCm": 3717166,
-   "jumps": 17640,
-   "mined": 4712,
-   "topMined": [
-    [
-     "deepslate",
-     1556
-    ],
-    [
-     "grass_block",
-     449
-    ],
-    [
-     "spruce_log",
-     376
-    ]
-   ],
-   "crafted": 11045,
-   "topCrafted": [
-    [
-     "stick",
-     3724
-    ],
-    [
-     "iron_ingot",
-     2056
-    ],
-    [
-     "spruce_planks",
-     1499
-    ]
-   ],
-   "topKilled": [
-    [
-     "pillager",
-     198
-    ],
-    [
-     "vindicator",
-     82
-    ],
-    [
-     "zombie",
-     66
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "vex",
-     12
-    ],
-    [
-     "stray",
-     4
-    ],
-    [
-     "zombie",
-     2
-    ],
-    [
-     "skeleton",
-     1
-    ],
-    [
-     "player",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 29,
-    "byTab": {
-     "story": 13,
-     "adventure": 11,
-     "husbandry": 1,
-     "nether": 4
-    },
-    "recent": [
-     [
-      "adventure/ol_betsy",
-      "2026-10-17T14:46:09Z"
-     ],
-     [
-      "story/cure_zombie_villager",
-      "2026-10-17T14:01:07Z"
-     ],
-     [
-      "nether/brew_potion",
-      "2026-10-17T12:23:14Z"
-     ],
-     [
-      "nether/obtain_blaze_rod",
-      "2026-10-17T02:37:23Z"
-     ],
-     [
-      "nether/find_fortress",
-      "2026-10-17T02:35:24Z"
-     ],
-     [
-      "nether/root",
-      "2026-10-17T02:31:36Z"
-     ],
-     [
-      "story/enter_the_nether",
-      "2026-10-17T02:31:36Z"
-     ],
-     [
-      "adventure/hero_of_the_village",
-      "2026-10-17T01:35:15Z"
      ]
     ]
    }
@@ -1594,18 +1594,18 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-17T16:23:07Z",
-   "playTicks": 14984,
+   "lastSeen": "2026-10-17T16:29:55Z",
+   "playTicks": 20984,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 4,
-   "damageTaken": 110,
-   "distanceCm": 301060,
-   "walkCm": 120001,
-   "flyCm": 82155,
-   "jumps": 321,
+   "damageTaken": 210,
+   "distanceCm": 353912,
+   "walkCm": 149801,
+   "flyCm": 93764,
+   "jumps": 388,
    "mined": 32,
    "topMined": [
     [
@@ -2959,6 +2959,10 @@
     "mtime": "2026-10-17T14:46:45Z",
     "rendered": "2026-10-17T16:28:05Z"
    },
+   "-3.10": {
+    "mtime": "2026-10-17T14:48:10Z",
+    "rendered": "2026-10-17T16:29:44Z"
+   },
    "-6.7": {
     "mtime": "2026-10-15T21:32:01Z",
     "rendered": "2026-10-15T22:29:49Z"
@@ -2970,6 +2974,19 @@
    "-8.5": {
     "mtime": "2026-10-15T21:32:01Z",
     "rendered": "2026-10-15T22:31:36Z"
+   },
+   "-15.-1": {
+    "mtime": "2026-10-17T12:37:09Z",
+    "rendered": "2026-10-17T16:29:44Z"
+   },
+   "-16.2": {
+    "mtime": "2026-10-15T06:04:18Z",
+    "rendered": "2026-10-17T16:29:44Z",
+    "empty": true
+   },
+   "-16.0": {
+    "mtime": "2026-10-17T12:37:09Z",
+    "rendered": "2026-10-17T16:29:44Z"
    },
    "-7.3": {
     "mtime": "2026-10-16T18:44:49Z",
