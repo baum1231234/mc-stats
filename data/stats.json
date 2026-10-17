@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T21:46:19Z",
+ "updated": "2026-10-17T21:48:14Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 9099547,
+ "serverTicks": 9103028,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -336,19 +336,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T21:45:02Z",
-   "playTicks": 3562394,
+   "lastSeen": "2026-10-17T21:47:56Z",
+   "playTicks": 3565875,
    "deaths": 0,
    "mobKills": 3735,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 282317,
-   "damageTaken": 48866,
-   "distanceCm": 42744764,
-   "walkCm": 11941711,
-   "flyCm": 16478159,
-   "jumps": 58663,
-   "mined": 58694,
+   "damageTaken": 48892,
+   "distanceCm": 42772582,
+   "walkCm": 11961405,
+   "flyCm": 16483607,
+   "jumps": 58730,
+   "mined": 58733,
    "topMined": [
     [
      "netherrack",
@@ -356,14 +356,14 @@
     ],
     [
      "stone",
-     5924
+     5950
     ],
     [
      "mangrove_leaves",
      3502
     ]
    ],
-   "crafted": 62730,
+   "crafted": 62775,
    "topCrafted": [
     [
      "stick",
@@ -371,7 +371,7 @@
     ],
     [
      "spruce_planks",
-     12737
+     12777
     ],
     [
      "iron_ingot",
@@ -441,19 +441,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-17T21:45:02Z",
-   "playTicks": 2843418,
+   "lastSeen": "2026-10-17T21:47:56Z",
+   "playTicks": 2846899,
    "deaths": 2,
    "mobKills": 814,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 82607,
-   "damageTaken": 23059,
-   "distanceCm": 27408978,
-   "walkCm": 11862591,
-   "flyCm": 9060475,
-   "jumps": 42992,
-   "mined": 79602,
+   "damageTaken": 23129,
+   "distanceCm": 27433470,
+   "walkCm": 11886847,
+   "flyCm": 9060711,
+   "jumps": 43005,
+   "mined": 80403,
    "topMined": [
     [
      "stone",
@@ -461,7 +461,7 @@
     ],
     [
      "netherrack",
-     27260
+     27867
     ],
     [
      "waxed_copper_block",
@@ -893,19 +893,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-17T21:45:02Z",
-   "playTicks": 1839776,
+   "lastSeen": "2026-10-17T21:47:56Z",
+   "playTicks": 1843257,
    "deaths": 18,
    "mobKills": 319,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 45425,
    "damageTaken": 13970,
-   "distanceCm": 14878018,
-   "walkCm": 11885275,
-   "flyCm": 1934010,
-   "jumps": 16326,
-   "mined": 26730,
+   "distanceCm": 14906828,
+   "walkCm": 11914043,
+   "flyCm": 1934052,
+   "jumps": 16335,
+   "mined": 26735,
    "topMined": [
     [
      "stone",
@@ -1015,19 +1015,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-17T21:45:02Z",
-   "playTicks": 1654180,
+   "lastSeen": "2026-10-17T21:47:56Z",
+   "playTicks": 1657661,
    "deaths": 8,
    "mobKills": 517,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 81140,
-   "damageTaken": 17403,
-   "distanceCm": 15550085,
-   "walkCm": 6439931,
-   "flyCm": 5174643,
-   "jumps": 25643,
-   "mined": 8627,
+   "damageTaken": 17445,
+   "distanceCm": 15628181,
+   "walkCm": 6453217,
+   "flyCm": 5188447,
+   "jumps": 25712,
+   "mined": 8629,
    "topMined": [
     [
      "grass_block",
@@ -1094,14 +1094,18 @@
     ]
    ],
    "adv": {
-    "count": 32,
+    "count": 33,
     "byTab": {
      "adventure": 10,
      "story": 12,
      "husbandry": 4,
-     "nether": 6
+     "nether": 7
     },
     "recent": [
+     [
+      "nether/brew_potion",
+      "2026-10-17T21:47:52Z"
+     ],
      [
       "husbandry/place_dried_ghast_in_water",
       "2026-10-17T21:35:35Z"
@@ -1129,10 +1133,6 @@
      [
       "nether/find_fortress",
       "2026-10-17T20:47:55Z"
-     ],
-     [
-      "nether/root",
-      "2026-10-17T18:20:34Z"
      ]
     ]
    }
@@ -3447,17 +3447,21 @@
     "rendered": "2026-10-17T21:46:19Z"
    },
    "5.-7": {
-    "mtime": "2026-10-17T15:41:11Z",
-    "rendered": "2026-10-17T18:34:22Z"
+    "mtime": "2026-10-17T17:31:26Z",
+    "rendered": "2026-10-17T21:48:14Z"
    },
    "8.-4": {
-    "mtime": "2026-10-16T06:04:45Z",
-    "rendered": "2026-10-17T18:20:03Z",
+    "mtime": "2026-10-17T19:52:06Z",
+    "rendered": "2026-10-17T21:48:14Z"
+   },
+   "7.-5": {
+    "mtime": "2026-10-17T19:52:06Z",
+    "rendered": "2026-10-17T21:48:14Z",
     "empty": true
    },
    "-6.-3": {
-    "mtime": "2026-10-16T20:57:20Z",
-    "rendered": "2026-10-16T23:58:02Z"
+    "mtime": "2026-10-17T20:33:20Z",
+    "rendered": "2026-10-17T21:48:14Z"
    },
    "2.8": {
     "mtime": "2026-10-17T06:04:13Z",
