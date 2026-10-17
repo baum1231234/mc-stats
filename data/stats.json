@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T16:45:00Z",
+ "updated": "2026-10-17T16:46:46Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 8850406,
+ "serverTicks": 8851905,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -553,18 +553,18 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-17T16:21:54Z",
-   "playTicks": 2392589,
+   "lastSeen": "2026-10-17T16:45:37Z",
+   "playTicks": 2395333,
    "deaths": 2,
    "mobKills": 2898,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 225236,
-   "damageTaken": 21956,
-   "distanceCm": 31295030,
-   "walkCm": 9641656,
-   "flyCm": 7399187,
-   "jumps": 32228,
+   "damageTaken": 21958,
+   "distanceCm": 31307085,
+   "walkCm": 9646440,
+   "flyCm": 7405144,
+   "jumps": 32264,
    "mined": 25195,
    "topMined": [
     [
@@ -580,7 +580,7 @@
      2113
     ]
    ],
-   "crafted": 119283,
+   "crafted": 119333,
    "topCrafted": [
     [
      "stick",
@@ -775,19 +775,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-17T16:37:57Z",
-   "playTicks": 1920976,
+   "lastSeen": "2026-10-17T16:45:13Z",
+   "playTicks": 1926797,
    "deaths": 4,
    "mobKills": 1019,
    "playerKills": 1,
    "killedByPlayers": 2,
-   "damageDealt": 86706,
-   "damageTaken": 13789,
-   "distanceCm": 17484276,
-   "walkCm": 8761324,
-   "flyCm": 4407610,
-   "jumps": 27779,
-   "mined": 31516,
+   "damageDealt": 86715,
+   "damageTaken": 13815,
+   "distanceCm": 17597583,
+   "walkCm": 8791157,
+   "flyCm": 4445263,
+   "jumps": 27955,
+   "mined": 31543,
    "topMined": [
     [
      "stone",
@@ -795,14 +795,14 @@
     ],
     [
      "spruce_log",
-     4473
+     4476
     ],
     [
      "deepslate",
      4279
     ]
    ],
-   "crafted": 56647,
+   "crafted": 56657,
    "topCrafted": [
     [
      "stick",
@@ -810,7 +810,7 @@
     ],
     [
      "spruce_planks",
-     14815
+     14823
     ],
     [
      "deepslate_bricks",
@@ -3236,6 +3236,23 @@
    "-4.-10": {
     "mtime": "2026-10-14T06:04:11Z",
     "rendered": "2026-10-15T16:52:04Z"
+   },
+   "-3.-11": {
+    "mtime": "2026-10-14T06:04:11Z",
+    "rendered": "2026-10-17T16:46:46Z"
+   },
+   "-2.-12": {
+    "mtime": "2026-10-14T06:04:11Z",
+    "rendered": "2026-10-17T16:46:46Z"
+   },
+   "-1.-13": {
+    "mtime": "2026-10-14T06:04:11Z",
+    "rendered": "2026-10-17T16:46:46Z",
+    "empty": true
+   },
+   "0.-12": {
+    "mtime": "2026-10-17T12:37:09Z",
+    "rendered": "2026-10-17T16:46:46Z"
    },
    "5.-7": {
     "mtime": "2026-10-17T15:34:47Z",
