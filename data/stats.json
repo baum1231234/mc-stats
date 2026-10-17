@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T09:43:00Z",
+ "updated": "2026-10-17T09:48:36Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 8414733,
+ "serverTicks": 8422160,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -221,19 +221,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T09:41:55Z",
-   "playTicks": 3461370,
+   "lastSeen": "2026-10-17T09:48:06Z",
+   "playTicks": 3468797,
    "deaths": 2,
    "mobKills": 1678,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 239113,
    "damageTaken": 12297,
-   "distanceCm": 37086822,
-   "walkCm": 16487346,
+   "distanceCm": 37102222,
+   "walkCm": 16501059,
    "flyCm": 10107246,
-   "jumps": 36487,
-   "mined": 58365,
+   "jumps": 36557,
+   "mined": 58585,
    "topMined": [
     [
      "grass_block",
@@ -248,7 +248,7 @@
      9189
     ]
    ],
-   "crafted": 37385,
+   "crafted": 37421,
    "topCrafted": [
     [
      "spruce_planks",
@@ -775,31 +775,31 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
-   "lastSeen": "2026-10-17T09:41:55Z",
-   "playTicks": 1772448,
+   "lastSeen": "2026-10-17T09:48:06Z",
+   "playTicks": 1779875,
    "deaths": 2,
    "mobKills": 320,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 49563,
    "damageTaken": 11233,
-   "distanceCm": 13868717,
-   "walkCm": 7366357,
+   "distanceCm": 13910429,
+   "walkCm": 7408069,
    "flyCm": 3083062,
-   "jumps": 18821,
-   "mined": 18118,
+   "jumps": 18830,
+   "mined": 18841,
    "topMined": [
     [
      "stone",
-     7723
+     8150
+    ],
+    [
+     "coal_ore",
+     965
     ],
     [
      "dirt",
      960
-    ],
-    [
-     "coal_ore",
-     943
     ]
    ],
    "crafted": 10062,
