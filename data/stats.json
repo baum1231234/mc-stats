@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T12:49:57Z",
+ "updated": "2026-10-17T12:53:08Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 8630013,
+ "serverTicks": 8634406,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -221,19 +221,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T12:48:25Z",
-   "playTicks": 3676455,
+   "lastSeen": "2026-10-17T12:52:04Z",
+   "playTicks": 3680848,
    "deaths": 2,
    "mobKills": 1712,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 245538,
    "damageTaken": 12546,
-   "distanceCm": 38794458,
-   "walkCm": 17234942,
-   "flyCm": 10652904,
-   "jumps": 38330,
-   "mined": 62772,
+   "distanceCm": 38856314,
+   "walkCm": 17275803,
+   "flyCm": 10671417,
+   "jumps": 38374,
+   "mined": 62775,
    "topMined": [
     [
      "grass_block",
@@ -335,18 +335,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T12:48:25Z",
-   "playTicks": 3201431,
+   "lastSeen": "2026-10-17T12:52:04Z",
+   "playTicks": 3205824,
    "deaths": 0,
    "mobKills": 3306,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 262942,
-   "damageTaken": 43841,
-   "distanceCm": 38813824,
-   "walkCm": 10127909,
-   "flyCm": 15209666,
-   "jumps": 53656,
+   "damageTaken": 43845,
+   "distanceCm": 38864526,
+   "walkCm": 10147433,
+   "flyCm": 15235694,
+   "jumps": 53738,
    "mined": 27636,
    "topMined": [
     [
@@ -362,7 +362,7 @@
      2837
     ]
    ],
-   "crafted": 57519,
+   "crafted": 58804,
    "topCrafted": [
     [
      "stick",
@@ -374,7 +374,7 @@
     ],
     [
      "iron_ingot",
-     7556
+     8132
     ]
    ],
    "topKilled": [
@@ -439,19 +439,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-17T12:48:25Z",
-   "playTicks": 2639357,
+   "lastSeen": "2026-10-17T12:52:37Z",
+   "playTicks": 2644408,
    "deaths": 2,
    "mobKills": 810,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 81997,
-   "damageTaken": 21467,
-   "distanceCm": 25137542,
-   "walkCm": 10344789,
-   "flyCm": 8501091,
-   "jumps": 39917,
-   "mined": 47883,
+   "damageTaken": 21519,
+   "distanceCm": 25187953,
+   "walkCm": 10368267,
+   "flyCm": 8523181,
+   "jumps": 39998,
+   "mined": 47885,
    "topMined": [
     [
      "stone",
@@ -466,7 +466,7 @@
      2455
     ]
    ],
-   "crafted": 18050,
+   "crafted": 18178,
    "topCrafted": [
     [
      "stick",
@@ -662,31 +662,31 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
-   "lastSeen": "2026-10-17T12:48:25Z",
-   "playTicks": 1895670,
+   "lastSeen": "2026-10-17T12:52:04Z",
+   "playTicks": 1900063,
    "deaths": 3,
    "mobKills": 404,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 60185,
    "damageTaken": 11903,
-   "distanceCm": 14995549,
-   "walkCm": 7922616,
+   "distanceCm": 15014075,
+   "walkCm": 7941142,
    "flyCm": 3286083,
    "jumps": 20030,
-   "mined": 22077,
+   "mined": 22418,
    "topMined": [
     [
      "stone",
-     10106
+     10384
     ],
     [
      "diorite",
-     1642
+     1691
     ],
     [
      "coal_ore",
-     998
+     1002
     ]
    ],
    "crafted": 10160,
@@ -1123,19 +1123,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-17T12:48:25Z",
-   "playTicks": 1259679,
+   "lastSeen": "2026-10-17T12:52:04Z",
+   "playTicks": 1264072,
    "deaths": 10,
-   "mobKills": 300,
+   "mobKills": 327,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 41810,
-   "damageTaken": 11848,
-   "distanceCm": 6731499,
-   "walkCm": 2827307,
-   "flyCm": 2617634,
-   "jumps": 12725,
-   "mined": 4524,
+   "damageDealt": 46730,
+   "damageTaken": 12073,
+   "distanceCm": 6800245,
+   "walkCm": 2859354,
+   "flyCm": 2651983,
+   "jumps": 12894,
+   "mined": 4535,
    "topMined": [
     [
      "deepslate",
@@ -1167,12 +1167,12 @@
    ],
    "topKilled": [
     [
-     "zombie",
-     62
+     "pillager",
+     75
     ],
     [
-     "pillager",
-     61
+     "zombie",
+     62
     ],
     [
      "vindicator",
