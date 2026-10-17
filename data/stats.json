@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T01:22:27Z",
+ "updated": "2026-10-17T01:24:14Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7898432,
+ "serverTicks": 7904432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,19 +111,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T01:19:08Z",
-   "playTicks": 3520885,
+   "lastSeen": "2026-10-17T01:24:08Z",
+   "playTicks": 3526885,
    "deaths": 4,
    "mobKills": 3093,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 296325,
-   "damageTaken": 22732,
-   "distanceCm": 40671306,
-   "walkCm": 11962882,
-   "flyCm": 14910397,
-   "jumps": 50835,
-   "mined": 29025,
+   "damageTaken": 22848,
+   "distanceCm": 40815281,
+   "walkCm": 11976756,
+   "flyCm": 14962537,
+   "jumps": 50922,
+   "mined": 29026,
    "topMined": [
     [
      "spruce_log",
@@ -138,7 +138,7 @@
      2813
     ]
    ],
-   "crafted": 107710,
+   "crafted": 107714,
    "topCrafted": [
     [
      "stick",
@@ -996,23 +996,23 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-17T01:19:08Z",
-   "playTicks": 1302655,
+   "lastSeen": "2026-10-17T01:24:08Z",
+   "playTicks": 1308655,
    "deaths": 11,
    "mobKills": 214,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 29302,
    "damageTaken": 9726,
-   "distanceCm": 9536327,
-   "walkCm": 7897126,
-   "flyCm": 886590,
-   "jumps": 9014,
-   "mined": 21482,
+   "distanceCm": 9573600,
+   "walkCm": 7927292,
+   "flyCm": 893697,
+   "jumps": 9079,
+   "mined": 21799,
    "topMined": [
     [
      "stone",
-     9172
+     9430
     ],
     [
      "grass_block",
@@ -1020,7 +1020,7 @@
     ],
     [
      "dirt",
-     3799
+     3825
     ]
    ],
    "crafted": 3057,
@@ -1242,19 +1242,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-17T01:19:08Z",
-   "playTicks": 859232,
+   "lastSeen": "2026-10-17T01:24:08Z",
+   "playTicks": 865232,
    "deaths": 8,
-   "mobKills": 103,
+   "mobKills": 109,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 21078,
-   "damageTaken": 7908,
-   "distanceCm": 4397108,
-   "walkCm": 1841453,
-   "flyCm": 1582483,
-   "jumps": 7862,
-   "mined": 3985,
+   "damageDealt": 21128,
+   "damageTaken": 7923,
+   "distanceCm": 4421381,
+   "walkCm": 1849865,
+   "flyCm": 1586673,
+   "jumps": 7895,
+   "mined": 3994,
    "topMined": [
     [
      "deepslate",
@@ -1313,13 +1313,17 @@
     ]
    ],
    "adv": {
-    "count": 20,
+    "count": 21,
     "byTab": {
      "story": 11,
-     "adventure": 8,
+     "adventure": 9,
      "husbandry": 1
     },
     "recent": [
+     [
+      "adventure/voluntary_exile",
+      "2026-10-17T01:22:42Z"
+     ],
      [
       "adventure/shoot_arrow",
       "2026-10-17T01:16:55Z"
@@ -1347,10 +1351,6 @@
      [
       "adventure/trade",
       "2026-10-16T15:07:48Z"
-     ],
-     [
-      "story/shiny_gear",
-      "2026-10-16T15:02:57Z"
      ]
     ]
    }
@@ -1984,8 +1984,8 @@
     "rendered": "2026-10-16T22:17:48Z"
    },
    "2.2": {
-    "mtime": "2026-10-16T17:04:04Z",
-    "rendered": "2026-10-16T19:51:56Z"
+    "mtime": "2026-10-17T01:24:08Z",
+    "rendered": "2026-10-17T01:24:14Z"
    },
    "3.1": {
     "mtime": "2026-10-17T00:28:54Z",
@@ -2024,8 +2024,8 @@
     "rendered": "2026-10-17T00:39:10Z"
    },
    "1.2": {
-    "mtime": "2026-10-16T17:06:08Z",
-    "rendered": "2026-10-16T19:51:56Z"
+    "mtime": "2026-10-17T01:24:08Z",
+    "rendered": "2026-10-17T01:24:14Z"
    },
    "-1.1": {
     "mtime": "2026-10-16T18:59:52Z",
@@ -2168,8 +2168,8 @@
     "rendered": "2026-10-16T21:47:38Z"
    },
    "3.2": {
-    "mtime": "2026-10-16T17:03:38Z",
-    "rendered": "2026-10-16T19:55:28Z"
+    "mtime": "2026-10-17T01:24:19Z",
+    "rendered": "2026-10-17T01:24:14Z"
    },
    "4.1": {
     "mtime": "2026-10-17T00:23:49Z",
