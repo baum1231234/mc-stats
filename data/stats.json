@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T10:37:56Z",
+ "updated": "2026-10-17T10:42:21Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 8480733,
+ "serverTicks": 8486733,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -221,8 +221,8 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T10:36:55Z",
-   "playTicks": 3527370,
+   "lastSeen": "2026-10-17T10:41:55Z",
+   "playTicks": 3533370,
    "deaths": 2,
    "mobKills": 1682,
    "playerKills": 0,
@@ -439,19 +439,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-17T10:36:55Z",
-   "playTicks": 2492374,
+   "lastSeen": "2026-10-17T10:41:55Z",
+   "playTicks": 2498374,
    "deaths": 2,
-   "mobKills": 793,
+   "mobKills": 794,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 78206,
-   "damageTaken": 19353,
-   "distanceCm": 22787307,
-   "walkCm": 9729528,
-   "flyCm": 7307129,
-   "jumps": 36888,
-   "mined": 46501,
+   "damageDealt": 78356,
+   "damageTaken": 19371,
+   "distanceCm": 22902856,
+   "walkCm": 9770726,
+   "flyCm": 7354600,
+   "jumps": 37103,
+   "mined": 46772,
    "topMined": [
     [
      "stone",
@@ -466,7 +466,7 @@
      2452
     ]
    ],
-   "crafted": 17178,
+   "crafted": 17194,
    "topCrafted": [
     [
      "stick",
@@ -884,19 +884,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-17T10:36:55Z",
-   "playTicks": 1466475,
+   "lastSeen": "2026-10-17T10:41:55Z",
+   "playTicks": 1472475,
    "deaths": 13,
    "mobKills": 249,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 33000,
-   "damageTaken": 10847,
-   "distanceCm": 11003967,
-   "walkCm": 8955086,
-   "flyCm": 1150647,
-   "jumps": 11013,
-   "mined": 23232,
+   "damageTaken": 10857,
+   "distanceCm": 11043226,
+   "walkCm": 8981750,
+   "flyCm": 1161967,
+   "jumps": 11046,
+   "mined": 23273,
    "topMined": [
     [
      "stone",
@@ -911,19 +911,19 @@
      4094
     ]
    ],
-   "crafted": 3191,
+   "crafted": 4892,
    "topCrafted": [
+    [
+     "stick",
+     1559
+    ],
+    [
+     "birch_planks",
+     972
+    ],
     [
      "pale_oak_planks",
      848
-    ],
-    [
-     "stick",
-     620
-    ],
-    [
-     "pale_oak_fence",
-     414
     ]
    ],
    "topKilled": [
@@ -959,14 +959,18 @@
     ]
    ],
    "adv": {
-    "count": 19,
+    "count": 20,
     "byTab": {
      "story": 10,
-     "adventure": 4,
+     "adventure": 5,
      "husbandry": 2,
      "nether": 3
     },
     "recent": [
+     [
+      "adventure/trade",
+      "2026-10-17T10:39:58Z"
+     ],
      [
       "nether/obtain_blaze_rod",
       "2026-10-17T02:48:45Z"
@@ -994,10 +998,6 @@
      [
       "husbandry/fishy_business",
       "2026-10-12T19:05:25Z"
-     ],
-     [
-      "story/iron_tools",
-      "2026-10-12T16:25:15Z"
      ]
     ]
    }
