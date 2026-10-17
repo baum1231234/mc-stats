@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T10:03:53Z",
+ "updated": "2026-10-17T10:06:59Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 8440098,
+ "serverTicks": 8444733,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -221,19 +221,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T10:03:03Z",
-   "playTicks": 3486735,
+   "lastSeen": "2026-10-17T10:06:55Z",
+   "playTicks": 3491370,
    "deaths": 2,
-   "mobKills": 1678,
+   "mobKills": 1680,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 239113,
-   "damageTaken": 12316,
-   "distanceCm": 37416163,
-   "walkCm": 16549613,
-   "flyCm": 10166126,
-   "jumps": 36807,
-   "mined": 58947,
+   "damageDealt": 239495,
+   "damageTaken": 12321,
+   "distanceCm": 37439438,
+   "walkCm": 16568767,
+   "flyCm": 10169687,
+   "jumps": 36839,
+   "mined": 59008,
    "topMined": [
     [
      "grass_block",
@@ -248,7 +248,7 @@
      9189
     ]
    ],
-   "crafted": 37476,
+   "crafted": 37512,
    "topCrafted": [
     [
      "spruce_planks",
@@ -266,7 +266,7 @@
    "topKilled": [
     [
      "zombie",
-     401
+     403
     ],
     [
      "guardian",
@@ -439,19 +439,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-17T10:03:03Z",
-   "playTicks": 2451739,
+   "lastSeen": "2026-10-17T10:06:55Z",
+   "playTicks": 2456374,
    "deaths": 2,
    "mobKills": 788,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 77560,
    "damageTaken": 19195,
-   "distanceCm": 22438083,
-   "walkCm": 9534051,
-   "flyCm": 7196686,
-   "jumps": 36313,
-   "mined": 46068,
+   "distanceCm": 22462254,
+   "walkCm": 9550887,
+   "flyCm": 7203796,
+   "jumps": 36358,
+   "mined": 46072,
    "topMined": [
     [
      "stone",
