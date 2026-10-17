@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T11:20:05Z",
+ "updated": "2026-10-17T11:21:45Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 8532406,
  "players": [
@@ -221,19 +221,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T11:18:19Z",
-   "playTicks": 3576512,
+   "lastSeen": "2026-10-17T11:20:16Z",
+   "playTicks": 3578848,
    "deaths": 2,
    "mobKills": 1690,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 241452,
    "damageTaken": 12440,
-   "distanceCm": 37777637,
-   "walkCm": 16743153,
-   "flyCm": 10273067,
+   "distanceCm": 37784484,
+   "walkCm": 16749940,
+   "flyCm": 10273127,
    "jumps": 37315,
-   "mined": 60568,
+   "mined": 60569,
    "topMined": [
     [
      "grass_block",
@@ -439,18 +439,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-17T11:18:19Z",
-   "playTicks": 2539414,
+   "lastSeen": "2026-10-17T11:20:16Z",
+   "playTicks": 2541750,
    "deaths": 2,
    "mobKills": 802,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 79546,
-   "damageTaken": 19601,
-   "distanceCm": 23309037,
-   "walkCm": 9912248,
-   "flyCm": 7571111,
-   "jumps": 38140,
+   "damageTaken": 19615,
+   "distanceCm": 23328999,
+   "walkCm": 9922023,
+   "flyCm": 7579298,
+   "jumps": 38183,
    "mined": 47011,
    "topMined": [
     [
@@ -466,7 +466,7 @@
      2452
     ]
    ],
-   "crafted": 17513,
+   "crafted": 17525,
    "topCrafted": [
     [
      "stick",
@@ -553,19 +553,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-17T11:18:19Z",
-   "playTicks": 2243967,
+   "lastSeen": "2026-10-17T11:20:16Z",
+   "playTicks": 2246303,
    "deaths": 2,
    "mobKills": 2854,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 215851,
    "damageTaken": 19415,
-   "distanceCm": 27639033,
-   "walkCm": 9276420,
-   "flyCm": 6345116,
-   "jumps": 30521,
-   "mined": 24196,
+   "distanceCm": 27643852,
+   "walkCm": 9280775,
+   "flyCm": 6345580,
+   "jumps": 30560,
+   "mined": 24375,
    "topMined": [
     [
      "spruce_log",
@@ -580,7 +580,7 @@
      1903
     ]
    ],
-   "crafted": 117713,
+   "crafted": 117741,
    "topCrafted": [
     [
      "stick",
@@ -775,27 +775,27 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
-   "lastSeen": "2026-10-17T10:01:41Z",
-   "playTicks": 1796175,
+   "lastSeen": "2026-10-17T11:20:16Z",
+   "playTicks": 1798063,
    "deaths": 2,
    "mobKills": 320,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 49563,
    "damageTaken": 11233,
-   "distanceCm": 13996326,
-   "walkCm": 7493632,
-   "flyCm": 3083396,
-   "jumps": 18837,
-   "mined": 20196,
+   "distanceCm": 14005475,
+   "walkCm": 7501382,
+   "flyCm": 3084795,
+   "jumps": 18843,
+   "mined": 20278,
    "topMined": [
     [
      "stone",
-     8882
+     8945
     ],
     [
      "diorite",
-     1299
+     1318
     ],
     [
      "coal_ore",
@@ -884,8 +884,8 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-17T11:18:19Z",
-   "playTicks": 1515230,
+   "lastSeen": "2026-10-17T11:20:16Z",
+   "playTicks": 1517566,
    "deaths": 13,
    "mobKills": 250,
    "playerKills": 0,
@@ -3014,6 +3014,14 @@
     "rendered": "2026-10-17T11:20:05Z",
     "empty": true
    },
+   "8.-1": {
+    "mtime": "2026-10-16T06:04:45Z",
+    "rendered": "2026-10-17T11:21:45Z"
+   },
+   "9.0": {
+    "mtime": "2026-10-16T06:04:45Z",
+    "rendered": "2026-10-17T11:21:45Z"
+   },
    "-6.-4": {
     "mtime": "2026-10-17T06:04:13Z",
     "rendered": "2026-10-17T06:13:08Z"
@@ -3021,6 +3029,14 @@
    "-7.-5": {
     "mtime": "2026-10-17T06:04:13Z",
     "rendered": "2026-10-17T06:13:08Z"
+   },
+   "-5.9": {
+    "mtime": "2026-10-15T23:26:34Z",
+    "rendered": "2026-10-17T11:21:45Z"
+   },
+   "-4.10": {
+    "mtime": "2026-10-16T06:04:45Z",
+    "rendered": "2026-10-17T11:21:45Z"
    },
    "-6.8": {
     "mtime": "2026-10-15T21:15:24Z",
