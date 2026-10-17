@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T23:28:01Z",
+ "updated": "2026-10-17T23:29:50Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 9219547,
+ "serverTicks": 9225547,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1015,23 +1015,23 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-17T23:25:02Z",
-   "playTicks": 1774180,
+   "lastSeen": "2026-10-17T23:30:02Z",
+   "playTicks": 1780180,
    "deaths": 8,
    "mobKills": 629,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 104248,
-   "damageTaken": 20792,
-   "distanceCm": 16615081,
-   "walkCm": 6982831,
-   "flyCm": 5575038,
-   "jumps": 27791,
-   "mined": 9420,
+   "damageTaken": 20864,
+   "distanceCm": 16660028,
+   "walkCm": 7011368,
+   "flyCm": 5590898,
+   "jumps": 27859,
+   "mined": 9470,
    "topMined": [
     [
      "grass_block",
-     1042
+     1043
     ],
     [
      "stone",
@@ -1039,10 +1039,10 @@
     ],
     [
      "dirt",
-     947
+     948
     ]
    ],
-   "crafted": 11194,
+   "crafted": 11224,
    "topCrafted": [
     [
      "emerald",
@@ -2311,8 +2311,8 @@
     "rendered": "2026-10-17T22:30:39Z"
    },
    "-1.1": {
-    "mtime": "2026-10-17T17:58:01Z",
-    "rendered": "2026-10-17T20:28:35Z"
+    "mtime": "2026-10-17T23:21:11Z",
+    "rendered": "2026-10-17T23:29:50Z"
    },
    "-2.2": {
     "mtime": "2026-10-17T17:24:55Z",
@@ -3681,6 +3681,18 @@
    "9.-2": {
     "mtime": "2026-10-17T17:32:12Z",
     "rendered": "2026-10-17T23:28:01Z"
+   },
+   "-3.13": {
+    "mtime": "2026-10-17T17:25:56Z",
+    "rendered": "2026-10-17T23:29:50Z"
+   },
+   "-4.12": {
+    "mtime": "2026-10-17T17:26:38Z",
+    "rendered": "2026-10-17T23:29:50Z"
+   },
+   "-5.11": {
+    "mtime": "2026-10-17T17:27:05Z",
+    "rendered": "2026-10-17T23:29:50Z"
    },
    "-8.8": {
     "mtime": "2026-10-15T21:09:43Z",
