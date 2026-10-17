@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T23:39:09Z",
+ "updated": "2026-10-17T23:40:56Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 9231547,
+ "serverTicks": 9237547,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -893,19 +893,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-17T23:35:02Z",
-   "playTicks": 1971776,
+   "lastSeen": "2026-10-17T23:40:02Z",
+   "playTicks": 1977776,
    "deaths": 20,
    "mobKills": 367,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 54315,
    "damageTaken": 15436,
-   "distanceCm": 16115481,
-   "walkCm": 12925741,
-   "flyCm": 2106607,
-   "jumps": 17340,
-   "mined": 28058,
+   "distanceCm": 16150211,
+   "walkCm": 12960309,
+   "flyCm": 2106769,
+   "jumps": 17341,
+   "mined": 28204,
    "topMined": [
     [
      "stone",
@@ -920,7 +920,7 @@
      5159
     ]
    ],
-   "crafted": 16784,
+   "crafted": 16833,
    "topCrafted": [
     [
      "stick",
@@ -1015,19 +1015,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-17T23:35:02Z",
-   "playTicks": 1786180,
+   "lastSeen": "2026-10-17T23:40:02Z",
+   "playTicks": 1792180,
    "deaths": 8,
-   "mobKills": 630,
+   "mobKills": 631,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 104448,
-   "damageTaken": 20873,
-   "distanceCm": 16708146,
-   "walkCm": 7036134,
-   "flyCm": 5611762,
-   "jumps": 27953,
-   "mined": 9533,
+   "damageDealt": 104677,
+   "damageTaken": 21002,
+   "distanceCm": 16858920,
+   "walkCm": 7065889,
+   "flyCm": 5670854,
+   "jumps": 28143,
+   "mined": 9536,
    "topMined": [
     [
      "grass_block",
@@ -3770,6 +3770,10 @@
    "1.-13": {
     "mtime": "2026-10-17T17:28:59Z",
     "rendered": "2026-10-17T23:39:09Z"
+   },
+   "2.-12": {
+    "mtime": "2026-10-17T17:30:08Z",
+    "rendered": "2026-10-17T23:40:56Z"
    }
   }
  }
