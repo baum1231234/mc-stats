@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T02:29:43Z",
+ "updated": "2026-10-17T02:31:22Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7982432,
+ "serverTicks": 7984822,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,19 +111,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T02:29:08Z",
-   "playTicks": 3603501,
+   "lastSeen": "2026-10-17T02:31:08Z",
+   "playTicks": 3605891,
    "deaths": 4,
    "mobKills": 3221,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 303841,
-   "damageTaken": 23253,
-   "distanceCm": 41491645,
-   "walkCm": 12120905,
-   "flyCm": 15265345,
-   "jumps": 51580,
-   "mined": 29207,
+   "damageTaken": 23423,
+   "distanceCm": 41536633,
+   "walkCm": 12129324,
+   "flyCm": 15286299,
+   "jumps": 51628,
+   "mined": 29240,
    "topMined": [
     [
      "spruce_log",
@@ -135,10 +135,10 @@
     ],
     [
      "grass_block",
-     2813
+     2816
     ]
    ],
-   "crafted": 107821,
+   "crafted": 107822,
    "topCrafted": [
     [
      "stick",
@@ -174,13 +174,22 @@
     ]
    ],
    "adv": {
-    "count": 23,
+    "count": 25,
     "byTab": {
-     "story": 10,
+     "story": 11,
      "adventure": 10,
-     "husbandry": 3
+     "husbandry": 3,
+     "nether": 1
     },
     "recent": [
+     [
+      "nether/root",
+      "2026-10-17T02:31:00Z"
+     ],
+     [
+      "story/enter_the_nether",
+      "2026-10-17T02:31:00Z"
+     ],
      [
       "story/form_obsidian",
       "2026-10-17T02:26:32Z"
@@ -204,14 +213,6 @@
      [
       "adventure/minecraft_trials_edition",
       "2026-10-14T14:48:13Z"
-     ],
-     [
-      "story/deflect_arrow",
-      "2026-10-12T21:38:29Z"
-     ],
-     [
-      "story/lava_bucket",
-      "2026-10-12T21:30:19Z"
      ]
     ]
    }
@@ -883,18 +884,18 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-17T02:29:08Z",
-   "playTicks": 1386655,
+   "lastSeen": "2026-10-17T02:31:08Z",
+   "playTicks": 1389045,
    "deaths": 11,
    "mobKills": 229,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 30870,
-   "damageTaken": 10024,
-   "distanceCm": 10188033,
-   "walkCm": 8422306,
-   "flyCm": 993683,
-   "jumps": 9895,
+   "damageTaken": 10044,
+   "distanceCm": 10240773,
+   "walkCm": 8441639,
+   "flyCm": 1007998,
+   "jumps": 9965,
    "mined": 22879,
    "topMined": [
     [
@@ -1242,19 +1243,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-17T02:29:08Z",
-   "playTicks": 943232,
+   "lastSeen": "2026-10-17T02:31:08Z",
+   "playTicks": 945622,
    "deaths": 10,
    "mobKills": 203,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 23633,
    "damageTaken": 8885,
-   "distanceCm": 5227707,
-   "walkCm": 2181285,
-   "flyCm": 1975532,
-   "jumps": 9681,
-   "mined": 4153,
+   "distanceCm": 5250600,
+   "walkCm": 2196508,
+   "flyCm": 1982202,
+   "jumps": 9736,
+   "mined": 4155,
    "topMined": [
     [
      "deepslate",
