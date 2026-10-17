@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T12:03:09Z",
+ "updated": "2026-10-17T12:04:52Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 8582050,
  "players": [
@@ -111,19 +111,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T12:01:57Z",
-   "playTicks": 3673302,
+   "lastSeen": "2026-10-17T12:03:19Z",
+   "playTicks": 3674946,
    "deaths": 4,
    "mobKills": 3271,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 311331,
-   "damageTaken": 24889,
-   "distanceCm": 42155106,
-   "walkCm": 12448744,
-   "flyCm": 15519988,
-   "jumps": 53223,
-   "mined": 32665,
+   "damageTaken": 24917,
+   "distanceCm": 42161641,
+   "walkCm": 12452330,
+   "flyCm": 15521737,
+   "jumps": 53231,
+   "mined": 32692,
    "topMined": [
     [
      "spruce_log",
@@ -221,19 +221,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T12:01:57Z",
-   "playTicks": 3626848,
+   "lastSeen": "2026-10-17T12:03:19Z",
+   "playTicks": 3628492,
    "deaths": 2,
    "mobKills": 1690,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 241452,
-   "damageTaken": 12466,
-   "distanceCm": 38275292,
-   "walkCm": 16969394,
-   "flyCm": 10447207,
-   "jumps": 37841,
-   "mined": 62438,
+   "damageTaken": 12468,
+   "distanceCm": 38280785,
+   "walkCm": 16973805,
+   "flyCm": 10447789,
+   "jumps": 37855,
+   "mined": 62539,
    "topMined": [
     [
      "grass_block",
@@ -439,19 +439,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-17T12:01:57Z",
-   "playTicks": 2589750,
+   "lastSeen": "2026-10-17T12:03:19Z",
+   "playTicks": 2591394,
    "deaths": 2,
    "mobKills": 806,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 80296,
    "damageTaken": 19786,
-   "distanceCm": 23714888,
-   "walkCm": 10127222,
-   "flyCm": 7707605,
-   "jumps": 38954,
-   "mined": 47234,
+   "distanceCm": 23721762,
+   "walkCm": 10130902,
+   "flyCm": 7710539,
+   "jumps": 38973,
+   "mined": 47299,
    "topMined": [
     [
      "stone",
@@ -3475,9 +3475,27 @@
     "rendered": "2026-10-17T12:03:09Z",
     "empty": true
    },
+   "-4.-13": {
+    "mtime": "2026-10-14T06:04:11Z",
+    "rendered": "2026-10-17T12:04:52Z",
+    "empty": true
+   },
+   "4.9": {
+    "mtime": "2026-10-11T21:09:40Z",
+    "rendered": "2026-10-17T12:04:52Z",
+    "empty": true
+   },
    "5.8": {
     "mtime": "2026-10-12T06:04:29Z",
     "rendered": "2026-10-12T18:12:14Z"
+   },
+   "6.7": {
+    "mtime": "2026-10-12T06:04:29Z",
+    "rendered": "2026-10-17T12:04:52Z"
+   },
+   "7.6": {
+    "mtime": "2026-10-12T06:04:29Z",
+    "rendered": "2026-10-17T12:04:52Z"
    }
   }
  }
