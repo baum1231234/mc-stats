@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T17:28:14Z",
+ "updated": "2026-10-17T17:31:12Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 8855141,
+ "serverTicks": 8857264,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1675,6 +1675,46 @@
      ]
     ]
    }
+  },
+  {
+   "uuid": "33ea52e3-86de-4e6b-9526-ef4483a31005",
+   "name": "mcGammler",
+   "firstSeen": "2026-10-17T17:31:12Z",
+   "lastSeen": "2026-10-17T17:28:26Z",
+   "playTicks": 923,
+   "deaths": 1,
+   "mobKills": 0,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 0,
+   "damageTaken": 478,
+   "distanceCm": 9785,
+   "walkCm": 3812,
+   "flyCm": 4769,
+   "jumps": 30,
+   "mined": 0,
+   "topMined": [],
+   "crafted": 0,
+   "topCrafted": [],
+   "topKilled": [],
+   "topKilledBy": [
+    [
+     "creeper",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 1,
+    "byTab": {
+     "adventure": 1
+    },
+    "recent": [
+     [
+      "adventure/root",
+      "2026-10-17T17:28:14Z"
+     ]
+    ]
+   }
   }
  ],
  "bases": [
@@ -2146,8 +2186,8 @@
     "rendered": "2026-10-17T17:28:14Z"
    },
    "-2.2": {
-    "mtime": "2026-10-17T14:29:23Z",
-    "rendered": "2026-10-17T14:30:13Z"
+    "mtime": "2026-10-17T14:39:50Z",
+    "rendered": "2026-10-17T17:31:12Z"
    },
    "-1.0": {
     "mtime": "2026-10-17T16:43:48Z",
@@ -2322,8 +2362,8 @@
     "rendered": "2026-10-17T17:28:14Z"
    },
    "-1.2": {
-    "mtime": "2026-10-17T14:28:33Z",
-    "rendered": "2026-10-17T14:28:30Z"
+    "mtime": "2026-10-17T14:39:50Z",
+    "rendered": "2026-10-17T17:31:12Z"
    },
    "-2.-4": {
     "mtime": "2026-10-16T20:54:06Z",
@@ -2426,8 +2466,8 @@
     "rendered": "2026-10-17T16:00:26Z"
    },
    "-1.3": {
-    "mtime": "2026-10-17T14:28:31Z",
-    "rendered": "2026-10-17T14:28:30Z"
+    "mtime": "2026-10-17T14:54:23Z",
+    "rendered": "2026-10-17T17:31:12Z"
    },
    "0.4": {
     "mtime": "2026-10-17T14:49:55Z",
@@ -2958,8 +2998,8 @@
     "rendered": "2026-10-17T14:06:33Z"
    },
    "-6.-5": {
-    "mtime": "2026-10-17T14:02:21Z",
-    "rendered": "2026-10-17T14:06:33Z"
+    "mtime": "2026-10-17T15:09:36Z",
+    "rendered": "2026-10-17T17:31:12Z"
    },
    "-5.8": {
     "mtime": "2026-10-15T21:14:14Z",
