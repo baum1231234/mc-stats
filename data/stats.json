@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T02:04:38Z",
+ "updated": "2026-10-17T02:09:24Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 7952432,
+ "serverTicks": 7958432,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -111,16 +111,16 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T02:04:08Z",
-   "playTicks": 3574885,
+   "lastSeen": "2026-10-17T02:09:08Z",
+   "playTicks": 3580043,
    "deaths": 4,
-   "mobKills": 3202,
+   "mobKills": 3211,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 302489,
+   "damageDealt": 302789,
    "damageTaken": 22931,
-   "distanceCm": 41066297,
-   "walkCm": 12044519,
+   "distanceCm": 41069349,
+   "walkCm": 12047166,
    "flyCm": 15030635,
    "jumps": 51106,
    "mined": 29038,
@@ -156,7 +156,7 @@
    "topKilled": [
     [
      "skeleton",
-     1995
+     2002
     ],
     [
      "zombie",
@@ -883,23 +883,23 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-17T02:04:08Z",
-   "playTicks": 1356655,
+   "lastSeen": "2026-10-17T02:09:08Z",
+   "playTicks": 1362655,
    "deaths": 11,
    "mobKills": 229,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 30730,
    "damageTaken": 10014,
-   "distanceCm": 9956630,
-   "walkCm": 8243325,
-   "flyCm": 945378,
-   "jumps": 9516,
-   "mined": 22458,
+   "distanceCm": 10019233,
+   "walkCm": 8293518,
+   "flyCm": 956127,
+   "jumps": 9635,
+   "mined": 22591,
    "topMined": [
     [
      "stone",
-     9513
+     9645
     ],
     [
      "grass_block",
@@ -1242,18 +1242,18 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-17T02:04:08Z",
-   "playTicks": 913232,
+   "lastSeen": "2026-10-17T02:09:08Z",
+   "playTicks": 919232,
    "deaths": 8,
-   "mobKills": 197,
+   "mobKills": 200,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 22678,
-   "damageTaken": 8043,
-   "distanceCm": 4708241,
-   "walkCm": 1989607,
-   "flyCm": 1700999,
-   "jumps": 8494,
+   "damageDealt": 23264,
+   "damageTaken": 8298,
+   "distanceCm": 4809521,
+   "walkCm": 2027390,
+   "flyCm": 1749343,
+   "jumps": 8745,
    "mined": 4092,
    "topMined": [
     [
@@ -1287,7 +1287,7 @@
    "topKilled": [
     [
      "zombie",
-     44
+     46
     ],
     [
      "pillager",
@@ -1295,7 +1295,7 @@
     ],
     [
      "vindicator",
-     36
+     37
     ]
    ],
    "topKilledBy": [
