@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T20:03:48Z",
+ "updated": "2026-10-17T20:05:47Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 8985547,
  "players": [
@@ -441,19 +441,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-17T20:03:00Z",
-   "playTicks": 2746708,
+   "lastSeen": "2026-10-17T20:03:59Z",
+   "playTicks": 2747894,
    "deaths": 2,
    "mobKills": 813,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 82417,
    "damageTaken": 22418,
-   "distanceCm": 26448401,
-   "walkCm": 10957990,
+   "distanceCm": 26456940,
+   "walkCm": 10966529,
    "flyCm": 9004719,
    "jumps": 42184,
-   "mined": 51310,
+   "mined": 51576,
    "topMined": [
     [
      "stone",
@@ -508,14 +508,18 @@
     ]
    ],
    "adv": {
-    "count": 31,
+    "count": 32,
     "byTab": {
      "story": 13,
      "adventure": 12,
      "husbandry": 4,
-     "nether": 2
+     "nether": 3
     },
     "recent": [
+     [
+      "nether/obtain_ancient_debris",
+      "2026-10-17T20:03:18Z"
+     ],
      [
       "adventure/overoverkill",
       "2026-10-17T12:44:38Z"
@@ -543,10 +547,6 @@
      [
       "adventure/revaulting",
       "2026-10-16T10:46:14Z"
-     ],
-     [
-      "adventure/who_needs_rockets",
-      "2026-10-16T10:16:55Z"
      ]
     ]
    }
@@ -2820,8 +2820,8 @@
     "rendered": "2026-10-17T20:03:48Z"
    },
    "0.-9": {
-    "mtime": "2026-10-17T12:12:12Z",
-    "rendered": "2026-10-17T15:13:21Z"
+    "mtime": "2026-10-17T17:28:38Z",
+    "rendered": "2026-10-17T20:05:47Z"
    },
    "1.-8": {
     "mtime": "2026-10-17T15:41:11Z",
@@ -2835,9 +2835,17 @@
     "mtime": "2026-10-17T16:47:37Z",
     "rendered": "2026-10-17T18:40:27Z"
    },
+   "5.-4": {
+    "mtime": "2026-10-17T19:52:06Z",
+    "rendered": "2026-10-17T20:05:47Z"
+   },
+   "4.-5": {
+    "mtime": "2026-10-17T19:52:06Z",
+    "rendered": "2026-10-17T20:05:47Z"
+   },
    "-5.2": {
-    "mtime": "2026-10-17T10:14:47Z",
-    "rendered": "2026-10-17T11:53:33Z"
+    "mtime": "2026-10-17T17:27:14Z",
+    "rendered": "2026-10-17T20:05:47Z"
    },
    "-6.1": {
     "mtime": "2026-10-16T18:56:10Z",
