@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T20:59:22Z",
+ "updated": "2026-10-18T21:00:55Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10601667,
+ "serverTicks": 10607667,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -226,19 +226,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T20:55:35Z",
-   "playTicks": 4267347,
+   "lastSeen": "2026-10-18T21:00:35Z",
+   "playTicks": 4273347,
    "deaths": 0,
    "mobKills": 5431,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 395702,
-   "damageTaken": 69021,
-   "distanceCm": 49857298,
-   "walkCm": 14416252,
-   "flyCm": 19694041,
-   "jumps": 72719,
-   "mined": 68166,
+   "damageTaken": 69031,
+   "distanceCm": 49912449,
+   "walkCm": 14462478,
+   "flyCm": 19700666,
+   "jumps": 72766,
+   "mined": 68557,
    "topMined": [
     [
      "netherrack",
@@ -246,11 +246,11 @@
     ],
     [
      "stone",
-     7350
+     7379
     ],
     [
      "snow_block",
-     3851
+     4178
     ]
    ],
    "crafted": 73883,
@@ -441,19 +441,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-18T20:55:35Z",
-   "playTicks": 3287956,
+   "lastSeen": "2026-10-18T21:00:35Z",
+   "playTicks": 3293956,
    "deaths": 2,
    "mobKills": 1263,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 115073,
-   "damageTaken": 32806,
-   "distanceCm": 31881316,
-   "walkCm": 14023070,
-   "flyCm": 10685301,
-   "jumps": 53076,
-   "mined": 106095,
+   "damageTaken": 32916,
+   "distanceCm": 31920299,
+   "walkCm": 14043615,
+   "flyCm": 10694532,
+   "jumps": 53108,
+   "mined": 106097,
    "topMined": [
     [
      "netherrack",
@@ -468,7 +468,7 @@
      3110
     ]
    ],
-   "crafted": 19379,
+   "crafted": 19420,
    "topCrafted": [
     [
      "stick",
@@ -905,23 +905,23 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T20:55:35Z",
-   "playTicks": 2537419,
+   "lastSeen": "2026-10-18T21:00:35Z",
+   "playTicks": 2543419,
    "deaths": 8,
-   "mobKills": 3147,
+   "mobKills": 3153,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 184074,
-   "damageTaken": 31111,
-   "distanceCm": 22776961,
-   "walkCm": 10205151,
-   "flyCm": 7457295,
-   "jumps": 40096,
-   "mined": 15598,
+   "damageDealt": 184653,
+   "damageTaken": 31181,
+   "distanceCm": 22857554,
+   "walkCm": 10231540,
+   "flyCm": 7499160,
+   "jumps": 40290,
+   "mined": 15657,
    "topMined": [
     [
      "netherrack",
-     2629
+     2631
     ],
     [
      "stone",
@@ -958,7 +958,7 @@
     ],
     [
      "skeleton",
-     122
+     123
     ]
    ],
    "topKilledBy": [
@@ -984,14 +984,18 @@
     ]
    ],
    "adv": {
-    "count": 43,
+    "count": 44,
     "byTab": {
      "adventure": 14,
      "story": 13,
      "husbandry": 4,
-     "nether": 12
+     "nether": 13
     },
     "recent": [
+     [
+      "nether/fast_travel",
+      "2026-10-18T20:57:56Z"
+     ],
      [
       "adventure/ol_betsy",
       "2026-10-18T18:34:35Z"
@@ -1019,10 +1023,6 @@
      [
       "nether/obtain_ancient_debris",
       "2026-10-18T12:30:33Z"
-     ],
-     [
-      "nether/obtain_crying_obsidian",
-      "2026-10-18T12:30:15Z"
      ]
     ]
    }
@@ -1145,23 +1145,23 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-18T20:55:35Z",
-   "playTicks": 1997563,
+   "lastSeen": "2026-10-18T21:00:35Z",
+   "playTicks": 2003563,
    "deaths": 21,
    "mobKills": 3064,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 138844,
-   "damageTaken": 27365,
-   "distanceCm": 14881245,
-   "walkCm": 6680729,
-   "flyCm": 5453952,
-   "jumps": 27609,
-   "mined": 12143,
+   "damageTaken": 27510,
+   "distanceCm": 14902418,
+   "walkCm": 6700839,
+   "flyCm": 5454815,
+   "jumps": 27636,
+   "mined": 12272,
    "topMined": [
     [
      "netherrack",
-     5351
+     5440
     ],
     [
      "deepslate",
@@ -1172,7 +1172,7 @@
      1000
     ]
    ],
-   "crafted": 19430,
+   "crafted": 19445,
    "topCrafted": [
     [
      "stick",
