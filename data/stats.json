@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T02:08:40Z",
+ "updated": "2026-10-18T02:13:31Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 9384556,
+ "serverTicks": 9390556,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -893,18 +893,18 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-18T02:07:32Z",
-   "playTicks": 2008928,
+   "lastSeen": "2026-10-18T02:12:32Z",
+   "playTicks": 2014928,
    "deaths": 20,
-   "mobKills": 379,
+   "mobKills": 386,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 57271,
-   "damageTaken": 15926,
-   "distanceCm": 16497017,
-   "walkCm": 13175767,
-   "flyCm": 2170832,
-   "jumps": 17795,
+   "damageDealt": 58815,
+   "damageTaken": 16080,
+   "distanceCm": 16589988,
+   "walkCm": 13233602,
+   "flyCm": 2178502,
+   "jumps": 17897,
    "mined": 28404,
    "topMined": [
     [
@@ -920,11 +920,11 @@
      5159
     ]
    ],
-   "crafted": 19269,
+   "crafted": 19327,
    "topCrafted": [
     [
      "stick",
-     10500
+     10532
     ],
     [
      "dark_oak_planks",
@@ -938,7 +938,7 @@
    "topKilled": [
     [
      "zombie",
-     140
+     145
     ],
     [
      "sheep",
@@ -1015,19 +1015,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T02:07:32Z",
-   "playTicks": 1937990,
+   "lastSeen": "2026-10-18T02:12:32Z",
+   "playTicks": 1943990,
    "deaths": 8,
-   "mobKills": 647,
+   "mobKills": 654,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 107806,
-   "damageTaken": 21556,
-   "distanceCm": 17235969,
-   "walkCm": 7253155,
-   "flyCm": 5834263,
-   "jumps": 28948,
-   "mined": 9658,
+   "damageDealt": 109070,
+   "damageTaken": 21740,
+   "distanceCm": 17331576,
+   "walkCm": 7288519,
+   "flyCm": 5885896,
+   "jumps": 29153,
+   "mined": 9661,
    "topMined": [
     [
      "grass_block",
@@ -1035,7 +1035,7 @@
     ],
     [
      "stone",
-     1014
+     1016
     ],
     [
      "dirt",
