@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T21:52:00Z",
+ "updated": "2026-10-18T21:56:20Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10667667,
+ "serverTicks": 10673667,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -226,19 +226,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T21:50:35Z",
-   "playTicks": 4333347,
+   "lastSeen": "2026-10-18T21:56:10Z",
+   "playTicks": 4340028,
    "deaths": 0,
-   "mobKills": 5604,
+   "mobKills": 5609,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 411128,
-   "damageTaken": 70008,
-   "distanceCm": 50295859,
-   "walkCm": 14648645,
-   "flyCm": 19821542,
-   "jumps": 73408,
-   "mined": 69426,
+   "damageDealt": 414229,
+   "damageTaken": 70210,
+   "distanceCm": 50364430,
+   "walkCm": 14680295,
+   "flyCm": 19850604,
+   "jumps": 73546,
+   "mined": 69427,
    "topMined": [
     [
      "netherrack",
@@ -250,7 +250,7 @@
     ],
     [
      "snow_block",
-     4262
+     4263
     ]
    ],
    "crafted": 73883,
@@ -275,7 +275,7 @@
     ],
     [
      "zombie",
-     261
+     263
     ],
     [
      "pillager",
@@ -783,19 +783,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T21:50:35Z",
-   "playTicks": 2601292,
+   "lastSeen": "2026-10-18T21:55:35Z",
+   "playTicks": 2607292,
    "deaths": 8,
-   "mobKills": 3255,
+   "mobKills": 3260,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 200897,
-   "damageTaken": 32760,
-   "distanceCm": 24042677,
-   "walkCm": 10436549,
-   "flyCm": 7897336,
-   "jumps": 41980,
-   "mined": 16317,
+   "damageDealt": 201857,
+   "damageTaken": 32898,
+   "distanceCm": 24134859,
+   "walkCm": 10460841,
+   "flyCm": 7944764,
+   "jumps": 42182,
+   "mined": 16380,
    "topMined": [
     [
      "netherrack",
@@ -832,11 +832,11 @@
     ],
     [
      "zombie",
-     260
+     262
     ],
     [
      "skeleton",
-     140
+     141
     ]
    ],
    "topKilledBy": [
@@ -1145,23 +1145,23 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-18T21:50:35Z",
-   "playTicks": 2063563,
+   "lastSeen": "2026-10-18T21:55:35Z",
+   "playTicks": 2069563,
    "deaths": 21,
    "mobKills": 3065,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 139034,
    "damageTaken": 28144,
-   "distanceCm": 15324642,
-   "walkCm": 7111701,
-   "flyCm": 5464627,
-   "jumps": 27781,
-   "mined": 19367,
+   "distanceCm": 15374728,
+   "walkCm": 7161236,
+   "flyCm": 5465178,
+   "jumps": 27795,
+   "mined": 20880,
    "topMined": [
     [
      "netherrack",
-     11301
+     12673
     ],
     [
      "deepslate",
@@ -2122,12 +2122,12 @@
      "2026-10-17",
      "2026-10-18"
     ],
-    "rendered": "2026-10-18T18:56:04Z",
+    "rendered": "2026-10-18T21:56:20Z",
     "regions": {
-     "r.-2.4.mca": "2026-10-18T18:50:39Z",
-     "r.-2.5.mca": "2026-10-18T18:50:38Z",
-     "r.-3.4.mca": "2026-10-18T18:48:56Z",
-     "r.-3.5.mca": "2026-10-18T18:50:39Z"
+     "r.-2.4.mca": "2026-10-18T20:55:31Z",
+     "r.-2.5.mca": "2026-10-18T20:55:17Z",
+     "r.-3.4.mca": "2026-10-18T20:45:56Z",
+     "r.-3.5.mca": "2026-10-18T20:55:26Z"
     }
    }
   }
@@ -2196,8 +2196,8 @@
     "rendered": "2026-10-18T18:58:01Z"
    },
    "-3.5": {
-    "mtime": "2026-10-18T18:50:39Z",
-    "rendered": "2026-10-18T18:56:04Z"
+    "mtime": "2026-10-18T20:55:26Z",
+    "rendered": "2026-10-18T21:56:20Z"
    },
    "-1.-5": {
     "mtime": "2026-10-18T15:56:25Z",
@@ -2212,12 +2212,12 @@
     "rendered": "2026-10-18T21:47:22Z"
    },
    "-3.4": {
-    "mtime": "2026-10-18T18:48:56Z",
-    "rendered": "2026-10-18T18:56:04Z"
+    "mtime": "2026-10-18T20:45:56Z",
+    "rendered": "2026-10-18T21:56:20Z"
    },
    "-2.5": {
-    "mtime": "2026-10-18T18:50:38Z",
-    "rendered": "2026-10-18T18:56:04Z"
+    "mtime": "2026-10-18T20:55:17Z",
+    "rendered": "2026-10-18T21:56:20Z"
    },
    "-10.1": {
     "mtime": "2026-10-18T20:36:53Z",
@@ -2240,8 +2240,8 @@
     "rendered": "2026-10-18T18:58:01Z"
    },
    "-2.4": {
-    "mtime": "2026-10-18T18:50:39Z",
-    "rendered": "2026-10-18T18:56:04Z"
+    "mtime": "2026-10-18T20:55:31Z",
+    "rendered": "2026-10-18T21:56:20Z"
    },
    "-1.-7": {
     "mtime": "2026-10-18T15:56:41Z",
