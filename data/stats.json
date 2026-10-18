@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T02:28:03Z",
+ "updated": "2026-10-18T02:32:54Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 9408556,
+ "serverTicks": 9415381,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -893,19 +893,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-18T02:27:32Z",
-   "playTicks": 2032928,
+   "lastSeen": "2026-10-18T02:32:32Z",
+   "playTicks": 2038928,
    "deaths": 20,
    "mobKills": 394,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 61175,
    "damageTaken": 16542,
-   "distanceCm": 16790558,
-   "walkCm": 13383370,
-   "flyCm": 2200834,
+   "distanceCm": 16837489,
+   "walkCm": 13430273,
+   "flyCm": 2200862,
    "jumps": 18107,
-   "mined": 28475,
+   "mined": 28685,
    "topMined": [
     [
      "stone",
@@ -1015,19 +1015,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T02:27:32Z",
-   "playTicks": 1961990,
+   "lastSeen": "2026-10-18T02:32:32Z",
+   "playTicks": 1967990,
    "deaths": 8,
    "mobKills": 668,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 111895,
    "damageTaken": 21961,
-   "distanceCm": 17465240,
-   "walkCm": 7357113,
-   "flyCm": 5943528,
-   "jumps": 29587,
-   "mined": 9695,
+   "distanceCm": 17499539,
+   "walkCm": 7380604,
+   "flyCm": 5954030,
+   "jumps": 29717,
+   "mined": 9698,
    "topMined": [
     [
      "grass_block",
@@ -1035,14 +1035,14 @@
     ],
     [
      "stone",
-     1045
+     1046
     ],
     [
      "dirt",
-     968
+     969
     ]
    ],
-   "crafted": 13093,
+   "crafted": 13094,
    "topCrafted": [
     [
      "emerald",
@@ -2913,8 +2913,8 @@
     "rendered": "2026-10-17T23:31:44Z"
    },
    "-5.-5": {
-    "mtime": "2026-10-17T20:32:29Z",
-    "rendered": "2026-10-17T23:31:44Z"
+    "mtime": "2026-10-18T01:16:33Z",
+    "rendered": "2026-10-18T02:32:54Z"
    },
    "-3.9": {
     "mtime": "2026-10-17T17:26:08Z",
