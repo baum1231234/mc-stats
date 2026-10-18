@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T17:40:01Z",
+ "updated": "2026-10-18T17:45:08Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10367667,
+ "serverTicks": 10373667,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -112,23 +112,23 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T17:39:02Z",
-   "playTicks": 4325622,
+   "lastSeen": "2026-10-18T17:44:05Z",
+   "playTicks": 4331622,
    "deaths": 2,
    "mobKills": 1960,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 290450,
    "damageTaken": 14114,
-   "distanceCm": 46159182,
-   "walkCm": 20917705,
+   "distanceCm": 46176392,
+   "walkCm": 20934915,
    "flyCm": 13364543,
    "jumps": 45586,
-   "mined": 85606,
+   "mined": 85898,
    "topMined": [
     [
      "netherrack",
-     16313
+     16350
     ],
     [
      "grass_block",
@@ -226,18 +226,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T17:39:31Z",
-   "playTicks": 4059481,
+   "lastSeen": "2026-10-18T17:44:05Z",
+   "playTicks": 4061357,
    "deaths": 0,
-   "mobKills": 5079,
+   "mobKills": 5080,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 357978,
-   "damageTaken": 62878,
-   "distanceCm": 48151287,
-   "walkCm": 13714984,
-   "flyCm": 19111196,
-   "jumps": 69853,
+   "damageDealt": 358179,
+   "damageTaken": 63230,
+   "distanceCm": 48197439,
+   "walkCm": 13720348,
+   "flyCm": 19136740,
+   "jumps": 69908,
    "mined": 64339,
    "topMined": [
     [
@@ -783,16 +783,16 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-18T17:39:02Z",
-   "playTicks": 2405261,
+   "lastSeen": "2026-10-18T17:44:05Z",
+   "playTicks": 2411261,
    "deaths": 28,
    "mobKills": 1003,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 145700,
    "damageTaken": 24867,
-   "distanceCm": 21459473,
-   "walkCm": 16920931,
+   "distanceCm": 21471630,
+   "walkCm": 16933088,
    "flyCm": 3131272,
    "jumps": 24444,
    "mined": 31564,
@@ -810,7 +810,7 @@
      5177
     ]
    ],
-   "crafted": 25363,
+   "crafted": 25367,
    "topCrafted": [
     [
      "stick",
@@ -1145,27 +1145,27 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-18T17:39:02Z",
-   "playTicks": 1763563,
+   "lastSeen": "2026-10-18T17:44:05Z",
+   "playTicks": 1769563,
    "deaths": 21,
    "mobKills": 1792,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 100107,
    "damageTaken": 23047,
-   "distanceCm": 12363188,
-   "walkCm": 5466032,
+   "distanceCm": 12418486,
+   "walkCm": 5521330,
    "flyCm": 4754639,
-   "jumps": 23963,
-   "mined": 7232,
+   "jumps": 23966,
+   "mined": 9107,
    "topMined": [
+    [
+     "netherrack",
+     3295
+    ],
     [
      "deepslate",
      1574
-    ],
-    [
-     "netherrack",
-     1477
     ],
     [
      "spruce_log",
@@ -1501,38 +1501,38 @@
    "uuid": "e0716f67-b0d0-4d15-b374-ed3a090ab96a",
    "name": "Bensen1405",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T17:39:02Z",
-   "playTicks": 561502,
+   "lastSeen": "2026-10-18T17:44:05Z",
+   "playTicks": 567502,
    "deaths": 1,
    "mobKills": 64,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 8984,
    "damageTaken": 3911,
-   "distanceCm": 7515085,
-   "walkCm": 3589058,
-   "flyCm": 2933275,
-   "jumps": 12221,
-   "mined": 2720,
+   "distanceCm": 7540076,
+   "walkCm": 3606032,
+   "flyCm": 2941292,
+   "jumps": 12298,
+   "mined": 2826,
    "topMined": [
     [
      "stone",
-     737
+     756
     ],
     [
      "grass_block",
-     266
+     272
     ],
     [
-     "sand",
-     220
+     "coal_ore",
+     258
     ]
    ],
-   "crafted": 1544,
+   "crafted": 1654,
    "topCrafted": [
     [
      "torch",
-     328
+     352
     ],
     [
      "spruce_planks",
