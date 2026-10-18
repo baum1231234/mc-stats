@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T02:20:06Z",
+ "updated": "2026-10-18T02:23:09Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 9397448,
+ "serverTicks": 9402556,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -893,18 +893,18 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-18T02:18:17Z",
-   "playTicks": 2021820,
+   "lastSeen": "2026-10-18T02:22:32Z",
+   "playTicks": 2026928,
    "deaths": 20,
    "mobKills": 394,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 61175,
    "damageTaken": 16542,
-   "distanceCm": 16643795,
-   "walkCm": 13280920,
-   "flyCm": 2182824,
-   "jumps": 17985,
+   "distanceCm": 16726556,
+   "walkCm": 13319756,
+   "flyCm": 2200446,
+   "jumps": 18102,
    "mined": 28405,
    "topMined": [
     [
@@ -920,7 +920,7 @@
      5159
     ]
    ],
-   "crafted": 19329,
+   "crafted": 19330,
    "topCrafted": [
     [
      "stick",
@@ -1015,19 +1015,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T02:18:17Z",
-   "playTicks": 1950882,
+   "lastSeen": "2026-10-18T02:22:32Z",
+   "playTicks": 1955990,
    "deaths": 8,
-   "mobKills": 667,
+   "mobKills": 668,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 111235,
+   "damageDealt": 111895,
    "damageTaken": 21961,
-   "distanceCm": 17408447,
-   "walkCm": 7316784,
-   "flyCm": 5927396,
-   "jumps": 29386,
-   "mined": 9691,
+   "distanceCm": 17431570,
+   "walkCm": 7334064,
+   "flyCm": 5932907,
+   "jumps": 29468,
+   "mined": 9694,
    "topMined": [
     [
      "grass_block",
@@ -1035,18 +1035,18 @@
     ],
     [
      "stone",
-     1043
+     1045
     ],
     [
      "dirt",
      968
     ]
    ],
-   "crafted": 13088,
+   "crafted": 13090,
    "topCrafted": [
     [
      "emerald",
-     3002
+     3004
     ],
     [
      "iron_ingot",
@@ -2319,8 +2319,8 @@
     "rendered": "2026-10-17T20:32:28Z"
    },
    "-1.0": {
-    "mtime": "2026-10-17T23:21:04Z",
-    "rendered": "2026-10-17T23:20:34Z"
+    "mtime": "2026-10-17T23:21:11Z",
+    "rendered": "2026-10-18T02:23:09Z"
    },
    "-2.-1": {
     "mtime": "2026-10-17T17:24:36Z",
