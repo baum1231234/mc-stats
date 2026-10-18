@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T23:55:24Z",
+ "updated": "2026-10-18T23:56:52Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 10817667,
  "players": [
@@ -7,23 +7,23 @@
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T23:50:35Z",
-   "playTicks": 5652243,
+   "lastSeen": "2026-10-18T23:55:35Z",
+   "playTicks": 5658243,
    "deaths": 0,
-   "mobKills": 3795,
+   "mobKills": 3798,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 515640,
-   "damageTaken": 63348,
-   "distanceCm": 89876250,
-   "walkCm": 23479148,
-   "flyCm": 30642810,
-   "jumps": 121072,
-   "mined": 66339,
+   "damageDealt": 516240,
+   "damageTaken": 63487,
+   "distanceCm": 90088607,
+   "walkCm": 23496982,
+   "flyCm": 30691510,
+   "jumps": 121195,
+   "mined": 66430,
    "topMined": [
     [
      "netherrack",
-     32813
+     32817
     ],
     [
      "spruce_log",
@@ -34,7 +34,7 @@
      4536
     ]
    ],
-   "crafted": 92547,
+   "crafted": 92622,
    "topCrafted": [
     [
      "stick",
@@ -60,7 +60,7 @@
     ],
     [
      "zombie",
-     430
+     431
     ]
    ],
    "topKilledBy": [],
@@ -1031,19 +1031,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-18T23:50:35Z",
-   "playTicks": 2207563,
+   "lastSeen": "2026-10-18T23:55:35Z",
+   "playTicks": 2213563,
    "deaths": 21,
-   "mobKills": 4240,
+   "mobKills": 4244,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 139810,
-   "damageTaken": 28659,
-   "distanceCm": 15840525,
-   "walkCm": 7602328,
-   "flyCm": 5487930,
-   "jumps": 28239,
-   "mined": 32433,
+   "damageDealt": 140410,
+   "damageTaken": 28763,
+   "distanceCm": 15927958,
+   "walkCm": 7652370,
+   "flyCm": 5516425,
+   "jumps": 28404,
+   "mined": 32439,
    "topMined": [
     [
      "netherrack",
@@ -1084,7 +1084,7 @@
     ],
     [
      "skeleton",
-     130
+     133
     ]
    ],
    "topKilledBy": [
@@ -1110,14 +1110,22 @@
     ]
    ],
    "adv": {
-    "count": 36,
+    "count": 38,
     "byTab": {
      "story": 13,
      "adventure": 15,
      "husbandry": 2,
-     "nether": 6
+     "nether": 8
     },
     "recent": [
+     [
+      "nether/find_bastion",
+      "2026-10-18T23:54:16Z"
+     ],
+     [
+      "nether/return_to_sender",
+      "2026-10-18T23:52:19Z"
+     ],
      [
       "nether/netherite_armor",
       "2026-10-18T20:16:40Z"
@@ -1141,14 +1149,6 @@
      [
       "husbandry/breed_an_animal",
       "2026-10-18T14:28:39Z"
-     ],
-     [
-      "adventure/totem_of_undying",
-      "2026-10-17T18:08:04Z"
-     ],
-     [
-      "adventure/ol_betsy",
-      "2026-10-17T14:46:09Z"
      ]
     ]
    }
