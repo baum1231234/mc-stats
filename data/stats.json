@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T02:42:43Z",
+ "updated": "2026-10-18T02:47:33Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 9426556,
+ "serverTicks": 9432556,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -779,19 +779,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-18T02:42:32Z",
-   "playTicks": 2050928,
+   "lastSeen": "2026-10-18T02:47:32Z",
+   "playTicks": 2056928,
    "deaths": 20,
    "mobKills": 394,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 61175,
    "damageTaken": 16542,
-   "distanceCm": 16932170,
-   "walkCm": 13524842,
-   "flyCm": 2200974,
+   "distanceCm": 16977581,
+   "walkCm": 13570087,
+   "flyCm": 2201140,
    "jumps": 18108,
-   "mined": 29064,
+   "mined": 29135,
    "topMined": [
     [
      "stone",
@@ -806,7 +806,7 @@
      5159
     ]
    ],
-   "crafted": 19543,
+   "crafted": 19568,
    "topCrafted": [
     [
      "stick",
@@ -1015,27 +1015,27 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T02:42:32Z",
-   "playTicks": 1979990,
+   "lastSeen": "2026-10-18T02:47:32Z",
+   "playTicks": 1985990,
    "deaths": 8,
-   "mobKills": 668,
+   "mobKills": 874,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 111895,
-   "damageTaken": 21967,
-   "distanceCm": 17612479,
-   "walkCm": 7488291,
-   "flyCm": 5958786,
-   "jumps": 29872,
-   "mined": 9731,
+   "damageDealt": 116857,
+   "damageTaken": 22337,
+   "distanceCm": 17655102,
+   "walkCm": 7518378,
+   "flyCm": 5963725,
+   "jumps": 29953,
+   "mined": 9775,
    "topMined": [
+    [
+     "stone",
+     1097
+    ],
     [
      "grass_block",
      1059
-    ],
-    [
-     "stone",
-     1053
     ],
     [
      "dirt",
@@ -1059,16 +1059,16 @@
    ],
    "topKilled": [
     [
+     "silverfish",
+     204
+    ],
+    [
      "zombie",
      176
     ],
     [
      "skeleton",
      82
-    ],
-    [
-     "cow",
-     67
     ]
    ],
    "topKilledBy": [
