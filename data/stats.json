@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T18:31:37Z",
+ "updated": "2026-10-18T18:35:03Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10427667,
+ "serverTicks": 10434351,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T18:29:14Z",
-   "playTicks": 4385622,
+   "lastSeen": "2026-10-18T18:34:49Z",
+   "playTicks": 4392306,
    "deaths": 2,
-   "mobKills": 1970,
+   "mobKills": 1994,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 293065,
-   "damageTaken": 14250,
-   "distanceCm": 46495698,
-   "walkCm": 21248730,
-   "flyCm": 13368709,
-   "jumps": 45782,
-   "mined": 93223,
+   "damageDealt": 295203,
+   "damageTaken": 14356,
+   "distanceCm": 46534429,
+   "walkCm": 21282739,
+   "flyCm": 13370486,
+   "jumps": 45821,
+   "mined": 93228,
    "topMined": [
     [
      "netherrack",
@@ -226,8 +226,8 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T18:29:14Z",
-   "playTicks": 4093347,
+   "lastSeen": "2026-10-18T18:34:49Z",
+   "playTicks": 4100031,
    "deaths": 0,
    "mobKills": 5210,
    "playerKills": 0,
@@ -783,23 +783,23 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-18T18:29:14Z",
-   "playTicks": 2465261,
+   "lastSeen": "2026-10-18T18:34:49Z",
+   "playTicks": 2471945,
    "deaths": 28,
    "mobKills": 1014,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 147704,
-   "damageTaken": 25432,
-   "distanceCm": 22107795,
-   "walkCm": 17272051,
-   "flyCm": 3264454,
-   "jumps": 25420,
-   "mined": 31577,
+   "damageDealt": 147707,
+   "damageTaken": 25457,
+   "distanceCm": 22149974,
+   "walkCm": 17311140,
+   "flyCm": 3264537,
+   "jumps": 25432,
+   "mined": 31578,
    "topMined": [
     [
      "stone",
-     11528
+     11529
     ],
     [
      "grass_block",
@@ -905,19 +905,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T18:29:14Z",
-   "playTicks": 2405986,
+   "lastSeen": "2026-10-18T18:34:49Z",
+   "playTicks": 2412670,
    "deaths": 8,
-   "mobKills": 3034,
+   "mobKills": 3041,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 166024,
-   "damageTaken": 28784,
-   "distanceCm": 21402172,
-   "walkCm": 9566069,
-   "flyCm": 7146348,
-   "jumps": 38139,
-   "mined": 14372,
+   "damageDealt": 167431,
+   "damageTaken": 29003,
+   "distanceCm": 21448030,
+   "walkCm": 9593742,
+   "flyCm": 7155136,
+   "jumps": 38226,
+   "mined": 14420,
    "topMined": [
     [
      "netherrack",
@@ -932,7 +932,7 @@
      1063
     ]
    ],
-   "crafted": 15728,
+   "crafted": 15737,
    "topCrafted": [
     [
      "emerald",
@@ -984,14 +984,18 @@
     ]
    ],
    "adv": {
-    "count": 42,
+    "count": 43,
     "byTab": {
-     "adventure": 13,
+     "adventure": 14,
      "story": 13,
      "husbandry": 4,
      "nether": 12
     },
     "recent": [
+     [
+      "adventure/ol_betsy",
+      "2026-10-18T18:34:35Z"
+     ],
      [
       "nether/distract_piglin",
       "2026-10-18T17:14:01Z"
@@ -1019,10 +1023,6 @@
      [
       "nether/obtain_crying_obsidian",
       "2026-10-18T12:30:15Z"
-     ],
-     [
-      "nether/return_to_sender",
-      "2026-10-18T12:19:12Z"
      ]
     ]
    }
@@ -1145,23 +1145,23 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-18T18:29:14Z",
-   "playTicks": 1823563,
+   "lastSeen": "2026-10-18T18:34:49Z",
+   "playTicks": 1830247,
    "deaths": 21,
-   "mobKills": 2843,
+   "mobKills": 2852,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 108340,
-   "damageTaken": 23700,
-   "distanceCm": 12925861,
-   "walkCm": 5770619,
-   "flyCm": 4911455,
-   "jumps": 24925,
-   "mined": 10697,
+   "damageDealt": 109269,
+   "damageTaken": 23812,
+   "distanceCm": 12993122,
+   "walkCm": 5818061,
+   "flyCm": 4923405,
+   "jumps": 24984,
+   "mined": 10700,
    "topMined": [
     [
      "netherrack",
-     4799
+     4801
     ],
     [
      "deepslate",
@@ -1172,7 +1172,7 @@
      1000
     ]
    ],
-   "crafted": 19124,
+   "crafted": 19133,
    "topCrafted": [
     [
      "stick",
