@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-18T22:14:14Z",
+ "updated": "2026-10-18T22:15:55Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10691667,
+ "serverTicks": 10697667,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T22:10:35Z",
-   "playTicks": 5532243,
+   "lastSeen": "2026-10-18T22:15:35Z",
+   "playTicks": 5538243,
    "deaths": 0,
-   "mobKills": 3750,
+   "mobKills": 3751,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 508920,
-   "damageTaken": 61852,
-   "distanceCm": 87634121,
-   "walkCm": 22786234,
-   "flyCm": 29792425,
-   "jumps": 117983,
-   "mined": 63960,
+   "damageDealt": 509120,
+   "damageTaken": 61886,
+   "distanceCm": 87814673,
+   "walkCm": 22809514,
+   "flyCm": 29944738,
+   "jumps": 118056,
+   "mined": 64064,
    "topMined": [
     [
      "netherrack",
-     31929
+     32033
     ],
     [
      "spruce_log",
@@ -34,7 +34,7 @@
      4536
     ]
    ],
-   "crafted": 92196,
+   "crafted": 92199,
    "topCrafted": [
     [
      "stick",
@@ -56,7 +56,7 @@
     ],
     [
      "skeleton",
-     452
+     453
     ],
     [
      "zombie",
@@ -552,6 +552,132 @@
    }
   },
   {
+   "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
+   "name": "BANANENKRIEGER69",
+   "firstSeen": "2026-10-12T17:49:48Z",
+   "lastSeen": "2026-10-18T22:15:35Z",
+   "playTicks": 2631292,
+   "deaths": 8,
+   "mobKills": 3276,
+   "playerKills": 1,
+   "killedByPlayers": 1,
+   "damageDealt": 211255,
+   "damageTaken": 34239,
+   "distanceCm": 24825094,
+   "walkCm": 10467087,
+   "flyCm": 7975857,
+   "jumps": 42424,
+   "mined": 16512,
+   "topMined": [
+    [
+     "netherrack",
+     2637
+    ],
+    [
+     "stone",
+     1411
+    ],
+    [
+     "lectern",
+     1113
+    ]
+   ],
+   "crafted": 15951,
+   "topCrafted": [
+    [
+     "emerald",
+     3909
+    ],
+    [
+     "iron_ingot",
+     2771
+    ],
+    [
+     "stick",
+     1380
+    ]
+   ],
+   "topKilled": [
+    [
+     "silverfish",
+     1224
+    ],
+    [
+     "zombie",
+     262
+    ],
+    [
+     "skeleton",
+     141
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "vex",
+     3
+    ],
+    [
+     "skeleton",
+     1
+    ],
+    [
+     "witch",
+     1
+    ],
+    [
+     "player",
+     1
+    ],
+    [
+     "drowned",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 44,
+    "byTab": {
+     "adventure": 14,
+     "story": 13,
+     "husbandry": 4,
+     "nether": 13
+    },
+    "recent": [
+     [
+      "nether/fast_travel",
+      "2026-10-18T20:57:56Z"
+     ],
+     [
+      "adventure/ol_betsy",
+      "2026-10-18T18:34:35Z"
+     ],
+     [
+      "nether/distract_piglin",
+      "2026-10-18T17:14:01Z"
+     ],
+     [
+      "adventure/who_needs_rockets",
+      "2026-10-18T16:05:19Z"
+     ],
+     [
+      "adventure/under_lock_and_key",
+      "2026-10-18T15:53:20Z"
+     ],
+     [
+      "adventure/revaulting",
+      "2026-10-18T15:51:18Z"
+     ],
+     [
+      "nether/explore_nether",
+      "2026-10-18T12:48:38Z"
+     ],
+     [
+      "nether/obtain_ancient_debris",
+      "2026-10-18T12:30:33Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
@@ -775,132 +901,6 @@
      [
       "nether/obtain_ancient_debris",
       "2026-10-17T17:44:37Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
-   "name": "BANANENKRIEGER69",
-   "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T22:10:35Z",
-   "playTicks": 2625292,
-   "deaths": 8,
-   "mobKills": 3271,
-   "playerKills": 1,
-   "killedByPlayers": 1,
-   "damageDealt": 208220,
-   "damageTaken": 33866,
-   "distanceCm": 24687219,
-   "walkCm": 10466529,
-   "flyCm": 7975779,
-   "jumps": 42374,
-   "mined": 16495,
-   "topMined": [
-    [
-     "netherrack",
-     2637
-    ],
-    [
-     "stone",
-     1411
-    ],
-    [
-     "lectern",
-     1113
-    ]
-   ],
-   "crafted": 15951,
-   "topCrafted": [
-    [
-     "emerald",
-     3909
-    ],
-    [
-     "iron_ingot",
-     2771
-    ],
-    [
-     "stick",
-     1380
-    ]
-   ],
-   "topKilled": [
-    [
-     "silverfish",
-     1224
-    ],
-    [
-     "zombie",
-     262
-    ],
-    [
-     "skeleton",
-     141
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "vex",
-     3
-    ],
-    [
-     "skeleton",
-     1
-    ],
-    [
-     "witch",
-     1
-    ],
-    [
-     "player",
-     1
-    ],
-    [
-     "drowned",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 44,
-    "byTab": {
-     "adventure": 14,
-     "story": 13,
-     "husbandry": 4,
-     "nether": 13
-    },
-    "recent": [
-     [
-      "nether/fast_travel",
-      "2026-10-18T20:57:56Z"
-     ],
-     [
-      "adventure/ol_betsy",
-      "2026-10-18T18:34:35Z"
-     ],
-     [
-      "nether/distract_piglin",
-      "2026-10-18T17:14:01Z"
-     ],
-     [
-      "adventure/who_needs_rockets",
-      "2026-10-18T16:05:19Z"
-     ],
-     [
-      "adventure/under_lock_and_key",
-      "2026-10-18T15:53:20Z"
-     ],
-     [
-      "adventure/revaulting",
-      "2026-10-18T15:51:18Z"
-     ],
-     [
-      "nether/explore_nether",
-      "2026-10-18T12:48:38Z"
-     ],
-     [
-      "nether/obtain_ancient_debris",
-      "2026-10-18T12:30:33Z"
      ]
     ]
    }
@@ -1145,23 +1145,23 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-18T22:10:35Z",
-   "playTicks": 2087563,
+   "lastSeen": "2026-10-18T22:15:35Z",
+   "playTicks": 2093563,
    "deaths": 21,
-   "mobKills": 3065,
+   "mobKills": 3066,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 139034,
-   "damageTaken": 28144,
-   "distanceCm": 15570972,
-   "walkCm": 7356387,
-   "flyCm": 5466271,
-   "jumps": 27834,
-   "mined": 26742,
+   "damageDealt": 139234,
+   "damageTaken": 28175,
+   "distanceCm": 15618021,
+   "walkCm": 7403179,
+   "flyCm": 5466325,
+   "jumps": 27853,
+   "mined": 28516,
    "topMined": [
     [
      "netherrack",
-     18175
+     19778
     ],
     [
      "deepslate",
@@ -1172,7 +1172,7 @@
      1000
     ]
    ],
-   "crafted": 19569,
+   "crafted": 19608,
    "topCrafted": [
     [
      "stick",
@@ -1198,7 +1198,7 @@
     ],
     [
      "skeleton",
-     129
+     130
     ]
    ],
    "topKilledBy": [
@@ -2416,8 +2416,8 @@
     "rendered": "2026-10-18T14:08:05Z"
    },
    "-2.-7": {
-    "mtime": "2026-10-18T15:56:31Z",
-    "rendered": "2026-10-18T18:03:11Z"
+    "mtime": "2026-10-18T22:11:37Z",
+    "rendered": "2026-10-18T22:15:55Z"
    },
    "-3.-6": {
     "mtime": "2026-10-17T20:30:50Z",
@@ -2428,8 +2428,8 @@
     "rendered": "2026-10-18T22:03:12Z"
    },
    "1.-5": {
-    "mtime": "2026-10-18T15:57:33Z",
-    "rendered": "2026-10-18T16:01:32Z"
+    "mtime": "2026-10-18T22:10:58Z",
+    "rendered": "2026-10-18T22:15:55Z"
    },
    "-1.4": {
     "mtime": "2026-10-18T20:01:48Z",
@@ -2444,12 +2444,12 @@
     "rendered": "2026-10-18T15:09:24Z"
    },
    "0.-7": {
-    "mtime": "2026-10-18T15:56:53Z",
-    "rendered": "2026-10-18T18:05:11Z"
+    "mtime": "2026-10-18T22:11:46Z",
+    "rendered": "2026-10-18T22:15:55Z"
    },
    "1.-6": {
-    "mtime": "2026-10-18T15:57:14Z",
-    "rendered": "2026-10-18T16:01:32Z"
+    "mtime": "2026-10-18T22:10:58Z",
+    "rendered": "2026-10-18T22:15:55Z"
    },
    "2.-5": {
     "mtime": "2026-10-17T19:52:06Z",
