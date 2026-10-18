@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T12:23:44Z",
+ "updated": "2026-10-18T12:26:45Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 10007667,
  "players": [
@@ -336,23 +336,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T12:19:01Z",
-   "playTicks": 3700460,
+   "lastSeen": "2026-10-18T12:23:55Z",
+   "playTicks": 3706341,
    "deaths": 0,
-   "mobKills": 4768,
+   "mobKills": 4778,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 318564,
-   "damageTaken": 52547,
-   "distanceCm": 44639466,
-   "walkCm": 12431169,
-   "flyCm": 17480108,
-   "jumps": 62121,
-   "mined": 59642,
+   "damageDealt": 319955,
+   "damageTaken": 53039,
+   "distanceCm": 44718785,
+   "walkCm": 12461762,
+   "flyCm": 17516425,
+   "jumps": 62319,
+   "mined": 59832,
    "topMined": [
     [
      "netherrack",
-     23865
+     23968
     ],
     [
      "stone",
@@ -441,23 +441,23 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-18T12:19:01Z",
-   "playTicks": 2975754,
+   "lastSeen": "2026-10-18T12:23:55Z",
+   "playTicks": 2981635,
    "deaths": 2,
-   "mobKills": 841,
+   "mobKills": 851,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 88394,
-   "damageTaken": 25051,
-   "distanceCm": 28846477,
-   "walkCm": 12741150,
-   "flyCm": 9510821,
-   "jumps": 46016,
-   "mined": 99997,
+   "damageDealt": 89439,
+   "damageTaken": 25297,
+   "distanceCm": 28887735,
+   "walkCm": 12778172,
+   "flyCm": 9511832,
+   "jumps": 46031,
+   "mined": 100700,
    "topMined": [
     [
      "netherrack",
-     45649
+     46163
     ],
     [
      "stone",
@@ -468,7 +468,7 @@
      3077
     ]
    ],
-   "crafted": 18921,
+   "crafted": 18957,
    "topCrafted": [
     [
      "stick",
@@ -508,14 +508,18 @@
     ]
    ],
    "adv": {
-    "count": 37,
+    "count": 38,
     "byTab": {
      "story": 13,
      "adventure": 12,
      "husbandry": 4,
-     "nether": 8
+     "nether": 9
     },
     "recent": [
+     [
+      "nether/explore_nether",
+      "2026-10-18T12:21:23Z"
+     ],
      [
       "nether/obtain_blaze_rod",
       "2026-10-18T12:16:59Z"
@@ -543,10 +547,6 @@
      [
       "adventure/overoverkill",
       "2026-10-17T12:44:38Z"
-     ],
-     [
-      "husbandry/silk_touch_nest",
-      "2026-10-17T12:09:57Z"
      ]
     ]
    }
@@ -665,19 +665,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
-   "lastSeen": "2026-10-18T12:19:01Z",
-   "playTicks": 2503506,
+   "lastSeen": "2026-10-18T12:23:55Z",
+   "playTicks": 2509387,
    "deaths": 4,
    "mobKills": 547,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 76052,
-   "damageTaken": 16178,
-   "distanceCm": 21131728,
-   "walkCm": 10981655,
-   "flyCm": 4602023,
-   "jumps": 26643,
-   "mined": 36022,
+   "damageTaken": 16264,
+   "distanceCm": 21174890,
+   "walkCm": 11011004,
+   "flyCm": 4612742,
+   "jumps": 26695,
+   "mined": 36024,
    "topMined": [
     [
      "stone",
@@ -692,7 +692,7 @@
      2065
     ]
    ],
-   "crafted": 15469,
+   "crafted": 15529,
    "topCrafted": [
     [
      "stick",
