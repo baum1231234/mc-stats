@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T01:45:57Z",
+ "updated": "2026-10-18T01:47:38Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 9354556,
+ "serverTicks": 9361174,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -893,18 +893,18 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-17T23:43:27Z",
-   "playTicks": 1981888,
+   "lastSeen": "2026-10-18T01:47:32Z",
+   "playTicks": 1984928,
    "deaths": 20,
    "mobKills": 372,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 55569,
-   "damageTaken": 15476,
-   "distanceCm": 16193134,
-   "walkCm": 12998283,
-   "flyCm": 2110368,
-   "jumps": 17372,
+   "damageTaken": 15494,
+   "distanceCm": 16252107,
+   "walkCm": 13022307,
+   "flyCm": 2136650,
+   "jumps": 17496,
    "mined": 28204,
    "topMined": [
     [
@@ -1015,19 +1015,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T01:16:32Z",
-   "playTicks": 1907990,
+   "lastSeen": "2026-10-18T01:47:32Z",
+   "playTicks": 1913990,
    "deaths": 8,
-   "mobKills": 645,
+   "mobKills": 646,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 106596,
-   "damageTaken": 21319,
-   "distanceCm": 17020075,
-   "walkCm": 7133225,
-   "flyCm": 5757695,
-   "jumps": 28543,
-   "mined": 9580,
+   "damageDealt": 107196,
+   "damageTaken": 21327,
+   "distanceCm": 17067979,
+   "walkCm": 7162359,
+   "flyCm": 5773285,
+   "jumps": 28657,
+   "mined": 9588,
    "topMined": [
     [
      "grass_block",
@@ -1039,22 +1039,22 @@
     ],
     [
      "dirt",
-     959
+     963
     ]
    ],
-   "crafted": 11392,
+   "crafted": 12267,
    "topCrafted": [
     [
      "emerald",
-     2191
+     2323
+    ],
+    [
+     "iron_ingot",
+     1923
     ],
     [
      "stick",
      1380
-    ],
-    [
-     "iron_ingot",
-     1194
     ]
    ],
    "topKilled": [
