@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T12:18:47Z",
+ "updated": "2026-10-18T12:20:28Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 10001786,
  "players": [
@@ -336,18 +336,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T12:18:55Z",
-   "playTicks": 3700341,
+   "lastSeen": "2026-10-18T12:19:01Z",
+   "playTicks": 3700460,
    "deaths": 0,
    "mobKills": 4768,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 318564,
-   "damageTaken": 52541,
-   "distanceCm": 44637491,
-   "walkCm": 12430332,
-   "flyCm": 17479595,
-   "jumps": 62120,
+   "damageTaken": 52547,
+   "distanceCm": 44639466,
+   "walkCm": 12431169,
+   "flyCm": 17480108,
+   "jumps": 62121,
    "mined": 59642,
    "topMined": [
     [
@@ -441,23 +441,23 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-18T12:13:55Z",
-   "playTicks": 2969635,
+   "lastSeen": "2026-10-18T12:19:01Z",
+   "playTicks": 2975754,
    "deaths": 2,
-   "mobKills": 833,
+   "mobKills": 841,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 86911,
-   "damageTaken": 24628,
-   "distanceCm": 28766988,
-   "walkCm": 12705819,
-   "flyCm": 9473803,
-   "jumps": 45813,
-   "mined": 99914,
+   "damageDealt": 88394,
+   "damageTaken": 25051,
+   "distanceCm": 28846477,
+   "walkCm": 12741150,
+   "flyCm": 9510821,
+   "jumps": 46016,
+   "mined": 99997,
    "topMined": [
     [
      "netherrack",
-     45639
+     45649
     ],
     [
      "stone",
@@ -490,7 +490,7 @@
     ],
     [
      "skeleton",
-     125
+     126
     ],
     [
      "zombie",
@@ -508,14 +508,22 @@
     ]
    ],
    "adv": {
-    "count": 35,
+    "count": 37,
     "byTab": {
      "story": 13,
      "adventure": 12,
      "husbandry": 4,
-     "nether": 6
+     "nether": 8
     },
     "recent": [
+     [
+      "nether/obtain_blaze_rod",
+      "2026-10-18T12:16:59Z"
+     ],
+     [
+      "nether/find_fortress",
+      "2026-10-18T12:15:02Z"
+     ],
      [
       "nether/loot_bastion",
       "2026-10-18T12:04:43Z"
@@ -539,14 +547,6 @@
      [
       "husbandry/silk_touch_nest",
       "2026-10-17T12:09:57Z"
-     ],
-     [
-      "husbandry/wax_off",
-      "2026-10-17T11:44:37Z"
-     ],
-     [
-      "story/form_obsidian",
-      "2026-10-17T10:59:50Z"
      ]
     ]
    }
@@ -665,19 +665,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
-   "lastSeen": "2026-10-18T12:13:55Z",
-   "playTicks": 2497387,
+   "lastSeen": "2026-10-18T12:19:01Z",
+   "playTicks": 2503506,
    "deaths": 4,
    "mobKills": 547,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 76052,
-   "damageTaken": 16085,
-   "distanceCm": 21088609,
-   "walkCm": 10956155,
-   "flyCm": 4588701,
-   "jumps": 26577,
-   "mined": 36013,
+   "damageTaken": 16178,
+   "distanceCm": 21131728,
+   "walkCm": 10981655,
+   "flyCm": 4602023,
+   "jumps": 26643,
+   "mined": 36022,
    "topMined": [
     [
      "stone",
