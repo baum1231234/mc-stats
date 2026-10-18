@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T12:10:35Z",
+ "updated": "2026-10-18T12:13:52Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 9989667,
+ "serverTicks": 9995667,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -336,23 +336,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T12:08:55Z",
-   "playTicks": 3688341,
+   "lastSeen": "2026-10-18T12:13:55Z",
+   "playTicks": 3694341,
    "deaths": 0,
-   "mobKills": 4743,
+   "mobKills": 4754,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 316562,
-   "damageTaken": 51491,
-   "distanceCm": 44475103,
-   "walkCm": 12377462,
-   "flyCm": 17393164,
-   "jumps": 61654,
-   "mined": 59445,
+   "damageDealt": 317819,
+   "damageTaken": 52181,
+   "distanceCm": 44566279,
+   "walkCm": 12400881,
+   "flyCm": 17444165,
+   "jumps": 61950,
+   "mined": 59516,
    "topMined": [
     [
      "netherrack",
-     23746
+     23778
     ],
     [
      "stone",
@@ -394,14 +394,18 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 38,
+    "count": 39,
     "byTab": {
      "story": 12,
      "adventure": 14,
      "husbandry": 6,
-     "nether": 6
+     "nether": 7
     },
     "recent": [
+     [
+      "nether/find_bastion",
+      "2026-10-18T12:09:40Z"
+     ],
      [
       "nether/obtain_blaze_rod",
       "2026-10-17T22:04:37Z"
@@ -429,10 +433,6 @@
      [
       "nether/root",
       "2026-10-17T17:51:40Z"
-     ],
-     [
-      "story/enter_the_nether",
-      "2026-10-17T17:51:40Z"
      ]
     ]
    }
@@ -441,23 +441,23 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-18T12:08:55Z",
-   "playTicks": 2963635,
+   "lastSeen": "2026-10-18T12:13:55Z",
+   "playTicks": 2969635,
    "deaths": 2,
-   "mobKills": 831,
+   "mobKills": 833,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 86046,
-   "damageTaken": 24313,
-   "distanceCm": 28692294,
-   "walkCm": 12679273,
-   "flyCm": 9435077,
-   "jumps": 45590,
-   "mined": 99689,
+   "damageDealt": 86911,
+   "damageTaken": 24628,
+   "distanceCm": 28766988,
+   "walkCm": 12705819,
+   "flyCm": 9473803,
+   "jumps": 45813,
+   "mined": 99914,
    "topMined": [
     [
      "netherrack",
-     45419
+     45639
     ],
     [
      "stone",
@@ -490,7 +490,7 @@
     ],
     [
      "skeleton",
-     124
+     125
     ],
     [
      "zombie",
@@ -555,19 +555,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-18T12:08:55Z",
-   "playTicks": 2623308,
+   "lastSeen": "2026-10-18T12:12:59Z",
+   "playTicks": 2628195,
    "deaths": 2,
    "mobKills": 3491,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 274469,
    "damageTaken": 26752,
-   "distanceCm": 34062624,
-   "walkCm": 10852347,
+   "distanceCm": 34098298,
+   "walkCm": 10854345,
    "flyCm": 8070049,
-   "jumps": 36687,
-   "mined": 34864,
+   "jumps": 36709,
+   "mined": 35295,
    "topMined": [
     [
      "netherrack",
@@ -665,19 +665,19 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
-   "lastSeen": "2026-10-18T12:08:55Z",
-   "playTicks": 2491387,
+   "lastSeen": "2026-10-18T12:13:55Z",
+   "playTicks": 2497387,
    "deaths": 4,
    "mobKills": 547,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 76052,
-   "damageTaken": 15913,
-   "distanceCm": 21041987,
-   "walkCm": 10931906,
-   "flyCm": 4571886,
-   "jumps": 26504,
-   "mined": 36000,
+   "damageTaken": 16085,
+   "distanceCm": 21088609,
+   "walkCm": 10956155,
+   "flyCm": 4588701,
+   "jumps": 26577,
+   "mined": 36013,
    "topMined": [
     [
      "stone",
@@ -902,6 +902,132 @@
    }
   },
   {
+   "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
+   "name": "BANANENKRIEGER69",
+   "firstSeen": "2026-10-12T17:49:48Z",
+   "lastSeen": "2026-10-18T12:13:55Z",
+   "playTicks": 2044368,
+   "deaths": 8,
+   "mobKills": 908,
+   "playerKills": 1,
+   "killedByPlayers": 1,
+   "damageDealt": 123000,
+   "damageTaken": 22984,
+   "distanceCm": 18361206,
+   "walkCm": 7800571,
+   "flyCm": 6176061,
+   "jumps": 31119,
+   "mined": 9936,
+   "topMined": [
+    [
+     "stone",
+     1140
+    ],
+    [
+     "grass_block",
+     1059
+    ],
+    [
+     "dirt",
+     1000
+    ]
+   ],
+   "crafted": 13768,
+   "topCrafted": [
+    [
+     "emerald",
+     3140
+    ],
+    [
+     "iron_ingot",
+     2337
+    ],
+    [
+     "stick",
+     1380
+    ]
+   ],
+   "topKilled": [
+    [
+     "silverfish",
+     206
+    ],
+    [
+     "zombie",
+     180
+    ],
+    [
+     "skeleton",
+     85
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "vex",
+     3
+    ],
+    [
+     "skeleton",
+     1
+    ],
+    [
+     "witch",
+     1
+    ],
+    [
+     "player",
+     1
+    ],
+    [
+     "drowned",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 34,
+    "byTab": {
+     "adventure": 10,
+     "story": 13,
+     "husbandry": 4,
+     "nether": 7
+    },
+    "recent": [
+     [
+      "story/cure_zombie_villager",
+      "2026-10-17T23:21:54Z"
+     ],
+     [
+      "nether/brew_potion",
+      "2026-10-17T21:47:52Z"
+     ],
+     [
+      "husbandry/place_dried_ghast_in_water",
+      "2026-10-17T21:35:35Z"
+     ],
+     [
+      "nether/loot_bastion",
+      "2026-10-17T21:31:10Z"
+     ],
+     [
+      "husbandry/breed_an_animal",
+      "2026-10-17T21:15:09Z"
+     ],
+     [
+      "nether/find_bastion",
+      "2026-10-17T21:02:32Z"
+     ],
+     [
+      "nether/get_wither_skull",
+      "2026-10-17T20:53:33Z"
+     ],
+     [
+      "nether/obtain_blaze_rod",
+      "2026-10-17T20:50:35Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
@@ -1011,132 +1137,6 @@
      [
       "husbandry/plant_seed",
       "2026-10-11T14:48:23Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
-   "name": "BANANENKRIEGER69",
-   "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T12:08:55Z",
-   "playTicks": 2038368,
-   "deaths": 8,
-   "mobKills": 906,
-   "playerKills": 1,
-   "killedByPlayers": 1,
-   "damageDealt": 122530,
-   "damageTaken": 22984,
-   "distanceCm": 18336493,
-   "walkCm": 7779704,
-   "flyCm": 6172215,
-   "jumps": 31073,
-   "mined": 9900,
-   "topMined": [
-    [
-     "stone",
-     1140
-    ],
-    [
-     "grass_block",
-     1059
-    ],
-    [
-     "dirt",
-     1000
-    ]
-   ],
-   "crafted": 13718,
-   "topCrafted": [
-    [
-     "emerald",
-     3091
-    ],
-    [
-     "iron_ingot",
-     2337
-    ],
-    [
-     "stick",
-     1380
-    ]
-   ],
-   "topKilled": [
-    [
-     "silverfish",
-     206
-    ],
-    [
-     "zombie",
-     180
-    ],
-    [
-     "skeleton",
-     85
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "vex",
-     3
-    ],
-    [
-     "skeleton",
-     1
-    ],
-    [
-     "witch",
-     1
-    ],
-    [
-     "player",
-     1
-    ],
-    [
-     "drowned",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 34,
-    "byTab": {
-     "adventure": 10,
-     "story": 13,
-     "husbandry": 4,
-     "nether": 7
-    },
-    "recent": [
-     [
-      "story/cure_zombie_villager",
-      "2026-10-17T23:21:54Z"
-     ],
-     [
-      "nether/brew_potion",
-      "2026-10-17T21:47:52Z"
-     ],
-     [
-      "husbandry/place_dried_ghast_in_water",
-      "2026-10-17T21:35:35Z"
-     ],
-     [
-      "nether/loot_bastion",
-      "2026-10-17T21:31:10Z"
-     ],
-     [
-      "husbandry/breed_an_animal",
-      "2026-10-17T21:15:09Z"
-     ],
-     [
-      "nether/find_bastion",
-      "2026-10-17T21:02:32Z"
-     ],
-     [
-      "nether/get_wither_skull",
-      "2026-10-17T20:53:33Z"
-     ],
-     [
-      "nether/obtain_blaze_rod",
-      "2026-10-17T20:50:35Z"
      ]
     ]
    }
