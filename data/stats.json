@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T15:32:17Z",
+ "updated": "2026-10-18T15:34:06Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10217667,
+ "serverTicks": 10220310,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -783,19 +783,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-18T15:26:55Z",
-   "playTicks": 2276976,
+   "lastSeen": "2026-10-18T15:32:18Z",
+   "playTicks": 2282976,
    "deaths": 27,
-   "mobKills": 695,
+   "mobKills": 718,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 113164,
-   "damageTaken": 22649,
-   "distanceCm": 19703739,
-   "walkCm": 15763335,
-   "flyCm": 2681411,
-   "jumps": 21805,
-   "mined": 31069,
+   "damageDealt": 116787,
+   "damageTaken": 22969,
+   "distanceCm": 19827283,
+   "walkCm": 15851409,
+   "flyCm": 2713189,
+   "jumps": 21979,
+   "mined": 31071,
    "topMined": [
     [
      "stone",
@@ -828,15 +828,15 @@
    "topKilled": [
     [
      "zombie",
-     278
+     291
     ],
     [
      "skeleton",
-     90
+     94
     ],
     [
      "spider",
-     77
+     78
     ]
    ],
    "topKilledBy": [
