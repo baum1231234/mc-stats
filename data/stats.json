@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-18T23:35:32Z",
+ "updated": "2026-10-18T23:40:55Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10793667,
+ "serverTicks": 10799667,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T23:35:35Z",
-   "playTicks": 5634243,
+   "lastSeen": "2026-10-18T23:40:35Z",
+   "playTicks": 5640243,
    "deaths": 0,
    "mobKills": 3794,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 515243,
-   "damageTaken": 63055,
-   "distanceCm": 89595699,
-   "walkCm": 23378058,
-   "flyCm": 30575184,
-   "jumps": 120816,
-   "mined": 66188,
+   "damageTaken": 63117,
+   "distanceCm": 89631990,
+   "walkCm": 23400108,
+   "flyCm": 30583515,
+   "jumps": 120885,
+   "mined": 66236,
    "topMined": [
     [
      "netherrack",
@@ -34,7 +34,7 @@
      4536
     ]
    ],
-   "crafted": 92469,
+   "crafted": 92547,
    "topCrafted": [
     [
      "stick",
@@ -555,19 +555,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T23:35:35Z",
-   "playTicks": 2727292,
+   "lastSeen": "2026-10-18T23:40:35Z",
+   "playTicks": 2733292,
    "deaths": 8,
    "mobKills": 3490,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 218380,
+   "damageDealt": 218381,
    "damageTaken": 35785,
-   "distanceCm": 25585390,
-   "walkCm": 10673493,
-   "flyCm": 8167762,
-   "jumps": 43414,
-   "mined": 17447,
+   "distanceCm": 25623321,
+   "walkCm": 10704865,
+   "flyCm": 8174321,
+   "jumps": 43490,
+   "mined": 17483,
    "topMined": [
     [
      "netherrack",
@@ -582,7 +582,7 @@
      1113
     ]
    ],
-   "crafted": 15990,
+   "crafted": 16061,
    "topCrafted": [
     [
      "emerald",
@@ -634,14 +634,18 @@
     ]
    ],
    "adv": {
-    "count": 44,
+    "count": 45,
     "byTab": {
      "adventure": 14,
      "story": 13,
      "husbandry": 4,
-     "nether": 13
+     "nether": 14
     },
     "recent": [
+     [
+      "nether/netherite_armor",
+      "2026-10-18T23:35:49Z"
+     ],
      [
       "nether/fast_travel",
       "2026-10-18T20:57:56Z"
@@ -669,10 +673,6 @@
      [
       "nether/explore_nether",
       "2026-10-18T12:48:38Z"
-     ],
-     [
-      "nether/obtain_ancient_debris",
-      "2026-10-18T12:30:33Z"
      ]
     ]
    }
@@ -1031,19 +1031,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-18T23:35:35Z",
-   "playTicks": 2189563,
+   "lastSeen": "2026-10-18T23:40:35Z",
+   "playTicks": 2195563,
    "deaths": 21,
    "mobKills": 3302,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 139810,
-   "damageTaken": 28658,
-   "distanceCm": 15782291,
-   "walkCm": 7552507,
-   "flyCm": 5479517,
-   "jumps": 28121,
-   "mined": 32403,
+   "damageTaken": 28659,
+   "distanceCm": 15817177,
+   "walkCm": 7582074,
+   "flyCm": 5484836,
+   "jumps": 28187,
+   "mined": 32433,
    "topMined": [
     [
      "netherrack",
@@ -1058,7 +1058,7 @@
      1000
     ]
    ],
-   "crafted": 20054,
+   "crafted": 20103,
    "topCrafted": [
     [
      "stick",
@@ -2485,8 +2485,8 @@
     "rendered": "2026-10-17T19:23:31Z"
    },
    "2.3": {
-    "mtime": "2026-10-18T20:38:58Z",
-    "rendered": "2026-10-18T20:39:32Z"
+    "mtime": "2026-10-18T20:41:50Z",
+    "rendered": "2026-10-18T23:40:55Z"
    },
    "3.2": {
     "mtime": "2026-10-18T20:38:48Z",
@@ -2513,8 +2513,8 @@
     "rendered": "2026-10-18T22:03:12Z"
    },
    "1.3": {
-    "mtime": "2026-10-18T20:38:59Z",
-    "rendered": "2026-10-18T20:39:32Z"
+    "mtime": "2026-10-18T20:46:56Z",
+    "rendered": "2026-10-18T23:40:55Z"
    },
    "-1.2": {
     "mtime": "2026-10-18T05:31:12Z",
@@ -2681,8 +2681,8 @@
     "rendered": "2026-10-17T19:42:43Z"
    },
    "3.3": {
-    "mtime": "2026-10-18T20:38:57Z",
-    "rendered": "2026-10-18T20:39:32Z"
+    "mtime": "2026-10-18T20:41:32Z",
+    "rendered": "2026-10-18T23:40:55Z"
    },
    "4.2": {
     "mtime": "2026-10-17T17:31:13Z",
