@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-18T22:31:59Z",
+ "updated": "2026-10-18T22:34:52Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10715667,
+ "serverTicks": 10720648,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T22:30:35Z",
-   "playTicks": 5556243,
+   "lastSeen": "2026-10-18T22:34:45Z",
+   "playTicks": 5561224,
    "deaths": 0,
    "mobKills": 3754,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 509510,
-   "damageTaken": 62083,
-   "distanceCm": 88086189,
-   "walkCm": 22942863,
-   "flyCm": 30057703,
-   "jumps": 118636,
-   "mined": 64582,
+   "damageTaken": 62127,
+   "distanceCm": 88169776,
+   "walkCm": 22986130,
+   "flyCm": 30090595,
+   "jumps": 118788,
+   "mined": 64761,
    "topMined": [
     [
      "netherrack",
-     32221
+     32260
     ],
     [
      "spruce_log",
@@ -555,23 +555,23 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T22:30:35Z",
-   "playTicks": 2649292,
+   "lastSeen": "2026-10-18T22:34:45Z",
+   "playTicks": 2654273,
    "deaths": 8,
-   "mobKills": 3289,
+   "mobKills": 3298,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 214861,
-   "damageTaken": 35028,
-   "distanceCm": 25311369,
-   "walkCm": 10520102,
-   "flyCm": 8067406,
-   "jumps": 42765,
-   "mined": 16739,
+   "damageDealt": 218095,
+   "damageTaken": 35334,
+   "distanceCm": 25377418,
+   "walkCm": 10559106,
+   "flyCm": 8088613,
+   "jumps": 42905,
+   "mined": 16807,
    "topMined": [
     [
      "netherrack",
-     2825
+     2859
     ],
     [
      "stone",
@@ -1028,6 +1028,132 @@
    }
   },
   {
+   "uuid": "775e2172-8576-416e-b390-8328646044f9",
+   "name": "htxl",
+   "firstSeen": "2026-10-14T22:34:53Z",
+   "lastSeen": "2026-10-18T22:34:44Z",
+   "playTicks": 2116544,
+   "deaths": 21,
+   "mobKills": 3066,
+   "playerKills": 1,
+   "killedByPlayers": 1,
+   "damageDealt": 139234,
+   "damageTaken": 28215,
+   "distanceCm": 15720107,
+   "walkCm": 7504762,
+   "flyCm": 5466828,
+   "jumps": 27884,
+   "mined": 32301,
+   "topMined": [
+    [
+     "netherrack",
+     23391
+    ],
+    [
+     "deepslate",
+     1628
+    ],
+    [
+     "spruce_log",
+     1000
+    ]
+   ],
+   "crafted": 19652,
+   "topCrafted": [
+    [
+     "stick",
+     8168
+    ],
+    [
+     "spruce_planks",
+     3851
+    ],
+    [
+     "iron_ingot",
+     2059
+    ]
+   ],
+   "topKilled": [
+    [
+     "silverfish",
+     1132
+    ],
+    [
+     "pillager",
+     219
+    ],
+    [
+     "skeleton",
+     130
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "vex",
+     12
+    ],
+    [
+     "stray",
+     4
+    ],
+    [
+     "zombie",
+     2
+    ],
+    [
+     "skeleton",
+     1
+    ],
+    [
+     "player",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 36,
+    "byTab": {
+     "story": 13,
+     "adventure": 15,
+     "husbandry": 2,
+     "nether": 6
+    },
+    "recent": [
+     [
+      "nether/netherite_armor",
+      "2026-10-18T20:16:40Z"
+     ],
+     [
+      "nether/obtain_ancient_debris",
+      "2026-10-18T17:20:00Z"
+     ],
+     [
+      "adventure/who_needs_rockets",
+      "2026-10-18T15:52:02Z"
+     ],
+     [
+      "adventure/revaulting",
+      "2026-10-18T15:51:36Z"
+     ],
+     [
+      "adventure/throw_trident",
+      "2026-10-18T14:43:31Z"
+     ],
+     [
+      "husbandry/breed_an_animal",
+      "2026-10-18T14:28:39Z"
+     ],
+     [
+      "adventure/totem_of_undying",
+      "2026-10-17T18:08:04Z"
+     ],
+     [
+      "adventure/ol_betsy",
+      "2026-10-17T14:46:09Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
@@ -1137,132 +1263,6 @@
      [
       "husbandry/plant_seed",
       "2026-10-11T14:48:23Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "775e2172-8576-416e-b390-8328646044f9",
-   "name": "htxl",
-   "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-18T22:30:35Z",
-   "playTicks": 2111563,
-   "deaths": 21,
-   "mobKills": 3066,
-   "playerKills": 1,
-   "killedByPlayers": 1,
-   "damageDealt": 139234,
-   "damageTaken": 28215,
-   "distanceCm": 15720086,
-   "walkCm": 7504741,
-   "flyCm": 5466828,
-   "jumps": 27884,
-   "mined": 32301,
-   "topMined": [
-    [
-     "netherrack",
-     23391
-    ],
-    [
-     "deepslate",
-     1628
-    ],
-    [
-     "spruce_log",
-     1000
-    ]
-   ],
-   "crafted": 19652,
-   "topCrafted": [
-    [
-     "stick",
-     8168
-    ],
-    [
-     "spruce_planks",
-     3851
-    ],
-    [
-     "iron_ingot",
-     2059
-    ]
-   ],
-   "topKilled": [
-    [
-     "silverfish",
-     1132
-    ],
-    [
-     "pillager",
-     219
-    ],
-    [
-     "skeleton",
-     130
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "vex",
-     12
-    ],
-    [
-     "stray",
-     4
-    ],
-    [
-     "zombie",
-     2
-    ],
-    [
-     "skeleton",
-     1
-    ],
-    [
-     "player",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 36,
-    "byTab": {
-     "story": 13,
-     "adventure": 15,
-     "husbandry": 2,
-     "nether": 6
-    },
-    "recent": [
-     [
-      "nether/netherite_armor",
-      "2026-10-18T20:16:40Z"
-     ],
-     [
-      "nether/obtain_ancient_debris",
-      "2026-10-18T17:20:00Z"
-     ],
-     [
-      "adventure/who_needs_rockets",
-      "2026-10-18T15:52:02Z"
-     ],
-     [
-      "adventure/revaulting",
-      "2026-10-18T15:51:36Z"
-     ],
-     [
-      "adventure/throw_trident",
-      "2026-10-18T14:43:31Z"
-     ],
-     [
-      "husbandry/breed_an_animal",
-      "2026-10-18T14:28:39Z"
-     ],
-     [
-      "adventure/totem_of_undying",
-      "2026-10-17T18:08:04Z"
-     ],
-     [
-      "adventure/ol_betsy",
-      "2026-10-17T14:46:09Z"
      ]
     ]
    }
