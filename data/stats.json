@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T17:19:10Z",
+ "updated": "2026-10-18T17:21:00Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 10344085,
  "players": [
@@ -227,17 +227,17 @@
    "name": "Ahxibrause",
    "firstSeen": null,
    "lastSeen": "2026-10-18T17:19:23Z",
-   "playTicks": 4034907,
+   "playTicks": 4035325,
    "deaths": 0,
-   "mobKills": 5027,
+   "mobKills": 5030,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 348132,
-   "damageTaken": 60614,
-   "distanceCm": 47744888,
-   "walkCm": 13548673,
-   "flyCm": 18894990,
-   "jumps": 68996,
+   "damageDealt": 348702,
+   "damageTaken": 60687,
+   "distanceCm": 47755683,
+   "walkCm": 13553797,
+   "flyCm": 18900259,
+   "jumps": 69013,
    "mined": 63919,
    "topMined": [
     [
@@ -783,8 +783,8 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-18T17:19:02Z",
-   "playTicks": 2381261,
+   "lastSeen": "2026-10-18T17:19:23Z",
+   "playTicks": 2381679,
    "deaths": 28,
    "mobKills": 876,
    "playerKills": 0,
@@ -810,7 +810,7 @@
      5175
     ]
    ],
-   "crafted": 25338,
+   "crafted": 25362,
    "topCrafted": [
     [
      "stick",
@@ -1145,19 +1145,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-18T17:19:02Z",
-   "playTicks": 1739563,
+   "lastSeen": "2026-10-18T17:19:23Z",
+   "playTicks": 1739981,
    "deaths": 21,
    "mobKills": 1792,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 100107,
-   "damageTaken": 22767,
-   "distanceCm": 12232222,
-   "walkCm": 5343263,
+   "damageTaken": 22768,
+   "distanceCm": 12234346,
+   "walkCm": 5345187,
    "flyCm": 4749267,
-   "jumps": 23805,
-   "mined": 6053,
+   "jumps": 23808,
+   "mined": 6061,
    "topMined": [
     [
      "deepslate",
@@ -1169,7 +1169,7 @@
     ],
     [
      "netherrack",
-     585
+     589
     ]
    ],
    "crafted": 18703,
