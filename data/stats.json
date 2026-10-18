@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T15:22:00Z",
+ "updated": "2026-10-18T15:25:31Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 10205667,
  "players": [
@@ -905,19 +905,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T15:21:41Z",
-   "playTicks": 2229549,
+   "lastSeen": "2026-10-18T15:25:23Z",
+   "playTicks": 2233893,
    "deaths": 8,
-   "mobKills": 1094,
+   "mobKills": 1096,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 147241,
-   "damageTaken": 26653,
-   "distanceCm": 20165199,
-   "walkCm": 8801999,
-   "flyCm": 6829323,
-   "jumps": 35517,
-   "mined": 13351,
+   "damageDealt": 147797,
+   "damageTaken": 26750,
+   "distanceCm": 20228163,
+   "walkCm": 8822304,
+   "flyCm": 6861403,
+   "jumps": 35650,
+   "mined": 13380,
    "topMined": [
     [
      "netherrack",
@@ -925,7 +925,7 @@
     ],
     [
      "stone",
-     1177
+     1184
     ],
     [
      "grass_block",
@@ -954,7 +954,7 @@
     ],
     [
      "zombie",
-     199
+     201
     ],
     [
      "skeleton",
