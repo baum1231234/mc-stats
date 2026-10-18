@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T12:13:52Z",
+ "updated": "2026-10-18T12:18:47Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 9995667,
+ "serverTicks": 10001786,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -336,23 +336,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T12:13:55Z",
-   "playTicks": 3694341,
+   "lastSeen": "2026-10-18T12:18:55Z",
+   "playTicks": 3700341,
    "deaths": 0,
-   "mobKills": 4754,
+   "mobKills": 4768,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 317819,
-   "damageTaken": 52181,
-   "distanceCm": 44566279,
-   "walkCm": 12400881,
-   "flyCm": 17444165,
-   "jumps": 61950,
-   "mined": 59516,
+   "damageDealt": 318564,
+   "damageTaken": 52541,
+   "distanceCm": 44637491,
+   "walkCm": 12430332,
+   "flyCm": 17479595,
+   "jumps": 62120,
+   "mined": 59642,
    "topMined": [
     [
      "netherrack",
-     23778
+     23865
     ],
     [
      "stone",
@@ -394,14 +394,18 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 39,
+    "count": 40,
     "byTab": {
      "story": 12,
      "adventure": 14,
      "husbandry": 6,
-     "nether": 7
+     "nether": 8
     },
     "recent": [
+     [
+      "nether/loot_bastion",
+      "2026-10-18T12:17:28Z"
+     ],
      [
       "nether/find_bastion",
       "2026-10-18T12:09:40Z"
@@ -429,10 +433,6 @@
      [
       "nether/obtain_ancient_debris",
       "2026-10-17T18:04:50Z"
-     ],
-     [
-      "nether/root",
-      "2026-10-17T17:51:40Z"
      ]
     ]
    }
@@ -905,19 +905,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T12:13:55Z",
-   "playTicks": 2044368,
+   "lastSeen": "2026-10-18T12:19:01Z",
+   "playTicks": 2050487,
    "deaths": 8,
-   "mobKills": 908,
+   "mobKills": 912,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 123000,
-   "damageTaken": 22984,
-   "distanceCm": 18361206,
-   "walkCm": 7800571,
-   "flyCm": 6176061,
-   "jumps": 31119,
-   "mined": 9936,
+   "damageDealt": 123650,
+   "damageTaken": 23160,
+   "distanceCm": 18434385,
+   "walkCm": 7842103,
+   "flyCm": 6199747,
+   "jumps": 31264,
+   "mined": 10195,
    "topMined": [
     [
      "stone",
