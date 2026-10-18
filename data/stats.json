@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-18T15:46:12Z",
+ "updated": "2026-10-18T15:48:08Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10229667,
+ "serverTicks": 10235667,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T15:42:18Z",
-   "playTicks": 5481029,
+   "lastSeen": "2026-10-18T15:47:18Z",
+   "playTicks": 5487029,
    "deaths": 0,
    "mobKills": 3666,
    "playerKills": 4,
@@ -336,19 +336,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T15:42:18Z",
-   "playTicks": 3920907,
+   "lastSeen": "2026-10-18T15:47:18Z",
+   "playTicks": 3926907,
    "deaths": 0,
    "mobKills": 4989,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 335835,
-   "damageTaken": 58822,
-   "distanceCm": 46783236,
-   "walkCm": 13244682,
-   "flyCm": 18465655,
-   "jumps": 67033,
-   "mined": 63415,
+   "damageTaken": 58946,
+   "distanceCm": 46810516,
+   "walkCm": 13260916,
+   "flyCm": 18469838,
+   "jumps": 67183,
+   "mined": 63481,
    "topMined": [
     [
      "netherrack",
@@ -356,7 +356,7 @@
     ],
     [
      "stone",
-     6673
+     6731
     ],
     [
      "mangrove_leaves",
@@ -441,19 +441,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-18T15:42:18Z",
-   "playTicks": 3203635,
+   "lastSeen": "2026-10-18T15:47:18Z",
+   "playTicks": 3209635,
    "deaths": 2,
-   "mobKills": 1205,
+   "mobKills": 1237,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 109291,
-   "damageTaken": 30492,
-   "distanceCm": 31188568,
-   "walkCm": 13672023,
-   "flyCm": 10450683,
-   "jumps": 51509,
-   "mined": 105645,
+   "damageDealt": 110501,
+   "damageTaken": 30858,
+   "distanceCm": 31245836,
+   "walkCm": 13704503,
+   "flyCm": 10471246,
+   "jumps": 51707,
+   "mined": 105646,
    "topMined": [
     [
      "netherrack",
@@ -490,7 +490,7 @@
     ],
     [
      "skeleton",
-     140
+     141
     ],
     [
      "zombie",
@@ -783,19 +783,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-18T15:42:18Z",
-   "playTicks": 2294976,
+   "lastSeen": "2026-10-18T15:47:18Z",
+   "playTicks": 2300976,
    "deaths": 27,
-   "mobKills": 724,
+   "mobKills": 750,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 117857,
-   "damageTaken": 23169,
-   "distanceCm": 19986470,
-   "walkCm": 15926942,
-   "flyCm": 2741497,
-   "jumps": 22146,
-   "mined": 31073,
+   "damageDealt": 125133,
+   "damageTaken": 23602,
+   "distanceCm": 20092521,
+   "walkCm": 16008405,
+   "flyCm": 2764262,
+   "jumps": 22268,
+   "mined": 31076,
    "topMined": [
     [
      "stone",
@@ -828,15 +828,15 @@
    "topKilled": [
     [
      "zombie",
-     296
+     314
     ],
     [
      "skeleton",
-     95
+     96
     ],
     [
      "spider",
-     78
+     81
     ]
    ],
    "topKilledBy": [
@@ -905,19 +905,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T15:25:23Z",
-   "playTicks": 2233893,
+   "lastSeen": "2026-10-18T15:47:18Z",
+   "playTicks": 2238968,
    "deaths": 8,
    "mobKills": 1096,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 147797,
-   "damageTaken": 26750,
-   "distanceCm": 20228163,
-   "walkCm": 8822304,
-   "flyCm": 6861403,
-   "jumps": 35650,
-   "mined": 13380,
+   "damageTaken": 26766,
+   "distanceCm": 20289465,
+   "walkCm": 8865518,
+   "flyCm": 6876261,
+   "jumps": 35728,
+   "mined": 13423,
    "topMined": [
     [
      "netherrack",
@@ -925,7 +925,7 @@
     ],
     [
      "stone",
-     1184
+     1191
     ],
     [
      "grass_block",
@@ -1145,8 +1145,8 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-18T15:41:47Z",
-   "playTicks": 1630536,
+   "lastSeen": "2026-10-18T15:47:18Z",
+   "playTicks": 1631563,
    "deaths": 21,
    "mobKills": 626,
    "playerKills": 1,
