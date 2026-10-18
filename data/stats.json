@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T02:49:13Z",
+ "updated": "2026-10-18T02:52:28Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 9433262,
+ "serverTicks": 9438556,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1015,23 +1015,23 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T02:48:07Z",
-   "playTicks": 1986696,
+   "lastSeen": "2026-10-18T02:52:32Z",
+   "playTicks": 1991990,
    "deaths": 8,
-   "mobKills": 874,
+   "mobKills": 876,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 116857,
-   "damageTaken": 22337,
-   "distanceCm": 17655102,
-   "walkCm": 7518378,
-   "flyCm": 5963725,
-   "jumps": 29953,
-   "mined": 9775,
+   "damageDealt": 116997,
+   "damageTaken": 22346,
+   "distanceCm": 17679185,
+   "walkCm": 7533904,
+   "flyCm": 5967368,
+   "jumps": 30023,
+   "mined": 9789,
    "topMined": [
     [
      "stone",
-     1097
+     1103
     ],
     [
      "grass_block",
@@ -1039,7 +1039,7 @@
     ],
     [
      "dirt",
-     969
+     970
     ]
    ],
    "crafted": 13094,
@@ -1060,7 +1060,7 @@
    "topKilled": [
     [
      "silverfish",
-     204
+     206
     ],
     [
      "zombie",
