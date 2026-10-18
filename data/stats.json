@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T03:03:54Z",
+ "updated": "2026-10-18T03:07:09Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 9451263,
+ "serverTicks": 9456556,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -779,23 +779,23 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-18T03:03:07Z",
-   "playTicks": 2075635,
+   "lastSeen": "2026-10-18T03:06:12Z",
+   "playTicks": 2079323,
    "deaths": 24,
-   "mobKills": 423,
+   "mobKills": 425,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 66183,
-   "damageTaken": 17927,
-   "distanceCm": 17186382,
-   "walkCm": 13731203,
-   "flyCm": 2241432,
-   "jumps": 18425,
-   "mined": 29198,
+   "damageDealt": 66564,
+   "damageTaken": 17975,
+   "distanceCm": 17218405,
+   "walkCm": 13755632,
+   "flyCm": 2246921,
+   "jumps": 18557,
+   "mined": 29201,
    "topMined": [
     [
      "stone",
-     10226
+     10228
     ],
     [
      "grass_block",
@@ -832,7 +832,7 @@
     ],
     [
      "skeleton",
-     41
+     43
     ]
    ],
    "topKilledBy": [
@@ -1015,23 +1015,23 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T03:03:07Z",
-   "playTicks": 2004697,
+   "lastSeen": "2026-10-18T03:06:57Z",
+   "playTicks": 2009291,
    "deaths": 8,
    "mobKills": 899,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 120731,
    "damageTaken": 22773,
-   "distanceCm": 17902201,
-   "walkCm": 7613930,
-   "flyCm": 6075993,
-   "jumps": 30470,
-   "mined": 9811,
+   "distanceCm": 17933633,
+   "walkCm": 7638077,
+   "flyCm": 6079106,
+   "jumps": 30540,
+   "mined": 9872,
    "topMined": [
     [
      "stone",
-     1112
+     1138
     ],
     [
      "grass_block",
@@ -1039,7 +1039,7 @@
     ],
     [
      "dirt",
-     972
+     998
     ]
    ],
    "crafted": 13094,
