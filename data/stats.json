@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T17:34:49Z",
+ "updated": "2026-10-18T17:38:18Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 10362198,
  "players": [
@@ -905,18 +905,18 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T17:34:29Z",
-   "playTicks": 2365109,
+   "lastSeen": "2026-10-18T17:37:49Z",
+   "playTicks": 2369110,
    "deaths": 8,
-   "mobKills": 2290,
+   "mobKills": 2458,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 161101,
-   "damageTaken": 28361,
-   "distanceCm": 21118388,
-   "walkCm": 9440267,
+   "damageDealt": 161102,
+   "damageTaken": 28368,
+   "distanceCm": 21126153,
+   "walkCm": 9448032,
    "flyCm": 7068424,
-   "jumps": 37615,
+   "jumps": 37626,
    "mined": 14173,
    "topMined": [
     [
@@ -950,7 +950,7 @@
    "topKilled": [
     [
      "silverfish",
-     725
+     800
     ],
     [
      "zombie",
