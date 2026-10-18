@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T02:03:50Z",
+ "updated": "2026-10-18T02:08:40Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 9379126,
+ "serverTicks": 9384556,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -893,19 +893,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-18T02:03:01Z",
-   "playTicks": 2003498,
+   "lastSeen": "2026-10-18T02:07:32Z",
+   "playTicks": 2008928,
    "deaths": 20,
-   "mobKills": 378,
+   "mobKills": 379,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 57101,
-   "damageTaken": 15803,
-   "distanceCm": 16463454,
-   "walkCm": 13154974,
-   "flyCm": 2159962,
-   "jumps": 17763,
-   "mined": 28348,
+   "damageDealt": 57271,
+   "damageTaken": 15926,
+   "distanceCm": 16497017,
+   "walkCm": 13175767,
+   "flyCm": 2170832,
+   "jumps": 17795,
+   "mined": 28404,
    "topMined": [
     [
      "stone",
@@ -920,19 +920,19 @@
      5159
     ]
    ],
-   "crafted": 16885,
+   "crafted": 19269,
    "topCrafted": [
     [
      "stick",
-     8910
+     10500
+    ],
+    [
+     "dark_oak_planks",
+     2932
     ],
     [
      "birch_planks",
      2464
-    ],
-    [
-     "dark_oak_planks",
-     2164
     ]
    ],
    "topKilled": [
@@ -946,7 +946,7 @@
     ],
     [
      "skeleton",
-     39
+     40
     ]
    ],
    "topKilledBy": [
@@ -1015,19 +1015,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T02:03:01Z",
-   "playTicks": 1932560,
+   "lastSeen": "2026-10-18T02:07:32Z",
+   "playTicks": 1937990,
    "deaths": 8,
    "mobKills": 647,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 107806,
-   "damageTaken": 21497,
-   "distanceCm": 17205897,
-   "walkCm": 7229366,
-   "flyCm": 5832674,
-   "jumps": 28911,
-   "mined": 9614,
+   "damageTaken": 21556,
+   "distanceCm": 17235969,
+   "walkCm": 7253155,
+   "flyCm": 5834263,
+   "jumps": 28948,
+   "mined": 9658,
    "topMined": [
     [
      "grass_block",
@@ -1035,11 +1035,11 @@
     ],
     [
      "stone",
-     995
+     1014
     ],
     [
      "dirt",
-     963
+     966
     ]
    ],
    "crafted": 13088,
