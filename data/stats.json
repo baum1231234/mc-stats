@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T12:20:28Z",
+ "updated": "2026-10-18T12:23:44Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10001786,
+ "serverTicks": 10007667,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -905,19 +905,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T12:19:01Z",
-   "playTicks": 2050487,
+   "lastSeen": "2026-10-18T12:23:55Z",
+   "playTicks": 2056368,
    "deaths": 8,
-   "mobKills": 912,
+   "mobKills": 915,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 123650,
-   "damageTaken": 23160,
-   "distanceCm": 18434385,
-   "walkCm": 7842103,
-   "flyCm": 6199747,
-   "jumps": 31264,
-   "mined": 10195,
+   "damageDealt": 124050,
+   "damageTaken": 23326,
+   "distanceCm": 18535480,
+   "walkCm": 7875336,
+   "flyCm": 6250764,
+   "jumps": 31521,
+   "mined": 10319,
    "topMined": [
     [
      "stone",
@@ -958,7 +958,7 @@
     ],
     [
      "skeleton",
-     85
+     87
     ]
    ],
    "topKilledBy": [
@@ -984,14 +984,18 @@
     ]
    ],
    "adv": {
-    "count": 34,
+    "count": 35,
     "byTab": {
      "adventure": 10,
      "story": 13,
      "husbandry": 4,
-     "nether": 7
+     "nether": 8
     },
     "recent": [
+     [
+      "nether/return_to_sender",
+      "2026-10-18T12:19:12Z"
+     ],
      [
       "story/cure_zombie_villager",
       "2026-10-17T23:21:54Z"
@@ -1019,10 +1023,6 @@
      [
       "nether/get_wither_skull",
       "2026-10-17T20:53:33Z"
-     ],
-     [
-      "nether/obtain_blaze_rod",
-      "2026-10-17T20:50:35Z"
      ]
     ]
    }
