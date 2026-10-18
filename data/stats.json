@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T14:39:34Z",
+ "updated": "2026-10-18T14:44:33Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10157667,
+ "serverTicks": 10163667,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T14:39:17Z",
-   "playTicks": 4194572,
+   "lastSeen": "2026-10-18T14:44:40Z",
+   "playTicks": 4197699,
    "deaths": 2,
    "mobKills": 1924,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 284646,
-   "damageTaken": 13818,
-   "distanceCm": 45308271,
-   "walkCm": 20271278,
-   "flyCm": 13171921,
-   "jumps": 44692,
-   "mined": 76100,
+   "damageTaken": 13824,
+   "distanceCm": 45324976,
+   "walkCm": 20286824,
+   "flyCm": 13173080,
+   "jumps": 44702,
+   "mined": 76336,
    "topMined": [
     [
      "grass_block",
@@ -226,8 +226,8 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T14:39:25Z",
-   "playTicks": 3900778,
+   "lastSeen": "2026-10-18T14:44:40Z",
+   "playTicks": 3906778,
    "deaths": 4,
    "mobKills": 3387,
    "playerKills": 3,
@@ -336,19 +336,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T14:39:25Z",
-   "playTicks": 3856341,
+   "lastSeen": "2026-10-18T14:44:40Z",
+   "playTicks": 3862341,
    "deaths": 0,
    "mobKills": 4988,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 335342,
-   "damageTaken": 58330,
-   "distanceCm": 46409575,
-   "walkCm": 13017943,
-   "flyCm": 18383644,
-   "jumps": 66133,
-   "mined": 62482,
+   "damageTaken": 58352,
+   "distanceCm": 46435611,
+   "walkCm": 13039836,
+   "flyCm": 18385675,
+   "jumps": 66181,
+   "mined": 62618,
    "topMined": [
     [
      "netherrack",
@@ -356,14 +356,14 @@
     ],
     [
      "stone",
-     6135
+     6237
     ],
     [
      "mangrove_leaves",
      3502
     ]
    ],
-   "crafted": 68714,
+   "crafted": 68715,
    "topCrafted": [
     [
      "stick",
@@ -905,19 +905,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T14:39:25Z",
-   "playTicks": 2181549,
+   "lastSeen": "2026-10-18T14:44:40Z",
+   "playTicks": 2187549,
    "deaths": 8,
-   "mobKills": 1063,
+   "mobKills": 1082,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 140668,
-   "damageTaken": 26350,
-   "distanceCm": 19672656,
-   "walkCm": 8572490,
-   "flyCm": 6609968,
-   "jumps": 33993,
-   "mined": 13172,
+   "damageDealt": 145036,
+   "damageTaken": 26482,
+   "distanceCm": 19777735,
+   "walkCm": 8609468,
+   "flyCm": 6668484,
+   "jumps": 34307,
+   "mined": 13180,
    "topMined": [
     [
      "netherrack",
@@ -954,7 +954,7 @@
     ],
     [
      "zombie",
-     180
+     191
     ],
     [
      "skeleton",
@@ -1145,18 +1145,18 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-18T14:39:25Z",
-   "playTicks": 1559172,
+   "lastSeen": "2026-10-18T14:44:40Z",
+   "playTicks": 1565172,
    "deaths": 21,
-   "mobKills": 563,
+   "mobKills": 568,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 81601,
-   "damageTaken": 18992,
-   "distanceCm": 10561560,
-   "walkCm": 4342637,
-   "flyCm": 4219709,
-   "jumps": 20220,
+   "damageDealt": 82936,
+   "damageTaken": 19144,
+   "distanceCm": 10600506,
+   "walkCm": 4372222,
+   "flyCm": 4228170,
+   "jumps": 20291,
    "mined": 5439,
    "topMined": [
     [
@@ -1172,15 +1172,15 @@
      450
     ]
    ],
-   "crafted": 15073,
+   "crafted": 18528,
    "topCrafted": [
     [
      "stick",
-     5937
+     8108
     ],
     [
      "spruce_planks",
-     2483
+     3703
     ],
     [
      "iron_ingot",
@@ -1198,7 +1198,7 @@
     ],
     [
      "zombie",
-     66
+     68
     ]
    ],
    "topKilledBy": [
@@ -1224,14 +1224,18 @@
     ]
    ],
    "adv": {
-    "count": 31,
+    "count": 32,
     "byTab": {
      "story": 13,
-     "adventure": 12,
+     "adventure": 13,
      "husbandry": 2,
      "nether": 4
     },
     "recent": [
+     [
+      "adventure/throw_trident",
+      "2026-10-18T14:43:31Z"
+     ],
      [
       "husbandry/breed_an_animal",
       "2026-10-18T14:28:39Z"
@@ -1259,10 +1263,6 @@
      [
       "nether/find_fortress",
       "2026-10-17T02:35:24Z"
-     ],
-     [
-      "nether/root",
-      "2026-10-17T02:31:36Z"
      ]
     ]
    }
