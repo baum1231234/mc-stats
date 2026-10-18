@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T23:45:25Z",
+ "updated": "2026-10-18T23:46:56Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 10805667,
  "players": [
@@ -7,19 +7,19 @@
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T23:40:35Z",
-   "playTicks": 5640243,
+   "lastSeen": "2026-10-18T23:45:35Z",
+   "playTicks": 5646243,
    "deaths": 0,
    "mobKills": 3794,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 515243,
-   "damageTaken": 63117,
-   "distanceCm": 89631990,
-   "walkCm": 23400108,
-   "flyCm": 30583515,
-   "jumps": 120885,
-   "mined": 66236,
+   "damageTaken": 63223,
+   "distanceCm": 89693233,
+   "walkCm": 23446844,
+   "flyCm": 30591162,
+   "jumps": 120930,
+   "mined": 66290,
    "topMined": [
     [
      "netherrack",
@@ -1031,18 +1031,18 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-18T23:40:35Z",
-   "playTicks": 2195563,
+   "lastSeen": "2026-10-18T23:45:35Z",
+   "playTicks": 2201563,
    "deaths": 21,
-   "mobKills": 3302,
+   "mobKills": 3659,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 139810,
    "damageTaken": 28659,
-   "distanceCm": 15817177,
-   "walkCm": 7582074,
-   "flyCm": 5484836,
-   "jumps": 28187,
+   "distanceCm": 15829870,
+   "walkCm": 7594271,
+   "flyCm": 5485332,
+   "jumps": 28197,
    "mined": 32433,
    "topMined": [
     [
@@ -1058,7 +1058,7 @@
      1000
     ]
    ],
-   "crafted": 20103,
+   "crafted": 20280,
    "topCrafted": [
     [
      "stick",
@@ -1076,7 +1076,7 @@
    "topKilled": [
     [
      "silverfish",
-     1289
+     1643
     ],
     [
      "pillager",
