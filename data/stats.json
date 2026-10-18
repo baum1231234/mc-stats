@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T15:00:19Z",
+ "updated": "2026-10-18T15:02:12Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 10181667,
  "players": [
@@ -7,19 +7,19 @@
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T14:55:07Z",
-   "playTicks": 5427029,
+   "lastSeen": "2026-10-18T15:00:29Z",
+   "playTicks": 5433029,
    "deaths": 0,
-   "mobKills": 3638,
+   "mobKills": 3653,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 486618,
-   "damageTaken": 58962,
-   "distanceCm": 86203620,
-   "walkCm": 22394473,
-   "flyCm": 28945897,
-   "jumps": 115771,
-   "mined": 62600,
+   "damageDealt": 488169,
+   "damageTaken": 59025,
+   "distanceCm": 86314355,
+   "walkCm": 22420674,
+   "flyCm": 29008804,
+   "jumps": 116016,
+   "mined": 62606,
    "topMined": [
     [
      "netherrack",
@@ -56,7 +56,7 @@
     ],
     [
      "skeleton",
-     448
+     451
     ],
     [
      "zombie",
@@ -441,19 +441,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-18T14:55:07Z",
-   "playTicks": 3149635,
+   "lastSeen": "2026-10-18T15:00:29Z",
+   "playTicks": 3155635,
    "deaths": 2,
    "mobKills": 1104,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 105713,
    "damageTaken": 29012,
-   "distanceCm": 30766334,
-   "walkCm": 13501672,
-   "flyCm": 10253953,
-   "jumps": 50398,
-   "mined": 105491,
+   "distanceCm": 30768514,
+   "walkCm": 13502507,
+   "flyCm": 10255298,
+   "jumps": 50403,
+   "mined": 105493,
    "topMined": [
     [
      "netherrack",
@@ -783,19 +783,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-18T14:55:07Z",
-   "playTicks": 2240976,
+   "lastSeen": "2026-10-18T15:00:29Z",
+   "playTicks": 2246976,
    "deaths": 26,
-   "mobKills": 619,
+   "mobKills": 622,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 99151,
-   "damageTaken": 21644,
-   "distanceCm": 19179247,
-   "walkCm": 15350271,
-   "flyCm": 2581130,
-   "jumps": 21090,
-   "mined": 30933,
+   "damageDealt": 99716,
+   "damageTaken": 21726,
+   "distanceCm": 19239837,
+   "walkCm": 15405212,
+   "flyCm": 2584760,
+   "jumps": 21106,
+   "mined": 31064,
    "topMined": [
     [
      "stone",
@@ -810,7 +810,7 @@
      5174
     ]
    ],
-   "crafted": 19792,
+   "crafted": 19897,
    "topCrafted": [
     [
      "stick",
@@ -828,7 +828,7 @@
    "topKilled": [
     [
      "zombie",
-     250
+     252
     ],
     [
      "skeleton",
@@ -1145,8 +1145,8 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-18T14:55:07Z",
-   "playTicks": 1577172,
+   "lastSeen": "2026-10-18T15:00:29Z",
+   "playTicks": 1583172,
    "deaths": 21,
    "mobKills": 571,
    "playerKills": 1,
@@ -2360,8 +2360,8 @@
     "rendered": "2026-10-17T19:36:57Z"
    },
    "-12.0": {
-    "mtime": "2026-10-18T12:00:48Z",
-    "rendered": "2026-10-18T12:01:50Z"
+    "mtime": "2026-10-18T14:39:28Z",
+    "rendered": "2026-10-18T15:02:12Z"
    },
    "-12.2": {
     "mtime": "2026-10-18T12:03:23Z",
@@ -2388,12 +2388,12 @@
     "rendered": "2026-10-18T13:04:52Z"
    },
    "-10.0": {
-    "mtime": "2026-10-18T11:59:42Z",
-    "rendered": "2026-10-18T12:01:50Z"
+    "mtime": "2026-10-18T14:39:33Z",
+    "rendered": "2026-10-18T15:02:12Z"
    },
    "-10.2": {
-    "mtime": "2026-10-18T12:02:05Z",
-    "rendered": "2026-10-18T12:01:50Z"
+    "mtime": "2026-10-18T14:39:33Z",
+    "rendered": "2026-10-18T15:02:12Z"
    },
    "-11.-1": {
     "mtime": "2026-10-18T14:05:50Z",
@@ -2408,8 +2408,8 @@
     "rendered": "2026-10-18T14:08:05Z"
    },
    "-2.-7": {
-    "mtime": "2026-10-18T11:54:04Z",
-    "rendered": "2026-10-18T12:01:50Z"
+    "mtime": "2026-10-18T15:01:04Z",
+    "rendered": "2026-10-18T15:02:12Z"
    },
    "-3.-6": {
     "mtime": "2026-10-17T20:30:50Z",
