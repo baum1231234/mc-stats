@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T13:51:02Z",
+ "updated": "2026-10-18T13:54:24Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 10109667,
  "players": [
@@ -226,18 +226,18 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-17T17:32:58Z",
-   "playTicks": 3855608,
+   "lastSeen": "2026-10-18T13:53:05Z",
+   "playTicks": 3856467,
    "deaths": 4,
-   "mobKills": 3384,
+   "mobKills": 3386,
    "playerKills": 3,
    "killedByPlayers": 0,
-   "damageDealt": 324493,
-   "damageTaken": 29974,
-   "distanceCm": 48259304,
-   "walkCm": 13407033,
-   "flyCm": 17766968,
-   "jumps": 58692,
+   "damageDealt": 324893,
+   "damageTaken": 29991,
+   "distanceCm": 48270153,
+   "walkCm": 13411118,
+   "flyCm": 17773222,
+   "jumps": 58714,
    "mined": 35196,
    "topMined": [
     [
@@ -271,7 +271,7 @@
    "topKilled": [
     [
      "skeleton",
-     2018
+     2020
     ],
     [
      "zombie",
