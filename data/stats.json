@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T20:14:50Z",
+ "updated": "2026-10-18T20:16:21Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10547667,
+ "serverTicks": 10553667,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -226,19 +226,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T20:10:29Z",
-   "playTicks": 4213347,
+   "lastSeen": "2026-10-18T20:15:29Z",
+   "playTicks": 4219347,
    "deaths": 0,
-   "mobKills": 5417,
+   "mobKills": 5418,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 385218,
-   "damageTaken": 67904,
-   "distanceCm": 49337683,
-   "walkCm": 14114990,
-   "flyCm": 19523875,
-   "jumps": 71682,
-   "mined": 65600,
+   "damageDealt": 386208,
+   "damageTaken": 68043,
+   "distanceCm": 49422068,
+   "walkCm": 14165742,
+   "flyCm": 19549760,
+   "jumps": 71836,
+   "mined": 65723,
    "topMined": [
     [
      "netherrack",
@@ -249,11 +249,11 @@
      7302
     ],
     [
-     "mangrove_leaves",
-     3502
+     "snow_block",
+     3514
     ]
    ],
-   "crafted": 73387,
+   "crafted": 73403,
    "topCrafted": [
     [
      "stick",
@@ -441,19 +441,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-18T20:10:29Z",
-   "playTicks": 3235315,
+   "lastSeen": "2026-10-18T20:15:29Z",
+   "playTicks": 3241315,
    "deaths": 2,
    "mobKills": 1259,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 114170,
-   "damageTaken": 32007,
-   "distanceCm": 31513543,
-   "walkCm": 13808686,
-   "flyCm": 10594765,
-   "jumps": 52436,
-   "mined": 105926,
+   "damageTaken": 32131,
+   "distanceCm": 31567688,
+   "walkCm": 13832417,
+   "flyCm": 10613383,
+   "jumps": 52542,
+   "mined": 105930,
    "topMined": [
     [
      "netherrack",
@@ -905,19 +905,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T20:10:29Z",
-   "playTicks": 2483419,
+   "lastSeen": "2026-10-18T20:15:29Z",
+   "playTicks": 2489419,
    "deaths": 8,
    "mobKills": 3134,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 181699,
    "damageTaken": 30457,
-   "distanceCm": 22161804,
-   "walkCm": 9939978,
-   "flyCm": 7314035,
-   "jumps": 39305,
-   "mined": 14880,
+   "distanceCm": 22201123,
+   "walkCm": 9969060,
+   "flyCm": 7324272,
+   "jumps": 39420,
+   "mined": 14928,
    "topMined": [
     [
      "netherrack",
@@ -1145,18 +1145,18 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-18T20:10:29Z",
-   "playTicks": 1943563,
+   "lastSeen": "2026-10-18T20:15:29Z",
+   "playTicks": 1949563,
    "deaths": 21,
    "mobKills": 3053,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 137346,
-   "damageTaken": 26645,
-   "distanceCm": 14257358,
-   "walkCm": 6464335,
-   "flyCm": 5245507,
-   "jumps": 26681,
+   "damageTaken": 26701,
+   "distanceCm": 14313602,
+   "walkCm": 6481796,
+   "flyCm": 5272836,
+   "jumps": 26768,
    "mined": 11426,
    "topMined": [
     [
@@ -1172,7 +1172,7 @@
      1000
     ]
    ],
-   "crafted": 19154,
+   "crafted": 19174,
    "topCrafted": [
     [
      "stick",
