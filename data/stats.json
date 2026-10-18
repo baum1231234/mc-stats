@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T21:11:02Z",
+ "updated": "2026-10-18T21:15:24Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10619667,
+ "serverTicks": 10625667,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -905,19 +905,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T21:10:35Z",
-   "playTicks": 2553292,
+   "lastSeen": "2026-10-18T21:15:35Z",
+   "playTicks": 2559292,
    "deaths": 8,
-   "mobKills": 3170,
+   "mobKills": 3172,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 187802,
-   "damageTaken": 31479,
-   "distanceCm": 23030237,
-   "walkCm": 10267255,
-   "flyCm": 7593450,
-   "jumps": 40640,
-   "mined": 15711,
+   "damageDealt": 188151,
+   "damageTaken": 31624,
+   "distanceCm": 23267518,
+   "walkCm": 10268154,
+   "flyCm": 7598974,
+   "jumps": 40648,
+   "mined": 15724,
    "topMined": [
     [
      "netherrack",
@@ -925,7 +925,7 @@
     ],
     [
      "stone",
-     1368
+     1370
     ],
     [
      "lectern",
