@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-18T15:49:58Z",
+ "updated": "2026-10-18T15:53:31Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10238242,
+ "serverTicks": 10241667,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T15:49:27Z",
-   "playTicks": 5489604,
+   "lastSeen": "2026-10-18T15:52:18Z",
+   "playTicks": 5493029,
    "deaths": 0,
    "mobKills": 3666,
    "playerKills": 4,
@@ -336,19 +336,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T15:49:27Z",
-   "playTicks": 3929482,
+   "lastSeen": "2026-10-18T15:52:18Z",
+   "playTicks": 3932907,
    "deaths": 0,
-   "mobKills": 4990,
+   "mobKills": 4992,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 336035,
-   "damageTaken": 59000,
-   "distanceCm": 46826634,
-   "walkCm": 13270442,
-   "flyCm": 18471284,
-   "jumps": 67234,
-   "mined": 63504,
+   "damageDealt": 337685,
+   "damageTaken": 59120,
+   "distanceCm": 46855015,
+   "walkCm": 13281126,
+   "flyCm": 18479458,
+   "jumps": 67262,
+   "mined": 63506,
    "topMined": [
     [
      "netherrack",
@@ -363,7 +363,7 @@
      3502
     ]
    ],
-   "crafted": 69509,
+   "crafted": 70592,
    "topCrafted": [
     [
      "stick",
@@ -375,7 +375,7 @@
     ],
     [
      "iron_ingot",
-     11002
+     11668
     ]
    ],
    "topKilled": [
@@ -441,23 +441,23 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-18T15:49:27Z",
-   "playTicks": 3212210,
+   "lastSeen": "2026-10-18T15:52:18Z",
+   "playTicks": 3215635,
    "deaths": 2,
-   "mobKills": 1251,
+   "mobKills": 1255,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 111221,
-   "damageTaken": 30970,
-   "distanceCm": 31279299,
-   "walkCm": 13719691,
-   "flyCm": 10485996,
-   "jumps": 51811,
-   "mined": 105646,
+   "damageDealt": 111911,
+   "damageTaken": 31026,
+   "distanceCm": 31339425,
+   "walkCm": 13741676,
+   "flyCm": 10519877,
+   "jumps": 51998,
+   "mined": 105848,
    "topMined": [
     [
      "netherrack",
-     50271
+     50461
     ],
     [
      "stone",
@@ -783,18 +783,18 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-18T15:49:27Z",
-   "playTicks": 2303551,
+   "lastSeen": "2026-10-18T15:52:18Z",
+   "playTicks": 2306976,
    "deaths": 27,
    "mobKills": 757,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 125915,
    "damageTaken": 23602,
-   "distanceCm": 20127982,
-   "walkCm": 16038926,
-   "flyCm": 2769202,
-   "jumps": 22325,
+   "distanceCm": 20141157,
+   "walkCm": 16051132,
+   "flyCm": 2770171,
+   "jumps": 22336,
    "mined": 31076,
    "topMined": [
     [
@@ -905,19 +905,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T15:49:27Z",
-   "playTicks": 2241543,
+   "lastSeen": "2026-10-18T15:52:18Z",
+   "playTicks": 2244968,
    "deaths": 8,
-   "mobKills": 1096,
+   "mobKills": 1107,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 147797,
-   "damageTaken": 26770,
-   "distanceCm": 20314368,
-   "walkCm": 8884225,
-   "flyCm": 6880785,
-   "jumps": 35766,
-   "mined": 13458,
+   "damageDealt": 148632,
+   "damageTaken": 26803,
+   "distanceCm": 20329762,
+   "walkCm": 8894382,
+   "flyCm": 6884844,
+   "jumps": 35812,
+   "mined": 13462,
    "topMined": [
     [
      "netherrack",
@@ -950,7 +950,7 @@
    "topKilled": [
     [
      "silverfish",
-     206
+     211
     ],
     [
      "zombie",
@@ -984,14 +984,18 @@
     ]
    ],
    "adv": {
-    "count": 38,
+    "count": 39,
     "byTab": {
-     "adventure": 10,
+     "adventure": 11,
      "story": 13,
      "husbandry": 4,
      "nether": 11
     },
     "recent": [
+     [
+      "adventure/revaulting",
+      "2026-10-18T15:51:18Z"
+     ],
      [
       "nether/explore_nether",
       "2026-10-18T12:48:38Z"
@@ -1019,10 +1023,6 @@
      [
       "husbandry/place_dried_ghast_in_water",
       "2026-10-17T21:35:35Z"
-     ],
-     [
-      "nether/loot_bastion",
-      "2026-10-17T21:31:10Z"
      ]
     ]
    }
@@ -1145,19 +1145,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-18T15:49:27Z",
-   "playTicks": 1634138,
+   "lastSeen": "2026-10-18T15:52:18Z",
+   "playTicks": 1637563,
    "deaths": 21,
-   "mobKills": 626,
+   "mobKills": 635,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 91916,
-   "damageTaken": 20608,
-   "distanceCm": 11353412,
-   "walkCm": 4797754,
-   "flyCm": 4480211,
-   "jumps": 21929,
-   "mined": 5614,
+   "damageDealt": 92981,
+   "damageTaken": 20863,
+   "distanceCm": 11373481,
+   "walkCm": 4808699,
+   "flyCm": 4483860,
+   "jumps": 21962,
+   "mined": 5615,
    "topMined": [
     [
      "deepslate",
@@ -1224,14 +1224,22 @@
     ]
    ],
    "adv": {
-    "count": 32,
+    "count": 34,
     "byTab": {
      "story": 13,
-     "adventure": 13,
+     "adventure": 15,
      "husbandry": 2,
      "nether": 4
     },
     "recent": [
+     [
+      "adventure/who_needs_rockets",
+      "2026-10-18T15:52:02Z"
+     ],
+     [
+      "adventure/revaulting",
+      "2026-10-18T15:51:36Z"
+     ],
      [
       "adventure/throw_trident",
       "2026-10-18T14:43:31Z"
@@ -1255,14 +1263,6 @@
      [
       "nether/brew_potion",
       "2026-10-17T12:23:14Z"
-     ],
-     [
-      "nether/obtain_blaze_rod",
-      "2026-10-17T02:37:23Z"
-     ],
-     [
-      "nether/find_fortress",
-      "2026-10-17T02:35:24Z"
      ]
     ]
    }
