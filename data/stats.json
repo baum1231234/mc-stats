@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-18T23:49:36Z",
+ "updated": "2026-10-18T23:51:05Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10810629,
+ "serverTicks": 10811667,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T23:45:35Z",
-   "playTicks": 5646243,
+   "lastSeen": "2026-10-18T23:50:35Z",
+   "playTicks": 5652243,
    "deaths": 0,
-   "mobKills": 3794,
+   "mobKills": 3795,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 515243,
-   "damageTaken": 63223,
-   "distanceCm": 89693233,
-   "walkCm": 23446844,
-   "flyCm": 30591162,
-   "jumps": 120930,
-   "mined": 66290,
+   "damageDealt": 515640,
+   "damageTaken": 63348,
+   "distanceCm": 89876250,
+   "walkCm": 23479148,
+   "flyCm": 30642810,
+   "jumps": 121072,
+   "mined": 66339,
    "topMined": [
     [
      "netherrack",
@@ -555,19 +555,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T23:49:44Z",
-   "playTicks": 2744254,
+   "lastSeen": "2026-10-18T23:50:35Z",
+   "playTicks": 2745292,
    "deaths": 8,
    "mobKills": 3491,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 218381,
    "damageTaken": 35867,
-   "distanceCm": 25713909,
-   "walkCm": 10742512,
-   "flyCm": 8220010,
-   "jumps": 43714,
-   "mined": 17483,
+   "distanceCm": 25721606,
+   "walkCm": 10746925,
+   "flyCm": 8223036,
+   "jumps": 43746,
+   "mined": 17486,
    "topMined": [
     [
      "netherrack",
@@ -582,7 +582,7 @@
      1113
     ]
    ],
-   "crafted": 16442,
+   "crafted": 16490,
    "topCrafted": [
     [
      "emerald",
@@ -1031,18 +1031,18 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-18T23:45:35Z",
-   "playTicks": 2201563,
+   "lastSeen": "2026-10-18T23:50:35Z",
+   "playTicks": 2207563,
    "deaths": 21,
-   "mobKills": 3659,
+   "mobKills": 4240,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 139810,
    "damageTaken": 28659,
-   "distanceCm": 15829870,
-   "walkCm": 7594271,
-   "flyCm": 5485332,
-   "jumps": 28197,
+   "distanceCm": 15840525,
+   "walkCm": 7602328,
+   "flyCm": 5487930,
+   "jumps": 28239,
    "mined": 32433,
    "topMined": [
     [
@@ -1076,7 +1076,7 @@
    "topKilled": [
     [
      "silverfish",
-     1643
+     2221
     ],
     [
      "pillager",
