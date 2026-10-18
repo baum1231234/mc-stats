@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T12:01:50Z",
+ "updated": "2026-10-18T12:03:44Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 9977667,
+ "serverTicks": 9983726,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1019,19 +1019,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T11:58:55Z",
-   "playTicks": 2026368,
+   "lastSeen": "2026-10-18T12:03:58Z",
+   "playTicks": 2032427,
    "deaths": 8,
-   "mobKills": 905,
+   "mobKills": 906,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 121600,
-   "damageTaken": 22974,
-   "distanceCm": 18241786,
-   "walkCm": 7730210,
-   "flyCm": 6132462,
-   "jumps": 30854,
-   "mined": 9889,
+   "damageDealt": 122530,
+   "damageTaken": 22984,
+   "distanceCm": 18311716,
+   "walkCm": 7758489,
+   "flyCm": 6168653,
+   "jumps": 31027,
+   "mined": 9898,
    "topMined": [
     [
      "stone",
@@ -1043,18 +1043,18 @@
     ],
     [
      "dirt",
-     999
+     1000
     ]
    ],
-   "crafted": 13094,
+   "crafted": 13614,
    "topCrafted": [
     [
      "emerald",
-     3004
+     3064
     ],
     [
      "iron_ingot",
-     1923
+     2337
     ],
     [
      "stick",
@@ -2436,8 +2436,8 @@
     "rendered": "2026-10-17T22:01:33Z"
    },
    "0.-7": {
-    "mtime": "2026-10-17T21:25:05Z",
-    "rendered": "2026-10-17T23:18:37Z"
+    "mtime": "2026-10-18T12:04:10Z",
+    "rendered": "2026-10-18T12:03:44Z"
    },
    "1.-6": {
     "mtime": "2026-10-17T19:50:41Z",
