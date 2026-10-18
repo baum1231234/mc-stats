@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-18T15:30:31Z",
+ "updated": "2026-10-18T15:32:17Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10211667,
+ "serverTicks": 10217667,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T15:26:55Z",
-   "playTicks": 5463029,
+   "lastSeen": "2026-10-18T15:32:18Z",
+   "playTicks": 5469029,
    "deaths": 0,
    "mobKills": 3666,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 494586,
-   "damageTaken": 60011,
-   "distanceCm": 86580646,
-   "walkCm": 22562211,
-   "flyCm": 29099980,
-   "jumps": 116596,
-   "mined": 63551,
+   "damageTaken": 60179,
+   "distanceCm": 86693976,
+   "walkCm": 22593450,
+   "flyCm": 29156031,
+   "jumps": 116742,
+   "mined": 63576,
    "topMined": [
     [
      "netherrack",
@@ -34,7 +34,7 @@
      4292
     ]
    ],
-   "crafted": 92178,
+   "crafted": 92184,
    "topCrafted": [
     [
      "stick",
@@ -65,14 +65,22 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 53,
+    "count": 55,
     "byTab": {
-     "story": 12,
+     "story": 13,
      "adventure": 17,
      "husbandry": 11,
-     "nether": 13
+     "nether": 14
     },
     "recent": [
+     [
+      "nether/create_beacon",
+      "2026-10-18T15:31:19Z"
+     ],
+     [
+      "story/lava_bucket",
+      "2026-10-18T15:28:02Z"
+     ],
      [
       "nether/summon_wither",
       "2026-10-18T15:24:33Z"
@@ -96,14 +104,6 @@
      [
       "nether/loot_bastion",
       "2026-10-17T19:21:17Z"
-     ],
-     [
-      "nether/explore_nether",
-      "2026-10-17T19:03:04Z"
-     ],
-     [
-      "nether/obtain_ancient_debris",
-      "2026-10-17T17:59:34Z"
      ]
     ]
    }
@@ -112,23 +112,23 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T15:26:55Z",
-   "playTicks": 4245699,
+   "lastSeen": "2026-10-18T15:31:06Z",
+   "playTicks": 4250246,
    "deaths": 2,
    "mobKills": 1925,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 284846,
    "damageTaken": 13860,
-   "distanceCm": 45629137,
-   "walkCm": 20585798,
-   "flyCm": 13177967,
-   "jumps": 44824,
-   "mined": 83140,
+   "distanceCm": 45665798,
+   "walkCm": 20620545,
+   "flyCm": 13179881,
+   "jumps": 44846,
+   "mined": 83901,
    "topMined": [
     [
      "netherrack",
-     14765
+     15297
     ],
     [
      "grass_block",
@@ -336,19 +336,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T15:26:55Z",
-   "playTicks": 3902907,
+   "lastSeen": "2026-10-18T15:32:18Z",
+   "playTicks": 3908907,
    "deaths": 0,
    "mobKills": 4989,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 335835,
-   "damageTaken": 58702,
-   "distanceCm": 46710908,
-   "walkCm": 13196245,
-   "flyCm": 18454441,
-   "jumps": 66799,
-   "mined": 63225,
+   "damageTaken": 58728,
+   "distanceCm": 46741356,
+   "walkCm": 13214777,
+   "flyCm": 18461516,
+   "jumps": 66906,
+   "mined": 63291,
    "topMined": [
     [
      "netherrack",
@@ -356,14 +356,14 @@
     ],
     [
      "stone",
-     6572
+     6620
     ],
     [
      "mangrove_leaves",
      3502
     ]
    ],
-   "crafted": 69505,
+   "crafted": 69509,
    "topCrafted": [
     [
      "stick",
@@ -441,23 +441,23 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-18T15:26:55Z",
-   "playTicks": 3185635,
+   "lastSeen": "2026-10-18T15:32:18Z",
+   "playTicks": 3191635,
    "deaths": 2,
-   "mobKills": 1104,
+   "mobKills": 1137,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 105805,
-   "damageTaken": 29289,
-   "distanceCm": 30985167,
-   "walkCm": 13564698,
-   "flyCm": 10373288,
-   "jumps": 50959,
-   "mined": 105509,
+   "damageDealt": 108499,
+   "damageTaken": 29657,
+   "distanceCm": 31074759,
+   "walkCm": 13606509,
+   "flyCm": 10412803,
+   "jumps": 51185,
+   "mined": 105644,
    "topMined": [
     [
      "netherrack",
-     50138
+     50271
     ],
     [
      "stone",
@@ -490,7 +490,7 @@
     ],
     [
      "skeleton",
-     135
+     137
     ],
     [
      "zombie",
@@ -508,14 +508,18 @@
     ]
    ],
    "adv": {
-    "count": 41,
+    "count": 42,
     "byTab": {
      "story": 13,
      "adventure": 12,
      "husbandry": 4,
-     "nether": 12
+     "nether": 13
     },
     "recent": [
+     [
+      "nether/get_wither_skull",
+      "2026-10-18T15:29:49Z"
+     ],
      [
       "nether/netherite_armor",
       "2026-10-18T13:36:17Z"
@@ -543,10 +547,6 @@
      [
       "nether/loot_bastion",
       "2026-10-18T12:04:43Z"
-     ],
-     [
-      "nether/find_bastion",
-      "2026-10-18T12:02:48Z"
      ]
     ]
    }
@@ -1145,19 +1145,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-18T15:26:55Z",
-   "playTicks": 1613172,
+   "lastSeen": "2026-10-18T15:32:18Z",
+   "playTicks": 1619172,
    "deaths": 21,
-   "mobKills": 605,
+   "mobKills": 617,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 88197,
-   "damageTaken": 19852,
-   "distanceCm": 11073918,
-   "walkCm": 4650360,
-   "flyCm": 4384752,
-   "jumps": 21416,
-   "mined": 5604,
+   "damageDealt": 89806,
+   "damageTaken": 19981,
+   "distanceCm": 11157423,
+   "walkCm": 4706129,
+   "flyCm": 4404690,
+   "jumps": 21544,
+   "mined": 5609,
    "topMined": [
     [
      "deepslate",
