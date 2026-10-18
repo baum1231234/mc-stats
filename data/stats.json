@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T12:08:44Z",
+ "updated": "2026-10-18T12:10:35Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 9989667,
  "players": [
@@ -336,23 +336,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T12:03:58Z",
-   "playTicks": 3682400,
+   "lastSeen": "2026-10-18T12:08:55Z",
+   "playTicks": 3688341,
    "deaths": 0,
    "mobKills": 4743,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 316562,
-   "damageTaken": 51297,
-   "distanceCm": 44370224,
-   "walkCm": 12353385,
-   "flyCm": 17326279,
-   "jumps": 61408,
-   "mined": 59404,
+   "damageTaken": 51491,
+   "distanceCm": 44475103,
+   "walkCm": 12377462,
+   "flyCm": 17393164,
+   "jumps": 61654,
+   "mined": 59445,
    "topMined": [
     [
      "netherrack",
-     23706
+     23746
     ],
     [
      "stone",
@@ -363,7 +363,7 @@
      3502
     ]
    ],
-   "crafted": 67604,
+   "crafted": 67608,
    "topCrafted": [
     [
      "stick",
@@ -441,23 +441,23 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-18T12:03:58Z",
-   "playTicks": 2957694,
+   "lastSeen": "2026-10-18T12:08:55Z",
+   "playTicks": 2963635,
    "deaths": 2,
-   "mobKills": 827,
+   "mobKills": 831,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 85116,
-   "damageTaken": 23970,
-   "distanceCm": 28641696,
-   "walkCm": 12653389,
-   "flyCm": 9418638,
-   "jumps": 45440,
-   "mined": 99659,
+   "damageDealt": 86046,
+   "damageTaken": 24313,
+   "distanceCm": 28692294,
+   "walkCm": 12679273,
+   "flyCm": 9435077,
+   "jumps": 45590,
+   "mined": 99689,
    "topMined": [
     [
      "netherrack",
-     45401
+     45419
     ],
     [
      "stone",
@@ -508,14 +508,18 @@
     ]
    ],
    "adv": {
-    "count": 34,
+    "count": 35,
     "byTab": {
      "story": 13,
      "adventure": 12,
      "husbandry": 4,
-     "nether": 5
+     "nether": 6
     },
     "recent": [
+     [
+      "nether/loot_bastion",
+      "2026-10-18T12:04:43Z"
+     ],
      [
       "nether/find_bastion",
       "2026-10-18T12:02:48Z"
@@ -543,10 +547,6 @@
      [
       "story/form_obsidian",
       "2026-10-17T10:59:50Z"
-     ],
-     [
-      "nether/root",
-      "2026-10-17T10:58:36Z"
      ]
     ]
    }
@@ -555,19 +555,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-18T12:03:58Z",
-   "playTicks": 2617367,
+   "lastSeen": "2026-10-18T12:08:55Z",
+   "playTicks": 2623308,
    "deaths": 2,
-   "mobKills": 3490,
+   "mobKills": 3491,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 274439,
-   "damageTaken": 26748,
-   "distanceCm": 33965381,
-   "walkCm": 10841893,
-   "flyCm": 8059024,
-   "jumps": 36656,
-   "mined": 34651,
+   "damageDealt": 274469,
+   "damageTaken": 26752,
+   "distanceCm": 34062624,
+   "walkCm": 10852347,
+   "flyCm": 8070049,
+   "jumps": 36687,
+   "mined": 34864,
    "topMined": [
     [
      "netherrack",
@@ -582,7 +582,7 @@
      3048
     ]
    ],
-   "crafted": 120023,
+   "crafted": 120064,
    "topCrafted": [
     [
      "stick",
@@ -665,34 +665,34 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
-   "lastSeen": "2026-10-18T12:03:58Z",
-   "playTicks": 2485446,
+   "lastSeen": "2026-10-18T12:08:55Z",
+   "playTicks": 2491387,
    "deaths": 4,
    "mobKills": 547,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 76052,
    "damageTaken": 15913,
-   "distanceCm": 21012376,
-   "walkCm": 10914989,
-   "flyCm": 4559417,
-   "jumps": 26461,
-   "mined": 35903,
+   "distanceCm": 21041987,
+   "walkCm": 10931906,
+   "flyCm": 4571886,
+   "jumps": 26504,
+   "mined": 36000,
    "topMined": [
     [
      "stone",
-     17771
+     17853
     ],
     [
      "diorite",
-     2085
+     2089
     ],
     [
      "granite",
      2065
     ]
    ],
-   "crafted": 15449,
+   "crafted": 15469,
    "topCrafted": [
     [
      "stick",
