@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T02:16:46Z",
+ "updated": "2026-10-18T02:18:26Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 9390556,
+ "serverTicks": 9397448,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -893,19 +893,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-18T02:12:32Z",
-   "playTicks": 2014928,
+   "lastSeen": "2026-10-18T02:18:17Z",
+   "playTicks": 2021820,
    "deaths": 20,
-   "mobKills": 386,
+   "mobKills": 394,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 58815,
-   "damageTaken": 16080,
-   "distanceCm": 16589988,
-   "walkCm": 13233602,
-   "flyCm": 2178502,
-   "jumps": 17897,
-   "mined": 28404,
+   "damageDealt": 61175,
+   "damageTaken": 16542,
+   "distanceCm": 16643795,
+   "walkCm": 13280920,
+   "flyCm": 2182824,
+   "jumps": 17985,
+   "mined": 28405,
    "topMined": [
     [
      "stone",
@@ -920,7 +920,7 @@
      5159
     ]
    ],
-   "crafted": 19327,
+   "crafted": 19329,
    "topCrafted": [
     [
      "stick",
@@ -938,7 +938,7 @@
    "topKilled": [
     [
      "zombie",
-     145
+     150
     ],
     [
      "sheep",
@@ -946,7 +946,7 @@
     ],
     [
      "skeleton",
-     40
+     41
     ]
    ],
    "topKilledBy": [
@@ -1015,19 +1015,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T02:12:32Z",
-   "playTicks": 1943990,
+   "lastSeen": "2026-10-18T02:18:17Z",
+   "playTicks": 1950882,
    "deaths": 8,
-   "mobKills": 654,
+   "mobKills": 667,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 109070,
-   "damageTaken": 21740,
-   "distanceCm": 17331576,
-   "walkCm": 7288519,
-   "flyCm": 5885896,
-   "jumps": 29153,
-   "mined": 9661,
+   "damageDealt": 111235,
+   "damageTaken": 21961,
+   "distanceCm": 17408447,
+   "walkCm": 7316784,
+   "flyCm": 5927396,
+   "jumps": 29386,
+   "mined": 9691,
    "topMined": [
     [
      "grass_block",
@@ -1035,11 +1035,11 @@
     ],
     [
      "stone",
-     1016
+     1043
     ],
     [
      "dirt",
-     966
+     968
     ]
    ],
    "crafted": 13088,
@@ -1060,11 +1060,11 @@
    "topKilled": [
     [
      "zombie",
-     175
+     176
     ],
     [
      "skeleton",
-     80
+     82
     ],
     [
      "cow",
