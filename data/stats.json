@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T12:26:45Z",
+ "updated": "2026-10-18T12:29:59Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10007667,
+ "serverTicks": 10013667,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -336,23 +336,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T12:23:55Z",
-   "playTicks": 3706341,
+   "lastSeen": "2026-10-18T12:28:55Z",
+   "playTicks": 3712341,
    "deaths": 0,
-   "mobKills": 4778,
+   "mobKills": 4797,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 319955,
-   "damageTaken": 53039,
-   "distanceCm": 44718785,
-   "walkCm": 12461762,
-   "flyCm": 17516425,
-   "jumps": 62319,
-   "mined": 59832,
+   "damageDealt": 322153,
+   "damageTaken": 53277,
+   "distanceCm": 44796723,
+   "walkCm": 12486628,
+   "flyCm": 17559595,
+   "jumps": 62513,
+   "mined": 59896,
    "topMined": [
     [
      "netherrack",
-     23968
+     23975
     ],
     [
      "stone",
@@ -441,23 +441,23 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-18T12:23:55Z",
-   "playTicks": 2981635,
+   "lastSeen": "2026-10-18T12:28:55Z",
+   "playTicks": 2987635,
    "deaths": 2,
-   "mobKills": 851,
+   "mobKills": 854,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 89439,
-   "damageTaken": 25297,
-   "distanceCm": 28887735,
-   "walkCm": 12778172,
-   "flyCm": 9511832,
-   "jumps": 46031,
-   "mined": 100700,
+   "damageDealt": 89979,
+   "damageTaken": 25619,
+   "distanceCm": 28913038,
+   "walkCm": 12797130,
+   "flyCm": 9516357,
+   "jumps": 46136,
+   "mined": 100743,
    "topMined": [
     [
      "netherrack",
-     46163
+     46197
     ],
     [
      "stone",
@@ -508,14 +508,18 @@
     ]
    ],
    "adv": {
-    "count": 38,
+    "count": 39,
     "byTab": {
      "story": 13,
      "adventure": 12,
      "husbandry": 4,
-     "nether": 9
+     "nether": 10
     },
     "recent": [
+     [
+      "nether/obtain_crying_obsidian",
+      "2026-10-18T12:24:19Z"
+     ],
      [
       "nether/explore_nether",
       "2026-10-18T12:21:23Z"
@@ -543,10 +547,6 @@
      [
       "nether/obtain_ancient_debris",
       "2026-10-17T20:03:18Z"
-     ],
-     [
-      "adventure/overoverkill",
-      "2026-10-17T12:44:38Z"
      ]
     ]
    }
@@ -665,18 +665,18 @@
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
-   "lastSeen": "2026-10-18T12:23:55Z",
-   "playTicks": 2509387,
+   "lastSeen": "2026-10-18T12:28:55Z",
+   "playTicks": 2515387,
    "deaths": 4,
    "mobKills": 547,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 76052,
-   "damageTaken": 16264,
-   "distanceCm": 21174890,
-   "walkCm": 11011004,
-   "flyCm": 4612742,
-   "jumps": 26695,
+   "damageTaken": 16307,
+   "distanceCm": 21204242,
+   "walkCm": 11037214,
+   "flyCm": 4614476,
+   "jumps": 26712,
    "mined": 36024,
    "topMined": [
     [
@@ -692,7 +692,7 @@
      2065
     ]
    ],
-   "crafted": 15529,
+   "crafted": 15943,
    "topCrafted": [
     [
      "stick",
@@ -704,7 +704,7 @@
     ],
     [
      "spruce_planks",
-     1356
+     1612
     ]
    ],
    "topKilled": [
@@ -905,19 +905,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T12:23:55Z",
-   "playTicks": 2056368,
+   "lastSeen": "2026-10-18T12:28:55Z",
+   "playTicks": 2062368,
    "deaths": 8,
-   "mobKills": 915,
+   "mobKills": 956,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 124050,
-   "damageTaken": 23326,
-   "distanceCm": 18535480,
-   "walkCm": 7875336,
-   "flyCm": 6250764,
-   "jumps": 31521,
-   "mined": 10319,
+   "damageDealt": 126502,
+   "damageTaken": 23573,
+   "distanceCm": 18574559,
+   "walkCm": 7907233,
+   "flyCm": 6255946,
+   "jumps": 31569,
+   "mined": 10362,
    "topMined": [
     [
      "stone",
@@ -2288,8 +2288,8 @@
     "rendered": "2026-10-18T11:01:26Z"
    },
    "4.0": {
-    "mtime": "2026-10-18T08:00:56Z",
-    "rendered": "2026-10-18T08:00:50Z"
+    "mtime": "2026-10-18T12:29:32Z",
+    "rendered": "2026-10-18T12:29:59Z"
    },
    "0.0": {
     "mtime": "2026-10-18T09:15:26Z",
