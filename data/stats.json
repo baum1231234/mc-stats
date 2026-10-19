@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T22:14:40Z",
+ "updated": "2026-10-19T22:17:44Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11914433,
+ "serverTicks": 11920433,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -555,19 +555,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T22:12:57Z",
-   "playTicks": 3551077,
+   "lastSeen": "2026-10-19T22:17:57Z",
+   "playTicks": 3557077,
    "deaths": 8,
    "mobKills": 4416,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 281453,
-   "damageTaken": 43408,
-   "distanceCm": 31609466,
-   "walkCm": 13792050,
-   "flyCm": 10009344,
-   "jumps": 52816,
-   "mined": 47825,
+   "damageDealt": 281464,
+   "damageTaken": 43416,
+   "distanceCm": 31647339,
+   "walkCm": 13792625,
+   "flyCm": 10009419,
+   "jumps": 52867,
+   "mined": 47930,
    "topMined": [
     [
      "spruce_log",
@@ -575,7 +575,7 @@
     ],
     [
      "stone",
-     5907
+     5958
     ],
     [
      "dirt",
