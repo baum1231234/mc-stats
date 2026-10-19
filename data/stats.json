@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-19T16:00:43Z",
+ "updated": "2026-10-19T16:04:06Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11464433,
+ "serverTicks": 11470433,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-19T15:57:57Z",
-   "playTicks": 5719476,
+   "lastSeen": "2026-10-19T16:02:57Z",
+   "playTicks": 5725476,
    "deaths": 0,
-   "mobKills": 3822,
+   "mobKills": 3833,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 520701,
-   "damageTaken": 64547,
-   "distanceCm": 91547427,
-   "walkCm": 23874813,
-   "flyCm": 31208080,
-   "jumps": 122762,
+   "damageDealt": 521625,
+   "damageTaken": 64876,
+   "distanceCm": 91712373,
+   "walkCm": 23909620,
+   "flyCm": 31320909,
+   "jumps": 122860,
    "mined": 67865,
    "topMined": [
     [
@@ -52,7 +52,7 @@
    "topKilled": [
     [
      "guardian",
-     556
+     567
     ],
     [
      "skeleton",
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-19T15:57:57Z",
-   "playTicks": 4717055,
+   "lastSeen": "2026-10-19T16:02:57Z",
+   "playTicks": 4723055,
    "deaths": 2,
-   "mobKills": 2429,
+   "mobKills": 2493,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 326629,
-   "damageTaken": 15737,
-   "distanceCm": 50118147,
-   "walkCm": 22782819,
-   "flyCm": 14581972,
-   "jumps": 50705,
-   "mined": 95524,
+   "damageDealt": 330747,
+   "damageTaken": 15883,
+   "distanceCm": 50207164,
+   "walkCm": 22800891,
+   "flyCm": 14634933,
+   "jumps": 50777,
+   "mined": 95525,
    "topMined": [
     [
      "netherrack",
@@ -157,7 +157,7 @@
    "topKilled": [
     [
      "guardian",
-     701
+     763
     ],
     [
      "zombie",
@@ -555,8 +555,8 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T15:57:57Z",
-   "playTicks": 3101077,
+   "lastSeen": "2026-10-19T16:02:57Z",
+   "playTicks": 3107077,
    "deaths": 8,
    "mobKills": 3763,
    "playerKills": 1,
