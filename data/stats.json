@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T02:13:35Z",
+ "updated": "2026-10-19T02:16:59Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10980986,
+ "serverTicks": 10986986,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -555,27 +555,27 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T02:11:58Z",
-   "playTicks": 2914051,
+   "lastSeen": "2026-10-19T02:16:58Z",
+   "playTicks": 2920051,
    "deaths": 8,
-   "mobKills": 3740,
+   "mobKills": 3741,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 261213,
-   "damageTaken": 40955,
-   "distanceCm": 27037231,
-   "walkCm": 11623645,
-   "flyCm": 8540346,
-   "jumps": 46552,
-   "mined": 23103,
+   "damageDealt": 261413,
+   "damageTaken": 40967,
+   "distanceCm": 27090720,
+   "walkCm": 11666499,
+   "flyCm": 8548905,
+   "jumps": 46626,
+   "mined": 23578,
    "topMined": [
+    [
+     "spruce_log",
+     3888
+    ],
     [
      "netherrack",
      3719
-    ],
-    [
-     "spruce_log",
-     3630
     ],
     [
      "stone",
@@ -604,7 +604,7 @@
     ],
     [
      "zombie",
-     272
+     273
     ],
     [
      "skeleton",
@@ -1031,19 +1031,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T02:11:58Z",
-   "playTicks": 2370869,
+   "lastSeen": "2026-10-19T02:16:58Z",
+   "playTicks": 2376869,
    "deaths": 21,
    "mobKills": 5568,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 181496,
-   "damageTaken": 34702,
-   "distanceCm": 17519256,
-   "walkCm": 8673860,
-   "flyCm": 5903583,
-   "jumps": 31240,
-   "mined": 35151,
+   "damageTaken": 34704,
+   "distanceCm": 17547292,
+   "walkCm": 8695310,
+   "flyCm": 5909106,
+   "jumps": 31331,
+   "mined": 35446,
    "topMined": [
     [
      "netherrack",
@@ -1051,26 +1051,26 @@
     ],
     [
      "spruce_log",
-     2497
+     2764
     ],
     [
      "deepslate",
      1762
     ]
    ],
-   "crafted": 37852,
+   "crafted": 40505,
    "topCrafted": [
     [
      "stick",
-     19397
+     21189
     ],
     [
      "spruce_planks",
-     9579
+     10347
     ],
     [
      "emerald",
-     2112
+     2192
     ]
    ],
    "topKilled": [
@@ -1110,14 +1110,18 @@
     ]
    ],
    "adv": {
-    "count": 43,
+    "count": 44,
     "byTab": {
      "story": 13,
      "adventure": 15,
      "husbandry": 3,
-     "nether": 12
+     "nether": 13
     },
     "recent": [
+     [
+      "nether/create_full_beacon",
+      "2026-10-19T02:13:52Z"
+     ],
      [
       "nether/create_beacon",
       "2026-10-19T01:33:29Z"
@@ -1145,10 +1149,6 @@
      [
       "nether/return_to_sender",
       "2026-10-18T23:52:19Z"
-     ],
-     [
-      "nether/netherite_armor",
-      "2026-10-18T20:16:40Z"
      ]
     ]
    }
