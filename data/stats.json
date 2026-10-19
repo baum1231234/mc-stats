@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T00:50:57Z",
+ "updated": "2026-10-19T00:56:41Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10883667,
+ "serverTicks": 10889667,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -555,19 +555,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T00:50:35Z",
-   "playTicks": 2817292,
+   "lastSeen": "2026-10-19T00:55:35Z",
+   "playTicks": 2823292,
    "deaths": 8,
    "mobKills": 3714,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 251757,
    "damageTaken": 39529,
-   "distanceCm": 26372366,
-   "walkCm": 11160224,
-   "flyCm": 8417483,
-   "jumps": 45229,
-   "mined": 18219,
+   "distanceCm": 26395080,
+   "walkCm": 11178836,
+   "flyCm": 8421463,
+   "jumps": 45277,
+   "mined": 18221,
    "topMined": [
     [
      "netherrack",
@@ -575,18 +575,18 @@
     ],
     [
      "stone",
-     1433
+     1434
     ],
     [
      "lectern",
      1113
     ]
    ],
-   "crafted": 16751,
+   "crafted": 17057,
    "topCrafted": [
     [
      "emerald",
-     3969
+     3987
     ],
     [
      "iron_ingot",
@@ -1031,18 +1031,18 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T00:50:35Z",
-   "playTicks": 2279563,
+   "lastSeen": "2026-10-19T00:55:35Z",
+   "playTicks": 2285563,
    "deaths": 21,
-   "mobKills": 4518,
+   "mobKills": 4832,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 175111,
    "damageTaken": 33529,
-   "distanceCm": 16771597,
-   "walkCm": 8221324,
-   "flyCm": 5741589,
-   "jumps": 29872,
+   "distanceCm": 16787790,
+   "walkCm": 8232877,
+   "flyCm": 5746100,
+   "jumps": 29926,
    "mined": 33017,
    "topMined": [
     [
@@ -1058,7 +1058,7 @@
      1000
     ]
    ],
-   "crafted": 20653,
+   "crafted": 20670,
    "topCrafted": [
     [
      "stick",
@@ -1076,7 +1076,7 @@
    "topKilled": [
     [
      "silverfish",
-     2221
+     2532
     ],
     [
      "pillager",
