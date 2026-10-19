@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T21:32:39Z",
+ "updated": "2026-10-19T21:35:46Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 11866433,
  "players": [
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-19T21:27:57Z",
-   "playTicks": 4843568,
+   "lastSeen": "2026-10-19T21:32:57Z",
+   "playTicks": 4849568,
    "deaths": 2,
-   "mobKills": 2564,
+   "mobKills": 2583,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 338132,
-   "damageTaken": 16296,
-   "distanceCm": 51208841,
-   "walkCm": 23274502,
-   "flyCm": 15050431,
-   "jumps": 52606,
-   "mined": 95969,
+   "damageDealt": 339473,
+   "damageTaken": 16323,
+   "distanceCm": 51263570,
+   "walkCm": 23290584,
+   "flyCm": 15076120,
+   "jumps": 52653,
+   "mined": 95971,
    "topMined": [
     [
      "netherrack",
@@ -132,11 +132,11 @@
     ],
     [
      "grass_block",
-     12749
+     12750
     ],
     [
      "dirt",
-     9471
+     9472
     ]
    ],
    "crafted": 50525,
@@ -441,19 +441,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-19T21:27:57Z",
-   "playTicks": 3632084,
+   "lastSeen": "2026-10-19T21:32:57Z",
+   "playTicks": 3638084,
    "deaths": 2,
    "mobKills": 1320,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 122787,
-   "damageTaken": 34979,
-   "distanceCm": 34905789,
-   "walkCm": 15360868,
-   "flyCm": 11937559,
-   "jumps": 62143,
-   "mined": 108049,
+   "damageTaken": 35032,
+   "distanceCm": 34984624,
+   "walkCm": 15372839,
+   "flyCm": 11990267,
+   "jumps": 62294,
+   "mined": 108053,
    "topMined": [
     [
      "netherrack",
@@ -461,7 +461,7 @@
     ],
     [
      "stone",
-     28829
+     28832
     ],
     [
      "waxed_copper_block",
@@ -555,18 +555,18 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T21:27:57Z",
-   "playTicks": 3497077,
+   "lastSeen": "2026-10-19T21:32:57Z",
+   "playTicks": 3503077,
    "deaths": 8,
    "mobKills": 4411,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 280493,
-   "damageTaken": 42788,
-   "distanceCm": 30926432,
-   "walkCm": 13668502,
-   "flyCm": 9766166,
-   "jumps": 51819,
+   "damageTaken": 42884,
+   "distanceCm": 31087077,
+   "walkCm": 13685717,
+   "flyCm": 9818850,
+   "jumps": 51992,
    "mined": 46663,
    "topMined": [
     [
@@ -681,19 +681,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T21:27:57Z",
-   "playTicks": 2857238,
+   "lastSeen": "2026-10-19T21:32:57Z",
+   "playTicks": 2863238,
    "deaths": 21,
    "mobKills": 5743,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 203777,
-   "damageTaken": 36866,
-   "distanceCm": 22462901,
-   "walkCm": 10039200,
-   "flyCm": 7057061,
-   "jumps": 36975,
-   "mined": 47687,
+   "damageTaken": 36894,
+   "distanceCm": 22615455,
+   "walkCm": 10060104,
+   "flyCm": 7105717,
+   "jumps": 37109,
+   "mined": 47800,
    "topMined": [
     [
      "netherrack",
@@ -3521,8 +3521,8 @@
     "rendered": "2026-10-19T12:36:45Z"
    },
    "5.5": {
-    "mtime": "2026-10-17T17:31:33Z",
-    "rendered": "2026-10-17T21:50:08Z",
+    "mtime": "2026-10-19T21:35:11Z",
+    "rendered": "2026-10-19T21:35:46Z",
     "empty": true
    },
    "8.2": {
@@ -3710,8 +3710,17 @@
     "rendered": "2026-10-17T22:21:23Z"
    },
    "6.5": {
-    "mtime": "2026-10-17T17:31:44Z",
-    "rendered": "2026-10-19T17:19:31Z",
+    "mtime": "2026-10-19T21:35:11Z",
+    "rendered": "2026-10-19T21:35:46Z",
+    "empty": true
+   },
+   "7.4": {
+    "mtime": "2026-10-19T21:36:12Z",
+    "rendered": "2026-10-19T21:35:46Z"
+   },
+   "8.3": {
+    "mtime": "2026-10-19T21:35:12Z",
+    "rendered": "2026-10-19T21:35:46Z",
     "empty": true
    },
    "10.-1": {
@@ -3777,10 +3786,6 @@
    },
    "0.11": {
     "mtime": "2026-10-17T17:28:41Z",
-    "rendered": "2026-10-19T17:27:11Z"
-   },
-   "1.10": {
-    "mtime": "2026-10-17T17:29:10Z",
     "rendered": "2026-10-19T17:27:11Z"
    }
   }
