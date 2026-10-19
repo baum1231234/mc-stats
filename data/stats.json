@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T18:29:27Z",
+ "updated": "2026-10-19T18:33:47Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 11644433,
  "players": [
@@ -555,19 +555,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T18:27:57Z",
-   "playTicks": 3281077,
+   "lastSeen": "2026-10-19T18:32:57Z",
+   "playTicks": 3287077,
    "deaths": 8,
    "mobKills": 3798,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 273501,
    "damageTaken": 41681,
-   "distanceCm": 29210656,
-   "walkCm": 13012294,
-   "flyCm": 9173156,
-   "jumps": 50370,
-   "mined": 36130,
+   "distanceCm": 29277499,
+   "walkCm": 13065426,
+   "flyCm": 9185967,
+   "jumps": 50459,
+   "mined": 37534,
    "topMined": [
     [
      "spruce_log",
@@ -681,8 +681,8 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-19T18:27:57Z",
-   "playTicks": 2730749,
+   "lastSeen": "2026-10-19T18:32:57Z",
+   "playTicks": 2736749,
    "deaths": 29,
    "mobKills": 1160,
    "playerKills": 0,
@@ -795,6 +795,132 @@
      [
       "nether/find_fortress",
       "2026-10-17T02:35:27Z"
+     ]
+    ]
+   }
+  },
+  {
+   "uuid": "775e2172-8576-416e-b390-8328646044f9",
+   "name": "htxl",
+   "firstSeen": "2026-10-14T22:34:53Z",
+   "lastSeen": "2026-10-19T18:32:57Z",
+   "playTicks": 2647238,
+   "deaths": 21,
+   "mobKills": 5711,
+   "playerKills": 1,
+   "killedByPlayers": 1,
+   "damageDealt": 197889,
+   "damageTaken": 35990,
+   "distanceCm": 20776550,
+   "walkCm": 9770851,
+   "flyCm": 6566190,
+   "jumps": 35554,
+   "mined": 38735,
+   "topMined": [
+    [
+     "netherrack",
+     23770
+    ],
+    [
+     "spruce_log",
+     4908
+    ],
+    [
+     "deepslate",
+     2315
+    ]
+   ],
+   "crafted": 110452,
+   "topCrafted": [
+    [
+     "stick",
+     66107
+    ],
+    [
+     "spruce_planks",
+     32702
+    ],
+    [
+     "emerald",
+     4007
+    ]
+   ],
+   "topKilled": [
+    [
+     "silverfish",
+     3241
+    ],
+    [
+     "pillager",
+     256
+    ],
+    [
+     "skeleton",
+     160
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "vex",
+     12
+    ],
+    [
+     "stray",
+     4
+    ],
+    [
+     "zombie",
+     2
+    ],
+    [
+     "skeleton",
+     1
+    ],
+    [
+     "player",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 44,
+    "byTab": {
+     "story": 13,
+     "adventure": 15,
+     "husbandry": 3,
+     "nether": 13
+    },
+    "recent": [
+     [
+      "nether/create_full_beacon",
+      "2026-10-19T02:13:52Z"
+     ],
+     [
+      "nether/create_beacon",
+      "2026-10-19T01:33:29Z"
+     ],
+     [
+      "nether/summon_wither",
+      "2026-10-19T01:06:08Z"
+     ],
+     [
+      "husbandry/place_dried_ghast_in_water",
+      "2026-10-19T00:45:05Z"
+     ],
+     [
+      "nether/get_wither_skull",
+      "2026-10-19T00:04:55Z"
+     ],
+     [
+      "nether/explore_nether",
+      "2026-10-19T00:03:04Z"
+     ],
+     [
+      "nether/find_bastion",
+      "2026-10-18T23:54:16Z"
+     ],
+     [
+      "nether/return_to_sender",
+      "2026-10-18T23:52:19Z"
      ]
     ]
    }
@@ -913,132 +1039,6 @@
      [
       "story/shiny_gear",
       "2026-10-13T12:34:11Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "775e2172-8576-416e-b390-8328646044f9",
-   "name": "htxl",
-   "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T18:27:57Z",
-   "playTicks": 2641238,
-   "deaths": 21,
-   "mobKills": 5705,
-   "playerKills": 1,
-   "killedByPlayers": 1,
-   "damageDealt": 196648,
-   "damageTaken": 35915,
-   "distanceCm": 20372473,
-   "walkCm": 9770358,
-   "flyCm": 6556872,
-   "jumps": 35547,
-   "mined": 38727,
-   "topMined": [
-    [
-     "netherrack",
-     23770
-    ],
-    [
-     "spruce_log",
-     4908
-    ],
-    [
-     "deepslate",
-     2314
-    ]
-   ],
-   "crafted": 110452,
-   "topCrafted": [
-    [
-     "stick",
-     66107
-    ],
-    [
-     "spruce_planks",
-     32702
-    ],
-    [
-     "emerald",
-     4007
-    ]
-   ],
-   "topKilled": [
-    [
-     "silverfish",
-     3241
-    ],
-    [
-     "pillager",
-     256
-    ],
-    [
-     "skeleton",
-     160
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "vex",
-     12
-    ],
-    [
-     "stray",
-     4
-    ],
-    [
-     "zombie",
-     2
-    ],
-    [
-     "skeleton",
-     1
-    ],
-    [
-     "player",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 44,
-    "byTab": {
-     "story": 13,
-     "adventure": 15,
-     "husbandry": 3,
-     "nether": 13
-    },
-    "recent": [
-     [
-      "nether/create_full_beacon",
-      "2026-10-19T02:13:52Z"
-     ],
-     [
-      "nether/create_beacon",
-      "2026-10-19T01:33:29Z"
-     ],
-     [
-      "nether/summon_wither",
-      "2026-10-19T01:06:08Z"
-     ],
-     [
-      "husbandry/place_dried_ghast_in_water",
-      "2026-10-19T00:45:05Z"
-     ],
-     [
-      "nether/get_wither_skull",
-      "2026-10-19T00:04:55Z"
-     ],
-     [
-      "nether/explore_nether",
-      "2026-10-19T00:03:04Z"
-     ],
-     [
-      "nether/find_bastion",
-      "2026-10-18T23:54:16Z"
-     ],
-     [
-      "nether/return_to_sender",
-      "2026-10-18T23:52:19Z"
      ]
     ]
    }
