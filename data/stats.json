@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-18T23:59:46Z",
+ "updated": "2026-10-19T00:02:37Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10817667,
+ "serverTicks": 10823667,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T23:55:35Z",
-   "playTicks": 5658243,
+   "lastSeen": "2026-10-19T00:00:35Z",
+   "playTicks": 5664243,
    "deaths": 0,
    "mobKills": 3798,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 516240,
-   "damageTaken": 63487,
-   "distanceCm": 90088607,
-   "walkCm": 23496982,
-   "flyCm": 30691510,
-   "jumps": 121195,
-   "mined": 66430,
+   "damageTaken": 63493,
+   "distanceCm": 90169908,
+   "walkCm": 23531245,
+   "flyCm": 30731125,
+   "jumps": 121393,
+   "mined": 66435,
    "topMined": [
     [
      "netherrack",
@@ -555,23 +555,23 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-18T23:55:35Z",
-   "playTicks": 2751292,
+   "lastSeen": "2026-10-19T00:00:35Z",
+   "playTicks": 2757292,
    "deaths": 8,
-   "mobKills": 3494,
+   "mobKills": 3505,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 218501,
-   "damageTaken": 36088,
-   "distanceCm": 25774981,
-   "walkCm": 10781652,
-   "flyCm": 8235154,
-   "jumps": 43905,
-   "mined": 17590,
+   "damageDealt": 220260,
+   "damageTaken": 36285,
+   "distanceCm": 25893240,
+   "walkCm": 10849649,
+   "flyCm": 8277315,
+   "jumps": 44110,
+   "mined": 17625,
    "topMined": [
     [
      "netherrack",
-     3291
+     3316
     ],
     [
      "stone",
@@ -608,7 +608,7 @@
     ],
     [
      "skeleton",
-     142
+     146
     ]
    ],
    "topKilledBy": [
@@ -1031,19 +1031,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-18T23:55:35Z",
-   "playTicks": 2213563,
+   "lastSeen": "2026-10-19T00:00:35Z",
+   "playTicks": 2219563,
    "deaths": 21,
-   "mobKills": 4244,
+   "mobKills": 4276,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 140410,
-   "damageTaken": 28763,
-   "distanceCm": 15927958,
-   "walkCm": 7652370,
-   "flyCm": 5516425,
-   "jumps": 28404,
-   "mined": 32439,
+   "damageDealt": 145613,
+   "damageTaken": 29143,
+   "distanceCm": 16058536,
+   "walkCm": 7716168,
+   "flyCm": 5570655,
+   "jumps": 28675,
+   "mined": 32455,
    "topMined": [
     [
      "netherrack",
@@ -1084,7 +1084,7 @@
     ],
     [
      "skeleton",
-     133
+     137
     ]
    ],
    "topKilledBy": [
