@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T02:06:16Z",
+ "updated": "2026-10-19T02:08:00Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10972465,
+ "serverTicks": 10974986,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -555,19 +555,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T02:04:52Z",
-   "playTicks": 2905530,
+   "lastSeen": "2026-10-19T02:06:58Z",
+   "playTicks": 2908051,
    "deaths": 8,
    "mobKills": 3736,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 260443,
    "damageTaken": 40927,
-   "distanceCm": 26967977,
-   "walkCm": 11571514,
-   "flyCm": 8524804,
-   "jumps": 46392,
-   "mined": 22446,
+   "distanceCm": 26983371,
+   "walkCm": 11584139,
+   "flyCm": 8527571,
+   "jumps": 46450,
+   "mined": 22754,
    "topMined": [
     [
      "netherrack",
@@ -575,7 +575,7 @@
     ],
     [
      "spruce_log",
-     3184
+     3346
     ],
     [
      "stone",
@@ -1031,19 +1031,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T02:04:52Z",
-   "playTicks": 2362348,
+   "lastSeen": "2026-10-19T02:06:58Z",
+   "playTicks": 2364869,
    "deaths": 21,
    "mobKills": 5568,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 181496,
    "damageTaken": 34702,
-   "distanceCm": 17442155,
-   "walkCm": 8620858,
-   "flyCm": 5879934,
-   "jumps": 30985,
-   "mined": 35139,
+   "distanceCm": 17462103,
+   "walkCm": 8634108,
+   "flyCm": 5886407,
+   "jumps": 31056,
+   "mined": 35141,
    "topMined": [
     [
      "netherrack",
@@ -1058,15 +1058,15 @@
      1762
     ]
    ],
-   "crafted": 28598,
+   "crafted": 32590,
    "topCrafted": [
     [
      "stick",
-     13088
+     15816
     ],
     [
      "spruce_planks",
-     6843
+     8043
     ],
     [
      "iron_ingot",
@@ -2293,8 +2293,8 @@
     "rendered": "2026-10-19T00:04:06Z"
    },
    "3.-1": {
-    "mtime": "2026-10-18T20:31:22Z",
-    "rendered": "2026-10-18T23:06:29Z"
+    "mtime": "2026-10-19T01:05:20Z",
+    "rendered": "2026-10-19T02:08:00Z"
    },
    "4.0": {
     "mtime": "2026-10-18T19:52:39Z",
