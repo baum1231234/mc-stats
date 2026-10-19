@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T20:04:22Z",
+ "updated": "2026-10-19T20:07:15Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11758433,
+ "serverTicks": 11762963,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -112,18 +112,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-19T20:02:57Z",
-   "playTicks": 4741715,
+   "lastSeen": "2026-10-19T20:06:43Z",
+   "playTicks": 4746245,
    "deaths": 2,
-   "mobKills": 2543,
+   "mobKills": 2544,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 333879,
-   "damageTaken": 16055,
-   "distanceCm": 50376647,
-   "walkCm": 22864018,
-   "flyCm": 14720878,
-   "jumps": 50990,
+   "damageDealt": 334069,
+   "damageTaken": 16098,
+   "distanceCm": 50410683,
+   "walkCm": 22883391,
+   "flyCm": 14734241,
+   "jumps": 51052,
    "mined": 95525,
    "topMined": [
     [
@@ -161,7 +161,7 @@
     ],
     [
      "zombie",
-     543
+     544
     ],
     [
      "skeleton",
@@ -441,18 +441,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-19T20:02:57Z",
-   "playTicks": 3536759,
+   "lastSeen": "2026-10-19T20:06:43Z",
+   "playTicks": 3541289,
    "deaths": 2,
-   "mobKills": 1298,
+   "mobKills": 1302,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 118762,
-   "damageTaken": 34407,
-   "distanceCm": 33980379,
-   "walkCm": 14913242,
-   "flyCm": 11550147,
-   "jumps": 58900,
+   "damageDealt": 119193,
+   "damageTaken": 34433,
+   "distanceCm": 34044520,
+   "walkCm": 14940677,
+   "flyCm": 11579602,
+   "jumps": 59079,
    "mined": 106585,
    "topMined": [
     [
@@ -490,11 +490,11 @@
     ],
     [
      "skeleton",
-     146
+     147
     ],
     [
      "zombie",
-     101
+     102
     ]
    ],
    "topKilledBy": [
@@ -555,8 +555,8 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T20:02:57Z",
-   "playTicks": 3395077,
+   "lastSeen": "2026-10-19T20:06:43Z",
+   "playTicks": 3399607,
    "deaths": 8,
    "mobKills": 4408,
    "playerKills": 1,
@@ -681,8 +681,8 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T20:02:57Z",
-   "playTicks": 2755238,
+   "lastSeen": "2026-10-19T20:06:43Z",
+   "playTicks": 2759768,
    "deaths": 21,
    "mobKills": 5736,
    "playerKills": 1,
