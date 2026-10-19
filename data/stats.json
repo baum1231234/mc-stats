@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-19T00:04:06Z",
+ "updated": "2026-10-19T00:05:45Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10823667,
+ "serverTicks": 10829667,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-19T00:00:35Z",
-   "playTicks": 5664243,
+   "lastSeen": "2026-10-19T00:05:35Z",
+   "playTicks": 5670243,
    "deaths": 0,
-   "mobKills": 3798,
+   "mobKills": 3802,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 516240,
-   "damageTaken": 63493,
-   "distanceCm": 90169908,
-   "walkCm": 23531245,
-   "flyCm": 30731125,
-   "jumps": 121393,
-   "mined": 66435,
+   "damageDealt": 517020,
+   "damageTaken": 63614,
+   "distanceCm": 90349503,
+   "walkCm": 23571964,
+   "flyCm": 30769974,
+   "jumps": 121555,
+   "mined": 66503,
    "topMined": [
     [
      "netherrack",
-     32817
+     32819
     ],
     [
      "spruce_log",
@@ -34,7 +34,7 @@
      4536
     ]
    ],
-   "crafted": 92622,
+   "crafted": 92631,
    "topCrafted": [
     [
      "stick",
@@ -56,7 +56,7 @@
     ],
     [
      "skeleton",
-     458
+     462
     ],
     [
      "zombie",
@@ -555,23 +555,23 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T00:00:35Z",
-   "playTicks": 2757292,
+   "lastSeen": "2026-10-19T00:05:35Z",
+   "playTicks": 2763292,
    "deaths": 8,
-   "mobKills": 3505,
+   "mobKills": 3515,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 220260,
-   "damageTaken": 36285,
-   "distanceCm": 25893240,
-   "walkCm": 10849649,
-   "flyCm": 8277315,
-   "jumps": 44110,
-   "mined": 17625,
+   "damageDealt": 222260,
+   "damageTaken": 36609,
+   "distanceCm": 25964889,
+   "walkCm": 10891469,
+   "flyCm": 8296317,
+   "jumps": 44270,
+   "mined": 17835,
    "topMined": [
     [
      "netherrack",
-     3316
+     3509
     ],
     [
      "stone",
@@ -1031,23 +1031,23 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T00:00:35Z",
-   "playTicks": 2219563,
+   "lastSeen": "2026-10-19T00:05:35Z",
+   "playTicks": 2225563,
    "deaths": 21,
-   "mobKills": 4276,
+   "mobKills": 4290,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 145613,
-   "damageTaken": 29143,
-   "distanceCm": 16058536,
-   "walkCm": 7716168,
-   "flyCm": 5570655,
-   "jumps": 28675,
-   "mined": 32455,
+   "damageDealt": 147757,
+   "damageTaken": 29681,
+   "distanceCm": 16159155,
+   "walkCm": 7779124,
+   "flyCm": 5597957,
+   "jumps": 28860,
+   "mined": 32492,
    "topMined": [
     [
      "netherrack",
-     23483
+     23512
     ],
     [
      "deepslate",
@@ -1110,14 +1110,22 @@
     ]
    ],
    "adv": {
-    "count": 38,
+    "count": 40,
     "byTab": {
      "story": 13,
      "adventure": 15,
      "husbandry": 2,
-     "nether": 8
+     "nether": 10
     },
     "recent": [
+     [
+      "nether/get_wither_skull",
+      "2026-10-19T00:04:55Z"
+     ],
+     [
+      "nether/explore_nether",
+      "2026-10-19T00:03:04Z"
+     ],
      [
       "nether/find_bastion",
       "2026-10-18T23:54:16Z"
@@ -1141,14 +1149,6 @@
      [
       "adventure/revaulting",
       "2026-10-18T15:51:36Z"
-     ],
-     [
-      "adventure/throw_trident",
-      "2026-10-18T14:43:31Z"
-     ],
-     [
-      "husbandry/breed_an_animal",
-      "2026-10-18T14:28:39Z"
      ]
     ]
    }
@@ -2401,8 +2401,8 @@
     "rendered": "2026-10-19T00:04:06Z"
    },
    "-10.2": {
-    "mtime": "2026-10-18T20:34:34Z",
-    "rendered": "2026-10-18T21:05:19Z"
+    "mtime": "2026-10-18T21:55:53Z",
+    "rendered": "2026-10-19T00:05:45Z"
    },
    "-11.-1": {
     "mtime": "2026-10-18T14:10:07Z",
