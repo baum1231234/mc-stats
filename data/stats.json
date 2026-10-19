@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T20:01:20Z",
+ "updated": "2026-10-19T20:02:51Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11752433,
+ "serverTicks": 11758433,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -112,18 +112,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-19T19:57:57Z",
-   "playTicks": 4735715,
+   "lastSeen": "2026-10-19T20:02:57Z",
+   "playTicks": 4741715,
    "deaths": 2,
-   "mobKills": 2539,
+   "mobKills": 2543,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 332445,
-   "damageTaken": 15948,
-   "distanceCm": 50322659,
-   "walkCm": 22833796,
-   "flyCm": 14699393,
-   "jumps": 50882,
+   "damageDealt": 333879,
+   "damageTaken": 16055,
+   "distanceCm": 50376647,
+   "walkCm": 22864018,
+   "flyCm": 14720878,
+   "jumps": 50990,
    "mined": 95525,
    "topMined": [
     [
@@ -161,7 +161,7 @@
     ],
     [
      "zombie",
-     541
+     543
     ],
     [
      "skeleton",
@@ -555,8 +555,8 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T19:57:57Z",
-   "playTicks": 3389077,
+   "lastSeen": "2026-10-19T20:02:57Z",
+   "playTicks": 3395077,
    "deaths": 8,
    "mobKills": 4408,
    "playerKills": 1,
@@ -673,6 +673,132 @@
      [
       "adventure/who_needs_rockets",
       "2026-10-18T16:05:19Z"
+     ]
+    ]
+   }
+  },
+  {
+   "uuid": "775e2172-8576-416e-b390-8328646044f9",
+   "name": "htxl",
+   "firstSeen": "2026-10-14T22:34:53Z",
+   "lastSeen": "2026-10-19T20:02:57Z",
+   "playTicks": 2755238,
+   "deaths": 21,
+   "mobKills": 5736,
+   "playerKills": 1,
+   "killedByPlayers": 1,
+   "damageDealt": 202478,
+   "damageTaken": 36381,
+   "distanceCm": 21987137,
+   "walkCm": 9981855,
+   "flyCm": 6850965,
+   "jumps": 36603,
+   "mined": 44666,
+   "topMined": [
+    [
+     "netherrack",
+     23770
+    ],
+    [
+     "snow",
+     5870
+    ],
+    [
+     "spruce_log",
+     4908
+    ]
+   ],
+   "crafted": 117476,
+   "topCrafted": [
+    [
+     "stick",
+     69643
+    ],
+    [
+     "spruce_planks",
+     34494
+    ],
+    [
+     "emerald",
+     4120
+    ]
+   ],
+   "topKilled": [
+    [
+     "silverfish",
+     3241
+    ],
+    [
+     "pillager",
+     256
+    ],
+    [
+     "skeleton",
+     162
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "vex",
+     12
+    ],
+    [
+     "stray",
+     4
+    ],
+    [
+     "zombie",
+     2
+    ],
+    [
+     "skeleton",
+     1
+    ],
+    [
+     "player",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 45,
+    "byTab": {
+     "story": 13,
+     "adventure": 15,
+     "husbandry": 4,
+     "nether": 13
+    },
+    "recent": [
+     [
+      "husbandry/plant_seed",
+      "2026-10-19T19:36:32Z"
+     ],
+     [
+      "nether/create_full_beacon",
+      "2026-10-19T02:13:52Z"
+     ],
+     [
+      "nether/create_beacon",
+      "2026-10-19T01:33:29Z"
+     ],
+     [
+      "nether/summon_wither",
+      "2026-10-19T01:06:08Z"
+     ],
+     [
+      "husbandry/place_dried_ghast_in_water",
+      "2026-10-19T00:45:05Z"
+     ],
+     [
+      "nether/get_wither_skull",
+      "2026-10-19T00:04:55Z"
+     ],
+     [
+      "nether/explore_nether",
+      "2026-10-19T00:03:04Z"
+     ],
+     [
+      "nether/find_bastion",
+      "2026-10-18T23:54:16Z"
      ]
     ]
    }
@@ -795,132 +921,6 @@
      [
       "nether/find_fortress",
       "2026-10-17T02:35:27Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "775e2172-8576-416e-b390-8328646044f9",
-   "name": "htxl",
-   "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T19:57:57Z",
-   "playTicks": 2749238,
-   "deaths": 21,
-   "mobKills": 5736,
-   "playerKills": 1,
-   "killedByPlayers": 1,
-   "damageDealt": 202478,
-   "damageTaken": 36381,
-   "distanceCm": 21967082,
-   "walkCm": 9969234,
-   "flyCm": 6843531,
-   "jumps": 36523,
-   "mined": 44663,
-   "topMined": [
-    [
-     "netherrack",
-     23770
-    ],
-    [
-     "snow",
-     5870
-    ],
-    [
-     "spruce_log",
-     4908
-    ]
-   ],
-   "crafted": 117464,
-   "topCrafted": [
-    [
-     "stick",
-     69643
-    ],
-    [
-     "spruce_planks",
-     34494
-    ],
-    [
-     "emerald",
-     4120
-    ]
-   ],
-   "topKilled": [
-    [
-     "silverfish",
-     3241
-    ],
-    [
-     "pillager",
-     256
-    ],
-    [
-     "skeleton",
-     162
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "vex",
-     12
-    ],
-    [
-     "stray",
-     4
-    ],
-    [
-     "zombie",
-     2
-    ],
-    [
-     "skeleton",
-     1
-    ],
-    [
-     "player",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 45,
-    "byTab": {
-     "story": 13,
-     "adventure": 15,
-     "husbandry": 4,
-     "nether": 13
-    },
-    "recent": [
-     [
-      "husbandry/plant_seed",
-      "2026-10-19T19:36:32Z"
-     ],
-     [
-      "nether/create_full_beacon",
-      "2026-10-19T02:13:52Z"
-     ],
-     [
-      "nether/create_beacon",
-      "2026-10-19T01:33:29Z"
-     ],
-     [
-      "nether/summon_wither",
-      "2026-10-19T01:06:08Z"
-     ],
-     [
-      "husbandry/place_dried_ghast_in_water",
-      "2026-10-19T00:45:05Z"
-     ],
-     [
-      "nether/get_wither_skull",
-      "2026-10-19T00:04:55Z"
-     ],
-     [
-      "nether/explore_nether",
-      "2026-10-19T00:03:04Z"
-     ],
-     [
-      "nether/find_bastion",
-      "2026-10-18T23:54:16Z"
      ]
     ]
    }
