@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T01:32:18Z",
+ "updated": "2026-10-19T01:35:41Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10932986,
+ "serverTicks": 10936474,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -555,19 +555,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T01:31:58Z",
-   "playTicks": 2866051,
+   "lastSeen": "2026-10-19T01:34:52Z",
+   "playTicks": 2869539,
    "deaths": 8,
    "mobKills": 3730,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 258491,
    "damageTaken": 40781,
-   "distanceCm": 26684094,
-   "walkCm": 11328102,
-   "flyCm": 8490389,
-   "jumps": 45937,
-   "mined": 18981,
+   "distanceCm": 26702230,
+   "walkCm": 11344918,
+   "flyCm": 8491709,
+   "jumps": 45973,
+   "mined": 19157,
    "topMined": [
     [
      "netherrack",
@@ -582,7 +582,7 @@
      1113
     ]
    ],
-   "crafted": 17252,
+   "crafted": 17288,
    "topCrafted": [
     [
      "emerald",
@@ -1031,19 +1031,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T01:31:58Z",
-   "playTicks": 2322869,
+   "lastSeen": "2026-10-19T01:34:52Z",
+   "playTicks": 2326357,
    "deaths": 21,
-   "mobKills": 5566,
+   "mobKills": 5567,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 181246,
+   "damageDealt": 181296,
    "damageTaken": 34662,
-   "distanceCm": 17162801,
-   "walkCm": 8407033,
-   "flyCm": 5855787,
-   "jumps": 30636,
-   "mined": 33599,
+   "distanceCm": 17189917,
+   "walkCm": 8433865,
+   "flyCm": 5856071,
+   "jumps": 30667,
+   "mined": 33785,
    "topMined": [
     [
      "netherrack",
@@ -1055,10 +1055,10 @@
     ],
     [
      "spruce_log",
-     1324
+     1376
     ]
    ],
-   "crafted": 20691,
+   "crafted": 20700,
    "topCrafted": [
     [
      "stick",
@@ -1110,14 +1110,18 @@
     ]
    ],
    "adv": {
-    "count": 42,
+    "count": 43,
     "byTab": {
      "story": 13,
      "adventure": 15,
      "husbandry": 3,
-     "nether": 11
+     "nether": 12
     },
     "recent": [
+     [
+      "nether/create_beacon",
+      "2026-10-19T01:33:29Z"
+     ],
      [
       "nether/summon_wither",
       "2026-10-19T01:06:08Z"
@@ -1145,10 +1149,6 @@
      [
       "nether/netherite_armor",
       "2026-10-18T20:16:40Z"
-     ],
-     [
-      "nether/obtain_ancient_debris",
-      "2026-10-18T17:20:00Z"
      ]
     ]
    }
