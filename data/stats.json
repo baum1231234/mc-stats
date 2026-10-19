@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T02:00:56Z",
+ "updated": "2026-10-19T02:02:42Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10962986,
+ "serverTicks": 10968986,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -555,19 +555,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T01:56:58Z",
-   "playTicks": 2896051,
+   "lastSeen": "2026-10-19T02:01:58Z",
+   "playTicks": 2902051,
    "deaths": 8,
    "mobKills": 3736,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 260443,
    "damageTaken": 40927,
-   "distanceCm": 26885629,
-   "walkCm": 11504615,
-   "flyCm": 8511136,
-   "jumps": 46274,
-   "mined": 21600,
+   "distanceCm": 26939862,
+   "walkCm": 11548962,
+   "flyCm": 8520472,
+   "jumps": 46363,
+   "mined": 22108,
    "topMined": [
     [
      "netherrack",
@@ -575,7 +575,7 @@
     ],
     [
      "spruce_log",
-     2627
+     2861
     ],
     [
      "stone",
@@ -1031,19 +1031,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T01:56:58Z",
-   "playTicks": 2352869,
+   "lastSeen": "2026-10-19T02:01:58Z",
+   "playTicks": 2358869,
    "deaths": 21,
    "mobKills": 5568,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 181496,
-   "damageTaken": 34698,
-   "distanceCm": 17396914,
-   "walkCm": 8578734,
-   "flyCm": 5877617,
-   "jumps": 30948,
-   "mined": 34600,
+   "damageTaken": 34702,
+   "distanceCm": 17434050,
+   "walkCm": 8614231,
+   "flyCm": 5878456,
+   "jumps": 30970,
+   "mined": 35135,
    "topMined": [
     [
      "netherrack",
@@ -1051,22 +1051,22 @@
     ],
     [
      "spruce_log",
-     1998
+     2495
     ],
     [
      "deepslate",
      1762
     ]
    ],
-   "crafted": 20797,
+   "crafted": 22077,
    "topCrafted": [
     [
      "stick",
-     8328
+     9096
     ],
     [
      "spruce_planks",
-     3951
+     4463
     ],
     [
      "iron_ingot",
