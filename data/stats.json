@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T11:07:02Z",
+ "updated": "2026-10-19T11:08:31Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 11113846,
  "players": [
@@ -1031,18 +1031,18 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T11:05:48Z",
-   "playTicks": 2484149,
+   "lastSeen": "2026-10-19T11:07:57Z",
+   "playTicks": 2486736,
    "deaths": 21,
-   "mobKills": 5588,
+   "mobKills": 5591,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 184296,
+   "damageDealt": 184556,
    "damageTaken": 34906,
-   "distanceCm": 18458117,
-   "walkCm": 9243979,
-   "flyCm": 6189824,
-   "jumps": 33389,
+   "distanceCm": 18465395,
+   "walkCm": 9246100,
+   "flyCm": 6189985,
+   "jumps": 33396,
    "mined": 37732,
    "topMined": [
     [
@@ -1080,7 +1080,7 @@
     ],
     [
      "pillager",
-     223
+     225
     ],
     [
      "skeleton",
@@ -1157,19 +1157,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-19T11:05:48Z",
-   "playTicks": 2128806,
+   "lastSeen": "2026-10-19T11:07:57Z",
+   "playTicks": 2131393,
    "deaths": 4,
    "mobKills": 1667,
    "playerKills": 1,
    "killedByPlayers": 2,
    "damageDealt": 91757,
    "damageTaken": 15962,
-   "distanceCm": 21097214,
-   "walkCm": 10002982,
-   "flyCm": 5568975,
-   "jumps": 32454,
-   "mined": 44713,
+   "distanceCm": 21106205,
+   "walkCm": 10010320,
+   "flyCm": 5570328,
+   "jumps": 32462,
+   "mined": 44836,
    "topMined": [
     [
      "netherrack",
@@ -1181,18 +1181,18 @@
     ],
     [
      "spruce_log",
-     4851
+     4972
     ]
    ],
-   "crafted": 60450,
+   "crafted": 63494,
    "topCrafted": [
     [
      "stick",
-     28286
+     30266
     ],
     [
      "spruce_planks",
-     14823
+     15847
     ],
     [
      "deepslate_bricks",
@@ -1397,19 +1397,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-19T11:05:48Z",
-   "playTicks": 670760,
+   "lastSeen": "2026-10-19T11:07:57Z",
+   "playTicks": 673347,
    "deaths": 0,
    "mobKills": 466,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 28047,
    "damageTaken": 1753,
-   "distanceCm": 4547119,
-   "walkCm": 3025815,
-   "flyCm": 336168,
-   "jumps": 3922,
-   "mined": 13796,
+   "distanceCm": 4564561,
+   "walkCm": 3040695,
+   "flyCm": 338474,
+   "jumps": 3931,
+   "mined": 13804,
    "topMined": [
     [
      "deepslate",
@@ -1455,13 +1455,22 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 19,
+    "count": 21,
     "byTab": {
-     "story": 8,
+     "story": 9,
      "husbandry": 2,
-     "adventure": 9
+     "adventure": 9,
+     "nether": 1
     },
     "recent": [
+     [
+      "nether/root",
+      "2026-10-19T11:06:59Z"
+     ],
+     [
+      "story/enter_the_nether",
+      "2026-10-19T11:06:59Z"
+     ],
      [
       "adventure/lighten_up",
       "2026-10-16T00:09:36Z"
@@ -1485,14 +1494,6 @@
      [
       "adventure/revaulting",
       "2026-10-13T09:06:59Z"
-     ],
-     [
-      "adventure/shoot_arrow",
-      "2026-10-13T09:01:41Z"
-     ],
-     [
-      "adventure/under_lock_and_key",
-      "2026-10-13T08:52:09Z"
      ]
     ]
    }
