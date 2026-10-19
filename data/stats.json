@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T12:16:14Z",
+ "updated": "2026-10-19T12:19:23Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11194433,
+ "serverTicks": 11200433,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -226,19 +226,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-19T12:12:57Z",
-   "playTicks": 4351885,
+   "lastSeen": "2026-10-19T12:17:57Z",
+   "playTicks": 4357885,
    "deaths": 0,
    "mobKills": 5613,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 414869,
-   "damageTaken": 70587,
-   "distanceCm": 50674201,
-   "walkCm": 14735481,
-   "flyCm": 20056598,
-   "jumps": 74120,
-   "mined": 69456,
+   "damageTaken": 70781,
+   "distanceCm": 50989812,
+   "walkCm": 14754532,
+   "flyCm": 20218735,
+   "jumps": 74432,
+   "mined": 69458,
    "topMined": [
     [
      "netherrack",
@@ -906,6 +906,132 @@
    }
   },
   {
+   "uuid": "775e2172-8576-416e-b390-8328646044f9",
+   "name": "htxl",
+   "firstSeen": "2026-10-14T22:34:53Z",
+   "lastSeen": "2026-10-19T12:17:57Z",
+   "playTicks": 2566119,
+   "deaths": 21,
+   "mobKills": 5642,
+   "playerKills": 1,
+   "killedByPlayers": 1,
+   "damageDealt": 189987,
+   "damageTaken": 35493,
+   "distanceCm": 19159463,
+   "walkCm": 9584233,
+   "flyCm": 6382461,
+   "jumps": 34577,
+   "mined": 38687,
+   "topMined": [
+    [
+     "netherrack",
+     23770
+    ],
+    [
+     "spruce_log",
+     4908
+    ],
+    [
+     "deepslate",
+     2314
+    ]
+   ],
+   "crafted": 93415,
+   "topCrafted": [
+    [
+     "stick",
+     55347
+    ],
+    [
+     "spruce_planks",
+     27326
+    ],
+    [
+     "emerald",
+     3384
+    ]
+   ],
+   "topKilled": [
+    [
+     "silverfish",
+     3241
+    ],
+    [
+     "pillager",
+     237
+    ],
+    [
+     "skeleton",
+     160
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "vex",
+     12
+    ],
+    [
+     "stray",
+     4
+    ],
+    [
+     "zombie",
+     2
+    ],
+    [
+     "skeleton",
+     1
+    ],
+    [
+     "player",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 44,
+    "byTab": {
+     "story": 13,
+     "adventure": 15,
+     "husbandry": 3,
+     "nether": 13
+    },
+    "recent": [
+     [
+      "nether/create_full_beacon",
+      "2026-10-19T02:13:52Z"
+     ],
+     [
+      "nether/create_beacon",
+      "2026-10-19T01:33:29Z"
+     ],
+     [
+      "nether/summon_wither",
+      "2026-10-19T01:06:08Z"
+     ],
+     [
+      "husbandry/place_dried_ghast_in_water",
+      "2026-10-19T00:45:05Z"
+     ],
+     [
+      "nether/get_wither_skull",
+      "2026-10-19T00:04:55Z"
+     ],
+     [
+      "nether/explore_nether",
+      "2026-10-19T00:03:04Z"
+     ],
+     [
+      "nether/find_bastion",
+      "2026-10-18T23:54:16Z"
+     ],
+     [
+      "nether/return_to_sender",
+      "2026-10-18T23:52:19Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
@@ -1023,132 +1149,6 @@
      [
       "nether/find_fortress",
       "2026-10-17T02:35:27Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "775e2172-8576-416e-b390-8328646044f9",
-   "name": "htxl",
-   "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T12:12:57Z",
-   "playTicks": 2560119,
-   "deaths": 21,
-   "mobKills": 5640,
-   "playerKills": 1,
-   "killedByPlayers": 1,
-   "damageDealt": 189967,
-   "damageTaken": 35459,
-   "distanceCm": 19104041,
-   "walkCm": 9564026,
-   "flyCm": 6358303,
-   "jumps": 34480,
-   "mined": 38656,
-   "topMined": [
-    [
-     "netherrack",
-     23769
-    ],
-    [
-     "spruce_log",
-     4908
-    ],
-    [
-     "deepslate",
-     2314
-    ]
-   ],
-   "crafted": 93397,
-   "topCrafted": [
-    [
-     "stick",
-     55347
-    ],
-    [
-     "spruce_planks",
-     27326
-    ],
-    [
-     "emerald",
-     3384
-    ]
-   ],
-   "topKilled": [
-    [
-     "silverfish",
-     3241
-    ],
-    [
-     "pillager",
-     237
-    ],
-    [
-     "skeleton",
-     160
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "vex",
-     12
-    ],
-    [
-     "stray",
-     4
-    ],
-    [
-     "zombie",
-     2
-    ],
-    [
-     "skeleton",
-     1
-    ],
-    [
-     "player",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 44,
-    "byTab": {
-     "story": 13,
-     "adventure": 15,
-     "husbandry": 3,
-     "nether": 13
-    },
-    "recent": [
-     [
-      "nether/create_full_beacon",
-      "2026-10-19T02:13:52Z"
-     ],
-     [
-      "nether/create_beacon",
-      "2026-10-19T01:33:29Z"
-     ],
-     [
-      "nether/summon_wither",
-      "2026-10-19T01:06:08Z"
-     ],
-     [
-      "husbandry/place_dried_ghast_in_water",
-      "2026-10-19T00:45:05Z"
-     ],
-     [
-      "nether/get_wither_skull",
-      "2026-10-19T00:04:55Z"
-     ],
-     [
-      "nether/explore_nether",
-      "2026-10-19T00:03:04Z"
-     ],
-     [
-      "nether/find_bastion",
-      "2026-10-18T23:54:16Z"
-     ],
-     [
-      "nether/return_to_sender",
-      "2026-10-18T23:52:19Z"
      ]
     ]
    }
@@ -1397,19 +1397,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-19T12:12:57Z",
-   "playTicks": 751347,
+   "lastSeen": "2026-10-19T12:17:57Z",
+   "playTicks": 757347,
    "deaths": 0,
    "mobKills": 468,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 28237,
    "damageTaken": 1916,
-   "distanceCm": 5197306,
-   "walkCm": 3568007,
-   "flyCm": 431831,
-   "jumps": 4665,
-   "mined": 22350,
+   "distanceCm": 5318878,
+   "walkCm": 3636575,
+   "flyCm": 476990,
+   "jumps": 4820,
+   "mined": 23001,
    "topMined": [
     [
      "netherrack",
@@ -2944,12 +2944,12 @@
     "rendered": "2026-10-17T20:30:35Z"
    },
    "-5.7": {
-    "mtime": "2026-10-17T17:27:18Z",
-    "rendered": "2026-10-17T20:32:28Z"
+    "mtime": "2026-10-19T12:19:18Z",
+    "rendered": "2026-10-19T12:19:23Z"
    },
    "-6.6": {
-    "mtime": "2026-10-17T17:27:36Z",
-    "rendered": "2026-10-17T20:34:22Z"
+    "mtime": "2026-10-19T12:17:52Z",
+    "rendered": "2026-10-19T12:19:23Z"
    },
    "-7.5": {
     "mtime": "2026-10-19T12:14:46Z",
@@ -2995,8 +2995,8 @@
     "rendered": "2026-10-17T20:38:10Z"
    },
    "-7.4": {
-    "mtime": "2026-10-17T17:27:53Z",
-    "rendered": "2026-10-17T20:38:10Z"
+    "mtime": "2026-10-19T12:15:35Z",
+    "rendered": "2026-10-19T12:19:23Z"
    },
    "-1.8": {
     "mtime": "2026-10-17T17:23:26Z",
@@ -3045,6 +3045,11 @@
    "-9.4": {
     "mtime": "2026-10-19T12:12:50Z",
     "rendered": "2026-10-19T12:12:25Z"
+   },
+   "-10.5": {
+    "mtime": "2026-10-19T12:13:33Z",
+    "rendered": "2026-10-19T12:19:23Z",
+    "empty": true
    },
    "-2.-10": {
     "mtime": "2026-10-17T17:24:37Z",
