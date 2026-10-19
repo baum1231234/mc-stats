@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T03:23:13Z",
+ "updated": "2026-10-19T03:28:15Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11064986,
+ "serverTicks": 11070986,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -555,19 +555,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T03:21:58Z",
-   "playTicks": 2985718,
+   "lastSeen": "2026-10-19T03:26:58Z",
+   "playTicks": 2991718,
    "deaths": 8,
    "mobKills": 3747,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 262423,
-   "damageTaken": 41001,
-   "distanceCm": 27589633,
-   "walkCm": 12036459,
-   "flyCm": 8668179,
-   "jumps": 47770,
-   "mined": 26849,
+   "damageTaken": 41003,
+   "distanceCm": 27638902,
+   "walkCm": 12070046,
+   "flyCm": 8682486,
+   "jumps": 47918,
+   "mined": 26907,
    "topMined": [
     [
      "spruce_log",
@@ -575,14 +575,14 @@
     ],
     [
      "netherrack",
-     3728
+     3730
     ],
     [
      "spruce_leaves",
      2748
     ]
    ],
-   "crafted": 58372,
+   "crafted": 58389,
    "topCrafted": [
     [
      "stick",
@@ -1031,19 +1031,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T03:21:58Z",
-   "playTicks": 2454869,
+   "lastSeen": "2026-10-19T03:26:58Z",
+   "playTicks": 2460869,
    "deaths": 21,
    "mobKills": 5575,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 182746,
-   "damageTaken": 34826,
-   "distanceCm": 18170990,
-   "walkCm": 9141476,
-   "flyCm": 6065973,
-   "jumps": 32787,
-   "mined": 37652,
+   "damageTaken": 34828,
+   "distanceCm": 18240409,
+   "walkCm": 9179052,
+   "flyCm": 6092553,
+   "jumps": 32973,
+   "mined": 37689,
    "topMined": [
     [
      "netherrack",
@@ -1058,7 +1058,7 @@
      1762
     ]
    ],
-   "crafted": 92792,
+   "crafted": 92794,
    "topCrafted": [
     [
      "stick",
@@ -1070,7 +1070,7 @@
     ],
     [
      "emerald",
-     3371
+     3372
     ]
    ],
    "topKilled": [
