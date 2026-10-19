@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T19:32:59Z",
+ "updated": "2026-10-19T19:37:18Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11722433,
+ "serverTicks": 11726906,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -441,18 +441,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-19T16:00:16Z",
-   "playTicks": 3504284,
+   "lastSeen": "2026-10-19T19:36:41Z",
+   "playTicks": 3505232,
    "deaths": 2,
    "mobKills": 1295,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 118094,
-   "damageTaken": 34190,
-   "distanceCm": 33814800,
-   "walkCm": 14854137,
-   "flyCm": 11470405,
-   "jumps": 58487,
+   "damageTaken": 34192,
+   "distanceCm": 33827704,
+   "walkCm": 14857139,
+   "flyCm": 11478832,
+   "jumps": 58518,
    "mined": 106584,
    "topMined": [
     [
@@ -555,8 +555,8 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T19:32:57Z",
-   "playTicks": 3359077,
+   "lastSeen": "2026-10-19T19:36:41Z",
+   "playTicks": 3363550,
    "deaths": 8,
    "mobKills": 4408,
    "playerKills": 1,
@@ -803,19 +803,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T19:32:57Z",
-   "playTicks": 2719238,
+   "lastSeen": "2026-10-19T19:36:41Z",
+   "playTicks": 2723711,
    "deaths": 21,
-   "mobKills": 5733,
+   "mobKills": 5734,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 202018,
-   "damageTaken": 36309,
-   "distanceCm": 21734746,
-   "walkCm": 9882111,
-   "flyCm": 6743476,
-   "jumps": 36146,
-   "mined": 38789,
+   "damageDealt": 202058,
+   "damageTaken": 36315,
+   "distanceCm": 21808917,
+   "walkCm": 9906053,
+   "flyCm": 6781079,
+   "jumps": 36294,
+   "mined": 38798,
    "topMined": [
     [
      "netherrack",
@@ -830,7 +830,7 @@
      2315
     ]
    ],
-   "crafted": 111009,
+   "crafted": 111078,
    "topCrafted": [
     [
      "stick",
@@ -882,14 +882,18 @@
     ]
    ],
    "adv": {
-    "count": 44,
+    "count": 45,
     "byTab": {
      "story": 13,
      "adventure": 15,
-     "husbandry": 3,
+     "husbandry": 4,
      "nether": 13
     },
     "recent": [
+     [
+      "husbandry/plant_seed",
+      "2026-10-19T19:36:32Z"
+     ],
      [
       "nether/create_full_beacon",
       "2026-10-19T02:13:52Z"
@@ -917,10 +921,6 @@
      [
       "nether/find_bastion",
       "2026-10-18T23:54:16Z"
-     ],
-     [
-      "nether/return_to_sender",
-      "2026-10-18T23:52:19Z"
      ]
     ]
    }
