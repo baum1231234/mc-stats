@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T01:27:15Z",
+ "updated": "2026-10-19T01:32:18Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10926986,
+ "serverTicks": 10932986,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -555,19 +555,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T01:26:58Z",
-   "playTicks": 2860051,
+   "lastSeen": "2026-10-19T01:31:58Z",
+   "playTicks": 2866051,
    "deaths": 8,
    "mobKills": 3730,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 258490,
-   "damageTaken": 40773,
-   "distanceCm": 26637000,
-   "walkCm": 11290047,
-   "flyCm": 8482800,
-   "jumps": 45829,
-   "mined": 18525,
+   "damageDealt": 258491,
+   "damageTaken": 40781,
+   "distanceCm": 26684094,
+   "walkCm": 11328102,
+   "flyCm": 8490389,
+   "jumps": 45937,
+   "mined": 18981,
    "topMined": [
     [
      "netherrack",
@@ -575,14 +575,14 @@
     ],
     [
      "stone",
-     1501
+     1507
     ],
     [
      "lectern",
      1113
     ]
    ],
-   "crafted": 17060,
+   "crafted": 17252,
    "topCrafted": [
     [
      "emerald",
@@ -1031,19 +1031,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T01:26:58Z",
-   "playTicks": 2316869,
+   "lastSeen": "2026-10-19T01:31:58Z",
+   "playTicks": 2322869,
    "deaths": 21,
    "mobKills": 5566,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 181246,
-   "damageTaken": 34661,
-   "distanceCm": 17108927,
-   "walkCm": 8363172,
-   "flyCm": 5846524,
-   "jumps": 30519,
-   "mined": 33238,
+   "damageTaken": 34662,
+   "distanceCm": 17162801,
+   "walkCm": 8407033,
+   "flyCm": 5855787,
+   "jumps": 30636,
+   "mined": 33599,
    "topMined": [
     [
      "netherrack",
@@ -1055,10 +1055,10 @@
     ],
     [
      "spruce_log",
-     1000
+     1324
     ]
    ],
-   "crafted": 20673,
+   "crafted": 20691,
    "topCrafted": [
     [
      "stick",
@@ -1066,7 +1066,7 @@
     ],
     [
      "spruce_planks",
-     3851
+     3867
     ],
     [
      "iron_ingot",
