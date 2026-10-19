@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T19:21:27Z",
+ "updated": "2026-10-19T19:22:55Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11708872,
+ "serverTicks": 11710433,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -555,19 +555,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T19:21:39Z",
-   "playTicks": 3345516,
+   "lastSeen": "2026-10-19T19:22:57Z",
+   "playTicks": 3347077,
    "deaths": 8,
-   "mobKills": 4405,
+   "mobKills": 4406,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 278561,
+   "damageDealt": 278761,
    "damageTaken": 41987,
-   "distanceCm": 30056556,
-   "walkCm": 13522531,
-   "flyCm": 9339415,
-   "jumps": 51195,
-   "mined": 44724,
+   "distanceCm": 30064602,
+   "walkCm": 13529351,
+   "flyCm": 9340641,
+   "jumps": 51215,
+   "mined": 44825,
    "topMined": [
     [
      "spruce_log",
@@ -579,7 +579,7 @@
     ],
     [
      "stone",
-     5353
+     5356
     ]
    ],
    "crafted": 63073,
@@ -604,7 +604,7 @@
     ],
     [
      "zombie",
-     311
+     312
     ],
     [
      "skeleton",
@@ -803,19 +803,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T19:17:57Z",
-   "playTicks": 2701238,
+   "lastSeen": "2026-10-19T19:22:57Z",
+   "playTicks": 2707238,
    "deaths": 21,
-   "mobKills": 5732,
+   "mobKills": 5733,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 201818,
-   "damageTaken": 36206,
-   "distanceCm": 21548286,
-   "walkCm": 9809824,
-   "flyCm": 6655552,
-   "jumps": 35794,
-   "mined": 38757,
+   "damageDealt": 202018,
+   "damageTaken": 36233,
+   "distanceCm": 21639811,
+   "walkCm": 9843084,
+   "flyCm": 6704886,
+   "jumps": 35981,
+   "mined": 38777,
    "topMined": [
     [
      "netherrack",
