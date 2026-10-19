@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T18:54:04Z",
+ "updated": "2026-10-19T18:58:23Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11674433,
+ "serverTicks": 11680433,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -555,19 +555,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T18:52:57Z",
-   "playTicks": 3311077,
+   "lastSeen": "2026-10-19T18:57:57Z",
+   "playTicks": 3317077,
    "deaths": 8,
-   "mobKills": 3818,
+   "mobKills": 3823,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 276801,
-   "damageTaken": 41786,
-   "distanceCm": 29580209,
-   "walkCm": 13315533,
-   "flyCm": 9232419,
-   "jumps": 50849,
-   "mined": 42092,
+   "damageDealt": 277801,
+   "damageTaken": 41859,
+   "distanceCm": 29742651,
+   "walkCm": 13363056,
+   "flyCm": 9255314,
+   "jumps": 50927,
+   "mined": 42748,
    "topMined": [
     [
      "spruce_log",
@@ -575,11 +575,11 @@
     ],
     [
      "dirt",
-     4920
+     4972
     ],
     [
-     "spruce_leaves",
-     4050
+     "stone",
+     4341
     ]
    ],
    "crafted": 62935,
@@ -608,7 +608,7 @@
     ],
     [
      "skeleton",
-     170
+     174
     ]
    ],
    "topKilledBy": [
@@ -803,19 +803,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T18:52:57Z",
-   "playTicks": 2671238,
+   "lastSeen": "2026-10-19T18:57:57Z",
+   "playTicks": 2677238,
    "deaths": 21,
-   "mobKills": 5723,
+   "mobKills": 5725,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 200158,
-   "damageTaken": 36063,
-   "distanceCm": 21325662,
-   "walkCm": 9780659,
-   "flyCm": 6593730,
-   "jumps": 35629,
-   "mined": 38744,
+   "damageDealt": 200558,
+   "damageTaken": 36154,
+   "distanceCm": 21496272,
+   "walkCm": 9789365,
+   "flyCm": 6632648,
+   "jumps": 35695,
+   "mined": 38749,
    "topMined": [
     [
      "netherrack",
@@ -856,7 +856,7 @@
     ],
     [
      "skeleton",
-     160
+     161
     ]
    ],
    "topKilledBy": [
