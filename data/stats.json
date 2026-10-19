@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T01:40:55Z",
+ "updated": "2026-10-19T01:43:57Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10938986,
+ "serverTicks": 10944986,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -555,19 +555,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T01:36:58Z",
-   "playTicks": 2872051,
+   "lastSeen": "2026-10-19T01:41:58Z",
+   "playTicks": 2878051,
    "deaths": 8,
    "mobKills": 3730,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 258491,
-   "damageTaken": 40781,
-   "distanceCm": 26713750,
-   "walkCm": 11356438,
-   "flyCm": 8491709,
-   "jumps": 45984,
-   "mined": 19451,
+   "damageTaken": 40825,
+   "distanceCm": 26756703,
+   "walkCm": 11394337,
+   "flyCm": 8495313,
+   "jumps": 46057,
+   "mined": 19916,
    "topMined": [
     [
      "netherrack",
@@ -578,8 +578,8 @@
      1507
     ],
     [
-     "lectern",
-     1113
+     "spruce_log",
+     1366
     ]
    ],
    "crafted": 17288,
@@ -1031,31 +1031,31 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T01:36:58Z",
-   "playTicks": 2328869,
+   "lastSeen": "2026-10-19T01:41:58Z",
+   "playTicks": 2334869,
    "deaths": 21,
-   "mobKills": 5567,
+   "mobKills": 5568,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 181296,
-   "damageTaken": 34664,
-   "distanceCm": 17206036,
-   "walkCm": 8448235,
-   "flyCm": 5857120,
-   "jumps": 30683,
-   "mined": 34011,
+   "damageDealt": 181496,
+   "damageTaken": 34670,
+   "distanceCm": 17249267,
+   "walkCm": 8486836,
+   "flyCm": 5861350,
+   "jumps": 30737,
+   "mined": 34404,
    "topMined": [
     [
      "netherrack",
      23767
     ],
     [
-     "deepslate",
-     1762
+     "spruce_log",
+     1920
     ],
     [
-     "spruce_log",
-     1588
+     "deepslate",
+     1762
     ]
    ],
    "crafted": 20700,
