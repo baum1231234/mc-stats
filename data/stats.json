@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T02:35:35Z",
+ "updated": "2026-10-19T02:37:18Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11008638,
+ "serverTicks": 11010986,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -555,23 +555,23 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T02:35:00Z",
-   "playTicks": 2941703,
+   "lastSeen": "2026-10-19T02:36:58Z",
+   "playTicks": 2944051,
    "deaths": 8,
    "mobKills": 3744,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 261903,
    "damageTaken": 40975,
-   "distanceCm": 27260207,
-   "walkCm": 11807721,
-   "flyCm": 8573243,
-   "jumps": 46831,
-   "mined": 26422,
+   "distanceCm": 27289793,
+   "walkCm": 11828849,
+   "flyCm": 8581029,
+   "jumps": 46880,
+   "mined": 26615,
    "topMined": [
     [
      "spruce_log",
-     5366
+     5402
     ],
     [
      "netherrack",
@@ -579,10 +579,10 @@
     ],
     [
      "spruce_leaves",
-     2622
+     2747
     ]
    ],
-   "crafted": 17672,
+   "crafted": 17728,
    "topCrafted": [
     [
      "emerald",
@@ -594,7 +594,7 @@
     ],
     [
      "stick",
-     1380
+     1420
     ]
    ],
    "topKilled": [
@@ -1031,19 +1031,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T02:35:00Z",
-   "playTicks": 2398521,
+   "lastSeen": "2026-10-19T02:36:58Z",
+   "playTicks": 2400869,
    "deaths": 21,
    "mobKills": 5573,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 182496,
    "damageTaken": 34792,
-   "distanceCm": 17720027,
-   "walkCm": 8843840,
+   "distanceCm": 17734467,
+   "walkCm": 8858280,
    "flyCm": 5924563,
-   "jumps": 31496,
-   "mined": 36963,
+   "jumps": 31506,
+   "mined": 37230,
    "topMined": [
     [
      "netherrack",
@@ -1051,7 +1051,7 @@
     ],
     [
      "spruce_log",
-     4232
+     4499
     ],
     [
      "deepslate",
