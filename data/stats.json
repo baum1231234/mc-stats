@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T18:46:27Z",
+ "updated": "2026-10-19T18:48:06Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11662433,
+ "serverTicks": 11668433,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -555,19 +555,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T18:42:57Z",
-   "playTicks": 3299077,
+   "lastSeen": "2026-10-19T18:47:57Z",
+   "playTicks": 3305077,
    "deaths": 8,
-   "mobKills": 3817,
+   "mobKills": 3818,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 276721,
-   "damageTaken": 41784,
-   "distanceCm": 29430502,
-   "walkCm": 13187896,
-   "flyCm": 9212625,
-   "jumps": 50714,
-   "mined": 39709,
+   "damageDealt": 276801,
+   "damageTaken": 41786,
+   "distanceCm": 29509465,
+   "walkCm": 13257650,
+   "flyCm": 9220609,
+   "jumps": 50783,
+   "mined": 41001,
    "topMined": [
     [
      "spruce_log",
@@ -575,14 +575,14 @@
     ],
     [
      "dirt",
-     4748
+     4868
     ],
     [
      "spruce_leaves",
      4050
     ]
    ],
-   "crafted": 62917,
+   "crafted": 62935,
    "topCrafted": [
     [
      "stick",
@@ -590,7 +590,7 @@
     ],
     [
      "spruce_planks",
-     13880
+     13896
     ],
     [
      "emerald",
@@ -803,8 +803,8 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T18:42:57Z",
-   "playTicks": 2659238,
+   "lastSeen": "2026-10-19T18:47:57Z",
+   "playTicks": 2665238,
    "deaths": 21,
    "mobKills": 5723,
    "playerKills": 1,
@@ -2315,8 +2315,8 @@
     "rendered": "2026-10-19T00:58:09Z"
    },
    "1.-2": {
-    "mtime": "2026-10-19T15:46:03Z",
-    "rendered": "2026-10-19T15:47:27Z"
+    "mtime": "2026-10-19T18:22:58Z",
+    "rendered": "2026-10-19T18:48:06Z"
    },
    "0.1": {
     "mtime": "2026-10-19T16:57:09Z",
@@ -2327,8 +2327,8 @@
     "rendered": "2026-10-19T17:00:00Z"
    },
    "-1.1": {
-    "mtime": "2026-10-19T15:46:34Z",
-    "rendered": "2026-10-19T15:47:27Z"
+    "mtime": "2026-10-19T18:13:46Z",
+    "rendered": "2026-10-19T18:48:06Z"
    },
    "-2.2": {
     "mtime": "2026-10-18T05:31:15Z",
@@ -2339,8 +2339,8 @@
     "rendered": "2026-10-19T18:29:27Z"
    },
    "-2.-1": {
-    "mtime": "2026-10-19T15:46:02Z",
-    "rendered": "2026-10-19T15:47:27Z"
+    "mtime": "2026-10-19T18:22:38Z",
+    "rendered": "2026-10-19T18:48:06Z"
    },
    "-2.-5": {
     "mtime": "2026-10-19T17:13:19Z",
