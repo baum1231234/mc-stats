@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-19T16:35:16Z",
+ "updated": "2026-10-19T16:36:55Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11506433,
+ "serverTicks": 11510550,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-19T16:32:57Z",
-   "playTicks": 5761476,
+   "lastSeen": "2026-10-19T16:36:23Z",
+   "playTicks": 5765593,
    "deaths": 0,
-   "mobKills": 3851,
+   "mobKills": 3853,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 523135,
-   "damageTaken": 65737,
-   "distanceCm": 92113414,
-   "walkCm": 24085253,
-   "flyCm": 31496085,
-   "jumps": 123756,
-   "mined": 68170,
+   "damageDealt": 523373,
+   "damageTaken": 66106,
+   "distanceCm": 92154886,
+   "walkCm": 24102413,
+   "flyCm": 31510949,
+   "jumps": 123830,
+   "mined": 68174,
    "topMined": [
     [
      "netherrack",
-     33673
+     33675
     ],
     [
      "spruce_log",
@@ -34,7 +34,7 @@
      4536
     ]
    ],
-   "crafted": 92819,
+   "crafted": 92820,
    "topCrafted": [
     [
      "stick",
@@ -555,23 +555,23 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T16:32:57Z",
-   "playTicks": 3143077,
+   "lastSeen": "2026-10-19T16:36:23Z",
+   "playTicks": 3147194,
    "deaths": 8,
    "mobKills": 3763,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 266771,
-   "damageTaken": 41284,
-   "distanceCm": 28338091,
-   "walkCm": 12452063,
-   "flyCm": 8933334,
-   "jumps": 49156,
-   "mined": 29277,
+   "damageTaken": 41292,
+   "distanceCm": 28374559,
+   "walkCm": 12469932,
+   "flyCm": 8949236,
+   "jumps": 49251,
+   "mined": 29383,
    "topMined": [
     [
      "spruce_log",
-     6670
+     6747
     ],
     [
      "netherrack",
@@ -579,7 +579,7 @@
     ],
     [
      "spruce_leaves",
-     2924
+     2936
     ]
    ],
    "crafted": 62637,
@@ -909,19 +909,19 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-19T16:32:57Z",
-   "playTicks": 2592749,
+   "lastSeen": "2026-10-19T16:36:23Z",
+   "playTicks": 2596866,
    "deaths": 29,
    "mobKills": 1100,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 163489,
    "damageTaken": 27997,
-   "distanceCm": 23443523,
-   "walkCm": 18252441,
+   "distanceCm": 23468315,
+   "walkCm": 18277233,
    "flyCm": 3406991,
    "jumps": 26636,
-   "mined": 32542,
+   "mined": 32744,
    "topMined": [
     [
      "stone",
@@ -3169,6 +3169,10 @@
     "mtime": "2026-10-17T17:25:53Z",
     "rendered": "2026-10-19T16:35:16Z"
    },
+   "-4.9": {
+    "mtime": "2026-10-17T17:26:50Z",
+    "rendered": "2026-10-19T16:36:55Z"
+   },
    "-5.8": {
     "mtime": "2026-10-19T12:19:23Z",
     "rendered": "2026-10-19T12:25:16Z"
@@ -3184,6 +3188,18 @@
    "-8.5": {
     "mtime": "2026-10-19T14:40:43Z",
     "rendered": "2026-10-19T15:28:12Z"
+   },
+   "7.-3": {
+    "mtime": "2026-10-17T19:52:06Z",
+    "rendered": "2026-10-19T16:36:55Z"
+   },
+   "-14.-2": {
+    "mtime": "2026-10-17T17:24:04Z",
+    "rendered": "2026-10-19T16:36:55Z"
+   },
+   "-15.-1": {
+    "mtime": "2026-10-17T17:24:09Z",
+    "rendered": "2026-10-19T16:36:55Z"
    },
    "-7.3": {
     "mtime": "2026-10-19T12:15:05Z",
