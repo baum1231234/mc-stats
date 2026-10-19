@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T01:03:12Z",
+ "updated": "2026-10-19T01:05:47Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10895667,
+ "serverTicks": 10901667,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -555,19 +555,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T01:00:35Z",
-   "playTicks": 2829292,
+   "lastSeen": "2026-10-19T01:05:35Z",
+   "playTicks": 2835292,
    "deaths": 8,
-   "mobKills": 3714,
+   "mobKills": 3719,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 251757,
-   "damageTaken": 39529,
-   "distanceCm": 26399936,
-   "walkCm": 11183451,
-   "flyCm": 8421704,
-   "jumps": 45280,
-   "mined": 18222,
+   "damageDealt": 252597,
+   "damageTaken": 39568,
+   "distanceCm": 26480289,
+   "walkCm": 11209286,
+   "flyCm": 8443878,
+   "jumps": 45399,
+   "mined": 18414,
    "topMined": [
     [
      "netherrack",
@@ -575,14 +575,14 @@
     ],
     [
      "stone",
-     1434
+     1463
     ],
     [
      "lectern",
      1113
     ]
    ],
-   "crafted": 17057,
+   "crafted": 17060,
    "topCrafted": [
     [
      "emerald",
@@ -608,7 +608,7 @@
     ],
     [
      "skeleton",
-     154
+     156
     ]
    ],
    "topKilledBy": [
@@ -1031,19 +1031,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T01:00:35Z",
-   "playTicks": 2291563,
+   "lastSeen": "2026-10-19T01:05:35Z",
+   "playTicks": 2297563,
    "deaths": 21,
-   "mobKills": 5553,
+   "mobKills": 5559,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 175111,
-   "damageTaken": 33529,
-   "distanceCm": 16794140,
-   "walkCm": 8238461,
-   "flyCm": 5746866,
-   "jumps": 29945,
-   "mined": 33017,
+   "damageDealt": 176330,
+   "damageTaken": 33599,
+   "distanceCm": 16878801,
+   "walkCm": 8263432,
+   "flyCm": 5766534,
+   "jumps": 30017,
+   "mined": 33125,
    "topMined": [
     [
      "netherrack",
@@ -1051,7 +1051,7 @@
     ],
     [
      "deepslate",
-     1628
+     1716
     ],
     [
      "spruce_log",
