@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T03:04:19Z",
+ "updated": "2026-10-19T03:06:09Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11040986,
+ "serverTicks": 11044647,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -555,19 +555,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T03:01:58Z",
-   "playTicks": 2961718,
+   "lastSeen": "2026-10-19T03:05:01Z",
+   "playTicks": 2965379,
    "deaths": 8,
    "mobKills": 3745,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 262063,
    "damageTaken": 41001,
-   "distanceCm": 27401488,
-   "walkCm": 11899463,
-   "flyCm": 8619508,
-   "jumps": 47222,
-   "mined": 26630,
+   "distanceCm": 27428797,
+   "walkCm": 11923533,
+   "flyCm": 8622197,
+   "jumps": 47252,
+   "mined": 26713,
    "topMined": [
     [
      "spruce_log",
@@ -634,14 +634,22 @@
     ]
    ],
    "adv": {
-    "count": 46,
+    "count": 48,
     "byTab": {
      "adventure": 14,
      "story": 13,
      "husbandry": 4,
-     "nether": 15
+     "nether": 17
     },
     "recent": [
+     [
+      "nether/create_beacon",
+      "2026-10-19T03:04:53Z"
+     ],
+     [
+      "nether/create_full_beacon",
+      "2026-10-19T03:04:53Z"
+     ],
      [
       "nether/summon_wither",
       "2026-10-19T01:06:08Z"
@@ -665,14 +673,6 @@
      [
       "adventure/who_needs_rockets",
       "2026-10-18T16:05:19Z"
-     ],
-     [
-      "adventure/under_lock_and_key",
-      "2026-10-18T15:53:20Z"
-     ],
-     [
-      "adventure/revaulting",
-      "2026-10-18T15:51:18Z"
      ]
     ]
    }
@@ -1031,18 +1031,18 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T03:01:58Z",
-   "playTicks": 2430869,
+   "lastSeen": "2026-10-19T03:05:01Z",
+   "playTicks": 2434530,
    "deaths": 21,
    "mobKills": 5574,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 182686,
    "damageTaken": 34810,
-   "distanceCm": 17970761,
-   "walkCm": 9007242,
-   "flyCm": 6002505,
-   "jumps": 32111,
+   "distanceCm": 17997220,
+   "walkCm": 9027351,
+   "flyCm": 6008417,
+   "jumps": 32173,
    "mined": 37644,
    "topMined": [
     [
@@ -1058,19 +1058,19 @@
      1762
     ]
    ],
-   "crafted": 67681,
+   "crafted": 69765,
    "topCrafted": [
     [
      "stick",
-     38693
+     39970
     ],
     [
      "spruce_planks",
-     19135
+     19903
     ],
     [
      "emerald",
-     2820
+     2851
     ]
    ],
    "topKilled": [
