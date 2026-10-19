@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T19:43:08Z",
+ "updated": "2026-10-19T19:48:52Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11734433,
+ "serverTicks": 11740433,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -441,18 +441,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-19T19:42:57Z",
-   "playTicks": 3512759,
+   "lastSeen": "2026-10-19T19:47:57Z",
+   "playTicks": 3518759,
    "deaths": 2,
-   "mobKills": 1295,
+   "mobKills": 1297,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 118094,
-   "damageTaken": 34194,
-   "distanceCm": 33834552,
-   "walkCm": 14859422,
-   "flyCm": 11482108,
-   "jumps": 58543,
+   "damageDealt": 118294,
+   "damageTaken": 34212,
+   "distanceCm": 33851033,
+   "walkCm": 14864952,
+   "flyCm": 11491508,
+   "jumps": 58610,
    "mined": 106584,
    "topMined": [
     [
@@ -494,7 +494,7 @@
     ],
     [
      "zombie",
-     99
+     100
     ]
    ],
    "topKilledBy": [
@@ -555,8 +555,8 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T19:42:57Z",
-   "playTicks": 3371077,
+   "lastSeen": "2026-10-19T19:47:57Z",
+   "playTicks": 3377077,
    "deaths": 8,
    "mobKills": 4408,
    "playerKills": 1,
@@ -803,19 +803,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T19:42:57Z",
-   "playTicks": 2731238,
+   "lastSeen": "2026-10-19T19:47:57Z",
+   "playTicks": 2737238,
    "deaths": 21,
-   "mobKills": 5734,
+   "mobKills": 5735,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 202078,
+   "damageDealt": 202278,
    "damageTaken": 36381,
-   "distanceCm": 21918568,
-   "walkCm": 9926092,
-   "flyCm": 6838384,
-   "jumps": 36470,
-   "mined": 39842,
+   "distanceCm": 21929958,
+   "walkCm": 9937053,
+   "flyCm": 6838813,
+   "jumps": 36476,
+   "mined": 41933,
    "topMined": [
     [
      "netherrack",
@@ -826,11 +826,11 @@
      4908
     ],
     [
-     "deepslate",
-     2315
+     "snow",
+     3140
     ]
    ],
-   "crafted": 111307,
+   "crafted": 111774,
    "topCrafted": [
     [
      "stick",
