@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-19T18:15:43Z",
+ "updated": "2026-10-19T18:18:39Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11626433,
+ "serverTicks": 11632433,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-19T18:12:57Z",
-   "playTicks": 5874576,
+   "lastSeen": "2026-10-19T18:17:57Z",
+   "playTicks": 5880576,
    "deaths": 0,
    "mobKills": 3884,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 530271,
-   "damageTaken": 67372,
-   "distanceCm": 94161697,
-   "walkCm": 24583127,
-   "flyCm": 32205877,
-   "jumps": 125900,
-   "mined": 68925,
+   "damageTaken": 67434,
+   "distanceCm": 94253250,
+   "walkCm": 24602924,
+   "flyCm": 32227125,
+   "jumps": 125994,
+   "mined": 69020,
    "topMined": [
     [
      "netherrack",
@@ -31,10 +31,10 @@
     ],
     [
      "stone",
-     4536
+     4546
     ]
    ],
-   "crafted": 93110,
+   "crafted": 93118,
    "topCrafted": [
     [
      "stick",
@@ -555,19 +555,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T18:12:57Z",
-   "playTicks": 3263077,
+   "lastSeen": "2026-10-19T18:17:57Z",
+   "playTicks": 3269077,
    "deaths": 8,
-   "mobKills": 3786,
+   "mobKills": 3795,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 271406,
-   "damageTaken": 41535,
-   "distanceCm": 28936270,
-   "walkCm": 12832458,
-   "flyCm": 9112342,
-   "jumps": 50151,
-   "mined": 33945,
+   "damageDealt": 272901,
+   "damageTaken": 41610,
+   "distanceCm": 29044583,
+   "walkCm": 12894112,
+   "flyCm": 9141192,
+   "jumps": 50232,
+   "mined": 34741,
    "topMined": [
     [
      "spruce_log",
@@ -604,11 +604,11 @@
     ],
     [
      "zombie",
-     301
+     305
     ],
     [
      "skeleton",
-     161
+     162
     ]
    ],
    "topKilledBy": [
@@ -681,8 +681,8 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-19T18:12:57Z",
-   "playTicks": 2712749,
+   "lastSeen": "2026-10-19T18:17:57Z",
+   "playTicks": 2718749,
    "deaths": 29,
    "mobKills": 1160,
    "playerKills": 0,
@@ -918,131 +918,21 @@
    }
   },
   {
-   "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
-   "name": "Dovid1346",
-   "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-18T12:12:59Z",
-   "playTicks": 2628195,
-   "deaths": 2,
-   "mobKills": 3491,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 274469,
-   "damageTaken": 26752,
-   "distanceCm": 34098298,
-   "walkCm": 10854345,
-   "flyCm": 8070049,
-   "jumps": 36709,
-   "mined": 35295,
-   "topMined": [
-    [
-     "netherrack",
-     8258
-    ],
-    [
-     "spruce_log",
-     7875
-    ],
-    [
-     "stone",
-     3048
-    ]
-   ],
-   "crafted": 120064,
-   "topCrafted": [
-    [
-     "stick",
-     68136
-    ],
-    [
-     "spruce_planks",
-     33131
-    ],
-    [
-     "emerald",
-     2769
-    ]
-   ],
-   "topKilled": [
-    [
-     "skeleton",
-     645
-    ],
-    [
-     "guardian",
-     629
-    ],
-    [
-     "zombie",
-     525
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "warden",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 42,
-    "byTab": {
-     "story": 12,
-     "adventure": 13,
-     "husbandry": 7,
-     "nether": 10
-    },
-    "recent": [
-     [
-      "adventure/trim_with_any_armor_pattern",
-      "2026-10-17T21:13:51Z"
-     ],
-     [
-      "nether/explore_nether",
-      "2026-10-17T19:43:35Z"
-     ],
-     [
-      "nether/obtain_blaze_rod",
-      "2026-10-17T19:41:34Z"
-     ],
-     [
-      "nether/find_fortress",
-      "2026-10-17T19:41:11Z"
-     ],
-     [
-      "nether/netherite_armor",
-      "2026-10-17T19:36:13Z"
-     ],
-     [
-      "nether/obtain_crying_obsidian",
-      "2026-10-17T19:07:59Z"
-     ],
-     [
-      "nether/distract_piglin",
-      "2026-10-17T18:44:41Z"
-     ],
-     [
-      "nether/obtain_ancient_debris",
-      "2026-10-17T17:44:37Z"
-     ]
-    ]
-   }
-  },
-  {
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T18:12:57Z",
-   "playTicks": 2623238,
+   "lastSeen": "2026-10-19T18:17:57Z",
+   "playTicks": 2629238,
    "deaths": 21,
-   "mobKills": 5688,
+   "mobKills": 5698,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 193047,
-   "damageTaken": 35841,
-   "distanceCm": 19622984,
-   "walkCm": 9769897,
-   "flyCm": 6538108,
-   "jumps": 35543,
+   "damageDealt": 195104,
+   "damageTaken": 35887,
+   "distanceCm": 19898371,
+   "walkCm": 9770224,
+   "flyCm": 6539718,
+   "jumps": 35544,
    "mined": 38727,
    "topMined": [
     [
@@ -1149,6 +1039,116 @@
      [
       "nether/return_to_sender",
       "2026-10-18T23:52:19Z"
+     ]
+    ]
+   }
+  },
+  {
+   "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
+   "name": "Dovid1346",
+   "firstSeen": "2026-10-12T15:11:10Z",
+   "lastSeen": "2026-10-18T12:12:59Z",
+   "playTicks": 2628195,
+   "deaths": 2,
+   "mobKills": 3491,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 274469,
+   "damageTaken": 26752,
+   "distanceCm": 34098298,
+   "walkCm": 10854345,
+   "flyCm": 8070049,
+   "jumps": 36709,
+   "mined": 35295,
+   "topMined": [
+    [
+     "netherrack",
+     8258
+    ],
+    [
+     "spruce_log",
+     7875
+    ],
+    [
+     "stone",
+     3048
+    ]
+   ],
+   "crafted": 120064,
+   "topCrafted": [
+    [
+     "stick",
+     68136
+    ],
+    [
+     "spruce_planks",
+     33131
+    ],
+    [
+     "emerald",
+     2769
+    ]
+   ],
+   "topKilled": [
+    [
+     "skeleton",
+     645
+    ],
+    [
+     "guardian",
+     629
+    ],
+    [
+     "zombie",
+     525
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "warden",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 42,
+    "byTab": {
+     "story": 12,
+     "adventure": 13,
+     "husbandry": 7,
+     "nether": 10
+    },
+    "recent": [
+     [
+      "adventure/trim_with_any_armor_pattern",
+      "2026-10-17T21:13:51Z"
+     ],
+     [
+      "nether/explore_nether",
+      "2026-10-17T19:43:35Z"
+     ],
+     [
+      "nether/obtain_blaze_rod",
+      "2026-10-17T19:41:34Z"
+     ],
+     [
+      "nether/find_fortress",
+      "2026-10-17T19:41:11Z"
+     ],
+     [
+      "nether/netherite_armor",
+      "2026-10-17T19:36:13Z"
+     ],
+     [
+      "nether/obtain_crying_obsidian",
+      "2026-10-17T19:07:59Z"
+     ],
+     [
+      "nether/distract_piglin",
+      "2026-10-17T18:44:41Z"
+     ],
+     [
+      "nether/obtain_ancient_debris",
+      "2026-10-17T17:44:37Z"
      ]
     ]
    }
