@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T02:50:49Z",
+ "updated": "2026-10-19T02:52:33Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11026731,
+ "serverTicks": 11028986,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1031,18 +1031,18 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T02:50:05Z",
-   "playTicks": 2416614,
+   "lastSeen": "2026-10-19T02:51:58Z",
+   "playTicks": 2418869,
    "deaths": 21,
    "mobKills": 5574,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 182686,
    "damageTaken": 34800,
-   "distanceCm": 17828759,
-   "walkCm": 8932534,
-   "flyCm": 5944151,
-   "jumps": 31713,
+   "distanceCm": 17852526,
+   "walkCm": 8948843,
+   "flyCm": 5951384,
+   "jumps": 31786,
    "mined": 37643,
    "topMined": [
     [
@@ -1058,19 +1058,19 @@
      1762
     ]
    ],
-   "crafted": 58997,
+   "crafted": 60583,
    "topCrafted": [
     [
      "stick",
-     33122
+     33890
     ],
     [
      "spruce_planks",
-     16319
+     17087
     ],
     [
      "emerald",
-     2560
+     2594
     ]
    ],
    "topKilled": [
