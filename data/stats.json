@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T15:35:22Z",
+ "updated": "2026-10-19T15:37:05Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11434433,
+ "serverTicks": 11438228,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-19T15:32:57Z",
-   "playTicks": 4687055,
+   "lastSeen": "2026-10-19T15:36:07Z",
+   "playTicks": 4690850,
    "deaths": 2,
-   "mobKills": 2420,
+   "mobKills": 2428,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 325039,
-   "damageTaken": 15678,
-   "distanceCm": 49835106,
-   "walkCm": 22618239,
-   "flyCm": 14473031,
-   "jumps": 49906,
-   "mined": 95417,
+   "damageDealt": 326509,
+   "damageTaken": 15700,
+   "distanceCm": 49863657,
+   "walkCm": 22633548,
+   "flyCm": 14483700,
+   "jumps": 49953,
+   "mined": 95418,
    "topMined": [
     [
      "netherrack",
@@ -161,11 +161,11 @@
     ],
     [
      "zombie",
-     536
+     541
     ],
     [
      "skeleton",
-     348
+     351
     ]
    ],
    "topKilledBy": [
@@ -441,23 +441,23 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-19T15:32:57Z",
-   "playTicks": 3471513,
+   "lastSeen": "2026-10-19T15:36:07Z",
+   "playTicks": 3475308,
    "deaths": 2,
-   "mobKills": 1292,
+   "mobKills": 1293,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 117845,
-   "damageTaken": 34082,
-   "distanceCm": 33322887,
-   "walkCm": 14665212,
-   "flyCm": 11217387,
-   "jumps": 56855,
-   "mined": 106579,
+   "damageDealt": 117865,
+   "damageTaken": 34084,
+   "distanceCm": 33406348,
+   "walkCm": 14708117,
+   "flyCm": 11254418,
+   "jumps": 57216,
+   "mined": 106580,
    "topMined": [
     [
      "netherrack",
-     50724
+     50725
     ],
     [
      "stone",
@@ -555,23 +555,23 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T15:32:57Z",
-   "playTicks": 3071077,
+   "lastSeen": "2026-10-19T15:36:07Z",
+   "playTicks": 3074872,
    "deaths": 8,
-   "mobKills": 3755,
+   "mobKills": 3763,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 265368,
-   "damageTaken": 41207,
-   "distanceCm": 28226605,
-   "walkCm": 12392332,
-   "flyCm": 8887483,
-   "jumps": 48971,
-   "mined": 29029,
+   "damageDealt": 266771,
+   "damageTaken": 41254,
+   "distanceCm": 28279373,
+   "walkCm": 12425819,
+   "flyCm": 8905840,
+   "jumps": 49054,
+   "mined": 29191,
    "topMined": [
     [
      "spruce_log",
-     6522
+     6668
     ],
     [
      "netherrack",
@@ -579,7 +579,7 @@
     ],
     [
      "spruce_leaves",
-     2829
+     2845
     ]
    ],
    "crafted": 58619,
@@ -604,11 +604,11 @@
     ],
     [
      "zombie",
-     279
+     284
     ],
     [
      "skeleton",
-     159
+     161
     ]
    ],
    "topKilledBy": [
@@ -3505,12 +3505,12 @@
     "rendered": "2026-10-17T21:48:14Z"
    },
    "2.8": {
-    "mtime": "2026-10-19T12:31:59Z",
-    "rendered": "2026-10-19T12:36:45Z"
+    "mtime": "2026-10-19T14:10:23Z",
+    "rendered": "2026-10-19T15:37:05Z"
    },
    "3.7": {
-    "mtime": "2026-10-19T12:31:59Z",
-    "rendered": "2026-10-19T12:36:45Z"
+    "mtime": "2026-10-19T14:05:03Z",
+    "rendered": "2026-10-19T15:37:05Z"
    },
    "4.6": {
     "mtime": "2026-10-19T12:31:50Z",
