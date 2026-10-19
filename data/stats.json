@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T00:40:43Z",
+ "updated": "2026-10-19T00:46:27Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10871667,
+ "serverTicks": 10877667,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -555,23 +555,23 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T00:40:35Z",
-   "playTicks": 2805292,
+   "lastSeen": "2026-10-19T00:45:35Z",
+   "playTicks": 2811292,
    "deaths": 8,
-   "mobKills": 3712,
+   "mobKills": 3714,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 251757,
-   "damageTaken": 39497,
-   "distanceCm": 26300739,
-   "walkCm": 11112431,
-   "flyCm": 8399516,
-   "jumps": 45044,
-   "mined": 18155,
+   "damageTaken": 39529,
+   "distanceCm": 26353835,
+   "walkCm": 11144232,
+   "flyCm": 8415039,
+   "jumps": 45200,
+   "mined": 18192,
    "topMined": [
     [
      "netherrack",
-     3689
+     3715
     ],
     [
      "stone",
@@ -1031,23 +1031,23 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T00:40:35Z",
-   "playTicks": 2267563,
+   "lastSeen": "2026-10-19T00:45:35Z",
+   "playTicks": 2273563,
    "deaths": 21,
-   "mobKills": 4515,
+   "mobKills": 4518,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 174791,
-   "damageTaken": 33469,
-   "distanceCm": 16681147,
-   "walkCm": 8155697,
-   "flyCm": 5722009,
-   "jumps": 29656,
-   "mined": 32890,
+   "damageDealt": 175111,
+   "damageTaken": 33529,
+   "distanceCm": 16731300,
+   "walkCm": 8189101,
+   "flyCm": 5734221,
+   "jumps": 29791,
+   "mined": 33017,
    "topMined": [
     [
      "netherrack",
-     23655
+     23767
     ],
     [
      "deepslate",
@@ -1110,14 +1110,18 @@
     ]
    ],
    "adv": {
-    "count": 40,
+    "count": 41,
     "byTab": {
      "story": 13,
      "adventure": 15,
-     "husbandry": 2,
+     "husbandry": 3,
      "nether": 10
     },
     "recent": [
+     [
+      "husbandry/place_dried_ghast_in_water",
+      "2026-10-19T00:45:05Z"
+     ],
      [
       "nether/get_wither_skull",
       "2026-10-19T00:04:55Z"
@@ -1145,10 +1149,6 @@
      [
       "adventure/who_needs_rockets",
       "2026-10-18T15:52:02Z"
-     ],
-     [
-      "adventure/revaulting",
-      "2026-10-18T15:51:36Z"
      ]
     ]
    }
