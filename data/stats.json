@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-19T16:09:04Z",
+ "updated": "2026-10-19T16:15:21Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11476433,
+ "serverTicks": 11482433,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-19T16:07:57Z",
-   "playTicks": 5731476,
+   "lastSeen": "2026-10-19T16:12:57Z",
+   "playTicks": 5737476,
    "deaths": 0,
    "mobKills": 3834,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 521835,
    "damageTaken": 65054,
-   "distanceCm": 91821286,
-   "walkCm": 23936122,
-   "flyCm": 31383774,
-   "jumps": 123090,
+   "distanceCm": 91823390,
+   "walkCm": 23936418,
+   "flyCm": 31385357,
+   "jumps": 123097,
    "mined": 67890,
    "topMined": [
     [
@@ -555,8 +555,8 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T16:07:57Z",
-   "playTicks": 3113077,
+   "lastSeen": "2026-10-19T16:12:57Z",
+   "playTicks": 3119077,
    "deaths": 8,
    "mobKills": 3763,
    "playerKills": 1,
@@ -1035,18 +1035,18 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-18T19:52:33Z",
-   "playTicks": 2563747,
+   "lastSeen": "2026-10-19T16:12:57Z",
+   "playTicks": 2568749,
    "deaths": 29,
-   "mobKills": 1084,
+   "mobKills": 1099,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 160489,
-   "damageTaken": 27865,
-   "distanceCm": 23233118,
-   "walkCm": 18050281,
-   "flyCm": 3399577,
-   "jumps": 26576,
+   "damageDealt": 163339,
+   "damageTaken": 27989,
+   "distanceCm": 23295208,
+   "walkCm": 18104949,
+   "flyCm": 3406474,
+   "jumps": 26631,
    "mined": 31611,
    "topMined": [
     [
@@ -1080,7 +1080,7 @@
    "topKilled": [
     [
      "zombie",
-     379
+     388
     ],
     [
      "skeleton",
@@ -1088,7 +1088,7 @@
     ],
     [
      "spider",
-     97
+     100
     ]
    ],
    "topKilledBy": [
