@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T17:17:53Z",
+ "updated": "2026-10-19T17:19:31Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 11560433,
  "players": [
@@ -678,6 +678,128 @@
    }
   },
   {
+   "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
+   "name": "Oberatze999",
+   "firstSeen": "2026-10-11T14:23:15Z",
+   "lastSeen": "2026-10-19T17:17:57Z",
+   "playTicks": 2646749,
+   "deaths": 29,
+   "mobKills": 1124,
+   "playerKills": 0,
+   "killedByPlayers": 1,
+   "damageDealt": 167874,
+   "damageTaken": 28352,
+   "distanceCm": 23683171,
+   "walkCm": 18435254,
+   "flyCm": 3454924,
+   "jumps": 26955,
+   "mined": 32826,
+   "topMined": [
+    [
+     "stone",
+     11533
+    ],
+    [
+     "grass_block",
+     5632
+    ],
+    [
+     "dirt",
+     5177
+    ]
+   ],
+   "crafted": 25756,
+   "topCrafted": [
+    [
+     "stick",
+     14129
+    ],
+    [
+     "dark_oak_planks",
+     4556
+    ],
+    [
+     "birch_planks",
+     2496
+    ]
+   ],
+   "topKilled": [
+    [
+     "zombie",
+     396
+    ],
+    [
+     "skeleton",
+     141
+    ],
+    [
+     "spider",
+     107
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "zombie",
+     8
+    ],
+    [
+     "skeleton",
+     5
+    ],
+    [
+     "creeper",
+     3
+    ],
+    [
+     "player",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 25,
+    "byTab": {
+     "story": 10,
+     "adventure": 9,
+     "husbandry": 3,
+     "nether": 3
+    },
+    "recent": [
+     [
+      "adventure/under_lock_and_key",
+      "2026-10-18T19:38:07Z"
+     ],
+     [
+      "adventure/totem_of_undying",
+      "2026-10-18T19:05:23Z"
+     ],
+     [
+      "adventure/revaulting",
+      "2026-10-18T18:23:53Z"
+     ],
+     [
+      "adventure/minecraft_trials_edition",
+      "2026-10-18T18:20:42Z"
+     ],
+     [
+      "husbandry/plant_seed",
+      "2026-10-17T14:44:27Z"
+     ],
+     [
+      "adventure/trade",
+      "2026-10-17T10:39:58Z"
+     ],
+     [
+      "nether/obtain_blaze_rod",
+      "2026-10-17T02:48:45Z"
+     ],
+     [
+      "nether/find_fortress",
+      "2026-10-17T02:35:27Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
@@ -791,128 +913,6 @@
      [
       "story/shiny_gear",
       "2026-10-13T12:34:11Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
-   "name": "Oberatze999",
-   "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-19T17:12:57Z",
-   "playTicks": 2640749,
-   "deaths": 29,
-   "mobKills": 1124,
-   "playerKills": 0,
-   "killedByPlayers": 1,
-   "damageDealt": 167874,
-   "damageTaken": 28352,
-   "distanceCm": 23683171,
-   "walkCm": 18435254,
-   "flyCm": 3454924,
-   "jumps": 26955,
-   "mined": 32826,
-   "topMined": [
-    [
-     "stone",
-     11533
-    ],
-    [
-     "grass_block",
-     5632
-    ],
-    [
-     "dirt",
-     5177
-    ]
-   ],
-   "crafted": 25756,
-   "topCrafted": [
-    [
-     "stick",
-     14129
-    ],
-    [
-     "dark_oak_planks",
-     4556
-    ],
-    [
-     "birch_planks",
-     2496
-    ]
-   ],
-   "topKilled": [
-    [
-     "zombie",
-     396
-    ],
-    [
-     "skeleton",
-     141
-    ],
-    [
-     "spider",
-     107
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "zombie",
-     8
-    ],
-    [
-     "skeleton",
-     5
-    ],
-    [
-     "creeper",
-     3
-    ],
-    [
-     "player",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 25,
-    "byTab": {
-     "story": 10,
-     "adventure": 9,
-     "husbandry": 3,
-     "nether": 3
-    },
-    "recent": [
-     [
-      "adventure/under_lock_and_key",
-      "2026-10-18T19:38:07Z"
-     ],
-     [
-      "adventure/totem_of_undying",
-      "2026-10-18T19:05:23Z"
-     ],
-     [
-      "adventure/revaulting",
-      "2026-10-18T18:23:53Z"
-     ],
-     [
-      "adventure/minecraft_trials_edition",
-      "2026-10-18T18:20:42Z"
-     ],
-     [
-      "husbandry/plant_seed",
-      "2026-10-17T14:44:27Z"
-     ],
-     [
-      "adventure/trade",
-      "2026-10-17T10:39:58Z"
-     ],
-     [
-      "nether/obtain_blaze_rod",
-      "2026-10-17T02:48:45Z"
-     ],
-     [
-      "nether/find_fortress",
-      "2026-10-17T02:35:27Z"
      ]
     ]
    }
@@ -3673,6 +3673,20 @@
     "mtime": "2026-10-17T19:52:06Z",
     "rendered": "2026-10-19T17:17:53Z"
    },
+   "8.-5": {
+    "mtime": "2026-10-17T19:52:06Z",
+    "rendered": "2026-10-19T17:19:31Z",
+    "empty": true
+   },
+   "10.1": {
+    "mtime": "2026-10-17T17:29:32Z",
+    "rendered": "2026-10-19T17:19:31Z",
+    "empty": true
+   },
+   "2.9": {
+    "mtime": "2026-10-17T17:30:34Z",
+    "rendered": "2026-10-19T17:19:31Z"
+   },
    "3.8": {
     "mtime": "2026-10-19T14:10:01Z",
     "rendered": "2026-10-19T15:38:55Z"
@@ -3684,6 +3698,11 @@
    "5.6": {
     "mtime": "2026-10-17T17:31:33Z",
     "rendered": "2026-10-17T22:21:23Z"
+   },
+   "6.5": {
+    "mtime": "2026-10-17T17:31:44Z",
+    "rendered": "2026-10-19T17:19:31Z",
+    "empty": true
    },
    "-8.8": {
     "mtime": "2026-10-19T12:21:47Z",
