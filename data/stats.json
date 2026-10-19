@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T17:22:41Z",
+ "updated": "2026-10-19T17:24:22Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 11566433,
  "players": [
@@ -7,23 +7,23 @@
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-19T17:21:21Z",
-   "playTicks": 5819560,
+   "lastSeen": "2026-10-19T17:22:57Z",
+   "playTicks": 5821476,
    "deaths": 0,
    "mobKills": 3876,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 526661,
-   "damageTaken": 66655,
-   "distanceCm": 93035561,
-   "walkCm": 24404044,
-   "flyCm": 31778197,
-   "jumps": 125152,
-   "mined": 68892,
+   "damageTaken": 66661,
+   "distanceCm": 93054500,
+   "walkCm": 24412515,
+   "flyCm": 31785835,
+   "jumps": 125195,
+   "mined": 68897,
    "topMined": [
     [
      "netherrack",
-     34049
+     34050
     ],
     [
      "spruce_log",
@@ -555,8 +555,8 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T17:21:21Z",
-   "playTicks": 3201161,
+   "lastSeen": "2026-10-19T17:22:57Z",
+   "playTicks": 3203077,
    "deaths": 8,
    "mobKills": 3766,
    "playerKills": 1,
@@ -681,8 +681,8 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-19T17:21:21Z",
-   "playTicks": 2650833,
+   "lastSeen": "2026-10-19T17:22:57Z",
+   "playTicks": 2652749,
    "deaths": 29,
    "mobKills": 1124,
    "playerKills": 0,
@@ -3739,6 +3739,23 @@
    "-8.8": {
     "mtime": "2026-10-19T12:21:47Z",
     "rendered": "2026-10-19T12:40:38Z"
+   },
+   "10.-3": {
+    "mtime": "2026-10-17T17:29:29Z",
+    "rendered": "2026-10-19T17:24:22Z"
+   },
+   "-16.-3": {
+    "mtime": "2026-10-17T17:24:17Z",
+    "rendered": "2026-10-19T17:24:22Z",
+    "empty": true
+   },
+   "-17.-2": {
+    "mtime": "2026-10-17T17:24:23Z",
+    "rendered": "2026-10-19T17:24:22Z"
+   },
+   "-18.-1": {
+    "mtime": "2026-10-17T17:24:27Z",
+    "rendered": "2026-10-19T17:24:22Z"
    },
    "-9.8": {
     "mtime": "2026-10-17T17:28:26Z",
