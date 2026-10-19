@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T11:08:31Z",
+ "updated": "2026-10-19T11:14:23Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11113846,
+ "serverTicks": 11122433,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1031,18 +1031,18 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T11:07:57Z",
-   "playTicks": 2486736,
+   "lastSeen": "2026-10-19T11:12:57Z",
+   "playTicks": 2492736,
    "deaths": 21,
-   "mobKills": 5591,
+   "mobKills": 5599,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 184556,
+   "damageDealt": 184706,
    "damageTaken": 34906,
-   "distanceCm": 18465395,
-   "walkCm": 9246100,
-   "flyCm": 6189985,
-   "jumps": 33396,
+   "distanceCm": 18478779,
+   "walkCm": 9252260,
+   "flyCm": 6190246,
+   "jumps": 33409,
    "mined": 37732,
    "topMined": [
     [
@@ -1080,7 +1080,7 @@
     ],
     [
      "pillager",
-     225
+     229
     ],
     [
      "skeleton",
@@ -1157,18 +1157,18 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-19T11:07:57Z",
-   "playTicks": 2131393,
+   "lastSeen": "2026-10-19T11:12:57Z",
+   "playTicks": 2137393,
    "deaths": 4,
    "mobKills": 1667,
    "playerKills": 1,
    "killedByPlayers": 2,
    "damageDealt": 91757,
    "damageTaken": 15962,
-   "distanceCm": 21106205,
-   "walkCm": 10010320,
-   "flyCm": 5570328,
-   "jumps": 32462,
+   "distanceCm": 21124973,
+   "walkCm": 10026812,
+   "flyCm": 5572604,
+   "jumps": 32490,
    "mined": 44836,
    "topMined": [
     [
@@ -1184,15 +1184,15 @@
      4972
     ]
    ],
-   "crafted": 63494,
+   "crafted": 66508,
    "topCrafted": [
     [
      "stick",
-     30266
+     32238
     ],
     [
      "spruce_planks",
-     15847
+     16799
     ],
     [
      "deepslate_bricks",
@@ -1397,19 +1397,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-19T11:07:57Z",
-   "playTicks": 673347,
+   "lastSeen": "2026-10-19T11:12:57Z",
+   "playTicks": 679347,
    "deaths": 0,
    "mobKills": 466,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 28047,
-   "damageTaken": 1753,
-   "distanceCm": 4564561,
-   "walkCm": 3040695,
-   "flyCm": 338474,
-   "jumps": 3931,
-   "mined": 13804,
+   "damageTaken": 1810,
+   "distanceCm": 4600166,
+   "walkCm": 3075747,
+   "flyCm": 339027,
+   "jumps": 3936,
+   "mined": 14668,
    "topMined": [
     [
      "deepslate",
@@ -1420,8 +1420,8 @@
      4015
     ],
     [
-     "spruce_log",
-     606
+     "netherrack",
+     806
     ]
    ],
    "crafted": 3949,
@@ -1455,14 +1455,18 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 21,
+    "count": 22,
     "byTab": {
      "story": 9,
      "husbandry": 2,
      "adventure": 9,
-     "nether": 1
+     "nether": 2
     },
     "recent": [
+     [
+      "nether/obtain_ancient_debris",
+      "2026-10-19T11:09:42Z"
+     ],
      [
       "nether/root",
       "2026-10-19T11:06:59Z"
@@ -1490,10 +1494,6 @@
      [
       "story/root",
       "2026-10-13T09:33:02Z"
-     ],
-     [
-      "adventure/revaulting",
-      "2026-10-13T09:06:59Z"
      ]
     ]
    }
