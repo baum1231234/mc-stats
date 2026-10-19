@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-19T17:27:11Z",
+ "updated": "2026-10-19T17:28:46Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11566433,
+ "serverTicks": 11572433,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-19T17:22:57Z",
-   "playTicks": 5821476,
+   "lastSeen": "2026-10-19T17:27:57Z",
+   "playTicks": 5827476,
    "deaths": 0,
    "mobKills": 3876,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 526661,
-   "damageTaken": 66661,
-   "distanceCm": 93054500,
-   "walkCm": 24412515,
-   "flyCm": 31785835,
-   "jumps": 125195,
-   "mined": 68897,
+   "damageTaken": 66685,
+   "distanceCm": 93115729,
+   "walkCm": 24437200,
+   "flyCm": 31809987,
+   "jumps": 125318,
+   "mined": 68904,
    "topMined": [
     [
      "netherrack",
-     34050
+     34054
     ],
     [
      "spruce_log",
@@ -555,8 +555,8 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T17:22:57Z",
-   "playTicks": 3203077,
+   "lastSeen": "2026-10-19T17:27:57Z",
+   "playTicks": 3209077,
    "deaths": 8,
    "mobKills": 3766,
    "playerKills": 1,
@@ -681,8 +681,8 @@
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
-   "lastSeen": "2026-10-19T17:22:57Z",
-   "playTicks": 2652749,
+   "lastSeen": "2026-10-19T17:27:57Z",
+   "playTicks": 2658749,
    "deaths": 29,
    "mobKills": 1124,
    "playerKills": 0,
@@ -3776,6 +3776,20 @@
    "-9.8": {
     "mtime": "2026-10-17T17:28:26Z",
     "rendered": "2026-10-17T23:37:24Z",
+    "empty": true
+   },
+   "-3.-13": {
+    "mtime": "2026-10-17T17:25:44Z",
+    "rendered": "2026-10-19T17:28:46Z",
+    "empty": true
+   },
+   "-4.-12": {
+    "mtime": "2026-10-17T17:26:27Z",
+    "rendered": "2026-10-19T17:28:46Z"
+   },
+   "-5.-11": {
+    "mtime": "2026-10-17T17:26:52Z",
+    "rendered": "2026-10-19T17:28:46Z",
     "empty": true
    }
   }
