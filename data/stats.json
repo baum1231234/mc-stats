@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T14:43:44Z",
+ "updated": "2026-10-19T14:48:38Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11374433,
+ "serverTicks": 11380433,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-19T14:42:57Z",
-   "playTicks": 4627055,
+   "lastSeen": "2026-10-19T14:47:57Z",
+   "playTicks": 4633055,
    "deaths": 2,
-   "mobKills": 2409,
+   "mobKills": 2417,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 322994,
-   "damageTaken": 15524,
-   "distanceCm": 49280320,
-   "walkCm": 22240874,
-   "flyCm": 14314011,
-   "jumps": 48507,
-   "mined": 94043,
+   "damageDealt": 324242,
+   "damageTaken": 15573,
+   "distanceCm": 49357647,
+   "walkCm": 22272700,
+   "flyCm": 14344820,
+   "jumps": 48598,
+   "mined": 94049,
    "topMined": [
     [
      "netherrack",
@@ -139,7 +139,7 @@
      9470
     ]
    ],
-   "crafted": 48927,
+   "crafted": 48987,
    "topCrafted": [
     [
      "spruce_planks",
@@ -161,7 +161,7 @@
     ],
     [
      "zombie",
-     531
+     535
     ],
     [
      "skeleton",
@@ -555,8 +555,8 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T14:42:57Z",
-   "playTicks": 3011077,
+   "lastSeen": "2026-10-19T14:47:57Z",
+   "playTicks": 3017077,
    "deaths": 8,
    "mobKills": 3751,
    "playerKills": 1,
