@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T02:42:21Z",
+ "updated": "2026-10-19T02:47:24Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11016986,
+ "serverTicks": 11022986,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -555,18 +555,18 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T02:41:58Z",
-   "playTicks": 2950051,
+   "lastSeen": "2026-10-19T02:46:58Z",
+   "playTicks": 2956051,
    "deaths": 8,
    "mobKills": 3744,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 261903,
    "damageTaken": 40975,
-   "distanceCm": 27341446,
-   "walkCm": 11861536,
-   "flyCm": 8597843,
-   "jumps": 46968,
+   "distanceCm": 27373863,
+   "walkCm": 11882434,
+   "flyCm": 8608912,
+   "jumps": 47098,
    "mined": 26620,
    "topMined": [
     [
@@ -582,19 +582,19 @@
      2748
     ]
    ],
-   "crafted": 18630,
+   "crafted": 28353,
    "topCrafted": [
     [
-     "emerald",
-     3987
-    ],
-    [
-     "iron_ingot",
-     3320
-    ],
-    [
      "stick",
-     1924
+     8324
+    ],
+    [
+     "emerald",
+     4214
+    ],
+    [
+     "spruce_planks",
+     4104
     ]
    ],
    "topKilled": [
@@ -1031,19 +1031,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T02:41:58Z",
-   "playTicks": 2406869,
+   "lastSeen": "2026-10-19T02:46:58Z",
+   "playTicks": 2412869,
    "deaths": 21,
    "mobKills": 5574,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 182686,
    "damageTaken": 34800,
-   "distanceCm": 17775625,
-   "walkCm": 8894991,
-   "flyCm": 5928785,
-   "jumps": 31536,
-   "mined": 37642,
+   "distanceCm": 17808857,
+   "walkCm": 8918908,
+   "flyCm": 5938100,
+   "jumps": 31648,
+   "mined": 37643,
    "topMined": [
     [
      "netherrack",
@@ -1058,19 +1058,19 @@
      1762
     ]
    ],
-   "crafted": 42605,
+   "crafted": 51955,
    "topCrafted": [
     [
      "stick",
-     22213
+     28517
     ],
     [
      "spruce_planks",
-     11199
+     14015
     ],
     [
      "emerald",
-     2224
+     2428
     ]
    ],
    "topKilled": [
