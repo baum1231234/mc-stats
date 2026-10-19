@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T03:31:38Z",
+ "updated": "2026-10-19T03:33:21Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 11076986,
  "players": [
@@ -556,18 +556,18 @@
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
    "lastSeen": "2026-10-19T03:31:58Z",
-   "playTicks": 2991718,
+   "playTicks": 2997718,
    "deaths": 8,
-   "mobKills": 3747,
+   "mobKills": 3748,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 262423,
-   "damageTaken": 41003,
-   "distanceCm": 27638902,
-   "walkCm": 12070046,
-   "flyCm": 8682486,
-   "jumps": 47918,
-   "mined": 26907,
+   "damageDealt": 262702,
+   "damageTaken": 41051,
+   "distanceCm": 27741157,
+   "walkCm": 12096404,
+   "flyCm": 8733658,
+   "jumps": 48141,
+   "mined": 26916,
    "topMined": [
     [
      "spruce_log",
@@ -604,7 +604,7 @@
     ],
     [
      "zombie",
-     275
+     276
     ],
     [
      "skeleton",
@@ -1031,19 +1031,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T03:26:58Z",
-   "playTicks": 2460869,
+   "lastSeen": "2026-10-19T03:31:58Z",
+   "playTicks": 2466869,
    "deaths": 21,
-   "mobKills": 5575,
+   "mobKills": 5582,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 182746,
-   "damageTaken": 34828,
-   "distanceCm": 18240409,
-   "walkCm": 9179052,
-   "flyCm": 6092553,
-   "jumps": 32973,
-   "mined": 37689,
+   "damageDealt": 184026,
+   "damageTaken": 34886,
+   "distanceCm": 18361387,
+   "walkCm": 9206546,
+   "flyCm": 6153003,
+   "jumps": 33195,
+   "mined": 37732,
    "topMined": [
     [
      "netherrack",
@@ -1058,11 +1058,11 @@
      1762
     ]
    ],
-   "crafted": 92794,
+   "crafted": 93322,
    "topCrafted": [
     [
      "stick",
-     54995
+     55347
     ],
     [
      "spruce_planks",
@@ -1084,7 +1084,7 @@
     ],
     [
      "skeleton",
-     152
+     154
     ]
    ],
    "topKilledBy": [
