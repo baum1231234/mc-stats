@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T01:43:57Z",
+ "updated": "2026-10-19T01:47:21Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 10944986,
+ "serverTicks": 10950986,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -555,19 +555,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T01:41:58Z",
-   "playTicks": 2878051,
+   "lastSeen": "2026-10-19T01:46:58Z",
+   "playTicks": 2884051,
    "deaths": 8,
-   "mobKills": 3730,
+   "mobKills": 3736,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 258491,
-   "damageTaken": 40825,
-   "distanceCm": 26756703,
-   "walkCm": 11394337,
-   "flyCm": 8495313,
-   "jumps": 46057,
-   "mined": 19916,
+   "damageDealt": 260443,
+   "damageTaken": 40921,
+   "distanceCm": 26816525,
+   "walkCm": 11440769,
+   "flyCm": 8507403,
+   "jumps": 46152,
+   "mined": 20144,
    "topMined": [
     [
      "netherrack",
@@ -579,10 +579,10 @@
     ],
     [
      "spruce_log",
-     1366
+     1497
     ]
    ],
-   "crafted": 17288,
+   "crafted": 17480,
    "topCrafted": [
     [
      "emerald",
@@ -604,7 +604,7 @@
     ],
     [
      "zombie",
-     263
+     269
     ],
     [
      "skeleton",
@@ -1031,34 +1031,34 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T01:41:58Z",
-   "playTicks": 2334869,
+   "lastSeen": "2026-10-19T01:46:58Z",
+   "playTicks": 2340869,
    "deaths": 21,
    "mobKills": 5568,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 181496,
-   "damageTaken": 34670,
-   "distanceCm": 17249267,
-   "walkCm": 8486836,
-   "flyCm": 5861350,
-   "jumps": 30737,
-   "mined": 34404,
+   "damageTaken": 34690,
+   "distanceCm": 17306143,
+   "walkCm": 8524624,
+   "flyCm": 5870149,
+   "jumps": 30824,
+   "mined": 34474,
    "topMined": [
     [
      "netherrack",
-     23767
+     23769
     ],
     [
      "spruce_log",
-     1920
+     1932
     ],
     [
      "deepslate",
      1762
     ]
    ],
-   "crafted": 20700,
+   "crafted": 20797,
    "topCrafted": [
     [
      "stick",
@@ -1066,7 +1066,7 @@
     ],
     [
      "spruce_planks",
-     3867
+     3951
     ],
     [
      "iron_ingot",
