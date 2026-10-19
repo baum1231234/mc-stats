@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-19T19:22:55Z",
+ "updated": "2026-10-19T19:28:41Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 11710433,
+ "serverTicks": 11716433,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -555,19 +555,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-19T19:22:57Z",
-   "playTicks": 3347077,
+   "lastSeen": "2026-10-19T19:27:57Z",
+   "playTicks": 3353077,
    "deaths": 8,
-   "mobKills": 4406,
+   "mobKills": 4408,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 278761,
-   "damageTaken": 41987,
-   "distanceCm": 30064602,
-   "walkCm": 13529351,
-   "flyCm": 9340641,
-   "jumps": 51215,
-   "mined": 44825,
+   "damageDealt": 279081,
+   "damageTaken": 41991,
+   "distanceCm": 30076192,
+   "walkCm": 13536132,
+   "flyCm": 9343811,
+   "jumps": 51245,
+   "mined": 44830,
    "topMined": [
     [
      "spruce_log",
@@ -579,7 +579,7 @@
     ],
     [
      "stone",
-     5356
+     5361
     ]
    ],
    "crafted": 63073,
@@ -803,19 +803,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-19T19:22:57Z",
-   "playTicks": 2707238,
+   "lastSeen": "2026-10-19T19:27:57Z",
+   "playTicks": 2713238,
    "deaths": 21,
    "mobKills": 5733,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 202018,
    "damageTaken": 36233,
-   "distanceCm": 21639811,
-   "walkCm": 9843084,
-   "flyCm": 6704886,
-   "jumps": 35981,
-   "mined": 38777,
+   "distanceCm": 21670736,
+   "walkCm": 9861685,
+   "flyCm": 6715535,
+   "jumps": 36046,
+   "mined": 38785,
    "topMined": [
     [
      "netherrack",
@@ -830,19 +830,19 @@
      2315
     ]
    ],
-   "crafted": 110452,
+   "crafted": 110999,
    "topCrafted": [
     [
      "stick",
-     66107
+     66363
     ],
     [
      "spruce_planks",
-     32702
+     32958
     ],
     [
      "emerald",
-     4007
+     4015
     ]
    ],
    "topKilled": [
