@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-20T18:09:09Z",
+ "updated": "2026-10-20T18:14:05Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 12853293,
+ "serverTicks": 12859293,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-20T18:08:30Z",
-   "playTicks": 6163467,
+   "lastSeen": "2026-10-20T18:13:30Z",
+   "playTicks": 6169467,
    "deaths": 0,
-   "mobKills": 3922,
+   "mobKills": 3930,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 535935,
-   "damageTaken": 69588,
-   "distanceCm": 98346552,
-   "walkCm": 25959554,
-   "flyCm": 33620398,
-   "jumps": 132522,
-   "mined": 71412,
+   "damageDealt": 537478,
+   "damageTaken": 69657,
+   "distanceCm": 98416280,
+   "walkCm": 25988324,
+   "flyCm": 33651030,
+   "jumps": 132685,
+   "mined": 71616,
    "topMined": [
     [
      "netherrack",
@@ -60,7 +60,7 @@
     ],
     [
      "zombie",
-     437
+     439
     ]
    ],
    "topKilledBy": [],
@@ -331,8 +331,8 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-20T18:08:30Z",
-   "playTicks": 4044210,
+   "lastSeen": "2026-10-20T18:13:30Z",
+   "playTicks": 4050210,
    "deaths": 8,
    "mobKills": 5024,
    "playerKills": 1,
@@ -807,18 +807,18 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-20T18:08:30Z",
-   "playTicks": 3066741,
+   "lastSeen": "2026-10-20T18:13:30Z",
+   "playTicks": 3072741,
    "deaths": 2,
-   "mobKills": 3695,
+   "mobKills": 3700,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 290622,
-   "damageTaken": 30851,
-   "distanceCm": 38806997,
-   "walkCm": 12441996,
-   "flyCm": 9413595,
-   "jumps": 42372,
+   "damageDealt": 291372,
+   "damageTaken": 30903,
+   "distanceCm": 38832399,
+   "walkCm": 12450664,
+   "flyCm": 9426086,
+   "jumps": 42401,
    "mined": 45789,
    "topMined": [
     [
@@ -860,7 +860,7 @@
     ],
     [
      "zombie",
-     534
+     535
     ]
    ],
    "topKilledBy": [
