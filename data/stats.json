@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-20T12:02:48Z",
+ "updated": "2026-10-20T12:04:27Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 12409293,
+ "serverTicks": 12415293,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -929,18 +929,18 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-20T11:58:30Z",
-   "playTicks": 2657406,
+   "lastSeen": "2026-10-20T12:03:30Z",
+   "playTicks": 2663406,
    "deaths": 2,
    "mobKills": 3492,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 274779,
-   "damageTaken": 26885,
-   "distanceCm": 34345339,
-   "walkCm": 10913397,
-   "flyCm": 8115434,
-   "jumps": 36922,
+   "damageTaken": 26902,
+   "distanceCm": 34431217,
+   "walkCm": 10921133,
+   "flyCm": 8157385,
+   "jumps": 36953,
    "mined": 36105,
    "topMined": [
     [
@@ -956,7 +956,7 @@
      3269
     ]
    ],
-   "crafted": 120645,
+   "crafted": 121606,
    "topCrafted": [
     [
      "stick",
@@ -1271,19 +1271,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-20T11:58:30Z",
-   "playTicks": 1209766,
+   "lastSeen": "2026-10-20T12:03:30Z",
+   "playTicks": 1215766,
    "deaths": 0,
    "mobKills": 492,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 35202,
    "damageTaken": 4228,
-   "distanceCm": 8323386,
-   "walkCm": 5193629,
+   "distanceCm": 8338195,
+   "walkCm": 5208438,
    "flyCm": 1223813,
-   "jumps": 9048,
-   "mined": 28149,
+   "jumps": 9050,
+   "mined": 28159,
    "topMined": [
     [
      "netherrack",
@@ -2630,8 +2630,8 @@
     "rendered": "2026-10-20T11:35:33Z"
    },
    "-3.-7": {
-    "mtime": "2026-10-17T19:52:06Z",
-    "rendered": "2026-10-17T22:38:27Z"
+    "mtime": "2026-10-20T12:04:47Z",
+    "rendered": "2026-10-20T12:04:27Z"
    },
    "-4.-6": {
     "mtime": "2026-10-20T06:45:08Z",
@@ -3574,6 +3574,18 @@
    "-3.12": {
     "mtime": "2026-10-17T17:25:55Z",
     "rendered": "2026-10-20T12:02:48Z"
+   },
+   "-4.11": {
+    "mtime": "2026-10-17T17:26:37Z",
+    "rendered": "2026-10-20T12:04:27Z"
+   },
+   "-5.10": {
+    "mtime": "2026-10-19T12:20:05Z",
+    "rendered": "2026-10-20T12:04:27Z"
+   },
+   "-6.9": {
+    "mtime": "2026-10-19T12:22:59Z",
+    "rendered": "2026-10-20T12:04:27Z"
    },
    "-7.8": {
     "mtime": "2026-10-19T12:21:02Z",
