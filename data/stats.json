@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-20T16:24:54Z",
+ "updated": "2026-10-20T16:29:39Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 12727293,
+ "serverTicks": 12733293,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -441,19 +441,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-20T16:23:30Z",
-   "playTicks": 3922946,
+   "lastSeen": "2026-10-20T16:28:30Z",
+   "playTicks": 3928946,
    "deaths": 8,
-   "mobKills": 5012,
+   "mobKills": 5019,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 286518,
-   "damageTaken": 45234,
-   "distanceCm": 34253900,
-   "walkCm": 15100112,
-   "flyCm": 11086676,
-   "jumps": 57218,
-   "mined": 54230,
+   "damageDealt": 287838,
+   "damageTaken": 45284,
+   "distanceCm": 34337953,
+   "walkCm": 15150389,
+   "flyCm": 11118233,
+   "jumps": 57340,
+   "mined": 54533,
    "topMined": [
     [
      "spruce_log",
@@ -490,11 +490,11 @@
     ],
     [
      "zombie",
-     318
+     319
     ],
     [
      "skeleton",
-     177
+     181
     ]
    ],
    "topKilledBy": [
@@ -807,23 +807,23 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-20T16:23:30Z",
-   "playTicks": 2963458,
+   "lastSeen": "2026-10-20T16:28:38Z",
+   "playTicks": 2969607,
    "deaths": 2,
-   "mobKills": 3681,
+   "mobKills": 3682,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 288502,
-   "damageTaken": 29799,
-   "distanceCm": 38113054,
-   "walkCm": 12084612,
-   "flyCm": 9234696,
-   "jumps": 40758,
-   "mined": 43375,
+   "damageDealt": 288662,
+   "damageTaken": 30131,
+   "distanceCm": 38142507,
+   "walkCm": 12109711,
+   "flyCm": 9237825,
+   "jumps": 40817,
+   "mined": 43639,
    "topMined": [
     [
      "netherrack",
-     8919
+     9162
     ],
     [
      "spruce_log",
@@ -831,7 +831,7 @@
     ],
     [
      "gravel",
-     6202
+     6203
     ]
    ],
    "crafted": 125487,
