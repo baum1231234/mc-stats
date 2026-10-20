@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-20T06:48:51Z",
+ "updated": "2026-10-20T06:50:43Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 12118310,
+ "serverTicks": 12124310,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1397,23 +1397,23 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-20T06:44:32Z",
-   "playTicks": 930689,
+   "lastSeen": "2026-10-20T06:49:32Z",
+   "playTicks": 936689,
    "deaths": 0,
    "mobKills": 474,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 33812,
-   "damageTaken": 3642,
-   "distanceCm": 6714369,
-   "walkCm": 4096802,
-   "flyCm": 891093,
-   "jumps": 6704,
-   "mined": 23996,
+   "damageTaken": 3648,
+   "distanceCm": 6805502,
+   "walkCm": 4141581,
+   "flyCm": 927288,
+   "jumps": 6865,
+   "mined": 24077,
    "topMined": [
     [
      "netherrack",
-     8005
+     8044
     ],
     [
      "deepslate",
@@ -1455,14 +1455,18 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 22,
+    "count": 23,
     "byTab": {
      "story": 9,
-     "husbandry": 2,
+     "husbandry": 3,
      "adventure": 9,
      "nether": 2
     },
     "recent": [
+     [
+      "husbandry/silk_touch_nest",
+      "2026-10-20T06:45:40Z"
+     ],
      [
       "nether/obtain_ancient_debris",
       "2026-10-19T11:09:42Z"
@@ -1490,10 +1494,6 @@
      [
       "story/form_obsidian",
       "2026-10-15T21:42:34Z"
-     ],
-     [
-      "story/root",
-      "2026-10-13T09:33:02Z"
      ]
     ]
    }
