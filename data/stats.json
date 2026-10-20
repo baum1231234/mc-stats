@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-20T08:12:43Z",
+ "updated": "2026-10-20T08:14:18Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 12220310,
+ "serverTicks": 12226310,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -3791,6 +3791,10 @@
    "-1.12": {
     "mtime": "2026-10-17T17:23:16Z",
     "rendered": "2026-10-20T08:12:43Z"
+   },
+   "-2.13": {
+    "mtime": "2026-10-17T17:24:49Z",
+    "rendered": "2026-10-20T08:14:18Z"
    }
   }
  }
