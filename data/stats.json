@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-20T16:39:38Z",
+ "updated": "2026-10-20T16:44:15Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 12745293,
+ "serverTicks": 12751293,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -441,19 +441,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-20T16:36:31Z",
-   "playTicks": 3938563,
+   "lastSeen": "2026-10-20T16:43:30Z",
+   "playTicks": 3942210,
    "deaths": 8,
-   "mobKills": 5023,
+   "mobKills": 5024,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 288498,
-   "damageTaken": 45460,
-   "distanceCm": 34542162,
-   "walkCm": 15178502,
-   "flyCm": 11222916,
-   "jumps": 57472,
-   "mined": 54668,
+   "damageDealt": 288801,
+   "damageTaken": 45550,
+   "distanceCm": 34593609,
+   "walkCm": 15181587,
+   "flyCm": 11251791,
+   "jumps": 57513,
+   "mined": 54670,
    "topMined": [
     [
      "spruce_log",
@@ -465,7 +465,7 @@
     ],
     [
      "dirt",
-     5666
+     5668
     ]
    ],
    "crafted": 65041,
@@ -807,19 +807,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-20T16:38:30Z",
-   "playTicks": 2981246,
+   "lastSeen": "2026-10-20T16:43:30Z",
+   "playTicks": 2987246,
    "deaths": 2,
-   "mobKills": 3683,
+   "mobKills": 3691,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 288862,
-   "damageTaken": 30301,
-   "distanceCm": 38286317,
-   "walkCm": 12154803,
-   "flyCm": 9294382,
-   "jumps": 40997,
-   "mined": 43913,
+   "damageDealt": 290142,
+   "damageTaken": 30419,
+   "distanceCm": 38346852,
+   "walkCm": 12183701,
+   "flyCm": 9314854,
+   "jumps": 41121,
+   "mined": 43959,
    "topMined": [
     [
      "netherrack",
@@ -856,11 +856,11 @@
     ],
     [
      "skeleton",
-     648
+     649
     ],
     [
      "zombie",
-     530
+     534
     ]
    ],
    "topKilledBy": [
