@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-20T16:44:15Z",
+ "updated": "2026-10-20T16:48:40Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 12751293,
+ "serverTicks": 12757293,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -328,121 +328,11 @@
    }
   },
   {
-   "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
-   "name": "Eingepacktt",
-   "firstSeen": null,
-   "lastSeen": "2026-10-18T15:18:17Z",
-   "playTicks": 3944597,
-   "deaths": 4,
-   "mobKills": 3387,
-   "playerKills": 3,
-   "killedByPlayers": 0,
-   "damageDealt": 325114,
-   "damageTaken": 30588,
-   "distanceCm": 49486892,
-   "walkCm": 13780469,
-   "flyCm": 18311518,
-   "jumps": 60312,
-   "mined": 36217,
-   "topMined": [
-    [
-     "spruce_log",
-     5267
-    ],
-    [
-     "dark_oak_log",
-     4187
-    ],
-    [
-     "netherrack",
-     3422
-    ]
-   ],
-   "crafted": 118496,
-   "topCrafted": [
-    [
-     "stick",
-     69872
-    ],
-    [
-     "spruce_planks",
-     20916
-    ],
-    [
-     "dark_oak_planks",
-     15727
-    ]
-   ],
-   "topKilled": [
-    [
-     "skeleton",
-     2020
-    ],
-    [
-     "zombie",
-     189
-    ],
-    [
-     "drowned",
-     166
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "warden",
-     2
-    ]
-   ],
-   "adv": {
-    "count": 34,
-    "byTab": {
-     "story": 11,
-     "adventure": 11,
-     "husbandry": 3,
-     "nether": 9
-    },
-    "recent": [
-     [
-      "nether/netherite_armor",
-      "2026-10-18T13:53:30Z"
-     ],
-     [
-      "nether/fast_travel",
-      "2026-10-17T12:34:34Z"
-     ],
-     [
-      "nether/obtain_blaze_rod",
-      "2026-10-17T12:12:23Z"
-     ],
-     [
-      "nether/explore_nether",
-      "2026-10-17T03:06:31Z"
-     ],
-     [
-      "nether/find_fortress",
-      "2026-10-17T03:05:21Z"
-     ],
-     [
-      "adventure/totem_of_undying",
-      "2026-10-17T02:38:31Z"
-     ],
-     [
-      "nether/obtain_ancient_debris",
-      "2026-10-17T02:36:46Z"
-     ],
-     [
-      "nether/loot_bastion",
-      "2026-10-17T02:36:44Z"
-     ]
-    ]
-   }
-  },
-  {
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-20T16:43:30Z",
-   "playTicks": 3942210,
+   "lastSeen": "2026-10-20T16:48:30Z",
+   "playTicks": 3948210,
    "deaths": 8,
    "mobKills": 5024,
    "playerKills": 1,
@@ -559,6 +449,116 @@
      [
       "nether/fast_travel",
       "2026-10-18T20:57:56Z"
+     ]
+    ]
+   }
+  },
+  {
+   "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
+   "name": "Eingepacktt",
+   "firstSeen": null,
+   "lastSeen": "2026-10-18T15:18:17Z",
+   "playTicks": 3944597,
+   "deaths": 4,
+   "mobKills": 3387,
+   "playerKills": 3,
+   "killedByPlayers": 0,
+   "damageDealt": 325114,
+   "damageTaken": 30588,
+   "distanceCm": 49486892,
+   "walkCm": 13780469,
+   "flyCm": 18311518,
+   "jumps": 60312,
+   "mined": 36217,
+   "topMined": [
+    [
+     "spruce_log",
+     5267
+    ],
+    [
+     "dark_oak_log",
+     4187
+    ],
+    [
+     "netherrack",
+     3422
+    ]
+   ],
+   "crafted": 118496,
+   "topCrafted": [
+    [
+     "stick",
+     69872
+    ],
+    [
+     "spruce_planks",
+     20916
+    ],
+    [
+     "dark_oak_planks",
+     15727
+    ]
+   ],
+   "topKilled": [
+    [
+     "skeleton",
+     2020
+    ],
+    [
+     "zombie",
+     189
+    ],
+    [
+     "drowned",
+     166
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "warden",
+     2
+    ]
+   ],
+   "adv": {
+    "count": 34,
+    "byTab": {
+     "story": 11,
+     "adventure": 11,
+     "husbandry": 3,
+     "nether": 9
+    },
+    "recent": [
+     [
+      "nether/netherite_armor",
+      "2026-10-18T13:53:30Z"
+     ],
+     [
+      "nether/fast_travel",
+      "2026-10-17T12:34:34Z"
+     ],
+     [
+      "nether/obtain_blaze_rod",
+      "2026-10-17T12:12:23Z"
+     ],
+     [
+      "nether/explore_nether",
+      "2026-10-17T03:06:31Z"
+     ],
+     [
+      "nether/find_fortress",
+      "2026-10-17T03:05:21Z"
+     ],
+     [
+      "adventure/totem_of_undying",
+      "2026-10-17T02:38:31Z"
+     ],
+     [
+      "nether/obtain_ancient_debris",
+      "2026-10-17T02:36:46Z"
+     ],
+     [
+      "nether/loot_bastion",
+      "2026-10-17T02:36:44Z"
      ]
     ]
    }
@@ -807,23 +807,23 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-20T16:43:30Z",
-   "playTicks": 2987246,
+   "lastSeen": "2026-10-20T16:46:29Z",
+   "playTicks": 2990825,
    "deaths": 2,
    "mobKills": 3691,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 290142,
-   "damageTaken": 30419,
-   "distanceCm": 38346852,
-   "walkCm": 12183701,
-   "flyCm": 9314854,
-   "jumps": 41121,
-   "mined": 43959,
+   "damageTaken": 30475,
+   "distanceCm": 38380721,
+   "walkCm": 12203190,
+   "flyCm": 9326945,
+   "jumps": 41171,
+   "mined": 43960,
    "topMined": [
     [
      "netherrack",
-     9426
+     9427
     ],
     [
      "spruce_log",
