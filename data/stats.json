@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-20T14:16:59Z",
+ "updated": "2026-10-20T14:18:50Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 12571293,
+ "serverTicks": 12577293,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-20T00:35:51Z",
-   "playTicks": 6094161,
+   "lastSeen": "2026-10-20T14:18:30Z",
+   "playTicks": 6097213,
    "deaths": 0,
    "mobKills": 3914,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 533860,
-   "damageTaken": 68745,
-   "distanceCm": 96984918,
-   "walkCm": 25610793,
-   "flyCm": 33084339,
-   "jumps": 130729,
-   "mined": 70990,
+   "damageTaken": 68888,
+   "distanceCm": 97131356,
+   "walkCm": 25624246,
+   "flyCm": 33206015,
+   "jumps": 130852,
+   "mined": 70994,
    "topMined": [
     [
      "netherrack",
-     34533
+     34535
     ],
     [
      "spruce_log",
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-20T14:13:30Z",
-   "playTicks": 5080759,
+   "lastSeen": "2026-10-20T14:18:30Z",
+   "playTicks": 5086759,
    "deaths": 2,
-   "mobKills": 3217,
+   "mobKills": 3219,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 383132,
-   "damageTaken": 17353,
-   "distanceCm": 52665226,
-   "walkCm": 24128787,
-   "flyCm": 15511047,
-   "jumps": 54958,
-   "mined": 98367,
+   "damageDealt": 383532,
+   "damageTaken": 17355,
+   "distanceCm": 52736303,
+   "walkCm": 24156809,
+   "flyCm": 15532651,
+   "jumps": 55027,
+   "mined": 98526,
    "topMined": [
     [
      "netherrack",
@@ -441,19 +441,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-20T14:13:30Z",
-   "playTicks": 3766946,
+   "lastSeen": "2026-10-20T14:18:30Z",
+   "playTicks": 3772946,
    "deaths": 8,
    "mobKills": 4418,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 282091,
    "damageTaken": 44733,
-   "distanceCm": 33361620,
-   "walkCm": 14538761,
-   "flyCm": 10826690,
-   "jumps": 55996,
-   "mined": 49825,
+   "distanceCm": 33387830,
+   "walkCm": 14558623,
+   "flyCm": 10833038,
+   "jumps": 56069,
+   "mined": 49833,
    "topMined": [
     [
      "spruce_log",
@@ -468,7 +468,7 @@
      5644
     ]
    ],
-   "crafted": 64364,
+   "crafted": 64377,
    "topCrafted": [
     [
      "stick",
@@ -480,7 +480,7 @@
     ],
     [
      "emerald",
-     5127
+     5129
     ]
    ],
    "topKilled": [
@@ -520,14 +520,18 @@
     ]
    ],
    "adv": {
-    "count": 49,
+    "count": 50,
     "byTab": {
-     "adventure": 15,
+     "adventure": 16,
      "story": 13,
      "husbandry": 4,
      "nether": 17
     },
     "recent": [
+     [
+      "adventure/trim_with_any_armor_pattern",
+      "2026-10-20T14:16:28Z"
+     ],
      [
       "adventure/avoid_vibration",
       "2026-10-19T21:36:41Z"
@@ -555,10 +559,6 @@
      [
       "adventure/ol_betsy",
       "2026-10-18T18:34:35Z"
-     ],
-     [
-      "nether/distract_piglin",
-      "2026-10-18T17:14:01Z"
      ]
     ]
    }
@@ -807,19 +807,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-20T14:13:30Z",
-   "playTicks": 2818462,
+   "lastSeen": "2026-10-20T14:18:30Z",
+   "playTicks": 2824462,
    "deaths": 2,
    "mobKills": 3500,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 276169,
-   "damageTaken": 27632,
-   "distanceCm": 36508446,
-   "walkCm": 11405867,
-   "flyCm": 8707068,
-   "jumps": 38338,
-   "mined": 41250,
+   "damageTaken": 27705,
+   "distanceCm": 36611416,
+   "walkCm": 11422333,
+   "flyCm": 8759774,
+   "jumps": 38395,
+   "mined": 41274,
    "topMined": [
     [
      "netherrack",
@@ -834,11 +834,11 @@
      6199
     ]
    ],
-   "crafted": 124633,
+   "crafted": 124639,
    "topCrafted": [
     [
      "stick",
-     68140
+     68144
     ],
     [
      "spruce_planks",
@@ -2337,16 +2337,16 @@
     "rendered": "2026-10-19T23:04:01Z"
    },
    "-1.1": {
-    "mtime": "2026-10-20T00:26:41Z",
-    "rendered": "2026-10-20T02:05:13Z"
+    "mtime": "2026-10-20T14:16:24Z",
+    "rendered": "2026-10-20T14:18:50Z"
    },
    "-2.2": {
     "mtime": "2026-10-19T23:12:14Z",
     "rendered": "2026-10-20T02:09:55Z"
    },
    "-1.0": {
-    "mtime": "2026-10-20T00:35:51Z",
-    "rendered": "2026-10-20T03:32:35Z"
+    "mtime": "2026-10-20T14:16:32Z",
+    "rendered": "2026-10-20T14:18:50Z"
    },
    "-2.-1": {
     "mtime": "2026-10-20T13:09:39Z",
@@ -2517,8 +2517,8 @@
     "rendered": "2026-10-20T14:15:10Z"
    },
    "5.0": {
-    "mtime": "2026-10-19T21:26:38Z",
-    "rendered": "2026-10-19T21:27:20Z"
+    "mtime": "2026-10-20T14:10:02Z",
+    "rendered": "2026-10-20T14:18:50Z"
    },
    "0.2": {
     "mtime": "2026-10-19T23:08:58Z",
@@ -2702,8 +2702,8 @@
     "rendered": "2026-10-19T21:21:54Z"
    },
    "4.2": {
-    "mtime": "2026-10-19T21:26:59Z",
-    "rendered": "2026-10-20T00:22:28Z"
+    "mtime": "2026-10-20T14:09:18Z",
+    "rendered": "2026-10-20T14:18:50Z"
    },
    "5.1": {
     "mtime": "2026-10-19T21:28:29Z",
