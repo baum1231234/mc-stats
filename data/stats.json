@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-20T16:04:03Z",
+ "updated": "2026-10-20T16:08:37Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 12703293,
+ "serverTicks": 12709293,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -441,19 +441,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-20T16:03:30Z",
-   "playTicks": 3898946,
+   "lastSeen": "2026-10-20T16:08:30Z",
+   "playTicks": 3904946,
    "deaths": 8,
-   "mobKills": 5007,
+   "mobKills": 5009,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 285317,
-   "damageTaken": 45214,
-   "distanceCm": 34030728,
-   "walkCm": 14908791,
-   "flyCm": 11060224,
-   "jumps": 57067,
-   "mined": 52334,
+   "damageDealt": 285717,
+   "damageTaken": 45218,
+   "distanceCm": 34092864,
+   "walkCm": 14958300,
+   "flyCm": 11072851,
+   "jumps": 57121,
+   "mined": 52767,
    "topMined": [
     [
      "spruce_log",
@@ -461,7 +461,7 @@
     ],
     [
      "stone",
-     6117
+     6128
     ],
     [
      "dirt",
@@ -490,7 +490,7 @@
     ],
     [
      "zombie",
-     315
+     317
     ],
     [
      "skeleton",
@@ -807,23 +807,23 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-20T16:03:30Z",
-   "playTicks": 2939458,
+   "lastSeen": "2026-10-20T16:08:30Z",
+   "playTicks": 2945458,
    "deaths": 2,
    "mobKills": 3679,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 287712,
-   "damageTaken": 29223,
-   "distanceCm": 37887378,
-   "walkCm": 11954454,
-   "flyCm": 9170541,
-   "jumps": 40247,
-   "mined": 42786,
+   "damageTaken": 29324,
+   "distanceCm": 37961943,
+   "walkCm": 12000952,
+   "flyCm": 9189477,
+   "jumps": 40363,
+   "mined": 42816,
    "topMined": [
     [
      "netherrack",
-     8417
+     8444
     ],
     [
      "spruce_log",
@@ -834,7 +834,7 @@
      6202
     ]
    ],
-   "crafted": 125355,
+   "crafted": 125487,
    "topCrafted": [
     [
      "stick",
