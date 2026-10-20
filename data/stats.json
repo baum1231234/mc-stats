@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-20T07:58:23Z",
+ "updated": "2026-10-20T08:00:02Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 12202310,
+ "serverTicks": 12208310,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1397,19 +1397,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-20T07:54:32Z",
-   "playTicks": 1014689,
+   "lastSeen": "2026-10-20T07:59:32Z",
+   "playTicks": 1020689,
    "deaths": 0,
    "mobKills": 474,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 33892,
-   "damageTaken": 3744,
-   "distanceCm": 7219558,
-   "walkCm": 4419349,
-   "flyCm": 1029387,
-   "jumps": 7373,
-   "mined": 24424,
+   "damageTaken": 3797,
+   "distanceCm": 7265984,
+   "walkCm": 4450647,
+   "flyCm": 1037304,
+   "jumps": 7438,
+   "mined": 24464,
    "topMined": [
     [
      "netherrack",
@@ -1424,7 +1424,7 @@
      4038
     ]
    ],
-   "crafted": 9497,
+   "crafted": 9507,
    "topCrafted": [
     [
      "iron_ingot",
@@ -1432,7 +1432,7 @@
     ],
     [
      "stick",
-     1828
+     1836
     ],
     [
      "emerald",
@@ -3606,6 +3606,22 @@
    "-17.-1": {
     "mtime": "2026-10-17T17:24:22Z",
     "rendered": "2026-10-20T07:58:23Z"
+   },
+   "-1.11": {
+    "mtime": "2026-10-17T17:23:16Z",
+    "rendered": "2026-10-20T08:00:02Z"
+   },
+   "-2.12": {
+    "mtime": "2026-10-17T17:24:49Z",
+    "rendered": "2026-10-20T08:00:02Z"
+   },
+   "0.10": {
+    "mtime": "2026-10-17T17:28:40Z",
+    "rendered": "2026-10-20T08:00:02Z"
+   },
+   "1.9": {
+    "mtime": "2026-10-17T17:29:23Z",
+    "rendered": "2026-10-20T08:00:02Z"
    },
    "-7.-3": {
     "mtime": "2026-10-20T06:36:18Z",
