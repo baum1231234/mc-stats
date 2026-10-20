@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-20T15:27:39Z",
+ "updated": "2026-10-20T15:29:27Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 12655293,
+ "serverTicks": 12661293,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -441,19 +441,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-20T15:23:30Z",
-   "playTicks": 3850946,
+   "lastSeen": "2026-10-20T15:28:30Z",
+   "playTicks": 3856946,
    "deaths": 8,
    "mobKills": 5000,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 284356,
-   "damageTaken": 45067,
-   "distanceCm": 33515834,
-   "walkCm": 14638777,
-   "flyCm": 10872672,
-   "jumps": 56414,
-   "mined": 49901,
+   "damageTaken": 45075,
+   "distanceCm": 33610665,
+   "walkCm": 14670816,
+   "flyCm": 10923328,
+   "jumps": 56612,
+   "mined": 49912,
    "topMined": [
     [
      "spruce_log",
@@ -465,10 +465,10 @@
     ],
     [
      "dirt",
-     5653
+     5657
     ]
    ],
-   "crafted": 65013,
+   "crafted": 65018,
    "topCrafted": [
     [
      "stick",
@@ -807,23 +807,23 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-20T15:23:30Z",
-   "playTicks": 2902462,
+   "lastSeen": "2026-10-20T15:29:29Z",
+   "playTicks": 2909625,
    "deaths": 2,
-   "mobKills": 3506,
+   "mobKills": 3507,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 277404,
-   "damageTaken": 27997,
-   "distanceCm": 37363599,
-   "walkCm": 11742212,
-   "flyCm": 8999473,
-   "jumps": 39335,
-   "mined": 42584,
+   "damageTaken": 28306,
+   "distanceCm": 37477176,
+   "walkCm": 11800289,
+   "flyCm": 9038756,
+   "jumps": 39550,
+   "mined": 42651,
    "topMined": [
     [
      "netherrack",
-     8258
+     8318
     ],
     [
      "spruce_log",
@@ -870,14 +870,18 @@
     ]
    ],
    "adv": {
-    "count": 42,
+    "count": 43,
     "byTab": {
      "story": 12,
      "adventure": 13,
      "husbandry": 7,
-     "nether": 10
+     "nether": 11
     },
     "recent": [
+     [
+      "nether/return_to_sender",
+      "2026-10-20T15:26:45Z"
+     ],
      [
       "adventure/trim_with_any_armor_pattern",
       "2026-10-17T21:13:51Z"
@@ -905,10 +909,6 @@
      [
       "nether/distract_piglin",
       "2026-10-17T18:44:41Z"
-     ],
-     [
-      "nether/obtain_ancient_debris",
-      "2026-10-17T17:44:37Z"
      ]
     ]
    }
@@ -1834,10 +1834,10 @@
      "2026-10-19",
      "2026-10-20"
     ],
-    "rendered": "2026-10-20T12:29:11Z",
+    "rendered": "2026-10-20T15:29:27Z",
     "regions": {
-     "r.0.-1.mca": "2026-10-20T00:05:47Z",
-     "r.0.-2.mca": "2026-10-20T12:29:30Z"
+     "r.0.-1.mca": "2026-10-20T15:20:37Z",
+     "r.0.-2.mca": "2026-10-20T14:38:14Z"
     }
    }
   },
@@ -2193,8 +2193,8 @@
     "rendered": "2026-10-20T14:11:22Z"
    },
    "0.-2": {
-    "mtime": "2026-10-20T12:29:39Z",
-    "rendered": "2026-10-20T12:29:11Z"
+    "mtime": "2026-10-20T14:38:14Z",
+    "rendered": "2026-10-20T15:29:27Z"
    },
    "0.-1": {
     "mtime": "2026-10-20T13:10:01Z",
@@ -2289,8 +2289,8 @@
     "rendered": "2026-10-17T19:09:56Z"
    },
    "-1.-2": {
-    "mtime": "2026-10-20T12:29:39Z",
-    "rendered": "2026-10-20T12:29:11Z"
+    "mtime": "2026-10-20T14:38:27Z",
+    "rendered": "2026-10-20T15:29:27Z"
    },
    "2.2": {
     "mtime": "2026-10-19T21:21:56Z",
@@ -2710,8 +2710,8 @@
     "rendered": "2026-10-20T14:20:43Z"
    },
    "4.-2": {
-    "mtime": "2026-10-17T17:31:01Z",
-    "rendered": "2026-10-17T19:44:42Z"
+    "mtime": "2026-10-20T15:29:55Z",
+    "rendered": "2026-10-20T15:29:27Z"
    },
    "5.-1": {
     "mtime": "2026-10-20T14:10:02Z",
