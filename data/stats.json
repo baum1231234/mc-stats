@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-20T08:24:29Z",
+ "updated": "2026-10-20T08:30:15Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 12238310,
+ "serverTicks": 12244310,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1397,23 +1397,23 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-20T08:24:32Z",
-   "playTicks": 1050689,
+   "lastSeen": "2026-10-20T08:29:32Z",
+   "playTicks": 1056689,
    "deaths": 0,
-   "mobKills": 474,
+   "mobKills": 475,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 33892,
-   "damageTaken": 3832,
-   "distanceCm": 7412221,
-   "walkCm": 4535345,
-   "flyCm": 1076606,
-   "jumps": 7785,
-   "mined": 24718,
+   "damageTaken": 3850,
+   "distanceCm": 7459054,
+   "walkCm": 4569119,
+   "flyCm": 1081342,
+   "jumps": 7955,
+   "mined": 24740,
    "topMined": [
     [
      "netherrack",
-     8044
+     8046
     ],
     [
      "deepslate",
@@ -1455,14 +1455,18 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 25,
+    "count": 26,
     "byTab": {
      "story": 9,
      "husbandry": 3,
      "adventure": 9,
-     "nether": 4
+     "nether": 5
     },
     "recent": [
+     [
+      "nether/return_to_sender",
+      "2026-10-20T08:28:02Z"
+     ],
      [
       "nether/obtain_blaze_rod",
       "2026-10-20T07:25:57Z"
@@ -1490,10 +1494,6 @@
      [
       "adventure/lighten_up",
       "2026-10-16T00:09:36Z"
-     ],
-     [
-      "husbandry/wax_off",
-      "2026-10-16T00:08:46Z"
      ]
     ]
    }
