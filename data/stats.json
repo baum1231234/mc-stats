@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-20T17:29:10Z",
+ "updated": "2026-10-20T17:34:02Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 12805293,
+ "serverTicks": 12811293,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -331,8 +331,8 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-20T17:28:30Z",
-   "playTicks": 3996210,
+   "lastSeen": "2026-10-20T17:33:30Z",
+   "playTicks": 4002210,
    "deaths": 8,
    "mobKills": 5024,
    "playerKills": 1,
@@ -807,23 +807,23 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-20T17:28:30Z",
-   "playTicks": 3018741,
+   "lastSeen": "2026-10-20T17:33:30Z",
+   "playTicks": 3024741,
    "deaths": 2,
-   "mobKills": 3694,
+   "mobKills": 3695,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 290622,
-   "damageTaken": 30752,
-   "distanceCm": 38680887,
-   "walkCm": 12361561,
-   "flyCm": 9395062,
-   "jumps": 41578,
-   "mined": 44257,
+   "damageTaken": 30851,
+   "distanceCm": 38734471,
+   "walkCm": 12402196,
+   "flyCm": 9404321,
+   "jumps": 41651,
+   "mined": 44505,
    "topMined": [
     [
      "netherrack",
-     9610
+     9845
     ],
     [
      "spruce_log",
