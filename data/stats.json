@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-20T08:23:01Z",
+ "updated": "2026-10-20T08:24:29Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 12235794,
+ "serverTicks": 12238310,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1397,19 +1397,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-20T08:22:26Z",
-   "playTicks": 1048173,
+   "lastSeen": "2026-10-20T08:24:32Z",
+   "playTicks": 1050689,
    "deaths": 0,
    "mobKills": 474,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 33892,
    "damageTaken": 3832,
-   "distanceCm": 7397677,
-   "walkCm": 4526664,
-   "flyCm": 1071043,
-   "jumps": 7730,
-   "mined": 24704,
+   "distanceCm": 7412221,
+   "walkCm": 4535345,
+   "flyCm": 1076606,
+   "jumps": 7785,
+   "mined": 24718,
    "topMined": [
     [
      "netherrack",
@@ -1424,7 +1424,7 @@
      4154
     ]
    ],
-   "crafted": 9956,
+   "crafted": 9961,
    "topCrafted": [
     [
      "iron_ingot",
