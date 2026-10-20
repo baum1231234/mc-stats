@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-20T20:29:01Z",
+ "updated": "2026-10-20T20:33:55Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 13021293,
+ "serverTicks": 13027293,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-20T20:28:42Z",
-   "playTicks": 6298883,
+   "lastSeen": "2026-10-20T20:33:42Z",
+   "playTicks": 6304883,
    "deaths": 0,
    "mobKills": 3939,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 538874,
-   "damageTaken": 70063,
-   "distanceCm": 99989703,
-   "walkCm": 26535144,
-   "flyCm": 34298488,
-   "jumps": 135676,
-   "mined": 73387,
+   "damageTaken": 70077,
+   "distanceCm": 100059325,
+   "walkCm": 26567602,
+   "flyCm": 34329328,
+   "jumps": 135839,
+   "mined": 73517,
    "topMined": [
     [
      "netherrack",
@@ -27,7 +27,7 @@
     ],
     [
      "spruce_log",
-     7075
+     7092
     ],
     [
      "stone",
@@ -331,8 +331,8 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-20T20:28:42Z",
-   "playTicks": 4212210,
+   "lastSeen": "2026-10-20T20:33:42Z",
+   "playTicks": 4218210,
    "deaths": 8,
    "mobKills": 5024,
    "playerKills": 1,
@@ -567,18 +567,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-20T20:28:42Z",
-   "playTicks": 3768496,
+   "lastSeen": "2026-10-20T20:33:42Z",
+   "playTicks": 3774496,
    "deaths": 2,
    "mobKills": 1500,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 132285,
-   "damageTaken": 36414,
-   "distanceCm": 36254243,
-   "walkCm": 15701896,
-   "flyCm": 12601206,
-   "jumps": 64865,
+   "damageTaken": 36424,
+   "distanceCm": 36272421,
+   "walkCm": 15708257,
+   "flyCm": 12609822,
+   "jumps": 64927,
    "mined": 108242,
    "topMined": [
     [
@@ -681,19 +681,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-20T20:28:42Z",
-   "playTicks": 3234741,
+   "lastSeen": "2026-10-20T20:33:42Z",
+   "playTicks": 3240741,
    "deaths": 2,
    "mobKills": 3744,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 300353,
-   "damageTaken": 32346,
-   "distanceCm": 39961105,
-   "walkCm": 13002492,
-   "flyCm": 9805990,
-   "jumps": 44739,
-   "mined": 48908,
+   "damageTaken": 32439,
+   "distanceCm": 40005137,
+   "walkCm": 13021059,
+   "flyCm": 9812916,
+   "jumps": 44854,
+   "mined": 48912,
    "topMined": [
     [
      "netherrack",
@@ -708,7 +708,7 @@
      6205
     ]
    ],
-   "crafted": 126070,
+   "crafted": 126111,
    "topCrafted": [
     [
      "stick",
