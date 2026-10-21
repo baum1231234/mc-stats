@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T15:13:42Z",
+ "updated": "2026-10-21T15:18:18Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 14022641,
+ "serverTicks": 14028641,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T15:12:14Z",
-   "playTicks": 5263555,
+   "lastSeen": "2026-10-21T15:17:14Z",
+   "playTicks": 5269555,
    "deaths": 2,
-   "mobKills": 3223,
+   "mobKills": 3224,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 384313,
-   "damageTaken": 17449,
-   "distanceCm": 53959841,
-   "walkCm": 24573174,
-   "flyCm": 16012854,
-   "jumps": 56051,
-   "mined": 98791,
+   "damageDealt": 384503,
+   "damageTaken": 17455,
+   "distanceCm": 54011815,
+   "walkCm": 24607625,
+   "flyCm": 16030152,
+   "jumps": 56109,
+   "mined": 98792,
    "topMined": [
     [
      "netherrack",
@@ -139,11 +139,11 @@
      9472
     ]
    ],
-   "crafted": 52805,
+   "crafted": 53061,
    "topCrafted": [
     [
      "spruce_planks",
-     11302
+     11558
     ],
     [
      "bamboo_planks",
@@ -165,7 +165,7 @@
     ],
     [
      "skeleton",
-     358
+     359
     ]
    ],
    "topKilledBy": [
@@ -331,19 +331,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-21T15:12:14Z",
-   "playTicks": 4734087,
+   "lastSeen": "2026-10-21T15:17:14Z",
+   "playTicks": 4740087,
    "deaths": 8,
-   "mobKills": 5139,
+   "mobKills": 5140,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 301954,
+   "damageDealt": 302154,
    "damageTaken": 47043,
-   "distanceCm": 36419984,
-   "walkCm": 16013990,
-   "flyCm": 11759995,
-   "jumps": 60211,
-   "mined": 56586,
+   "distanceCm": 36430174,
+   "walkCm": 16018180,
+   "flyCm": 11765545,
+   "jumps": 60232,
+   "mined": 56587,
    "topMined": [
     [
      "spruce_log",
@@ -358,7 +358,7 @@
      5716
     ]
    ],
-   "crafted": 68304,
+   "crafted": 68322,
    "topCrafted": [
     [
      "stick",
@@ -366,7 +366,7 @@
     ],
     [
      "spruce_planks",
-     14672
+     14688
     ],
     [
      "emerald",
@@ -681,19 +681,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-21T15:12:14Z",
-   "playTicks": 3866029,
+   "lastSeen": "2026-10-21T15:17:14Z",
+   "playTicks": 3872029,
    "deaths": 21,
-   "mobKills": 7865,
+   "mobKills": 7937,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 253191,
+   "damageDealt": 253211,
    "damageTaken": 42865,
-   "distanceCm": 29887879,
-   "walkCm": 12394442,
-   "flyCm": 8879708,
-   "jumps": 43937,
-   "mined": 51910,
+   "distanceCm": 29894897,
+   "walkCm": 12397120,
+   "flyCm": 8882807,
+   "jumps": 43950,
+   "mined": 51911,
    "topMined": [
     [
      "netherrack",
@@ -730,7 +730,7 @@
     ],
     [
      "creeper",
-     1409
+     1481
     ],
     [
      "pillager",
