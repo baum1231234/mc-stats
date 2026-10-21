@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T18:23:07Z",
+ "updated": "2026-10-21T18:25:17Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 14162629,
+ "serverTicks": 14169771,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -226,18 +226,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T18:19:04Z",
-   "playTicks": 4913024,
+   "lastSeen": "2026-10-21T18:24:55Z",
+   "playTicks": 4920048,
    "deaths": 0,
-   "mobKills": 5758,
+   "mobKills": 5765,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 431493,
-   "damageTaken": 75817,
-   "distanceCm": 55597127,
-   "walkCm": 16446294,
-   "flyCm": 22181429,
-   "jumps": 82848,
+   "damageDealt": 431893,
+   "damageTaken": 75847,
+   "distanceCm": 55643133,
+   "walkCm": 16457120,
+   "flyCm": 22205061,
+   "jumps": 82946,
    "mined": 74392,
    "topMined": [
     [
@@ -253,11 +253,11 @@
      4495
     ]
    ],
-   "crafted": 86114,
+   "crafted": 86179,
    "topCrafted": [
     [
      "stick",
-     20555
+     20583
     ],
     [
      "iron_ingot",
@@ -275,7 +275,7 @@
     ],
     [
      "zombie",
-     289
+     291
     ],
     [
      "pillager",
@@ -2411,8 +2411,8 @@
     "rendered": "2026-10-21T13:46:41Z"
    },
    "-1.5": {
-    "mtime": "2026-10-21T15:23:24Z",
-    "rendered": "2026-10-21T15:23:49Z"
+    "mtime": "2026-10-21T16:06:10Z",
+    "rendered": "2026-10-21T18:25:17Z"
    },
    "-2.6": {
     "mtime": "2026-10-21T13:46:24Z",
@@ -2455,8 +2455,8 @@
     "rendered": "2026-10-20T21:57:58Z"
    },
    "-1.4": {
-    "mtime": "2026-10-21T15:15:21Z",
-    "rendered": "2026-10-21T15:23:49Z"
+    "mtime": "2026-10-21T16:08:36Z",
+    "rendered": "2026-10-21T18:25:17Z"
    },
    "-2.3": {
     "mtime": "2026-10-18T19:57:56Z",
