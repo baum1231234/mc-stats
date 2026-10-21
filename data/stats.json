@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T15:39:39Z",
+ "updated": "2026-10-21T15:43:09Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 14055636,
+ "serverTicks": 14058641,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -112,8 +112,8 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T15:39:44Z",
-   "playTicks": 5296550,
+   "lastSeen": "2026-10-21T15:42:14Z",
+   "playTicks": 5299555,
    "deaths": 2,
    "mobKills": 3225,
    "playerKills": 0,
@@ -331,19 +331,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-21T15:39:44Z",
-   "playTicks": 4767082,
+   "lastSeen": "2026-10-21T15:42:14Z",
+   "playTicks": 4770087,
    "deaths": 8,
    "mobKills": 5140,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 302154,
    "damageTaken": 47125,
-   "distanceCm": 36615549,
-   "walkCm": 16139718,
-   "flyCm": 11815833,
-   "jumps": 60679,
-   "mined": 57653,
+   "distanceCm": 36624429,
+   "walkCm": 16147935,
+   "flyCm": 11815871,
+   "jumps": 60703,
+   "mined": 57662,
    "topMined": [
     [
      "spruce_log",
@@ -567,19 +567,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-21T15:39:44Z",
-   "playTicks": 3899024,
+   "lastSeen": "2026-10-21T15:42:14Z",
+   "playTicks": 3902029,
    "deaths": 21,
    "mobKills": 7937,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 253211,
-   "damageTaken": 42995,
-   "distanceCm": 30380363,
-   "walkCm": 12498512,
-   "flyCm": 8987128,
-   "jumps": 44422,
-   "mined": 54579,
+   "damageTaken": 43009,
+   "distanceCm": 30445994,
+   "walkCm": 12498897,
+   "flyCm": 8989243,
+   "jumps": 44443,
+   "mined": 54961,
    "topMined": [
     [
      "netherrack",
@@ -2303,8 +2303,8 @@
     "rendered": "2026-10-20T22:17:14Z"
    },
    "2.2": {
-    "mtime": "2026-10-21T12:42:52Z",
-    "rendered": "2026-10-21T12:42:21Z"
+    "mtime": "2026-10-21T15:41:56Z",
+    "rendered": "2026-10-21T15:43:09Z"
    },
    "3.1": {
     "mtime": "2026-10-21T12:44:30Z",
@@ -2343,8 +2343,8 @@
     "rendered": "2026-10-21T14:38:52Z"
    },
    "1.2": {
-    "mtime": "2026-10-21T12:42:52Z",
-    "rendered": "2026-10-21T12:42:21Z"
+    "mtime": "2026-10-21T15:32:08Z",
+    "rendered": "2026-10-21T15:43:09Z"
    },
    "-1.1": {
     "mtime": "2026-10-20T22:17:04Z",
