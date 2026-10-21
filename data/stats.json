@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T11:40:52Z",
+ "updated": "2026-10-21T11:42:34Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 13767568,
+ "serverTicks": 13770641,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -226,18 +226,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T11:39:41Z",
-   "playTicks": 4841065,
+   "lastSeen": "2026-10-21T11:42:14Z",
+   "playTicks": 4844138,
    "deaths": 0,
-   "mobKills": 5710,
+   "mobKills": 5721,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 425867,
-   "damageTaken": 74898,
-   "distanceCm": 54690293,
-   "walkCm": 16256345,
-   "flyCm": 21689336,
-   "jumps": 81124,
+   "damageDealt": 427602,
+   "damageTaken": 74972,
+   "distanceCm": 54752951,
+   "walkCm": 16271347,
+   "flyCm": 21723107,
+   "jumps": 81244,
    "mined": 73947,
    "topMined": [
     [
@@ -275,7 +275,7 @@
     ],
     [
      "zombie",
-     276
+     284
     ],
     [
      "pillager",
@@ -681,19 +681,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-21T11:39:41Z",
-   "playTicks": 3610956,
+   "lastSeen": "2026-10-21T11:42:14Z",
+   "playTicks": 3614029,
    "deaths": 21,
-   "mobKills": 6789,
+   "mobKills": 6797,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 212138,
+   "damageDealt": 212208,
    "damageTaken": 40493,
-   "distanceCm": 26223886,
-   "walkCm": 11867662,
+   "distanceCm": 26229115,
+   "walkCm": 11872169,
    "flyCm": 8137564,
-   "jumps": 41661,
-   "mined": 49561,
+   "jumps": 41663,
+   "mined": 49576,
    "topMined": [
     [
      "netherrack",
@@ -708,7 +708,7 @@
      4908
     ]
    ],
-   "crafted": 124613,
+   "crafted": 124622,
    "topCrafted": [
     [
      "stick",
@@ -716,7 +716,7 @@
     ],
     [
      "spruce_planks",
-     38478
+     38486
     ],
     [
      "emerald",
@@ -730,7 +730,7 @@
     ],
     [
      "creeper",
-     513
+     521
     ],
     [
      "pillager",
