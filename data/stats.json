@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T15:47:06Z",
+ "updated": "2026-10-21T15:52:36Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 14064641,
+ "serverTicks": 14070641,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T15:47:14Z",
-   "playTicks": 5305555,
+   "lastSeen": "2026-10-21T15:52:14Z",
+   "playTicks": 5311555,
    "deaths": 2,
-   "mobKills": 3226,
+   "mobKills": 3229,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 384811,
-   "damageTaken": 17541,
-   "distanceCm": 54280635,
-   "walkCm": 24788858,
-   "flyCm": 16105621,
-   "jumps": 56434,
-   "mined": 98854,
+   "damageDealt": 385371,
+   "damageTaken": 17687,
+   "distanceCm": 54356265,
+   "walkCm": 24818617,
+   "flyCm": 16135236,
+   "jumps": 56478,
+   "mined": 98913,
    "topMined": [
     [
      "netherrack",
@@ -139,7 +139,7 @@
      9472
     ]
    ],
-   "crafted": 54528,
+   "crafted": 55376,
    "topCrafted": [
     [
      "spruce_planks",
@@ -151,7 +151,7 @@
     ],
     [
      "dark_oak_planks",
-     5740
+     6140
     ]
    ],
    "topKilled": [
@@ -161,11 +161,11 @@
     ],
     [
      "zombie",
-     559
+     560
     ],
     [
      "skeleton",
-     359
+     360
     ]
    ],
    "topKilledBy": [
@@ -331,19 +331,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-21T15:47:14Z",
-   "playTicks": 4776087,
+   "lastSeen": "2026-10-21T15:52:14Z",
+   "playTicks": 4782087,
    "deaths": 8,
-   "mobKills": 5140,
+   "mobKills": 5141,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 302154,
-   "damageTaken": 47133,
-   "distanceCm": 36644617,
-   "walkCm": 16164889,
-   "flyCm": 11817747,
-   "jumps": 60764,
-   "mined": 57671,
+   "damageTaken": 47155,
+   "distanceCm": 36667580,
+   "walkCm": 16176727,
+   "flyCm": 11825472,
+   "jumps": 60839,
+   "mined": 57675,
    "topMined": [
     [
      "spruce_log",
@@ -358,7 +358,7 @@
      5716
     ]
    ],
-   "crafted": 68658,
+   "crafted": 68706,
    "topCrafted": [
     [
      "stick",
@@ -567,18 +567,18 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-21T15:47:14Z",
-   "playTicks": 3908029,
+   "lastSeen": "2026-10-21T15:52:14Z",
+   "playTicks": 3914029,
    "deaths": 21,
-   "mobKills": 7937,
+   "mobKills": 7941,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 253211,
-   "damageTaken": 43051,
-   "distanceCm": 30518250,
-   "walkCm": 12502838,
-   "flyCm": 8991354,
-   "jumps": 44481,
+   "damageDealt": 254055,
+   "damageTaken": 43355,
+   "distanceCm": 30808539,
+   "walkCm": 12509642,
+   "flyCm": 9165741,
+   "jumps": 44569,
    "mined": 55649,
    "topMined": [
     [
@@ -594,7 +594,7 @@
      4908
     ]
    ],
-   "crafted": 126800,
+   "crafted": 126928,
    "topCrafted": [
     [
      "stick",
@@ -616,7 +616,7 @@
     ],
     [
      "creeper",
-     1481
+     1482
     ],
     [
      "pillager",
