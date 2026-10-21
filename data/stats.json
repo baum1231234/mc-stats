@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T12:13:23Z",
+ "updated": "2026-10-21T12:18:16Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 13806641,
+ "serverTicks": 13812641,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -681,18 +681,18 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-21T12:12:14Z",
-   "playTicks": 3650029,
+   "lastSeen": "2026-10-21T12:17:14Z",
+   "playTicks": 3656029,
    "deaths": 21,
-   "mobKills": 7039,
+   "mobKills": 7069,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 216427,
+   "damageDealt": 216517,
    "damageTaken": 40670,
-   "distanceCm": 26468080,
-   "walkCm": 12007524,
-   "flyCm": 8187280,
-   "jumps": 41954,
+   "distanceCm": 26505182,
+   "walkCm": 12017021,
+   "flyCm": 8200369,
+   "jumps": 42001,
    "mined": 49665,
    "topMined": [
     [
@@ -730,7 +730,7 @@
     ],
     [
      "creeper",
-     748
+     778
     ],
     [
      "pillager",
