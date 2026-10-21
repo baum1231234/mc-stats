@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T20:49:22Z",
+ "updated": "2026-10-21T20:54:08Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 14233343,
+ "serverTicks": 14239343,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -226,19 +226,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T20:49:16Z",
-   "playTicks": 4981338,
+   "lastSeen": "2026-10-21T20:54:16Z",
+   "playTicks": 4987338,
    "deaths": 0,
-   "mobKills": 5777,
+   "mobKills": 5781,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 432785,
-   "damageTaken": 76515,
-   "distanceCm": 56428237,
-   "walkCm": 16720503,
-   "flyCm": 22563360,
-   "jumps": 84180,
-   "mined": 75668,
+   "damageDealt": 433551,
+   "damageTaken": 76574,
+   "distanceCm": 56465252,
+   "walkCm": 16748134,
+   "flyCm": 22569544,
+   "jumps": 84321,
+   "mined": 75687,
    "topMined": [
     [
      "netherrack",
@@ -246,14 +246,14 @@
     ],
     [
      "stone",
-     8617
+     8619
     ],
     [
      "snow",
      4495
     ]
    ],
-   "crafted": 86418,
+   "crafted": 86450,
    "topCrafted": [
     [
      "stick",
