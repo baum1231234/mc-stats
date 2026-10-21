@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T02:12:13Z",
+ "updated": "2026-10-21T02:13:53Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 13433551,
  "players": [
@@ -791,16 +791,16 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-21T02:08:35Z",
-   "playTicks": 3278922,
+   "lastSeen": "2026-10-21T02:12:32Z",
+   "playTicks": 3283655,
    "deaths": 21,
-   "mobKills": 6369,
+   "mobKills": 6447,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 210108,
+   "damageDealt": 210408,
    "damageTaken": 40385,
-   "distanceCm": 26137726,
-   "walkCm": 11842343,
+   "distanceCm": 26137772,
+   "walkCm": 11842389,
    "flyCm": 8116729,
    "jumps": 41567,
    "mined": 49419,
@@ -843,8 +843,8 @@
      259
     ],
     [
-     "skeleton",
-     167
+     "creeper",
+     175
     ]
    ],
    "topKilledBy": [
@@ -2186,8 +2186,8 @@
     "rendered": "2026-10-21T00:51:07Z"
    },
    "2.0": {
-    "mtime": "2026-10-20T23:13:52Z",
-    "rendered": "2026-10-20T23:13:34Z"
+    "mtime": "2026-10-21T02:14:12Z",
+    "rendered": "2026-10-21T02:13:53Z"
    },
    "2.1": {
     "mtime": "2026-10-21T00:15:25Z",
@@ -2198,8 +2198,8 @@
     "rendered": "2026-10-20T17:11:41Z"
    },
    "1.0": {
-    "mtime": "2026-10-20T23:13:52Z",
-    "rendered": "2026-10-20T23:13:34Z"
+    "mtime": "2026-10-21T02:14:12Z",
+    "rendered": "2026-10-21T02:13:53Z"
    },
    "0.-2": {
     "mtime": "2026-10-20T22:15:06Z",
