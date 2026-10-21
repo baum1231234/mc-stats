@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T14:36:50Z",
+ "updated": "2026-10-21T14:38:52Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 13980641,
  "players": [
@@ -331,19 +331,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-21T14:32:14Z",
-   "playTicks": 4686087,
+   "lastSeen": "2026-10-21T14:37:14Z",
+   "playTicks": 4692087,
    "deaths": 8,
    "mobKills": 5125,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 299576,
    "damageTaken": 46749,
-   "distanceCm": 36040329,
-   "walkCm": 15811201,
-   "flyCm": 11639337,
-   "jumps": 59538,
-   "mined": 55536,
+   "distanceCm": 36083973,
+   "walkCm": 15842290,
+   "flyCm": 11650428,
+   "jumps": 59594,
+   "mined": 55556,
    "topMined": [
     [
      "spruce_log",
@@ -355,7 +355,7 @@
     ],
     [
      "dirt",
-     5674
+     5690
     ]
    ],
    "crafted": 67570,
@@ -681,18 +681,18 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-21T14:32:14Z",
-   "playTicks": 3818029,
+   "lastSeen": "2026-10-21T14:37:14Z",
+   "playTicks": 3824029,
    "deaths": 21,
-   "mobKills": 7561,
+   "mobKills": 7649,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 252531,
-   "damageTaken": 42845,
-   "distanceCm": 29861864,
-   "walkCm": 12392778,
-   "flyCm": 8872924,
-   "jumps": 43930,
+   "damageDealt": 252821,
+   "damageTaken": 42865,
+   "distanceCm": 29885547,
+   "walkCm": 12393457,
+   "flyCm": 8879708,
+   "jumps": 43936,
    "mined": 51910,
    "topMined": [
     [
@@ -730,7 +730,7 @@
     ],
     [
      "creeper",
-     1105
+     1193
     ],
     [
      "pillager",
@@ -2339,8 +2339,8 @@
     "rendered": "2026-10-21T13:19:47Z"
    },
    "0.1": {
-    "mtime": "2026-10-21T11:34:07Z",
-    "rendered": "2026-10-21T11:37:25Z"
+    "mtime": "2026-10-21T13:05:10Z",
+    "rendered": "2026-10-21T14:38:52Z"
    },
    "1.2": {
     "mtime": "2026-10-21T12:42:52Z",
@@ -2423,8 +2423,8 @@
     "rendered": "2026-10-21T14:34:48Z"
    },
    "-10.2": {
-    "mtime": "2026-10-21T11:35:43Z",
-    "rendered": "2026-10-21T11:37:25Z"
+    "mtime": "2026-10-21T13:49:15Z",
+    "rendered": "2026-10-21T14:38:52Z"
    },
    "-11.-1": {
     "mtime": "2026-10-20T20:23:36Z",
