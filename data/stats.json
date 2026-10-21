@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-21T21:00:28Z",
+ "updated": "2026-10-21T21:05:12Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 14245343,
+ "serverTicks": 14251343,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T20:59:16Z",
-   "playTicks": 6483755,
+   "lastSeen": "2026-10-21T21:04:16Z",
+   "playTicks": 6489755,
    "deaths": 0,
-   "mobKills": 4080,
+   "mobKills": 4085,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 545247,
-   "damageTaken": 73421,
-   "distanceCm": 102545434,
-   "walkCm": 27331169,
-   "flyCm": 35411003,
-   "jumps": 140473,
-   "mined": 75810,
+   "damageDealt": 546017,
+   "damageTaken": 73505,
+   "distanceCm": 102658507,
+   "walkCm": 27382269,
+   "flyCm": 35462883,
+   "jumps": 140712,
+   "mined": 75982,
    "topMined": [
     [
      "netherrack",
-     35225
+     35296
     ],
     [
      "spruce_log",
@@ -34,7 +34,7 @@
      5201
     ]
    ],
-   "crafted": 94848,
+   "crafted": 94850,
    "topCrafted": [
     [
      "stick",
@@ -56,7 +56,7 @@
     ],
     [
      "skeleton",
-     489
+     491
     ],
     [
      "zombie",
@@ -226,19 +226,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T20:59:16Z",
-   "playTicks": 4993338,
+   "lastSeen": "2026-10-21T21:04:16Z",
+   "playTicks": 4999338,
    "deaths": 0,
    "mobKills": 5781,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 433603,
-   "damageTaken": 76639,
-   "distanceCm": 56518615,
-   "walkCm": 16770368,
-   "flyCm": 22591668,
-   "jumps": 84403,
-   "mined": 75701,
+   "damageTaken": 76641,
+   "distanceCm": 56573277,
+   "walkCm": 16800455,
+   "flyCm": 22607125,
+   "jumps": 84498,
+   "mined": 75729,
    "topMined": [
     [
      "netherrack",
@@ -246,14 +246,14 @@
     ],
     [
      "stone",
-     8625
+     8633
     ],
     [
      "snow",
      4495
     ]
    ],
-   "crafted": 86450,
+   "crafted": 86452,
    "topCrafted": [
     [
      "stick",
