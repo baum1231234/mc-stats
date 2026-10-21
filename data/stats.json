@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T11:42:34Z",
+ "updated": "2026-10-21T11:47:30Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 13770641,
+ "serverTicks": 13776641,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -226,18 +226,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T11:42:14Z",
-   "playTicks": 4844138,
+   "lastSeen": "2026-10-21T11:47:14Z",
+   "playTicks": 4850138,
    "deaths": 0,
-   "mobKills": 5721,
+   "mobKills": 5724,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 427602,
-   "damageTaken": 74972,
-   "distanceCm": 54752951,
-   "walkCm": 16271347,
-   "flyCm": 21723107,
-   "jumps": 81244,
+   "damageDealt": 427912,
+   "damageTaken": 75138,
+   "distanceCm": 54869280,
+   "walkCm": 16291490,
+   "flyCm": 21787032,
+   "jumps": 81544,
    "mined": 73947,
    "topMined": [
     [
@@ -681,19 +681,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-21T11:42:14Z",
-   "playTicks": 3614029,
+   "lastSeen": "2026-10-21T11:47:14Z",
+   "playTicks": 3620029,
    "deaths": 21,
-   "mobKills": 6797,
+   "mobKills": 6823,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 212208,
-   "damageTaken": 40493,
-   "distanceCm": 26229115,
-   "walkCm": 11872169,
-   "flyCm": 8137564,
-   "jumps": 41663,
-   "mined": 49576,
+   "damageDealt": 214392,
+   "damageTaken": 40578,
+   "distanceCm": 26293077,
+   "walkCm": 11906044,
+   "flyCm": 8158720,
+   "jumps": 41744,
+   "mined": 49597,
    "topMined": [
     [
      "netherrack",
@@ -708,7 +708,7 @@
      4908
     ]
    ],
-   "crafted": 124622,
+   "crafted": 124682,
    "topCrafted": [
     [
      "stick",
@@ -716,7 +716,7 @@
     ],
     [
      "spruce_planks",
-     38486
+     38522
     ],
     [
      "emerald",
@@ -730,7 +730,7 @@
     ],
     [
      "creeper",
-     521
+     538
     ],
     [
      "pillager",
