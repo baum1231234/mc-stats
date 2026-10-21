@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T12:23:27Z",
+ "updated": "2026-10-21T12:27:56Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 13818641,
+ "serverTicks": 13824641,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -112,18 +112,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T12:22:14Z",
-   "playTicks": 5155028,
+   "lastSeen": "2026-10-21T12:27:14Z",
+   "playTicks": 5161028,
    "deaths": 2,
    "mobKills": 3222,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 384113,
    "damageTaken": 17432,
-   "distanceCm": 53082792,
-   "walkCm": 24412469,
-   "flyCm": 15589565,
-   "jumps": 55712,
+   "distanceCm": 53109945,
+   "walkCm": 24430287,
+   "flyCm": 15598900,
+   "jumps": 55745,
    "mined": 98728,
    "topMined": [
     [
@@ -681,16 +681,16 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-21T12:22:14Z",
-   "playTicks": 3662029,
+   "lastSeen": "2026-10-21T12:27:14Z",
+   "playTicks": 3668029,
    "deaths": 21,
-   "mobKills": 7118,
+   "mobKills": 7199,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 216657,
+   "damageDealt": 216767,
    "damageTaken": 40892,
-   "distanceCm": 26553995,
-   "walkCm": 12020392,
+   "distanceCm": 26554089,
+   "walkCm": 12020486,
    "flyCm": 8205639,
    "jumps": 42019,
    "mined": 49666,
@@ -730,7 +730,7 @@
     ],
     [
      "creeper",
-     827
+     908
     ],
     [
      "pillager",
