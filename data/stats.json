@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T14:47:43Z",
+ "updated": "2026-10-21T14:52:53Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 13992641,
+ "serverTicks": 13998641,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -331,19 +331,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-21T14:47:14Z",
-   "playTicks": 4704087,
+   "lastSeen": "2026-10-21T14:52:14Z",
+   "playTicks": 4710087,
    "deaths": 8,
-   "mobKills": 5128,
+   "mobKills": 5129,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 299976,
-   "damageTaken": 46789,
-   "distanceCm": 36189612,
-   "walkCm": 15886754,
-   "flyCm": 11694323,
-   "jumps": 59703,
-   "mined": 55564,
+   "damageDealt": 300167,
+   "damageTaken": 46805,
+   "distanceCm": 36235972,
+   "walkCm": 15920492,
+   "flyCm": 11705370,
+   "jumps": 59844,
+   "mined": 55757,
    "topMined": [
     [
      "spruce_log",
@@ -358,7 +358,7 @@
      5698
     ]
    ],
-   "crafted": 67570,
+   "crafted": 68292,
    "topCrafted": [
     [
      "stick",
@@ -370,7 +370,7 @@
     ],
     [
      "emerald",
-     5129
+     5249
     ]
    ],
    "topKilled": [
@@ -384,7 +384,7 @@
     ],
     [
      "skeleton",
-     198
+     199
     ]
    ],
    "topKilledBy": [
@@ -681,16 +681,16 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-21T14:47:14Z",
-   "playTicks": 3836029,
+   "lastSeen": "2026-10-21T14:52:14Z",
+   "playTicks": 3842029,
    "deaths": 21,
-   "mobKills": 7790,
+   "mobKills": 7840,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 253141,
+   "damageDealt": 253161,
    "damageTaken": 42865,
-   "distanceCm": 29887620,
-   "walkCm": 12394183,
+   "distanceCm": 29887817,
+   "walkCm": 12394380,
    "flyCm": 8879708,
    "jumps": 43937,
    "mined": 51910,
@@ -730,7 +730,7 @@
     ],
     [
      "creeper",
-     1334
+     1384
     ],
     [
      "pillager",
