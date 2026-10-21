@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-21T20:37:54Z",
+ "updated": "2026-10-21T20:39:39Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 14215343,
+ "serverTicks": 14221343,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T20:34:16Z",
-   "playTicks": 6453755,
+   "lastSeen": "2026-10-21T20:39:16Z",
+   "playTicks": 6459755,
    "deaths": 0,
-   "mobKills": 4077,
+   "mobKills": 4078,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 544652,
-   "damageTaken": 72494,
-   "distanceCm": 102198359,
-   "walkCm": 27170362,
-   "flyCm": 35269986,
-   "jumps": 139497,
-   "mined": 75364,
+   "damageDealt": 544852,
+   "damageTaken": 72649,
+   "distanceCm": 102282836,
+   "walkCm": 27207232,
+   "flyCm": 35305237,
+   "jumps": 139706,
+   "mined": 75510,
    "topMined": [
     [
      "netherrack",
-     35122
+     35178
     ],
     [
      "spruce_log",
@@ -56,7 +56,7 @@
     ],
     [
      "skeleton",
-     486
+     487
     ],
     [
      "zombie",
@@ -226,19 +226,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T20:34:16Z",
-   "playTicks": 4963338,
+   "lastSeen": "2026-10-21T20:39:16Z",
+   "playTicks": 4969338,
    "deaths": 0,
    "mobKills": 5772,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 432243,
-   "damageTaken": 76373,
-   "distanceCm": 56252571,
-   "walkCm": 16631968,
-   "flyCm": 22505510,
-   "jumps": 83799,
-   "mined": 75518,
+   "damageTaken": 76405,
+   "distanceCm": 56316254,
+   "walkCm": 16654804,
+   "flyCm": 22534048,
+   "jumps": 83879,
+   "mined": 75616,
    "topMined": [
     [
      "netherrack",
@@ -246,14 +246,14 @@
     ],
     [
      "stone",
-     8539
+     8602
     ],
     [
      "snow",
      4495
     ]
    ],
-   "crafted": 86364,
+   "crafted": 86418,
    "topCrafted": [
     [
      "stick",
@@ -2323,12 +2323,12 @@
     "rendered": "2026-10-21T16:08:11Z"
    },
    "0.0": {
-    "mtime": "2026-10-21T14:59:40Z",
-    "rendered": "2026-10-21T17:38:30Z"
+    "mtime": "2026-10-21T20:32:51Z",
+    "rendered": "2026-10-21T20:39:39Z"
    },
    "1.-1": {
-    "mtime": "2026-10-21T16:02:44Z",
-    "rendered": "2026-10-21T17:38:30Z"
+    "mtime": "2026-10-21T20:32:58Z",
+    "rendered": "2026-10-21T20:39:39Z"
    },
    "0.-3": {
     "mtime": "2026-10-20T21:11:45Z",
