@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-21T21:11:19Z",
+ "updated": "2026-10-21T21:14:27Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 14258521,
+ "serverTicks": 14263343,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T21:10:15Z",
-   "playTicks": 6496933,
+   "lastSeen": "2026-10-21T21:14:16Z",
+   "playTicks": 6501755,
    "deaths": 0,
-   "mobKills": 4088,
+   "mobKills": 4089,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 546417,
-   "damageTaken": 73772,
-   "distanceCm": 102755691,
-   "walkCm": 27415560,
-   "flyCm": 35511651,
-   "jumps": 140947,
-   "mined": 76096,
+   "damageDealt": 546517,
+   "damageTaken": 73815,
+   "distanceCm": 102819350,
+   "walkCm": 27439157,
+   "flyCm": 35544949,
+   "jumps": 141096,
+   "mined": 76165,
    "topMined": [
     [
      "netherrack",
@@ -226,19 +226,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T21:10:15Z",
-   "playTicks": 5006516,
+   "lastSeen": "2026-10-21T21:14:16Z",
+   "playTicks": 5011338,
    "deaths": 0,
-   "mobKills": 5781,
+   "mobKills": 5782,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 433603,
-   "damageTaken": 76705,
-   "distanceCm": 56633408,
-   "walkCm": 16831092,
-   "flyCm": 22626670,
-   "jumps": 84722,
-   "mined": 75750,
+   "damageDealt": 433803,
+   "damageTaken": 76723,
+   "distanceCm": 56668544,
+   "walkCm": 16857288,
+   "flyCm": 22632856,
+   "jumps": 84822,
+   "mined": 75757,
    "topMined": [
     [
      "netherrack",
@@ -246,14 +246,14 @@
     ],
     [
      "stone",
-     8638
+     8641
     ],
     [
      "snow",
      4495
     ]
    ],
-   "crafted": 86452,
+   "crafted": 86465,
    "topCrafted": [
     [
      "stick",
@@ -261,7 +261,7 @@
     ],
     [
      "iron_ingot",
-     16844
+     16853
     ],
     [
      "spruce_planks",
@@ -275,7 +275,7 @@
     ],
     [
      "zombie",
-     294
+     295
     ],
     [
      "pillager",
