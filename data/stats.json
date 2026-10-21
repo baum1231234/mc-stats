@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T16:08:11Z",
+ "updated": "2026-10-21T16:10:12Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 14088641,
+ "serverTicks": 14091701,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T16:07:14Z",
-   "playTicks": 5319511,
+   "lastSeen": "2026-10-21T16:09:47Z",
+   "playTicks": 5322571,
    "deaths": 2,
    "mobKills": 3234,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 386381,
    "damageTaken": 17742,
-   "distanceCm": 54426220,
-   "walkCm": 24846068,
-   "flyCm": 16175206,
-   "jumps": 56541,
-   "mined": 98915,
+   "distanceCm": 54445995,
+   "walkCm": 24865789,
+   "flyCm": 16175260,
+   "jumps": 56542,
+   "mined": 98918,
    "topMined": [
     [
      "netherrack",
@@ -331,19 +331,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-21T16:07:14Z",
-   "playTicks": 4800087,
+   "lastSeen": "2026-10-21T16:09:47Z",
+   "playTicks": 4803147,
    "deaths": 8,
    "mobKills": 5143,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 302154,
    "damageTaken": 47171,
-   "distanceCm": 36707697,
-   "walkCm": 16211722,
+   "distanceCm": 36714951,
+   "walkCm": 16218751,
    "flyCm": 11828144,
-   "jumps": 60914,
-   "mined": 57717,
+   "jumps": 60923,
+   "mined": 57727,
    "topMined": [
     [
      "spruce_log",
@@ -351,7 +351,7 @@
     ],
     [
      "stone",
-     6264
+     6271
     ],
     [
      "dirt",
