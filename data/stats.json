@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T11:37:25Z",
+ "updated": "2026-10-21T11:40:52Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 13764641,
+ "serverTicks": 13767568,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -226,19 +226,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T11:37:14Z",
-   "playTicks": 4838138,
+   "lastSeen": "2026-10-21T11:39:41Z",
+   "playTicks": 4841065,
    "deaths": 0,
-   "mobKills": 5700,
+   "mobKills": 5710,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 425667,
-   "damageTaken": 74828,
-   "distanceCm": 54656233,
-   "walkCm": 16248009,
-   "flyCm": 21673472,
-   "jumps": 81069,
-   "mined": 73946,
+   "damageDealt": 425867,
+   "damageTaken": 74898,
+   "distanceCm": 54690293,
+   "walkCm": 16256345,
+   "flyCm": 21689336,
+   "jumps": 81124,
+   "mined": 73947,
    "topMined": [
     [
      "netherrack",
@@ -275,7 +275,7 @@
     ],
     [
      "zombie",
-     275
+     276
     ],
     [
      "pillager",
@@ -284,14 +284,18 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 47,
+    "count": 48,
     "byTab": {
      "story": 12,
-     "adventure": 14,
+     "adventure": 15,
      "husbandry": 6,
      "nether": 15
     },
     "recent": [
+     [
+      "adventure/sniper_duel",
+      "2026-10-21T11:38:25Z"
+     ],
      [
       "nether/get_wither_skull",
       "2026-10-18T17:18:09Z"
@@ -319,10 +323,6 @@
      [
       "nether/distract_piglin",
       "2026-10-18T12:47:07Z"
-     ],
-     [
-      "nether/loot_bastion",
-      "2026-10-18T12:17:28Z"
      ]
     ]
    }
@@ -681,19 +681,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-21T11:37:14Z",
-   "playTicks": 3608029,
+   "lastSeen": "2026-10-21T11:39:41Z",
+   "playTicks": 3610956,
    "deaths": 21,
-   "mobKills": 6748,
+   "mobKills": 6789,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 212058,
+   "damageDealt": 212138,
    "damageTaken": 40493,
-   "distanceCm": 26218524,
-   "walkCm": 11862699,
+   "distanceCm": 26223886,
+   "walkCm": 11867662,
    "flyCm": 8137564,
-   "jumps": 41652,
-   "mined": 49557,
+   "jumps": 41661,
+   "mined": 49561,
    "topMined": [
     [
      "netherrack",
@@ -708,7 +708,7 @@
      4908
     ]
    ],
-   "crafted": 124587,
+   "crafted": 124613,
    "topCrafted": [
     [
      "stick",
@@ -716,7 +716,7 @@
     ],
     [
      "spruce_planks",
-     38470
+     38478
     ],
     [
      "emerald",
@@ -730,7 +730,7 @@
     ],
     [
      "creeper",
-     472
+     513
     ],
     [
      "pillager",
