@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T01:26:07Z",
+ "updated": "2026-10-21T01:27:53Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 13374791,
+ "serverTicks": 13379551,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -791,19 +791,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-21T01:23:34Z",
-   "playTicks": 3225197,
+   "lastSeen": "2026-10-21T01:27:32Z",
+   "playTicks": 3229957,
    "deaths": 21,
    "mobKills": 6281,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 207915,
    "damageTaken": 40077,
-   "distanceCm": 25663915,
-   "walkCm": 11489294,
-   "flyCm": 8067759,
-   "jumps": 41309,
-   "mined": 49219,
+   "distanceCm": 25699182,
+   "walkCm": 11524229,
+   "flyCm": 8068091,
+   "jumps": 41310,
+   "mined": 49263,
    "topMined": [
     [
      "netherrack",
@@ -3173,8 +3173,8 @@
     "rendered": "2026-10-21T01:26:07Z"
    },
    "6.-2": {
-    "mtime": "2026-10-20T16:23:43Z",
-    "rendered": "2026-10-20T16:24:54Z"
+    "mtime": "2026-10-21T01:17:16Z",
+    "rendered": "2026-10-21T01:27:53Z"
    },
    "7.-1": {
     "mtime": "2026-10-17T17:31:48Z",
@@ -3189,8 +3189,8 @@
     "rendered": "2026-10-20T20:16:49Z"
    },
    "-6.-5": {
-    "mtime": "2026-10-20T12:49:46Z",
-    "rendered": "2026-10-20T12:51:12Z"
+    "mtime": "2026-10-21T01:17:16Z",
+    "rendered": "2026-10-21T01:27:53Z"
    },
    "-3.10": {
     "mtime": "2026-10-17T17:25:53Z",
@@ -3243,8 +3243,8 @@
     "empty": true
    },
    "-14.4": {
-    "mtime": "2026-10-20T21:25:52Z",
-    "rendered": "2026-10-20T21:28:11Z"
+    "mtime": "2026-10-21T01:17:16Z",
+    "rendered": "2026-10-21T01:27:53Z"
    },
    "-7.3": {
     "mtime": "2026-10-19T12:15:05Z",
@@ -3307,8 +3307,8 @@
     "rendered": "2026-10-17T21:18:09Z"
    },
    "-6.-7": {
-    "mtime": "2026-10-20T12:49:46Z",
-    "rendered": "2026-10-20T12:51:12Z",
+    "mtime": "2026-10-21T01:17:16Z",
+    "rendered": "2026-10-21T01:27:53Z",
     "empty": true
    },
    "-1.-12": {
