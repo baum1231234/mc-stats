@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T18:14:37Z",
+ "updated": "2026-10-21T18:19:42Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 14156629,
+ "serverTicks": 14162629,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -226,19 +226,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T18:14:04Z",
-   "playTicks": 4907024,
+   "lastSeen": "2026-10-21T18:19:04Z",
+   "playTicks": 4913024,
    "deaths": 0,
    "mobKills": 5758,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 431493,
-   "damageTaken": 75797,
-   "distanceCm": 55542918,
-   "walkCm": 16429372,
-   "flyCm": 22154245,
-   "jumps": 82778,
-   "mined": 74391,
+   "damageTaken": 75817,
+   "distanceCm": 55597127,
+   "walkCm": 16446294,
+   "flyCm": 22181429,
+   "jumps": 82848,
+   "mined": 74392,
    "topMined": [
     [
      "netherrack",
@@ -253,7 +253,7 @@
      4495
     ]
    ],
-   "crafted": 84804,
+   "crafted": 86114,
    "topCrafted": [
     [
      "stick",
@@ -261,7 +261,7 @@
     ],
     [
      "iron_ingot",
-     15972
+     16790
     ],
     [
      "spruce_planks",
