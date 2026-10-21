@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-21T21:28:19Z",
+ "updated": "2026-10-21T21:30:05Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 14276522,
+ "serverTicks": 14281343,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T21:25:15Z",
-   "playTicks": 6514934,
+   "lastSeen": "2026-10-21T21:29:16Z",
+   "playTicks": 6519755,
    "deaths": 0,
    "mobKills": 4090,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 546697,
-   "damageTaken": 74376,
-   "distanceCm": 102987712,
-   "walkCm": 27519992,
-   "flyCm": 35618374,
-   "jumps": 141478,
+   "damageTaken": 74464,
+   "distanceCm": 103134002,
+   "walkCm": 27538432,
+   "flyCm": 35662001,
+   "jumps": 141639,
    "mined": 76880,
    "topMined": [
     [
@@ -226,19 +226,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T21:25:15Z",
-   "playTicks": 5019786,
+   "lastSeen": "2026-10-21T21:29:16Z",
+   "playTicks": 5024607,
    "deaths": 0,
    "mobKills": 5784,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 434203,
    "damageTaken": 76733,
-   "distanceCm": 56733748,
-   "walkCm": 16909048,
-   "flyCm": 22640543,
-   "jumps": 84925,
-   "mined": 75935,
+   "distanceCm": 56760841,
+   "walkCm": 16932310,
+   "flyCm": 22642033,
+   "jumps": 84949,
+   "mined": 75993,
    "topMined": [
     [
      "netherrack",
@@ -246,14 +246,14 @@
     ],
     [
      "stone",
-     8762
+     8815
     ],
     [
      "snow",
      4518
     ]
    ],
-   "crafted": 86465,
+   "crafted": 86509,
    "topCrafted": [
     [
      "stick",
@@ -261,7 +261,7 @@
     ],
     [
      "iron_ingot",
-     16853
+     16889
     ],
     [
      "spruce_planks",
@@ -2467,8 +2467,8 @@
     "rendered": "2026-10-20T14:35:33Z"
    },
    "0.-7": {
-    "mtime": "2026-10-20T19:06:00Z",
-    "rendered": "2026-10-20T21:57:58Z"
+    "mtime": "2026-10-21T21:25:33Z",
+    "rendered": "2026-10-21T21:30:05Z"
    },
    "1.-6": {
     "mtime": "2026-10-20T19:01:19Z",
