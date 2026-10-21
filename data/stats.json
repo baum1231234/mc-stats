@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T03:15:53Z",
+ "updated": "2026-10-21T03:17:35Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 13505551,
+ "serverTicks": 13511551,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -678,121 +678,11 @@
    }
   },
   {
-   "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
-   "name": "Dovid1346",
-   "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-20T22:13:20Z",
-   "playTicks": 3360117,
-   "deaths": 2,
-   "mobKills": 3744,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 300353,
-   "damageTaken": 34687,
-   "distanceCm": 40751957,
-   "walkCm": 13362625,
-   "flyCm": 9932158,
-   "jumps": 46259,
-   "mined": 49226,
-   "topMined": [
-    [
-     "netherrack",
-     9845
-    ],
-    [
-     "spruce_log",
-     7875
-    ],
-    [
-     "gravel",
-     6205
-    ]
-   ],
-   "crafted": 127840,
-   "topCrafted": [
-    [
-     "stick",
-     68144
-    ],
-    [
-     "spruce_planks",
-     33131
-    ],
-    [
-     "yellow_concrete_powder",
-     3424
-    ]
-   ],
-   "topKilled": [
-    [
-     "guardian",
-     799
-    ],
-    [
-     "skeleton",
-     653
-    ],
-    [
-     "zombie",
-     563
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "warden",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 44,
-    "byTab": {
-     "story": 13,
-     "adventure": 13,
-     "husbandry": 7,
-     "nether": 11
-    },
-    "recent": [
-     [
-      "story/follow_ender_eye",
-      "2026-10-20T16:34:54Z"
-     ],
-     [
-      "nether/return_to_sender",
-      "2026-10-20T15:26:45Z"
-     ],
-     [
-      "adventure/trim_with_any_armor_pattern",
-      "2026-10-17T21:13:51Z"
-     ],
-     [
-      "nether/explore_nether",
-      "2026-10-17T19:43:35Z"
-     ],
-     [
-      "nether/obtain_blaze_rod",
-      "2026-10-17T19:41:34Z"
-     ],
-     [
-      "nether/find_fortress",
-      "2026-10-17T19:41:11Z"
-     ],
-     [
-      "nether/netherite_armor",
-      "2026-10-17T19:36:13Z"
-     ],
-     [
-      "nether/obtain_crying_obsidian",
-      "2026-10-17T19:07:59Z"
-     ]
-    ]
-   }
-  },
-  {
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-21T03:12:32Z",
-   "playTicks": 3355655,
+   "lastSeen": "2026-10-21T03:17:32Z",
+   "playTicks": 3361655,
    "deaths": 21,
    "mobKills": 6712,
    "playerKills": 1,
@@ -909,6 +799,116 @@
      [
       "nether/find_bastion",
       "2026-10-18T23:54:16Z"
+     ]
+    ]
+   }
+  },
+  {
+   "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
+   "name": "Dovid1346",
+   "firstSeen": "2026-10-12T15:11:10Z",
+   "lastSeen": "2026-10-20T22:13:20Z",
+   "playTicks": 3360117,
+   "deaths": 2,
+   "mobKills": 3744,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 300353,
+   "damageTaken": 34687,
+   "distanceCm": 40751957,
+   "walkCm": 13362625,
+   "flyCm": 9932158,
+   "jumps": 46259,
+   "mined": 49226,
+   "topMined": [
+    [
+     "netherrack",
+     9845
+    ],
+    [
+     "spruce_log",
+     7875
+    ],
+    [
+     "gravel",
+     6205
+    ]
+   ],
+   "crafted": 127840,
+   "topCrafted": [
+    [
+     "stick",
+     68144
+    ],
+    [
+     "spruce_planks",
+     33131
+    ],
+    [
+     "yellow_concrete_powder",
+     3424
+    ]
+   ],
+   "topKilled": [
+    [
+     "guardian",
+     799
+    ],
+    [
+     "skeleton",
+     653
+    ],
+    [
+     "zombie",
+     563
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "warden",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 44,
+    "byTab": {
+     "story": 13,
+     "adventure": 13,
+     "husbandry": 7,
+     "nether": 11
+    },
+    "recent": [
+     [
+      "story/follow_ender_eye",
+      "2026-10-20T16:34:54Z"
+     ],
+     [
+      "nether/return_to_sender",
+      "2026-10-20T15:26:45Z"
+     ],
+     [
+      "adventure/trim_with_any_armor_pattern",
+      "2026-10-17T21:13:51Z"
+     ],
+     [
+      "nether/explore_nether",
+      "2026-10-17T19:43:35Z"
+     ],
+     [
+      "nether/obtain_blaze_rod",
+      "2026-10-17T19:41:34Z"
+     ],
+     [
+      "nether/find_fortress",
+      "2026-10-17T19:41:11Z"
+     ],
+     [
+      "nether/netherite_armor",
+      "2026-10-17T19:36:13Z"
+     ],
+     [
+      "nether/obtain_crying_obsidian",
+      "2026-10-17T19:07:59Z"
      ]
     ]
    }
