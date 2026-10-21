@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-21T22:01:25Z",
+ "updated": "2026-10-21T22:04:54Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 14317343,
+ "serverTicks": 14323343,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T21:59:16Z",
-   "playTicks": 6555755,
+   "lastSeen": "2026-10-21T22:04:16Z",
+   "playTicks": 6561755,
    "deaths": 0,
-   "mobKills": 4091,
+   "mobKills": 4093,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 546857,
-   "damageTaken": 74850,
-   "distanceCm": 103606451,
-   "walkCm": 27666779,
-   "flyCm": 35795814,
-   "jumps": 142289,
-   "mined": 77147,
+   "damageDealt": 547057,
+   "damageTaken": 74986,
+   "distanceCm": 103833104,
+   "walkCm": 27686790,
+   "flyCm": 35867680,
+   "jumps": 142531,
+   "mined": 77304,
    "topMined": [
     [
      "netherrack",
@@ -1899,11 +1899,12 @@
      "2026-10-18",
      "2026-10-19",
      "2026-10-20",
-     "2026-10-21"
+     "2026-10-21",
+     "2026-10-22"
     ],
-    "rendered": "2026-10-20T22:01:34Z",
+    "rendered": "2026-10-21T22:04:54Z",
     "regions": {
-     "r.1.-3.mca": "2026-10-20T21:08:22Z",
+     "r.1.-3.mca": "2026-10-21T22:05:15Z",
      "r.1.-4.mca": "2026-10-20T21:04:28Z",
      "r.2.-3.mca": "2026-10-20T21:04:25Z",
      "r.2.-4.mca": "2026-10-20T21:04:15Z"
@@ -2227,8 +2228,8 @@
     "rendered": "2026-10-21T20:29:05Z"
    },
    "1.-3": {
-    "mtime": "2026-10-20T21:08:22Z",
-    "rendered": "2026-10-20T22:33:07Z"
+    "mtime": "2026-10-21T22:05:28Z",
+    "rendered": "2026-10-21T22:04:54Z"
    },
    "-3.5": {
     "mtime": "2026-10-21T16:15:51Z",
@@ -2335,8 +2336,8 @@
     "rendered": "2026-10-21T20:39:39Z"
    },
    "0.-3": {
-    "mtime": "2026-10-20T21:11:45Z",
-    "rendered": "2026-10-20T22:17:14Z"
+    "mtime": "2026-10-21T22:05:28Z",
+    "rendered": "2026-10-21T22:04:54Z"
    },
    "1.-2": {
     "mtime": "2026-10-21T20:33:06Z",
@@ -2503,8 +2504,8 @@
     "rendered": "2026-10-17T19:23:31Z"
    },
    "-1.-3": {
-    "mtime": "2026-10-20T21:11:48Z",
-    "rendered": "2026-10-20T22:19:16Z"
+    "mtime": "2026-10-21T22:05:07Z",
+    "rendered": "2026-10-21T22:04:54Z"
    },
    "-2.-2": {
     "mtime": "2026-10-20T17:13:27Z",
