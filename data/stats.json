@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T00:29:26Z",
+ "updated": "2026-10-21T00:33:41Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 13309293,
+ "serverTicks": 13315293,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -331,19 +331,19 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-21T00:28:42Z",
-   "playTicks": 4500210,
+   "lastSeen": "2026-10-21T00:33:42Z",
+   "playTicks": 4506210,
    "deaths": 8,
-   "mobKills": 5051,
+   "mobKills": 5060,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 293882,
-   "damageTaken": 45810,
-   "distanceCm": 34783402,
-   "walkCm": 15279019,
-   "flyCm": 11311214,
-   "jumps": 57942,
-   "mined": 54725,
+   "damageDealt": 295097,
+   "damageTaken": 46006,
+   "distanceCm": 34898749,
+   "walkCm": 15309858,
+   "flyCm": 11388166,
+   "jumps": 58056,
+   "mined": 54736,
    "topMined": [
     [
      "spruce_log",
@@ -351,14 +351,14 @@
     ],
     [
      "stone",
-     6156
+     6164
     ],
     [
      "dirt",
      5674
     ]
    ],
-   "crafted": 65751,
+   "crafted": 65883,
    "topCrafted": [
     [
      "stick",
@@ -366,7 +366,7 @@
     ],
     [
      "spruce_planks",
-     14072
+     14176
     ],
     [
      "emerald",
@@ -380,11 +380,11 @@
     ],
     [
      "zombie",
-     331
+     336
     ],
     [
      "skeleton",
-     184
+     185
     ]
    ],
    "topKilledBy": [
@@ -791,19 +791,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-21T00:28:42Z",
-   "playTicks": 3160569,
+   "lastSeen": "2026-10-21T00:33:42Z",
+   "playTicks": 3166569,
    "deaths": 21,
    "mobKills": 6277,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 207115,
    "damageTaken": 39580,
-   "distanceCm": 25149615,
-   "walkCm": 11137944,
+   "distanceCm": 25164570,
+   "walkCm": 11152649,
    "flyCm": 8019003,
-   "jumps": 41089,
-   "mined": 49102,
+   "jumps": 41110,
+   "mined": 49108,
    "topMined": [
     [
      "netherrack",
