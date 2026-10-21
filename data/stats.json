@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T11:52:25Z",
+ "updated": "2026-10-21T11:55:44Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 13782641,
+ "serverTicks": 13785360,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -226,18 +226,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T11:52:14Z",
-   "playTicks": 4856138,
+   "lastSeen": "2026-10-21T11:55:34Z",
+   "playTicks": 4860124,
    "deaths": 0,
    "mobKills": 5724,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 427912,
-   "damageTaken": 75160,
-   "distanceCm": 54909246,
-   "walkCm": 16297386,
-   "flyCm": 21809370,
-   "jumps": 81598,
+   "damageTaken": 75213,
+   "distanceCm": 54973128,
+   "walkCm": 16309856,
+   "flyCm": 21841222,
+   "jumps": 81691,
    "mined": 73947,
    "topMined": [
     [
@@ -681,16 +681,16 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-21T11:52:14Z",
-   "playTicks": 3626029,
+   "lastSeen": "2026-10-21T11:54:30Z",
+   "playTicks": 3628748,
    "deaths": 21,
-   "mobKills": 6829,
+   "mobKills": 6871,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 215337,
+   "damageDealt": 215447,
    "damageTaken": 40648,
-   "distanceCm": 26347686,
-   "walkCm": 11927942,
+   "distanceCm": 26349960,
+   "walkCm": 11928562,
    "flyCm": 8166532,
    "jumps": 41808,
    "mined": 49660,
@@ -730,7 +730,7 @@
     ],
     [
      "creeper",
-     544
+     586
     ],
     [
      "pillager",
