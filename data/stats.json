@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-21T20:54:08Z",
+ "updated": "2026-10-21T20:55:44Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 14239343,
+ "serverTicks": 14240499,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T20:49:16Z",
-   "playTicks": 6471755,
+   "lastSeen": "2026-10-21T20:55:14Z",
+   "playTicks": 6478911,
    "deaths": 0,
-   "mobKills": 4078,
+   "mobKills": 4080,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 544867,
-   "damageTaken": 73139,
-   "distanceCm": 102418577,
-   "walkCm": 27264046,
-   "flyCm": 35361223,
-   "jumps": 140116,
-   "mined": 75579,
+   "damageDealt": 545247,
+   "damageTaken": 73306,
+   "distanceCm": 102513813,
+   "walkCm": 27314441,
+   "flyCm": 35399108,
+   "jumps": 140358,
+   "mined": 75760,
    "topMined": [
     [
      "netherrack",
-     35178
+     35225
     ],
     [
      "spruce_log",
@@ -56,7 +56,7 @@
     ],
     [
      "skeleton",
-     487
+     489
     ],
     [
      "zombie",
@@ -226,19 +226,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-21T20:54:16Z",
-   "playTicks": 4987338,
+   "lastSeen": "2026-10-21T20:55:14Z",
+   "playTicks": 4988494,
    "deaths": 0,
    "mobKills": 5781,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 433551,
+   "damageDealt": 433603,
    "damageTaken": 76574,
-   "distanceCm": 56465252,
-   "walkCm": 16748134,
-   "flyCm": 22569544,
-   "jumps": 84321,
-   "mined": 75687,
+   "distanceCm": 56470884,
+   "walkCm": 16753563,
+   "flyCm": 22569747,
+   "jumps": 84324,
+   "mined": 75689,
    "topMined": [
     [
      "netherrack",
@@ -246,7 +246,7 @@
     ],
     [
      "stone",
-     8619
+     8620
     ],
     [
      "snow",
