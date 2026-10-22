@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-22T13:29:31Z",
+ "updated": "2026-10-22T13:32:56Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 14595316,
+ "serverTicks": 14601316,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-22T13:27:16Z",
-   "playTicks": 6772820,
+   "lastSeen": "2026-10-22T13:32:16Z",
+   "playTicks": 6778820,
    "deaths": 0,
    "mobKills": 4182,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 554675,
-   "damageTaken": 77402,
-   "distanceCm": 107441500,
-   "walkCm": 28530360,
-   "flyCm": 37179918,
-   "jumps": 147720,
-   "mined": 79436,
+   "damageTaken": 77463,
+   "distanceCm": 107536782,
+   "walkCm": 28552299,
+   "flyCm": 37212510,
+   "jumps": 147797,
+   "mined": 79542,
    "topMined": [
     [
      "netherrack",
@@ -34,7 +34,7 @@
      5219
     ]
    ],
-   "crafted": 100529,
+   "crafted": 100593,
    "topCrafted": [
     [
      "stick",
@@ -567,8 +567,8 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-21T16:04:29Z",
-   "playTicks": 3928725,
+   "lastSeen": "2026-10-22T13:32:16Z",
+   "playTicks": 3933066,
    "deaths": 21,
    "mobKills": 8017,
    "playerKills": 1,
