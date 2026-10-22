@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T21:22:07Z",
+ "updated": "2026-10-22T21:23:53Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 15165316,
  "players": [
@@ -7,19 +7,19 @@
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-22T21:17:16Z",
-   "playTicks": 7011433,
+   "lastSeen": "2026-10-22T21:22:16Z",
+   "playTicks": 7017433,
    "deaths": 0,
-   "mobKills": 4233,
+   "mobKills": 4234,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 564365,
+   "damageDealt": 564565,
    "damageTaken": 80973,
-   "distanceCm": 110180885,
-   "walkCm": 29128191,
-   "flyCm": 38248646,
-   "jumps": 150845,
-   "mined": 81028,
+   "distanceCm": 110226503,
+   "walkCm": 29153852,
+   "flyCm": 38264284,
+   "jumps": 150993,
+   "mined": 81091,
    "topMined": [
     [
      "netherrack",
@@ -31,7 +31,7 @@
     ],
     [
      "stone",
-     5582
+     5590
     ]
    ],
    "crafted": 102636,
@@ -60,7 +60,7 @@
     ],
     [
      "zombie",
-     458
+     459
     ]
    ],
    "topKilledBy": [],
@@ -807,19 +807,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-22T21:17:16Z",
-   "playTicks": 3464417,
+   "lastSeen": "2026-10-22T21:22:16Z",
+   "playTicks": 3470417,
    "deaths": 2,
-   "mobKills": 3747,
+   "mobKills": 3748,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 301243,
-   "damageTaken": 35490,
-   "distanceCm": 41450363,
-   "walkCm": 13720083,
-   "flyCm": 10117033,
-   "jumps": 47357,
-   "mined": 49936,
+   "damageDealt": 301443,
+   "damageTaken": 35658,
+   "distanceCm": 41514521,
+   "walkCm": 13745285,
+   "flyCm": 10129552,
+   "jumps": 47434,
+   "mined": 49992,
    "topMined": [
     [
      "netherrack",
@@ -834,7 +834,7 @@
      6205
     ]
    ],
-   "crafted": 128192,
+   "crafted": 128208,
    "topCrafted": [
     [
      "stick",
