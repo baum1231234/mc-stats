@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-22T15:57:25Z",
+ "updated": "2026-10-22T16:03:41Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 14775316,
+ "serverTicks": 14781316,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -457,18 +457,18 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-22T15:57:16Z",
-   "playTicks": 4107066,
+   "lastSeen": "2026-10-22T16:02:16Z",
+   "playTicks": 4113066,
    "deaths": 21,
-   "mobKills": 8346,
+   "mobKills": 8347,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 287408,
-   "damageTaken": 44817,
-   "distanceCm": 31839796,
-   "walkCm": 12577077,
-   "flyCm": 9356263,
-   "jumps": 44880,
+   "damageDealt": 287608,
+   "damageTaken": 44929,
+   "distanceCm": 31986318,
+   "walkCm": 12603877,
+   "flyCm": 9421617,
+   "jumps": 45012,
    "mined": 55650,
    "topMined": [
     [
@@ -484,7 +484,7 @@
      4908
     ]
    ],
-   "crafted": 127472,
+   "crafted": 127586,
    "topCrafted": [
     [
      "stick",
@@ -510,7 +510,7 @@
     ],
     [
      "drowned",
-     334
+     335
     ]
    ],
    "topKilledBy": [
