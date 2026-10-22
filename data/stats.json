@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-22T16:03:41Z",
+ "updated": "2026-10-22T16:08:46Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 14781316,
+ "serverTicks": 14787316,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -457,19 +457,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-22T16:02:16Z",
-   "playTicks": 4113066,
+   "lastSeen": "2026-10-22T16:07:16Z",
+   "playTicks": 4119066,
    "deaths": 21,
-   "mobKills": 8347,
+   "mobKills": 8380,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 287608,
-   "damageTaken": 44929,
-   "distanceCm": 31986318,
-   "walkCm": 12603877,
-   "flyCm": 9421617,
-   "jumps": 45012,
-   "mined": 55650,
+   "damageDealt": 287768,
+   "damageTaken": 44981,
+   "distanceCm": 32042549,
+   "walkCm": 12617782,
+   "flyCm": 9445522,
+   "jumps": 45111,
+   "mined": 55651,
    "topMined": [
     [
      "netherrack",
@@ -506,7 +506,7 @@
     ],
     [
      "creeper",
-     1739
+     1772
     ],
     [
      "drowned",
