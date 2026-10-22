@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-22T12:12:50Z",
+ "updated": "2026-10-22T12:18:01Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 14505316,
+ "serverTicks": 14511316,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-22T12:12:16Z",
-   "playTicks": 6682820,
+   "lastSeen": "2026-10-22T12:17:16Z",
+   "playTicks": 6688820,
    "deaths": 0,
    "mobKills": 4119,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 550223,
-   "damageTaken": 76049,
-   "distanceCm": 106058019,
-   "walkCm": 28147604,
-   "flyCm": 36604851,
-   "jumps": 145285,
-   "mined": 78020,
+   "damageTaken": 76077,
+   "distanceCm": 106113317,
+   "walkCm": 28169857,
+   "flyCm": 36629490,
+   "jumps": 145423,
+   "mined": 78112,
    "topMined": [
     [
      "netherrack",
@@ -27,22 +27,22 @@
     ],
     [
      "spruce_log",
-     7371
+     7460
     ],
     [
      "stone",
      5201
     ]
    ],
-   "crafted": 96161,
+   "crafted": 99568,
    "topCrafted": [
     [
      "stick",
-     52045
+     54268
     ],
     [
      "spruce_planks",
-     27194
+     28306
     ],
     [
      "spruce_slab",
@@ -112,18 +112,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-22T12:12:16Z",
-   "playTicks": 5461843,
+   "lastSeen": "2026-10-22T12:17:16Z",
+   "playTicks": 5467843,
    "deaths": 2,
    "mobKills": 3287,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 397135,
    "damageTaken": 18330,
-   "distanceCm": 55233760,
-   "walkCm": 25351527,
-   "flyCm": 16448644,
-   "jumps": 57250,
+   "distanceCm": 55298407,
+   "walkCm": 25386422,
+   "flyCm": 16478396,
+   "jumps": 57303,
    "mined": 99135,
    "topMined": [
     [
@@ -226,19 +226,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-22T12:12:16Z",
-   "playTicks": 5067906,
+   "lastSeen": "2026-10-22T12:17:16Z",
+   "playTicks": 5073906,
    "deaths": 0,
-   "mobKills": 5809,
+   "mobKills": 5811,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 438683,
-   "damageTaken": 77173,
-   "distanceCm": 57168349,
-   "walkCm": 17073662,
-   "flyCm": 22802177,
-   "jumps": 85702,
-   "mined": 76094,
+   "damageDealt": 438843,
+   "damageTaken": 77203,
+   "distanceCm": 57228657,
+   "walkCm": 17100567,
+   "flyCm": 22824780,
+   "jumps": 85814,
+   "mined": 76142,
    "topMined": [
     [
      "netherrack",
@@ -246,7 +246,7 @@
     ],
     [
      "stone",
-     8877
+     8922
     ],
     [
      "snow",
