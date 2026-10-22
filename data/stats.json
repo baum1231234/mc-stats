@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-22T17:37:38Z",
+ "updated": "2026-10-22T17:42:47Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 14895316,
+ "serverTicks": 14901316,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-22T17:37:16Z",
-   "playTicks": 5560200,
+   "lastSeen": "2026-10-22T17:42:16Z",
+   "playTicks": 5566200,
    "deaths": 2,
    "mobKills": 3293,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 398361,
-   "damageTaken": 18634,
-   "distanceCm": 56166397,
-   "walkCm": 25937195,
-   "flyCm": 16776830,
-   "jumps": 58303,
-   "mined": 102319,
+   "damageTaken": 18692,
+   "distanceCm": 56202430,
+   "walkCm": 25943760,
+   "flyCm": 16798414,
+   "jumps": 58363,
+   "mined": 102359,
    "topMined": [
     [
      "netherrack",
@@ -139,7 +139,7 @@
      9472
     ]
    ],
-   "crafted": 56331,
+   "crafted": 56351,
    "topCrafted": [
     [
      "spruce_planks",
@@ -457,19 +457,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-22T17:37:16Z",
-   "playTicks": 4227066,
+   "lastSeen": "2026-10-22T17:42:16Z",
+   "playTicks": 4233066,
    "deaths": 21,
-   "mobKills": 8570,
+   "mobKills": 8583,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 319421,
-   "damageTaken": 46425,
-   "distanceCm": 33350801,
-   "walkCm": 13307353,
-   "flyCm": 9795220,
-   "jumps": 46744,
-   "mined": 59440,
+   "damageDealt": 322421,
+   "damageTaken": 46515,
+   "distanceCm": 33428643,
+   "walkCm": 13370087,
+   "flyCm": 9808753,
+   "jumps": 46831,
+   "mined": 59576,
    "topMined": [
     [
      "netherrack",
@@ -510,7 +510,7 @@
     ],
     [
      "pillager",
-     399
+     410
     ]
    ],
    "topKilledBy": [
@@ -1271,19 +1271,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-22T17:37:16Z",
-   "playTicks": 1431574,
+   "lastSeen": "2026-10-22T17:42:16Z",
+   "playTicks": 1437574,
    "deaths": 0,
    "mobKills": 495,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 35812,
    "damageTaken": 4991,
-   "distanceCm": 10302611,
-   "walkCm": 6044396,
+   "distanceCm": 10309402,
+   "walkCm": 6051187,
    "flyCm": 1882017,
-   "jumps": 10998,
-   "mined": 33769,
+   "jumps": 11004,
+   "mined": 33775,
    "topMined": [
     [
      "netherrack",
