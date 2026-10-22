@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-22T21:00:16Z",
+ "updated": "2026-10-22T21:03:46Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 15135316,
+ "serverTicks": 15141316,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-22T20:57:16Z",
-   "playTicks": 6987433,
+   "lastSeen": "2026-10-22T21:02:16Z",
+   "playTicks": 6993433,
    "deaths": 0,
    "mobKills": 4233,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 564365,
-   "damageTaken": 80797,
-   "distanceCm": 109879216,
-   "walkCm": 29041457,
-   "flyCm": 38159301,
-   "jumps": 150604,
-   "mined": 80601,
+   "damageTaken": 80895,
+   "distanceCm": 110014611,
+   "walkCm": 29062577,
+   "flyCm": 38193743,
+   "jumps": 150668,
+   "mined": 80788,
    "topMined": [
     [
      "netherrack",
@@ -31,10 +31,10 @@
     ],
     [
      "stone",
-     5327
+     5514
     ]
    ],
-   "crafted": 102549,
+   "crafted": 102578,
    "topCrafted": [
     [
      "stick",
@@ -457,19 +457,19 @@
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
-   "lastSeen": "2026-10-22T20:57:16Z",
-   "playTicks": 4467066,
+   "lastSeen": "2026-10-22T21:02:16Z",
+   "playTicks": 4473066,
    "deaths": 21,
-   "mobKills": 9053,
+   "mobKills": 9058,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 352586,
-   "damageTaken": 48827,
-   "distanceCm": 34833964,
-   "walkCm": 14017002,
-   "flyCm": 10174044,
-   "jumps": 48770,
-   "mined": 61612,
+   "damageDealt": 353096,
+   "damageTaken": 49012,
+   "distanceCm": 34921523,
+   "walkCm": 14048314,
+   "flyCm": 10214902,
+   "jumps": 48942,
+   "mined": 61666,
    "topMined": [
     [
      "netherrack",
@@ -484,7 +484,7 @@
      4908
     ]
    ],
-   "crafted": 128238,
+   "crafted": 128274,
    "topCrafted": [
     [
      "stick",
@@ -492,7 +492,7 @@
     ],
     [
      "spruce_planks",
-     38794
+     38822
     ],
     [
      "emerald",
@@ -510,7 +510,7 @@
     ],
     [
      "pillager",
-     556
+     557
     ]
    ],
    "topKilledBy": [
@@ -807,19 +807,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-22T20:57:16Z",
-   "playTicks": 3440417,
+   "lastSeen": "2026-10-22T21:02:16Z",
+   "playTicks": 3446417,
    "deaths": 2,
    "mobKills": 3747,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 301233,
-   "damageTaken": 35256,
-   "distanceCm": 41277636,
-   "walkCm": 13638815,
-   "flyCm": 10061822,
-   "jumps": 47133,
-   "mined": 49811,
+   "damageTaken": 35265,
+   "distanceCm": 41309846,
+   "walkCm": 13665154,
+   "flyCm": 10063271,
+   "jumps": 47219,
+   "mined": 49847,
    "topMined": [
     [
      "netherrack",
@@ -834,7 +834,7 @@
      6205
     ]
    ],
-   "crafted": 128136,
+   "crafted": 128142,
    "topCrafted": [
     [
      "stick",
