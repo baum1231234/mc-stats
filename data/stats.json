@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-22T11:28:19Z",
+ "updated": "2026-10-22T11:33:02Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 14451316,
+ "serverTicks": 14457316,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-22T11:27:16Z",
-   "playTicks": 6628820,
+   "lastSeen": "2026-10-22T11:32:16Z",
+   "playTicks": 6634820,
    "deaths": 0,
    "mobKills": 4115,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 549543,
-   "damageTaken": 75630,
-   "distanceCm": 105376612,
-   "walkCm": 27966305,
-   "flyCm": 36337102,
-   "jumps": 144134,
-   "mined": 77488,
+   "damageTaken": 75636,
+   "distanceCm": 105464879,
+   "walkCm": 27978043,
+   "flyCm": 36353026,
+   "jumps": 144203,
+   "mined": 77497,
    "topMined": [
     [
      "netherrack",
@@ -34,11 +34,11 @@
      5201
     ]
    ],
-   "crafted": 95372,
+   "crafted": 95602,
    "topCrafted": [
     [
      "stick",
-     51765
+     51789
     ],
     [
      "spruce_planks",
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-22T11:27:16Z",
-   "playTicks": 5407843,
+   "lastSeen": "2026-10-22T11:32:16Z",
+   "playTicks": 5413843,
    "deaths": 2,
-   "mobKills": 3276,
+   "mobKills": 3279,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 394741,
-   "damageTaken": 18173,
-   "distanceCm": 54880998,
-   "walkCm": 25171921,
-   "flyCm": 16284038,
-   "jumps": 56989,
-   "mined": 99026,
+   "damageDealt": 395311,
+   "damageTaken": 18206,
+   "distanceCm": 54894622,
+   "walkCm": 25182822,
+   "flyCm": 16286761,
+   "jumps": 57002,
+   "mined": 99027,
    "topMined": [
     [
      "netherrack",
@@ -139,7 +139,7 @@
      9472
     ]
    ],
-   "crafted": 56287,
+   "crafted": 56331,
    "topCrafted": [
     [
      "spruce_planks",
@@ -161,7 +161,7 @@
     ],
     [
      "zombie",
-     592
+     595
     ],
     [
      "skeleton",
