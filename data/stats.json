@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-22T12:50:55Z",
+ "updated": "2026-10-22T12:52:56Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 14547316,
+ "serverTicks": 14553316,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-22T12:47:16Z",
-   "playTicks": 6724820,
+   "lastSeen": "2026-10-22T12:52:16Z",
+   "playTicks": 6730820,
    "deaths": 0,
    "mobKills": 4143,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 552497,
-   "damageTaken": 76907,
-   "distanceCm": 106721555,
-   "walkCm": 28306185,
-   "flyCm": 36913503,
-   "jumps": 146649,
-   "mined": 78212,
+   "damageTaken": 77004,
+   "distanceCm": 106819901,
+   "walkCm": 28352611,
+   "flyCm": 36954373,
+   "jumps": 146901,
+   "mined": 78375,
    "topMined": [
     [
      "netherrack",
-     36056
+     36216
     ],
     [
      "spruce_log",
@@ -226,23 +226,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-22T12:47:16Z",
-   "playTicks": 5109906,
+   "lastSeen": "2026-10-22T12:52:16Z",
+   "playTicks": 5115906,
    "deaths": 0,
-   "mobKills": 5827,
+   "mobKills": 5828,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 440357,
-   "damageTaken": 77962,
-   "distanceCm": 57735344,
-   "walkCm": 17235360,
-   "flyCm": 23089189,
-   "jumps": 86735,
-   "mined": 76310,
+   "damageTaken": 78143,
+   "distanceCm": 57822934,
+   "walkCm": 17274295,
+   "flyCm": 23124528,
+   "jumps": 86945,
+   "mined": 76378,
    "topMined": [
     [
      "netherrack",
-     25655
+     25718
     ],
     [
      "stone",
@@ -279,7 +279,7 @@
     ],
     [
      "skeleton",
-     236
+     237
     ]
    ],
    "topKilledBy": [],
@@ -3414,6 +3414,14 @@
     "mtime": "2026-10-17T17:25:54Z",
     "rendered": "2026-10-22T12:50:55Z"
    },
+   "-4.10": {
+    "mtime": "2026-10-17T17:26:36Z",
+    "rendered": "2026-10-22T12:52:56Z"
+   },
+   "-5.9": {
+    "mtime": "2026-10-19T12:20:03Z",
+    "rendered": "2026-10-22T12:52:56Z"
+   },
    "-6.8": {
     "mtime": "2026-10-19T12:20:31Z",
     "rendered": "2026-10-19T12:31:00Z"
@@ -3425,6 +3433,14 @@
    "-8.6": {
     "mtime": "2026-10-19T15:44:44Z",
     "rendered": "2026-10-19T15:49:21Z"
+   },
+   "8.-3": {
+    "mtime": "2026-10-17T19:52:06Z",
+    "rendered": "2026-10-22T12:52:56Z"
+   },
+   "-15.-2": {
+    "mtime": "2026-10-17T17:24:10Z",
+    "rendered": "2026-10-22T12:52:56Z"
    },
    "1.8": {
     "mtime": "2026-10-20T14:14:13Z",
