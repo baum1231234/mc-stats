@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-23T12:27:16Z",
+ "updated": "2026-10-23T12:40:03Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 15546932,
+ "serverTicks": 15552932,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -331,18 +331,18 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-21T16:18:49Z",
-   "playTicks": 4813975,
+   "lastSeen": "2026-10-23T12:39:51Z",
+   "playTicks": 4819975,
    "deaths": 8,
    "mobKills": 5151,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 302952,
-   "damageTaken": 47179,
-   "distanceCm": 36759281,
-   "walkCm": 16260432,
-   "flyCm": 11829719,
-   "jumps": 60967,
+   "damageTaken": 47269,
+   "distanceCm": 37038658,
+   "walkCm": 16275323,
+   "flyCm": 11862242,
+   "jumps": 61022,
    "mined": 57788,
    "topMined": [
     [
@@ -2337,8 +2337,8 @@
     "rendered": "2026-10-23T10:42:31Z"
    },
    "4.0": {
-    "mtime": "2026-10-22T16:23:19Z",
-    "rendered": "2026-10-22T16:24:05Z"
+    "mtime": "2026-10-23T12:40:31Z",
+    "rendered": "2026-10-23T12:40:03Z"
    },
    "0.0": {
     "mtime": "2026-10-23T10:54:22Z",
@@ -2533,16 +2533,16 @@
     "rendered": "2026-10-23T11:45:00Z"
    },
    "4.1": {
-    "mtime": "2026-10-22T22:06:44Z",
-    "rendered": "2026-10-22T22:06:29Z"
+    "mtime": "2026-10-23T12:40:33Z",
+    "rendered": "2026-10-23T12:40:03Z"
    },
    "3.-2": {
     "mtime": "2026-10-23T10:40:58Z",
     "rendered": "2026-10-23T10:40:27Z"
    },
    "4.-1": {
-    "mtime": "2026-10-22T16:23:18Z",
-    "rendered": "2026-10-22T16:26:03Z"
+    "mtime": "2026-10-23T12:40:16Z",
+    "rendered": "2026-10-23T12:40:03Z"
    },
    "5.0": {
     "mtime": "2026-10-21T13:17:01Z",
@@ -2730,8 +2730,8 @@
     "rendered": "2026-10-23T01:27:57Z"
    },
    "4.2": {
-    "mtime": "2026-10-22T23:45:17Z",
-    "rendered": "2026-10-23T01:27:57Z"
+    "mtime": "2026-10-23T12:40:33Z",
+    "rendered": "2026-10-23T12:40:03Z"
    },
    "5.1": {
     "mtime": "2026-10-20T14:08:59Z",
