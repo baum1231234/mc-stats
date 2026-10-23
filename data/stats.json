@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-23T21:53:54Z",
+ "updated": "2026-10-23T21:55:21Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 16193290,
+ "serverTicks": 16199290,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-23T21:49:39Z",
-   "playTicks": 7466859,
+   "lastSeen": "2026-10-23T21:54:51Z",
+   "playTicks": 7472859,
    "deaths": 0,
    "mobKills": 4357,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 580894,
-   "damageTaken": 85905,
-   "distanceCm": 116884150,
-   "walkCm": 31200266,
-   "flyCm": 41182934,
-   "jumps": 160547,
-   "mined": 84945,
+   "damageTaken": 85975,
+   "distanceCm": 116929711,
+   "walkCm": 31220544,
+   "flyCm": 41194685,
+   "jumps": 160678,
+   "mined": 84994,
    "topMined": [
     [
      "netherrack",
@@ -112,18 +112,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-23T21:49:39Z",
-   "playTicks": 5858791,
+   "lastSeen": "2026-10-23T21:54:51Z",
+   "playTicks": 5864791,
    "deaths": 2,
    "mobKills": 3315,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 402651,
    "damageTaken": 19014,
-   "distanceCm": 58804752,
-   "walkCm": 26598905,
-   "flyCm": 18468631,
-   "jumps": 60084,
+   "distanceCm": 58834630,
+   "walkCm": 26613191,
+   "flyCm": 18484223,
+   "jumps": 60101,
    "mined": 103402,
    "topMined": [
     [
@@ -226,19 +226,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-23T21:49:39Z",
-   "playTicks": 5298198,
+   "lastSeen": "2026-10-23T21:54:51Z",
+   "playTicks": 5304198,
    "deaths": 0,
    "mobKills": 5850,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 443265,
-   "damageTaken": 80674,
-   "distanceCm": 59828798,
-   "walkCm": 17816367,
-   "flyCm": 24047493,
-   "jumps": 90215,
-   "mined": 80925,
+   "damageTaken": 80724,
+   "distanceCm": 59872315,
+   "walkCm": 17849430,
+   "flyCm": 24054721,
+   "jumps": 90239,
+   "mined": 80935,
    "topMined": [
     [
      "netherrack",
@@ -693,18 +693,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-20T22:09:05Z",
-   "playTicks": 3888950,
+   "lastSeen": "2026-10-23T21:54:27Z",
+   "playTicks": 3890012,
    "deaths": 2,
    "mobKills": 1513,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 133859,
    "damageTaken": 37545,
-   "distanceCm": 37748868,
-   "walkCm": 16063729,
-   "flyCm": 13215317,
-   "jumps": 67801,
+   "distanceCm": 37757957,
+   "walkCm": 16066183,
+   "flyCm": 13219193,
+   "jumps": 67825,
    "mined": 108262,
    "topMined": [
     [
@@ -1157,19 +1157,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-23T21:49:39Z",
-   "playTicks": 2536447,
+   "lastSeen": "2026-10-23T21:54:51Z",
+   "playTicks": 2542447,
    "deaths": 4,
    "mobKills": 4363,
    "playerKills": 1,
    "killedByPlayers": 2,
    "damageDealt": 130202,
-   "damageTaken": 21429,
-   "distanceCm": 26752000,
-   "walkCm": 11748914,
-   "flyCm": 7800031,
-   "jumps": 38662,
-   "mined": 50782,
+   "damageTaken": 21431,
+   "distanceCm": 26856944,
+   "walkCm": 11773271,
+   "flyCm": 7831973,
+   "jumps": 38777,
+   "mined": 50787,
    "topMined": [
     [
      "netherrack",
@@ -1184,7 +1184,7 @@
      5129
     ]
    ],
-   "crafted": 75937,
+   "crafted": 76729,
    "topCrafted": [
     [
      "stick",
@@ -1195,8 +1195,8 @@
      18063
     ],
     [
-     "deepslate_bricks",
-     3468
+     "iron_ingot",
+     3491
     ]
    ],
    "topKilled": [
@@ -2633,8 +2633,8 @@
     "rendered": "2026-10-17T19:31:09Z"
    },
    "-1.6": {
-    "mtime": "2026-10-21T13:46:30Z",
-    "rendered": "2026-10-21T16:41:07Z"
+    "mtime": "2026-10-23T21:54:38Z",
+    "rendered": "2026-10-23T21:55:21Z"
    },
    "-2.7": {
     "mtime": "2026-10-21T13:43:08Z",
