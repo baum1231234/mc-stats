@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-23T15:04:00Z",
+ "updated": "2026-10-23T15:05:48Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 15720932,
+ "serverTicks": 15726932,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-23T14:59:51Z",
-   "playTicks": 7089472,
+   "lastSeen": "2026-10-23T15:04:51Z",
+   "playTicks": 7095472,
    "deaths": 0,
    "mobKills": 4244,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 566744,
-   "damageTaken": 82266,
-   "distanceCm": 111336570,
-   "walkCm": 29451192,
-   "flyCm": 38874947,
-   "jumps": 152810,
-   "mined": 81441,
+   "damageTaken": 82318,
+   "distanceCm": 111466246,
+   "walkCm": 29467438,
+   "flyCm": 38948928,
+   "jumps": 153025,
+   "mined": 81528,
    "topMined": [
     [
      "netherrack",
@@ -31,10 +31,10 @@
     ],
     [
      "stone",
-     5694
+     5695
     ]
    ],
-   "crafted": 102770,
+   "crafted": 102801,
    "topCrafted": [
     [
      "stick",
@@ -807,19 +807,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-23T14:59:51Z",
-   "playTicks": 3597842,
+   "lastSeen": "2026-10-23T15:04:51Z",
+   "playTicks": 3603842,
    "deaths": 2,
    "mobKills": 3749,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 301552,
    "damageTaken": 37598,
-   "distanceCm": 42351866,
-   "walkCm": 14101890,
-   "flyCm": 10281425,
-   "jumps": 48380,
-   "mined": 50690,
+   "distanceCm": 42382041,
+   "walkCm": 14123434,
+   "flyCm": 10285635,
+   "jumps": 48428,
+   "mined": 50725,
    "topMined": [
     [
      "netherrack",
