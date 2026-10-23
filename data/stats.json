@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-23T20:46:04Z",
+ "updated": "2026-10-23T20:50:17Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 16121290,
+ "serverTicks": 16127290,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-23T20:44:16Z",
-   "playTicks": 7394859,
+   "lastSeen": "2026-10-23T20:50:13Z",
+   "playTicks": 7400859,
    "deaths": 0,
    "mobKills": 4355,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 580316,
-   "damageTaken": 85526,
-   "distanceCm": 115795240,
-   "walkCm": 30951907,
-   "flyCm": 40721548,
-   "jumps": 159148,
-   "mined": 84391,
+   "damageTaken": 85616,
+   "distanceCm": 115902186,
+   "walkCm": 30965714,
+   "flyCm": 40787252,
+   "jumps": 159277,
+   "mined": 84394,
    "topMined": [
     [
      "netherrack",
@@ -112,18 +112,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-23T20:44:16Z",
-   "playTicks": 5786791,
+   "lastSeen": "2026-10-23T20:50:13Z",
+   "playTicks": 5792791,
    "deaths": 2,
    "mobKills": 3315,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 402651,
    "damageTaken": 19014,
-   "distanceCm": 58243664,
-   "walkCm": 26367016,
-   "flyCm": 18140597,
-   "jumps": 59667,
+   "distanceCm": 58247276,
+   "walkCm": 26369317,
+   "flyCm": 18141908,
+   "jumps": 59671,
    "mined": 103402,
    "topMined": [
     [
@@ -226,19 +226,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-23T20:44:55Z",
-   "playTicks": 5228422,
+   "lastSeen": "2026-10-23T20:50:13Z",
+   "playTicks": 5232198,
    "deaths": 0,
    "mobKills": 5849,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 443005,
-   "damageTaken": 79678,
-   "distanceCm": 59301380,
-   "walkCm": 17622460,
-   "flyCm": 23921430,
-   "jumps": 89498,
-   "mined": 78791,
+   "damageTaken": 79702,
+   "distanceCm": 59336067,
+   "walkCm": 17632804,
+   "flyCm": 23938273,
+   "jumps": 89543,
+   "mined": 78792,
    "topMined": [
     [
      "netherrack",
@@ -246,7 +246,7 @@
     ],
     [
      "stone",
-     8951
+     8952
     ],
     [
      "snow_block",
@@ -1157,19 +1157,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-23T20:44:16Z",
-   "playTicks": 2464447,
+   "lastSeen": "2026-10-23T20:50:13Z",
+   "playTicks": 2470447,
    "deaths": 4,
    "mobKills": 4359,
    "playerKills": 1,
    "killedByPlayers": 2,
    "damageDealt": 129173,
    "damageTaken": 20977,
-   "distanceCm": 25776921,
-   "walkCm": 11349642,
-   "flyCm": 7368314,
-   "jumps": 37795,
-   "mined": 48317,
+   "distanceCm": 25826041,
+   "walkCm": 11387484,
+   "flyCm": 7375641,
+   "jumps": 37849,
+   "mined": 48820,
    "topMined": [
     [
      "netherrack",
@@ -1271,19 +1271,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-23T20:44:16Z",
-   "playTicks": 1912664,
+   "lastSeen": "2026-10-23T20:50:13Z",
+   "playTicks": 1918664,
    "deaths": 0,
-   "mobKills": 515,
+   "mobKills": 517,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 43363,
-   "damageTaken": 6977,
-   "distanceCm": 12444188,
-   "walkCm": 7005095,
-   "flyCm": 2490499,
-   "jumps": 13456,
-   "mined": 36196,
+   "damageDealt": 43729,
+   "damageTaken": 6980,
+   "distanceCm": 12492422,
+   "walkCm": 7020720,
+   "flyCm": 2511845,
+   "jumps": 13499,
+   "mined": 36216,
    "topMined": [
     [
      "netherrack",
@@ -1316,7 +1316,7 @@
    "topKilled": [
     [
      "zombie",
-     169
+     171
     ],
     [
      "creeper",
@@ -1376,23 +1376,23 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-23T20:44:16Z",
-   "playTicks": 1203920,
+   "lastSeen": "2026-10-23T20:50:13Z",
+   "playTicks": 1209920,
    "deaths": 28,
    "mobKills": 273,
    "playerKills": 0,
    "killedByPlayers": 3,
    "damageDealt": 20681,
    "damageTaken": 15303,
-   "distanceCm": 12040214,
-   "walkCm": 6060715,
-   "flyCm": 3432708,
-   "jumps": 18828,
-   "mined": 10316,
+   "distanceCm": 12053839,
+   "walkCm": 6074311,
+   "flyCm": 3432737,
+   "jumps": 18833,
+   "mined": 10335,
    "topMined": [
     [
      "stone",
-     3044
+     3053
     ],
     [
      "grass_block",
@@ -1400,10 +1400,10 @@
     ],
     [
      "dirt",
-     1336
+     1340
     ]
    ],
-   "crafted": 14497,
+   "crafted": 14894,
    "topCrafted": [
     [
      "stick",
@@ -1715,19 +1715,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-23T20:44:16Z",
-   "playTicks": 83085,
+   "lastSeen": "2026-10-23T20:50:13Z",
+   "playTicks": 89085,
    "deaths": 0,
-   "mobKills": 2,
+   "mobKills": 15,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 319,
-   "damageTaken": 1199,
-   "distanceCm": 1223404,
-   "walkCm": 497310,
-   "flyCm": 341627,
-   "jumps": 2098,
-   "mined": 1219,
+   "damageDealt": 2765,
+   "damageTaken": 1582,
+   "distanceCm": 1297575,
+   "walkCm": 548751,
+   "flyCm": 358343,
+   "jumps": 2192,
+   "mined": 1270,
    "topMined": [
     [
      "gravel",
@@ -1759,19 +1759,31 @@
    ],
    "topKilled": [
     [
+     "zombie",
+     10
+    ],
+    [
+     "skeleton",
+     1
+    ],
+    [
      "cow",
      1
     ]
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 10,
+    "count": 11,
     "byTab": {
      "story": 7,
      "husbandry": 1,
-     "adventure": 2
+     "adventure": 3
     },
     "recent": [
+     [
+      "adventure/kill_a_mob",
+      "2026-10-23T20:44:49Z"
+     ],
      [
       "adventure/totem_of_undying",
       "2026-10-23T20:41:01Z"
@@ -1799,10 +1811,6 @@
      [
       "husbandry/root",
       "2026-10-17T16:14:13Z"
-     ],
-     [
-      "story/upgrade_tools",
-      "2026-10-17T16:09:00Z"
      ]
     ]
    }
