@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-23T16:03:05Z",
+ "updated": "2026-10-23T16:04:56Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 15792932,
+ "serverTicks": 15798932,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-23T15:59:51Z",
-   "playTicks": 7161472,
+   "lastSeen": "2026-10-23T16:04:51Z",
+   "playTicks": 7167472,
    "deaths": 0,
-   "mobKills": 4255,
+   "mobKills": 4336,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 569557,
-   "damageTaken": 83053,
-   "distanceCm": 112694948,
-   "walkCm": 29883031,
-   "flyCm": 39348473,
-   "jumps": 154312,
-   "mined": 82154,
+   "damageDealt": 575662,
+   "damageTaken": 83179,
+   "distanceCm": 112790535,
+   "walkCm": 29899295,
+   "flyCm": 39383326,
+   "jumps": 154490,
+   "mined": 82169,
    "topMined": [
     [
      "netherrack",
-     36612
+     36627
     ],
     [
      "spruce_log",
@@ -52,7 +52,7 @@
    "topKilled": [
     [
      "guardian",
-     712
+     792
     ],
     [
      "skeleton",
@@ -807,8 +807,8 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-23T15:59:51Z",
-   "playTicks": 3669842,
+   "lastSeen": "2026-10-23T16:04:51Z",
+   "playTicks": 3675842,
    "deaths": 2,
    "mobKills": 3749,
    "playerKills": 0,
