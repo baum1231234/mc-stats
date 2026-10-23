@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-23T09:20:29Z",
+ "updated": "2026-10-23T09:25:32Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 15384917,
+ "serverTicks": 15390917,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1157,23 +1157,23 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-23T09:19:53Z",
-   "playTicks": 2216775,
+   "lastSeen": "2026-10-23T09:24:53Z",
+   "playTicks": 2222775,
    "deaths": 4,
-   "mobKills": 4174,
+   "mobKills": 4183,
    "playerKills": 1,
    "killedByPlayers": 2,
-   "damageDealt": 96002,
-   "damageTaken": 16897,
-   "distanceCm": 21998790,
-   "walkCm": 10236100,
-   "flyCm": 5883330,
-   "jumps": 33665,
-   "mined": 45025,
+   "damageDealt": 97515,
+   "damageTaken": 17086,
+   "distanceCm": 22047279,
+   "walkCm": 10265530,
+   "flyCm": 5897136,
+   "jumps": 33751,
+   "mined": 45099,
    "topMined": [
     [
      "netherrack",
-     10854
+     10909
     ],
     [
      "stone",
@@ -1210,7 +1210,7 @@
     ],
     [
      "skeleton",
-     317
+     318
     ]
    ],
    "topKilledBy": [
@@ -1224,14 +1224,22 @@
     ]
    ],
    "adv": {
-    "count": 27,
+    "count": 29,
     "byTab": {
      "story": 12,
      "husbandry": 4,
      "adventure": 7,
-     "nether": 4
+     "nether": 6
     },
     "recent": [
+     [
+      "nether/loot_bastion",
+      "2026-10-23T09:24:38Z"
+     ],
+     [
+      "nether/find_bastion",
+      "2026-10-23T09:23:38Z"
+     ],
      [
       "adventure/trim_with_any_armor_pattern",
       "2026-10-19T11:36:18Z"
@@ -1255,14 +1263,6 @@
      [
       "story/enter_the_nether",
       "2026-10-17T17:40:57Z"
-     ],
-     [
-      "story/form_obsidian",
-      "2026-10-17T16:33:47Z"
-     ],
-     [
-      "story/lava_bucket",
-      "2026-10-16T10:43:13Z"
      ]
     ]
    }
