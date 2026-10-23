@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-23T16:22:57Z",
+ "updated": "2026-10-23T16:26:17Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 15816932,
+ "serverTicks": 15822932,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-23T16:19:51Z",
-   "playTicks": 7185472,
+   "lastSeen": "2026-10-23T16:24:51Z",
+   "playTicks": 7191472,
    "deaths": 0,
-   "mobKills": 4345,
+   "mobKills": 4349,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 576975,
-   "damageTaken": 83744,
-   "distanceCm": 113073278,
-   "walkCm": 29998600,
-   "flyCm": 39529160,
-   "jumps": 155086,
-   "mined": 82374,
+   "damageDealt": 577386,
+   "damageTaken": 83796,
+   "distanceCm": 113162913,
+   "walkCm": 30042498,
+   "flyCm": 39565559,
+   "jumps": 155221,
+   "mined": 82439,
    "topMined": [
     [
      "netherrack",
@@ -31,7 +31,7 @@
     ],
     [
      "stone",
-     5807
+     5813
     ]
    ],
    "crafted": 103389,
@@ -60,7 +60,7 @@
     ],
     [
      "zombie",
-     463
+     465
     ]
    ],
    "topKilledBy": [],
@@ -807,19 +807,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-23T16:19:51Z",
-   "playTicks": 3693842,
+   "lastSeen": "2026-10-23T16:24:51Z",
+   "playTicks": 3699842,
    "deaths": 2,
    "mobKills": 3749,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 301554,
    "damageTaken": 37978,
-   "distanceCm": 42839318,
-   "walkCm": 14384594,
+   "distanceCm": 42852929,
+   "walkCm": 14386951,
    "flyCm": 10387007,
-   "jumps": 49297,
-   "mined": 51250,
+   "jumps": 49305,
+   "mined": 51265,
    "topMined": [
     [
      "netherrack",
@@ -2395,8 +2395,8 @@
     "rendered": "2026-10-21T16:43:03Z"
    },
    "-1.-4": {
-    "mtime": "2026-10-23T10:33:59Z",
-    "rendered": "2026-10-23T13:25:35Z"
+    "mtime": "2026-10-23T15:16:56Z",
+    "rendered": "2026-10-23T16:26:17Z"
    },
    "0.-5": {
     "mtime": "2026-10-23T10:35:13Z",
