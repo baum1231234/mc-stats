@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-23T10:33:48Z",
+ "updated": "2026-10-23T10:35:39Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 15468917,
+ "serverTicks": 15474917,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1157,19 +1157,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-23T10:29:53Z",
-   "playTicks": 2300775,
+   "lastSeen": "2026-10-23T10:34:53Z",
+   "playTicks": 2306775,
    "deaths": 4,
    "mobKills": 4250,
    "playerKills": 1,
    "killedByPlayers": 2,
    "damageDealt": 108608,
-   "damageTaken": 19021,
-   "distanceCm": 23420419,
-   "walkCm": 10646775,
-   "flyCm": 6679115,
-   "jumps": 35126,
-   "mined": 45832,
+   "damageTaken": 19023,
+   "distanceCm": 23565411,
+   "walkCm": 10654032,
+   "flyCm": 6713555,
+   "jumps": 35158,
+   "mined": 45834,
    "topMined": [
     [
      "netherrack",
@@ -1224,14 +1224,26 @@
     ]
    ],
    "adv": {
-    "count": 33,
+    "count": 36,
     "byTab": {
      "story": 12,
      "husbandry": 4,
      "adventure": 8,
-     "nether": 9
+     "nether": 12
     },
     "recent": [
+     [
+      "nether/get_wither_skull",
+      "2026-10-23T10:32:36Z"
+     ],
+     [
+      "nether/create_beacon",
+      "2026-10-23T10:30:47Z"
+     ],
+     [
+      "nether/create_full_beacon",
+      "2026-10-23T10:30:47Z"
+     ],
      [
       "adventure/totem_of_undying",
       "2026-10-23T10:18:54Z"
@@ -1251,18 +1263,6 @@
      [
       "nether/loot_bastion",
       "2026-10-23T09:24:38Z"
-     ],
-     [
-      "nether/find_bastion",
-      "2026-10-23T09:23:38Z"
-     ],
-     [
-      "adventure/trim_with_any_armor_pattern",
-      "2026-10-19T11:36:18Z"
-     ],
-     [
-      "nether/obtain_blaze_rod",
-      "2026-10-19T11:31:22Z"
      ]
     ]
    }
@@ -2253,8 +2253,8 @@
     "rendered": "2026-10-23T10:25:57Z"
    },
    "2.-3": {
-    "mtime": "2026-10-21T22:11:29Z",
-    "rendered": "2026-10-22T01:08:04Z"
+    "mtime": "2026-10-23T10:36:09Z",
+    "rendered": "2026-10-23T10:35:39Z"
    },
    "-12.1": {
     "mtime": "2026-10-22T12:44:26Z",
@@ -2301,8 +2301,8 @@
     "rendered": "2026-10-23T10:27:59Z"
    },
    "2.-4": {
-    "mtime": "2026-10-21T22:11:10Z",
-    "rendered": "2026-10-22T01:08:04Z"
+    "mtime": "2026-10-23T10:36:10Z",
+    "rendered": "2026-10-23T10:35:39Z"
    },
    "2.-1": {
     "mtime": "2026-10-23T08:41:52Z",
@@ -2493,8 +2493,8 @@
     "rendered": "2026-10-23T10:33:48Z"
    },
    "2.-5": {
-    "mtime": "2026-10-17T19:52:06Z",
-    "rendered": "2026-10-17T20:21:33Z"
+    "mtime": "2026-10-23T10:36:10Z",
+    "rendered": "2026-10-23T10:35:39Z"
    },
    "3.-4": {
     "mtime": "2026-10-22T01:17:03Z",
