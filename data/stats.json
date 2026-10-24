@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T20:26:53Z",
+ "updated": "2026-10-24T20:28:40Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 17054410,
  "players": [
@@ -7,19 +7,19 @@
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T20:22:01Z",
-   "playTicks": 7825217,
+   "lastSeen": "2026-10-24T20:27:01Z",
+   "playTicks": 7831217,
    "deaths": 0,
    "mobKills": 4850,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 616660,
-   "damageTaken": 93444,
-   "distanceCm": 121396749,
-   "walkCm": 32343183,
-   "flyCm": 42824760,
-   "jumps": 168618,
-   "mined": 86727,
+   "damageTaken": 93446,
+   "distanceCm": 121461858,
+   "walkCm": 32370289,
+   "flyCm": 42855888,
+   "jumps": 168787,
+   "mined": 86730,
    "topMined": [
     [
      "netherrack",
@@ -917,19 +917,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-24T20:22:02Z",
-   "playTicks": 2839905,
+   "lastSeen": "2026-10-24T20:27:02Z",
+   "playTicks": 2845905,
    "deaths": 4,
    "mobKills": 5667,
    "playerKills": 1,
    "killedByPlayers": 2,
-   "damageDealt": 167445,
-   "damageTaken": 25803,
-   "distanceCm": 30168454,
-   "walkCm": 13121552,
-   "flyCm": 8514559,
-   "jumps": 42420,
-   "mined": 57596,
+   "damageDealt": 167618,
+   "damageTaken": 25894,
+   "distanceCm": 30215922,
+   "walkCm": 13132931,
+   "flyCm": 8519534,
+   "jumps": 42519,
+   "mined": 57630,
    "topMined": [
     [
      "netherrack",
@@ -937,7 +937,7 @@
     ],
     [
      "stone",
-     9596
+     9614
     ],
     [
      "spruce_log",
