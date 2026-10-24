@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T19:19:51Z",
+ "updated": "2026-10-24T19:21:43Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 16970410,
+ "serverTicks": 16976410,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1606,23 +1606,23 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-24T19:17:02Z",
-   "playTicks": 438141,
+   "lastSeen": "2026-10-24T19:22:02Z",
+   "playTicks": 444141,
    "deaths": 0,
    "mobKills": 23,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 4869,
    "damageTaken": 3981,
-   "distanceCm": 3643884,
-   "walkCm": 2017424,
-   "flyCm": 750838,
-   "jumps": 5766,
-   "mined": 3907,
+   "distanceCm": 3680226,
+   "walkCm": 2045566,
+   "flyCm": 751839,
+   "jumps": 5802,
+   "mined": 4094,
    "topMined": [
     [
      "stone",
-     1075
+     1255
     ],
     [
      "spruce_log",
@@ -1630,7 +1630,7 @@
     ],
     [
      "dirt",
-     460
+     463
     ]
    ],
    "crafted": 2033,
