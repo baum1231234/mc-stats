@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:06:46Z",
+ "updated": "2026-10-24T19:08:31Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 16958410,
  "players": [
@@ -7,19 +7,19 @@
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T19:02:01Z",
-   "playTicks": 7729217,
+   "lastSeen": "2026-10-24T19:07:01Z",
+   "playTicks": 7735217,
    "deaths": 0,
-   "mobKills": 4731,
+   "mobKills": 4748,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 602494,
-   "damageTaken": 91330,
-   "distanceCm": 120216758,
-   "walkCm": 32067972,
-   "flyCm": 42444959,
-   "jumps": 166342,
-   "mined": 86351,
+   "damageDealt": 605104,
+   "damageTaken": 91406,
+   "distanceCm": 120267557,
+   "walkCm": 32086402,
+   "flyCm": 42463305,
+   "jumps": 166474,
+   "mined": 86397,
    "topMined": [
     [
      "netherrack",
@@ -31,7 +31,7 @@
     ],
     [
      "stone",
-     6321
+     6332
     ]
    ],
    "crafted": 103597,
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T19:02:01Z",
-   "playTicks": 6394372,
+   "lastSeen": "2026-10-24T19:07:01Z",
+   "playTicks": 6400372,
    "deaths": 2,
-   "mobKills": 3983,
+   "mobKills": 3995,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 452388,
-   "damageTaken": 21471,
-   "distanceCm": 63681730,
-   "walkCm": 27822164,
-   "flyCm": 21190295,
-   "jumps": 63716,
-   "mined": 104572,
+   "damageDealt": 453413,
+   "damageTaken": 21487,
+   "distanceCm": 63731124,
+   "walkCm": 27844984,
+   "flyCm": 21199816,
+   "jumps": 63765,
+   "mined": 104582,
    "topMined": [
     [
      "netherrack",
@@ -914,6 +914,120 @@
    }
   },
   {
+   "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
+   "name": "mcMinemanny",
+   "firstSeen": "2026-10-11T10:41:59Z",
+   "lastSeen": "2026-10-24T19:07:02Z",
+   "playTicks": 2751314,
+   "deaths": 4,
+   "mobKills": 5464,
+   "playerKills": 1,
+   "killedByPlayers": 2,
+   "damageDealt": 140818,
+   "damageTaken": 23806,
+   "distanceCm": 29401037,
+   "walkCm": 12667752,
+   "flyCm": 8386560,
+   "jumps": 41485,
+   "mined": 57155,
+   "topMined": [
+    [
+     "netherrack",
+     13474
+    ],
+    [
+     "stone",
+     9488
+    ],
+    [
+     "spruce_log",
+     5129
+    ]
+   ],
+   "crafted": 79678,
+   "topCrafted": [
+    [
+     "stick",
+     34634
+    ],
+    [
+     "spruce_planks",
+     18063
+    ],
+    [
+     "iron_ingot",
+     4265
+    ]
+   ],
+   "topKilled": [
+    [
+     "silverfish",
+     3299
+    ],
+    [
+     "zombie",
+     415
+    ],
+    [
+     "skeleton",
+     340
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "player",
+     2
+    ],
+    [
+     "skeleton",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 39,
+    "byTab": {
+     "story": 12,
+     "husbandry": 5,
+     "adventure": 9,
+     "nether": 13
+    },
+    "recent": [
+     [
+      "nether/brew_potion",
+      "2026-10-24T11:23:11Z"
+     ],
+     [
+      "adventure/voluntary_exile",
+      "2026-10-24T09:25:27Z"
+     ],
+     [
+      "husbandry/place_dried_ghast_in_water",
+      "2026-10-23T11:07:12Z"
+     ],
+     [
+      "nether/get_wither_skull",
+      "2026-10-23T10:32:36Z"
+     ],
+     [
+      "nether/create_beacon",
+      "2026-10-23T10:30:47Z"
+     ],
+     [
+      "nether/create_full_beacon",
+      "2026-10-23T10:30:47Z"
+     ],
+     [
+      "adventure/totem_of_undying",
+      "2026-10-23T10:18:54Z"
+     ],
+     [
+      "nether/explore_nether",
+      "2026-10-23T09:56:07Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "0dacabbe-11d5-44e7-8be5-adc12de96182",
    "name": "Oberatze999",
    "firstSeen": "2026-10-11T14:23:15Z",
@@ -1031,120 +1145,6 @@
      [
       "nether/find_fortress",
       "2026-10-17T02:35:27Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
-   "name": "mcMinemanny",
-   "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-24T11:28:34Z",
-   "playTicks": 2746405,
-   "deaths": 4,
-   "mobKills": 5463,
-   "playerKills": 1,
-   "killedByPlayers": 2,
-   "damageDealt": 140618,
-   "damageTaken": 23777,
-   "distanceCm": 29318979,
-   "walkCm": 12623550,
-   "flyCm": 8355853,
-   "jumps": 41439,
-   "mined": 56396,
-   "topMined": [
-    [
-     "netherrack",
-     13474
-    ],
-    [
-     "stone",
-     9488
-    ],
-    [
-     "spruce_log",
-     5129
-    ]
-   ],
-   "crafted": 79678,
-   "topCrafted": [
-    [
-     "stick",
-     34634
-    ],
-    [
-     "spruce_planks",
-     18063
-    ],
-    [
-     "iron_ingot",
-     4265
-    ]
-   ],
-   "topKilled": [
-    [
-     "silverfish",
-     3299
-    ],
-    [
-     "zombie",
-     415
-    ],
-    [
-     "skeleton",
-     339
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "player",
-     2
-    ],
-    [
-     "skeleton",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 39,
-    "byTab": {
-     "story": 12,
-     "husbandry": 5,
-     "adventure": 9,
-     "nether": 13
-    },
-    "recent": [
-     [
-      "nether/brew_potion",
-      "2026-10-24T11:23:11Z"
-     ],
-     [
-      "adventure/voluntary_exile",
-      "2026-10-24T09:25:27Z"
-     ],
-     [
-      "husbandry/place_dried_ghast_in_water",
-      "2026-10-23T11:07:12Z"
-     ],
-     [
-      "nether/get_wither_skull",
-      "2026-10-23T10:32:36Z"
-     ],
-     [
-      "nether/create_beacon",
-      "2026-10-23T10:30:47Z"
-     ],
-     [
-      "nether/create_full_beacon",
-      "2026-10-23T10:30:47Z"
-     ],
-     [
-      "adventure/totem_of_undying",
-      "2026-10-23T10:18:54Z"
-     ],
-     [
-      "nether/explore_nether",
-      "2026-10-23T09:56:07Z"
      ]
     ]
    }
