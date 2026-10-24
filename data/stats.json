@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-24T15:54:00Z",
+ "updated": "2026-10-24T15:59:59Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 16730849,
+ "serverTicks": 16738526,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T15:53:51Z",
-   "playTicks": 7541160,
+   "lastSeen": "2026-10-24T15:58:51Z",
+   "playTicks": 7547160,
    "deaths": 0,
    "mobKills": 4389,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 586689,
    "damageTaken": 87183,
-   "distanceCm": 117970478,
-   "walkCm": 31481037,
-   "flyCm": 41760266,
-   "jumps": 162663,
-   "mined": 85247,
+   "distanceCm": 117993135,
+   "walkCm": 31497699,
+   "flyCm": 41765171,
+   "jumps": 162705,
+   "mined": 85309,
    "topMined": [
     [
      "netherrack",
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T15:53:51Z",
-   "playTicks": 6175211,
+   "lastSeen": "2026-10-24T15:58:51Z",
+   "playTicks": 6181211,
    "deaths": 2,
-   "mobKills": 3330,
+   "mobKills": 3331,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 405181,
-   "damageTaken": 19279,
-   "distanceCm": 61567469,
-   "walkCm": 27088521,
-   "flyCm": 20499697,
-   "jumps": 61517,
-   "mined": 104225,
+   "damageDealt": 405373,
+   "damageTaken": 19326,
+   "distanceCm": 61598277,
+   "walkCm": 27103240,
+   "flyCm": 20513101,
+   "jumps": 61553,
+   "mined": 104228,
    "topMined": [
     [
      "netherrack",
@@ -139,7 +139,7 @@
      9638
     ]
    ],
-   "crafted": 56956,
+   "crafted": 56992,
    "topCrafted": [
     [
      "spruce_planks",
@@ -161,7 +161,7 @@
     ],
     [
      "zombie",
-     612
+     613
     ],
     [
      "skeleton",
@@ -226,27 +226,27 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T15:53:51Z",
-   "playTicks": 5380649,
+   "lastSeen": "2026-10-24T15:58:51Z",
+   "playTicks": 5386649,
    "deaths": 0,
-   "mobKills": 5878,
+   "mobKills": 5880,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 447658,
-   "damageTaken": 82039,
-   "distanceCm": 60331925,
-   "walkCm": 18028544,
-   "flyCm": 24154776,
-   "jumps": 91079,
-   "mined": 81361,
+   "damageDealt": 448374,
+   "damageTaken": 82553,
+   "distanceCm": 60371683,
+   "walkCm": 18039075,
+   "flyCm": 24159353,
+   "jumps": 91230,
+   "mined": 81396,
    "topMined": [
     [
      "netherrack",
-     25901
+     25919
     ],
     [
      "stone",
-     9170
+     9176
     ],
     [
      "snow_block",
@@ -583,18 +583,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-24T15:53:51Z",
-   "playTicks": 3967510,
+   "lastSeen": "2026-10-24T15:58:51Z",
+   "playTicks": 3973510,
    "deaths": 2,
-   "mobKills": 1514,
+   "mobKills": 1517,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 134049,
-   "damageTaken": 37821,
-   "distanceCm": 38689378,
-   "walkCm": 16219157,
-   "flyCm": 13683867,
-   "jumps": 69312,
+   "damageDealt": 134520,
+   "damageTaken": 37936,
+   "distanceCm": 38741312,
+   "walkCm": 16238618,
+   "flyCm": 13705656,
+   "jumps": 69414,
    "mined": 108278,
    "topMined": [
     [
@@ -610,7 +610,7 @@
      3152
     ]
    ],
-   "crafted": 21933,
+   "crafted": 22585,
    "topCrafted": [
     [
      "stick",
@@ -622,7 +622,7 @@
     ],
     [
      "emerald",
-     2429
+     2550
     ]
    ],
    "topKilled": [
@@ -632,11 +632,11 @@
     ],
     [
      "skeleton",
-     160
+     161
     ],
     [
      "zombie",
-     140
+     142
     ]
    ],
    "topKilledBy": [
