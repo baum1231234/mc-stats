@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T11:26:01Z",
+ "updated": "2026-10-24T11:27:28Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 16667237,
  "players": [
@@ -1039,18 +1039,18 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-24T11:21:20Z",
-   "playTicks": 2737723,
+   "lastSeen": "2026-10-24T11:26:20Z",
+   "playTicks": 2743723,
    "deaths": 4,
    "mobKills": 5463,
    "playerKills": 1,
    "killedByPlayers": 2,
-   "damageDealt": 140363,
-   "damageTaken": 23555,
-   "distanceCm": 29219090,
-   "walkCm": 12602053,
-   "flyCm": 8343424,
-   "jumps": 41399,
+   "damageDealt": 140481,
+   "damageTaken": 23725,
+   "distanceCm": 29278656,
+   "walkCm": 12620749,
+   "flyCm": 8351894,
+   "jumps": 41432,
    "mined": 56396,
    "topMined": [
     [
@@ -1066,7 +1066,7 @@
      5129
     ]
    ],
-   "crafted": 79672,
+   "crafted": 79678,
    "topCrafted": [
     [
      "stick",
@@ -1106,14 +1106,18 @@
     ]
    ],
    "adv": {
-    "count": 38,
+    "count": 39,
     "byTab": {
      "story": 12,
      "husbandry": 5,
      "adventure": 9,
-     "nether": 12
+     "nether": 13
     },
     "recent": [
+     [
+      "nether/brew_potion",
+      "2026-10-24T11:23:11Z"
+     ],
      [
       "adventure/voluntary_exile",
       "2026-10-24T09:25:27Z"
@@ -1141,10 +1145,6 @@
      [
       "nether/explore_nether",
       "2026-10-23T09:56:07Z"
-     ],
-     [
-      "nether/find_fortress",
-      "2026-10-23T09:32:04Z"
      ]
     ]
    }
@@ -1376,18 +1376,18 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-24T11:21:20Z",
-   "playTicks": 1498124,
+   "lastSeen": "2026-10-24T11:27:01Z",
+   "playTicks": 1504939,
    "deaths": 28,
-   "mobKills": 287,
+   "mobKills": 296,
    "playerKills": 0,
    "killedByPlayers": 3,
-   "damageDealt": 20753,
-   "damageTaken": 16525,
-   "distanceCm": 13605029,
-   "walkCm": 7235936,
-   "flyCm": 3612204,
-   "jumps": 20642,
+   "damageDealt": 22289,
+   "damageTaken": 16722,
+   "distanceCm": 13678360,
+   "walkCm": 7237826,
+   "flyCm": 3612519,
+   "jumps": 20646,
    "mined": 11986,
    "topMined": [
     [
@@ -1606,18 +1606,18 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-24T11:25:43Z",
-   "playTicks": 410601,
+   "lastSeen": "2026-10-24T11:26:23Z",
+   "playTicks": 411206,
    "deaths": 0,
    "mobKills": 22,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 4669,
    "damageTaken": 3761,
-   "distanceCm": 3427766,
-   "walkCm": 1866463,
-   "flyCm": 724886,
-   "jumps": 5456,
+   "distanceCm": 3432888,
+   "walkCm": 1869767,
+   "flyCm": 725855,
+   "jumps": 5462,
    "mined": 3497,
    "topMined": [
     [
