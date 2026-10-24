@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T08:22:17Z",
+ "updated": "2026-10-24T08:26:18Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 16445237,
+ "serverTicks": 16451237,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1376,19 +1376,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-24T08:21:20Z",
-   "playTicks": 1324006,
+   "lastSeen": "2026-10-24T08:26:20Z",
+   "playTicks": 1330006,
    "deaths": 28,
-   "mobKills": 276,
+   "mobKills": 278,
    "playerKills": 0,
    "killedByPlayers": 3,
    "damageDealt": 20699,
-   "damageTaken": 15666,
-   "distanceCm": 12514010,
-   "walkCm": 6474203,
-   "flyCm": 3469155,
-   "jumps": 19497,
-   "mined": 10853,
+   "damageTaken": 15690,
+   "distanceCm": 12556992,
+   "walkCm": 6511607,
+   "flyCm": 3472733,
+   "jumps": 19532,
+   "mined": 10916,
    "topMined": [
     [
      "stone",
@@ -1396,11 +1396,11 @@
     ],
     [
      "grass_block",
-     1673
+     1707
     ],
     [
      "dirt",
-     1524
+     1544
     ]
    ],
    "crafted": 17463,
@@ -1606,18 +1606,18 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-24T08:21:20Z",
-   "playTicks": 189338,
+   "lastSeen": "2026-10-24T08:26:20Z",
+   "playTicks": 195338,
    "deaths": 0,
    "mobKills": 16,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 2957,
-   "damageTaken": 2058,
-   "distanceCm": 2041391,
-   "walkCm": 996130,
-   "flyCm": 557759,
-   "jumps": 3734,
+   "damageTaken": 2078,
+   "distanceCm": 2071512,
+   "walkCm": 1015724,
+   "flyCm": 561642,
+   "jumps": 3788,
    "mined": 2123,
    "topMined": [
     [
@@ -1633,19 +1633,19 @@
      288
     ]
    ],
-   "crafted": 482,
+   "crafted": 610,
    "topCrafted": [
     [
      "stick",
      124
     ],
     [
-     "birch_planks",
-     64
+     "deepslate_bricks",
+     68
     ],
     [
-     "spruce_planks",
-     64
+     "polished_deepslate",
+     68
     ]
    ],
    "topKilled": [
