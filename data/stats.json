@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T07:45:24Z",
+ "updated": "2026-10-24T08:06:27Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 16418862,
+ "serverTicks": 16427237,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1376,23 +1376,23 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-24T07:45:26Z",
-   "playTicks": 1300006,
+   "lastSeen": "2026-10-24T08:06:20Z",
+   "playTicks": 1306006,
    "deaths": 28,
-   "mobKills": 273,
+   "mobKills": 275,
    "playerKills": 0,
    "killedByPlayers": 3,
-   "damageDealt": 20685,
-   "damageTaken": 15493,
-   "distanceCm": 12389540,
-   "walkCm": 6369729,
-   "flyCm": 3455288,
-   "jumps": 19297,
-   "mined": 10676,
+   "damageDealt": 20699,
+   "damageTaken": 15536,
+   "distanceCm": 12426516,
+   "walkCm": 6399675,
+   "flyCm": 3460120,
+   "jumps": 19357,
+   "mined": 10695,
    "topMined": [
     [
      "stone",
-     3070
+     3079
     ],
     [
      "grass_block",
@@ -1455,14 +1455,18 @@
     ]
    ],
    "adv": {
-    "count": 21,
+    "count": 22,
     "byTab": {
      "story": 12,
-     "adventure": 5,
+     "adventure": 6,
      "husbandry": 3,
      "nether": 1
     },
     "recent": [
+     [
+      "adventure/voluntary_exile",
+      "2026-10-24T08:03:15Z"
+     ],
      [
       "story/form_obsidian",
       "2026-10-17T18:39:51Z"
@@ -1490,10 +1494,6 @@
      [
       "story/mine_diamond",
       "2026-10-11T17:46:59Z"
-     ],
-     [
-      "story/deflect_arrow",
-      "2026-10-11T17:33:45Z"
      ]
     ]
    }
@@ -1606,19 +1606,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-24T07:45:29Z",
-   "playTicks": 165695,
+   "lastSeen": "2026-10-24T08:06:20Z",
+   "playTicks": 171338,
    "deaths": 0,
    "mobKills": 16,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 2902,
-   "damageTaken": 2044,
-   "distanceCm": 1915443,
-   "walkCm": 898383,
-   "flyCm": 539452,
-   "jumps": 3501,
-   "mined": 1976,
+   "damageDealt": 2957,
+   "damageTaken": 2058,
+   "distanceCm": 1944255,
+   "walkCm": 922359,
+   "flyCm": 542774,
+   "jumps": 3547,
+   "mined": 1980,
    "topMined": [
     [
      "gravel",
@@ -1633,7 +1633,7 @@
      288
     ]
    ],
-   "crafted": 466,
+   "crafted": 473,
    "topCrafted": [
     [
      "stick",
