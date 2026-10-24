@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T16:56:38Z",
+ "updated": "2026-10-24T16:58:23Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 16802849,
+ "serverTicks": 16808727,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T16:53:51Z",
-   "playTicks": 6247211,
+   "lastSeen": "2026-10-24T16:57:45Z",
+   "playTicks": 6251889,
    "deaths": 2,
-   "mobKills": 3338,
+   "mobKills": 3342,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 407382,
-   "damageTaken": 20200,
-   "distanceCm": 62470093,
-   "walkCm": 27367906,
-   "flyCm": 20724288,
-   "jumps": 62413,
-   "mined": 104303,
+   "damageDealt": 408172,
+   "damageTaken": 20216,
+   "distanceCm": 62540815,
+   "walkCm": 27382587,
+   "flyCm": 20777964,
+   "jumps": 62449,
+   "mined": 104337,
    "topMined": [
     [
      "netherrack",
@@ -132,7 +132,7 @@
     ],
     [
      "grass_block",
-     12894
+     12895
     ],
     [
      "dirt",
@@ -161,11 +161,11 @@
     ],
     [
      "zombie",
-     613
+     616
     ],
     [
      "skeleton",
-     375
+     376
     ]
    ],
    "topKilledBy": [
@@ -2894,8 +2894,8 @@
     "rendered": "2026-10-21T00:40:09Z"
    },
    "-9.-1": {
-    "mtime": "2026-10-24T13:57:31Z",
-    "rendered": "2026-10-24T13:57:31Z"
+    "mtime": "2026-10-24T16:32:42Z",
+    "rendered": "2026-10-24T16:58:23Z"
    },
    "-9.3": {
     "mtime": "2026-10-19T12:13:47Z",
@@ -3109,16 +3109,16 @@
     "rendered": "2026-10-20T21:40:45Z"
    },
    "-8.-1": {
-    "mtime": "2026-10-24T13:57:31Z",
-    "rendered": "2026-10-24T13:57:31Z"
+    "mtime": "2026-10-24T16:32:42Z",
+    "rendered": "2026-10-24T16:58:23Z"
    },
    "-8.3": {
     "mtime": "2026-10-19T12:14:30Z",
     "rendered": "2026-10-19T15:13:30Z"
    },
    "-9.-2": {
-    "mtime": "2026-10-24T13:57:52Z",
-    "rendered": "2026-10-24T13:57:31Z"
+    "mtime": "2026-10-24T16:34:15Z",
+    "rendered": "2026-10-24T16:58:23Z"
    },
    "-9.4": {
     "mtime": "2026-10-19T14:33:35Z",
@@ -3329,8 +3329,8 @@
     "rendered": "2026-10-20T06:34:38Z"
    },
    "-8.-2": {
-    "mtime": "2026-10-24T13:57:52Z",
-    "rendered": "2026-10-24T13:57:31Z"
+    "mtime": "2026-10-24T16:34:15Z",
+    "rendered": "2026-10-24T16:58:23Z"
    },
    "-9.-3": {
     "mtime": "2026-10-24T13:57:46Z",
