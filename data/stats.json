@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T19:43:36Z",
+ "updated": "2026-10-24T19:45:25Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 17000410,
+ "serverTicks": 17004805,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -917,19 +917,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-24T19:42:02Z",
-   "playTicks": 2793314,
+   "lastSeen": "2026-10-24T19:45:14Z",
+   "playTicks": 2797159,
    "deaths": 4,
-   "mobKills": 5539,
+   "mobKills": 5547,
    "playerKills": 1,
    "killedByPlayers": 2,
-   "damageDealt": 152842,
-   "damageTaken": 24556,
-   "distanceCm": 29845443,
-   "walkCm": 12889986,
-   "flyCm": 8466519,
-   "jumps": 41967,
-   "mined": 57406,
+   "damageDealt": 154132,
+   "damageTaken": 24673,
+   "distanceCm": 29877158,
+   "walkCm": 12912199,
+   "flyCm": 8471903,
+   "jumps": 41994,
+   "mined": 57415,
    "topMined": [
     [
      "netherrack",
@@ -1606,19 +1606,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-24T19:42:02Z",
-   "playTicks": 468141,
+   "lastSeen": "2026-10-24T19:45:41Z",
+   "playTicks": 472536,
    "deaths": 0,
-   "mobKills": 48,
+   "mobKills": 50,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 8496,
-   "damageTaken": 4785,
-   "distanceCm": 3882882,
-   "walkCm": 2196810,
-   "flyCm": 772434,
-   "jumps": 5943,
-   "mined": 4106,
+   "damageDealt": 8965,
+   "damageTaken": 4859,
+   "distanceCm": 3920550,
+   "walkCm": 2224268,
+   "flyCm": 776245,
+   "jumps": 5981,
+   "mined": 4107,
    "topMined": [
     [
      "stone",
@@ -1651,7 +1651,7 @@
    "topKilled": [
     [
      "bogged",
-     12
+     13
     ],
     [
      "zombie",
@@ -1711,8 +1711,8 @@
    "uuid": "33ea52e3-86de-4e6b-9526-ef4483a31005",
    "name": "mcGammler",
    "firstSeen": "2026-10-17T17:31:12Z",
-   "lastSeen": "2026-10-17T19:48:45Z",
-   "playTicks": 111355,
+   "lastSeen": "2026-10-24T19:45:41Z",
+   "playTicks": 111566,
    "deaths": 1,
    "mobKills": 4,
    "playerKills": 0,
@@ -1776,9 +1776,9 @@
    "adv": {
     "count": 10,
     "byTab": {
-     "adventure": 2,
+     "story": 6,
      "husbandry": 2,
-     "story": 6
+     "adventure": 2
     },
     "recent": [
      [
