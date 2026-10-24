@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-24T15:34:35Z",
+ "updated": "2026-10-24T15:39:23Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 16706849,
+ "serverTicks": 16712849,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T15:33:51Z",
-   "playTicks": 7517329,
+   "lastSeen": "2026-10-24T15:38:51Z",
+   "playTicks": 7523329,
    "deaths": 0,
-   "mobKills": 4357,
+   "mobKills": 4366,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 580894,
-   "damageTaken": 86367,
-   "distanceCm": 117551428,
-   "walkCm": 31318286,
-   "flyCm": 41534419,
-   "jumps": 161535,
+   "damageDealt": 582270,
+   "damageTaken": 86550,
+   "distanceCm": 117683973,
+   "walkCm": 31371272,
+   "flyCm": 41602886,
+   "jumps": 161873,
    "mined": 85240,
    "topMined": [
     [
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T15:33:51Z",
-   "playTicks": 6151211,
+   "lastSeen": "2026-10-24T15:38:51Z",
+   "playTicks": 6157211,
    "deaths": 2,
    "mobKills": 3328,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 404781,
-   "damageTaken": 19128,
-   "distanceCm": 61396003,
-   "walkCm": 27009855,
-   "flyCm": 20429271,
-   "jumps": 61240,
-   "mined": 104173,
+   "damageTaken": 19141,
+   "distanceCm": 61448004,
+   "walkCm": 27042815,
+   "flyCm": 20446101,
+   "jumps": 61306,
+   "mined": 104174,
    "topMined": [
     [
      "netherrack",
@@ -226,19 +226,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T15:33:51Z",
-   "playTicks": 5357038,
+   "lastSeen": "2026-10-24T15:38:51Z",
+   "playTicks": 5363038,
    "deaths": 0,
    "mobKills": 5875,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 447242,
-   "damageTaken": 81608,
-   "distanceCm": 60152762,
-   "walkCm": 17947899,
-   "flyCm": 24111913,
-   "jumps": 90755,
-   "mined": 81189,
+   "damageTaken": 81648,
+   "distanceCm": 60192148,
+   "walkCm": 17960587,
+   "flyCm": 24127908,
+   "jumps": 90810,
+   "mined": 81191,
    "topMined": [
     [
      "netherrack",
@@ -253,11 +253,11 @@
      4668
     ]
    ],
-   "crafted": 89658,
+   "crafted": 89782,
    "topCrafted": [
     [
      "stick",
-     20763
+     20767
     ],
     [
      "iron_ingot",
@@ -580,6 +580,120 @@
    }
   },
   {
+   "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
+   "name": "Ogerxy",
+   "firstSeen": "2026-10-11T15:50:26Z",
+   "lastSeen": "2026-10-24T15:38:51Z",
+   "playTicks": 3949510,
+   "deaths": 2,
+   "mobKills": 1514,
+   "playerKills": 0,
+   "killedByPlayers": 1,
+   "damageDealt": 134049,
+   "damageTaken": 37781,
+   "distanceCm": 38531242,
+   "walkCm": 16176300,
+   "flyCm": 13615382,
+   "jumps": 69002,
+   "mined": 108278,
+   "topMined": [
+    [
+     "netherrack",
+     50778
+    ],
+    [
+     "stone",
+     28898
+    ],
+    [
+     "waxed_copper_block",
+     3152
+    ]
+   ],
+   "crafted": 21933,
+   "topCrafted": [
+    [
+     "stick",
+     6287
+    ],
+    [
+     "spruce_planks",
+     3596
+    ],
+    [
+     "emerald",
+     2429
+    ]
+   ],
+   "topKilled": [
+    [
+     "guardian",
+     495
+    ],
+    [
+     "skeleton",
+     160
+    ],
+    [
+     "zombie",
+     140
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "player",
+     1
+    ],
+    [
+     "creeper",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 45,
+    "byTab": {
+     "story": 13,
+     "adventure": 12,
+     "husbandry": 4,
+     "nether": 16
+    },
+    "recent": [
+     [
+      "nether/create_beacon",
+      "2026-10-18T16:00:07Z"
+     ],
+     [
+      "nether/create_full_beacon",
+      "2026-10-18T16:00:07Z"
+     ],
+     [
+      "nether/summon_wither",
+      "2026-10-18T15:55:51Z"
+     ],
+     [
+      "nether/get_wither_skull",
+      "2026-10-18T15:29:49Z"
+     ],
+     [
+      "nether/netherite_armor",
+      "2026-10-18T13:36:17Z"
+     ],
+     [
+      "nether/fast_travel",
+      "2026-10-18T13:08:33Z"
+     ],
+     [
+      "nether/obtain_crying_obsidian",
+      "2026-10-18T12:24:19Z"
+     ],
+     [
+      "nether/explore_nether",
+      "2026-10-18T12:21:23Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
@@ -685,120 +799,6 @@
      [
       "nether/loot_bastion",
       "2026-10-17T02:36:44Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
-   "name": "Ogerxy",
-   "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-24T15:33:51Z",
-   "playTicks": 3943510,
-   "deaths": 2,
-   "mobKills": 1514,
-   "playerKills": 0,
-   "killedByPlayers": 1,
-   "damageDealt": 134049,
-   "damageTaken": 37777,
-   "distanceCm": 38509759,
-   "walkCm": 16171825,
-   "flyCm": 13605750,
-   "jumps": 68960,
-   "mined": 108278,
-   "topMined": [
-    [
-     "netherrack",
-     50778
-    ],
-    [
-     "stone",
-     28898
-    ],
-    [
-     "waxed_copper_block",
-     3152
-    ]
-   ],
-   "crafted": 21933,
-   "topCrafted": [
-    [
-     "stick",
-     6287
-    ],
-    [
-     "spruce_planks",
-     3596
-    ],
-    [
-     "emerald",
-     2429
-    ]
-   ],
-   "topKilled": [
-    [
-     "guardian",
-     495
-    ],
-    [
-     "skeleton",
-     160
-    ],
-    [
-     "zombie",
-     140
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "player",
-     1
-    ],
-    [
-     "creeper",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 45,
-    "byTab": {
-     "story": 13,
-     "adventure": 12,
-     "husbandry": 4,
-     "nether": 16
-    },
-    "recent": [
-     [
-      "nether/create_beacon",
-      "2026-10-18T16:00:07Z"
-     ],
-     [
-      "nether/create_full_beacon",
-      "2026-10-18T16:00:07Z"
-     ],
-     [
-      "nether/summon_wither",
-      "2026-10-18T15:55:51Z"
-     ],
-     [
-      "nether/get_wither_skull",
-      "2026-10-18T15:29:49Z"
-     ],
-     [
-      "nether/netherite_armor",
-      "2026-10-18T13:36:17Z"
-     ],
-     [
-      "nether/fast_travel",
-      "2026-10-18T13:08:33Z"
-     ],
-     [
-      "nether/obtain_crying_obsidian",
-      "2026-10-18T12:24:19Z"
-     ],
-     [
-      "nether/explore_nether",
-      "2026-10-18T12:21:23Z"
      ]
     ]
    }
