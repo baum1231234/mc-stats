@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-24T20:02:02Z",
+ "updated": "2026-10-24T20:07:15Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 17024410,
+ "serverTicks": 17030410,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T20:02:01Z",
-   "playTicks": 7801217,
+   "lastSeen": "2026-10-24T20:07:01Z",
+   "playTicks": 7807217,
    "deaths": 0,
-   "mobKills": 4822,
+   "mobKills": 4843,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 614407,
-   "damageTaken": 92866,
-   "distanceCm": 121153114,
-   "walkCm": 32284445,
-   "flyCm": 42739125,
-   "jumps": 168125,
-   "mined": 86676,
+   "damageDealt": 615818,
+   "damageTaken": 93215,
+   "distanceCm": 121200597,
+   "walkCm": 32305453,
+   "flyCm": 42754454,
+   "jumps": 168208,
+   "mined": 86681,
    "topMined": [
     [
      "netherrack",
@@ -34,7 +34,7 @@
      6468
     ]
    ],
-   "crafted": 103601,
+   "crafted": 103610,
    "topCrafted": [
     [
      "stick",
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T20:02:01Z",
-   "playTicks": 6466372,
+   "lastSeen": "2026-10-24T20:07:01Z",
+   "playTicks": 6472372,
    "deaths": 2,
-   "mobKills": 4107,
+   "mobKills": 4119,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 462776,
-   "damageTaken": 22027,
-   "distanceCm": 64594529,
-   "walkCm": 28174347,
-   "flyCm": 21466726,
-   "jumps": 64675,
-   "mined": 104807,
+   "damageDealt": 463686,
+   "damageTaken": 22193,
+   "distanceCm": 64639842,
+   "walkCm": 28200885,
+   "flyCm": 21478156,
+   "jumps": 64735,
+   "mined": 104816,
    "topMined": [
     [
      "netherrack",
@@ -917,19 +917,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-24T20:02:02Z",
-   "playTicks": 2815905,
+   "lastSeen": "2026-10-24T20:07:02Z",
+   "playTicks": 2821905,
    "deaths": 4,
-   "mobKills": 5646,
+   "mobKills": 5658,
    "playerKills": 1,
    "killedByPlayers": 2,
-   "damageDealt": 164392,
-   "damageTaken": 25366,
-   "distanceCm": 30010591,
-   "walkCm": 13008650,
-   "flyCm": 8492891,
-   "jumps": 42123,
-   "mined": 57433,
+   "damageDealt": 166017,
+   "damageTaken": 25626,
+   "distanceCm": 30047436,
+   "walkCm": 13038299,
+   "flyCm": 8496365,
+   "jumps": 42151,
+   "mined": 57442,
    "topMined": [
     [
      "netherrack",
@@ -944,7 +944,7 @@
      5129
     ]
    ],
-   "crafted": 79736,
+   "crafted": 79780,
    "topCrafted": [
     [
      "stick",
@@ -984,14 +984,18 @@
     ]
    ],
    "adv": {
-    "count": 42,
+    "count": 43,
     "byTab": {
      "story": 12,
      "husbandry": 5,
-     "adventure": 12,
+     "adventure": 13,
      "nether": 13
     },
     "recent": [
+     [
+      "adventure/who_needs_rockets",
+      "2026-10-24T20:04:20Z"
+     ],
      [
       "adventure/revaulting",
       "2026-10-24T19:53:19Z"
@@ -1019,10 +1023,6 @@
      [
       "nether/get_wither_skull",
       "2026-10-23T10:32:36Z"
-     ],
-     [
-      "nether/create_beacon",
-      "2026-10-23T10:30:47Z"
      ]
     ]
    }
@@ -1606,19 +1606,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-24T20:02:01Z",
-   "playTicks": 492141,
+   "lastSeen": "2026-10-24T20:07:01Z",
+   "playTicks": 498141,
    "deaths": 0,
-   "mobKills": 70,
+   "mobKills": 77,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 12255,
-   "damageTaken": 5270,
-   "distanceCm": 4090242,
-   "walkCm": 2339624,
-   "flyCm": 800689,
-   "jumps": 6134,
-   "mined": 4111,
+   "damageDealt": 12981,
+   "damageTaken": 5388,
+   "distanceCm": 4131683,
+   "walkCm": 2367663,
+   "flyCm": 805516,
+   "jumps": 6157,
+   "mined": 4113,
    "topMined": [
     [
      "stone",
@@ -1655,7 +1655,7 @@
     ],
     [
      "cave_spider",
-     12
+     16
     ],
     [
      "zombie",
@@ -1711,19 +1711,19 @@
    "uuid": "33ea52e3-86de-4e6b-9526-ef4483a31005",
    "name": "mcGammler",
    "firstSeen": "2026-10-17T17:31:12Z",
-   "lastSeen": "2026-10-24T20:02:01Z",
-   "playTicks": 131171,
+   "lastSeen": "2026-10-24T20:07:01Z",
+   "playTicks": 137171,
    "deaths": 1,
    "mobKills": 4,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 724,
-   "damageTaken": 1489,
-   "distanceCm": 1614580,
-   "walkCm": 700993,
-   "flyCm": 549783,
-   "jumps": 2926,
-   "mined": 873,
+   "damageTaken": 1559,
+   "distanceCm": 1639984,
+   "walkCm": 723436,
+   "flyCm": 551719,
+   "jumps": 2959,
+   "mined": 879,
    "topMined": [
     [
      "grass_block",
@@ -1738,7 +1738,7 @@
      104
     ]
    ],
-   "crafted": 781,
+   "crafted": 839,
    "topCrafted": [
     [
      "spruce_planks",
