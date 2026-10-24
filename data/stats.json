@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-24T19:32:24Z",
+ "updated": "2026-10-24T19:37:36Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 16988410,
+ "serverTicks": 16994410,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T19:32:01Z",
-   "playTicks": 7765217,
+   "lastSeen": "2026-10-24T19:37:01Z",
+   "playTicks": 7771217,
    "deaths": 0,
    "mobKills": 4817,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 613024,
-   "damageTaken": 92458,
-   "distanceCm": 120452600,
-   "walkCm": 32171353,
-   "flyCm": 42520720,
-   "jumps": 167246,
-   "mined": 86580,
+   "damageTaken": 92559,
+   "distanceCm": 120609658,
+   "walkCm": 32190464,
+   "flyCm": 42591413,
+   "jumps": 167477,
+   "mined": 86612,
    "topMined": [
     [
      "netherrack",
@@ -31,7 +31,7 @@
     ],
     [
      "stone",
-     6431
+     6451
     ]
    ],
    "crafted": 103597,
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T19:32:01Z",
-   "playTicks": 6430372,
+   "lastSeen": "2026-10-24T19:37:01Z",
+   "playTicks": 6436372,
    "deaths": 2,
-   "mobKills": 4095,
+   "mobKills": 4096,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 460626,
-   "damageTaken": 21876,
-   "distanceCm": 63926268,
-   "walkCm": 27984800,
-   "flyCm": 21232802,
-   "jumps": 64111,
-   "mined": 104755,
+   "damageDealt": 460826,
+   "damageTaken": 21892,
+   "distanceCm": 64060741,
+   "walkCm": 28021571,
+   "flyCm": 21297029,
+   "jumps": 64261,
+   "mined": 104766,
    "topMined": [
     [
      "netherrack",
@@ -132,11 +132,11 @@
     ],
     [
      "grass_block",
-     12896
+     12900
     ],
     [
      "dirt",
-     9648
+     9650
     ]
    ],
    "crafted": 57121,
@@ -165,7 +165,7 @@
     ],
     [
      "skeleton",
-     377
+     378
     ]
    ],
    "topKilledBy": [
@@ -917,19 +917,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-24T19:32:01Z",
-   "playTicks": 2781314,
+   "lastSeen": "2026-10-24T19:37:01Z",
+   "playTicks": 2787314,
    "deaths": 4,
-   "mobKills": 5489,
+   "mobKills": 5519,
    "playerKills": 1,
    "killedByPlayers": 2,
-   "damageDealt": 145477,
-   "damageTaken": 24171,
-   "distanceCm": 29724369,
-   "walkCm": 12806378,
-   "flyCm": 8444448,
-   "jumps": 41780,
-   "mined": 57394,
+   "damageDealt": 149324,
+   "damageTaken": 24444,
+   "distanceCm": 29790224,
+   "walkCm": 12854469,
+   "flyCm": 8453881,
+   "jumps": 41865,
+   "mined": 57405,
    "topMined": [
     [
      "netherrack",
@@ -1606,19 +1606,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-24T19:32:02Z",
-   "playTicks": 456141,
+   "lastSeen": "2026-10-24T19:37:02Z",
+   "playTicks": 462141,
    "deaths": 0,
-   "mobKills": 35,
+   "mobKills": 40,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 6494,
-   "damageTaken": 4318,
-   "distanceCm": 3757956,
-   "walkCm": 2098828,
-   "flyCm": 756947,
-   "jumps": 5845,
-   "mined": 4100,
+   "damageDealt": 7492,
+   "damageTaken": 4627,
+   "distanceCm": 3822726,
+   "walkCm": 2148865,
+   "flyCm": 764376,
+   "jumps": 5882,
+   "mined": 4101,
    "topMined": [
     [
      "stone",
@@ -1658,8 +1658,8 @@
      10
     ],
     [
-     "pillager",
-     3
+     "bogged",
+     7
     ]
    ],
    "topKilledBy": [],
