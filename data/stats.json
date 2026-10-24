@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T21:51:17Z",
+ "updated": "2026-10-24T21:53:06Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 17150410,
+ "serverTicks": 17156410,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T21:47:01Z",
-   "playTicks": 6591173,
+   "lastSeen": "2026-10-24T21:52:01Z",
+   "playTicks": 6597173,
    "deaths": 2,
    "mobKills": 4287,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 479262,
-   "damageTaken": 23103,
-   "distanceCm": 67531803,
-   "walkCm": 28624237,
-   "flyCm": 23024826,
-   "jumps": 66431,
-   "mined": 105244,
+   "damageTaken": 23104,
+   "distanceCm": 67581031,
+   "walkCm": 28647998,
+   "flyCm": 23046309,
+   "jumps": 66485,
+   "mined": 105330,
    "topMined": [
     [
      "netherrack",
@@ -139,7 +139,7 @@
      9652
     ]
    ],
-   "crafted": 57126,
+   "crafted": 57762,
    "topCrafted": [
     [
      "spruce_planks",
@@ -147,7 +147,7 @@
     ],
     [
      "bamboo_planks",
-     6574
+     7046
     ],
     [
      "dark_oak_planks",
