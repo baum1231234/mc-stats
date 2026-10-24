@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-24T19:01:04Z",
+ "updated": "2026-10-24T19:03:09Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 16950690,
+ "serverTicks": 16952410,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T19:00:35Z",
-   "playTicks": 7727497,
+   "lastSeen": "2026-10-24T19:02:01Z",
+   "playTicks": 7729217,
    "deaths": 0,
    "mobKills": 4731,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 602494,
-   "damageTaken": 91294,
-   "distanceCm": 120154838,
-   "walkCm": 32064762,
-   "flyCm": 42397150,
-   "jumps": 166312,
-   "mined": 86268,
+   "damageTaken": 91330,
+   "distanceCm": 120216758,
+   "walkCm": 32067972,
+   "flyCm": 42444959,
+   "jumps": 166342,
+   "mined": 86351,
    "topMined": [
     [
      "netherrack",
@@ -31,7 +31,7 @@
     ],
     [
      "stone",
-     6253
+     6321
     ]
    ],
    "crafted": 103597,
@@ -112,18 +112,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T19:00:35Z",
-   "playTicks": 6392652,
+   "lastSeen": "2026-10-24T19:02:01Z",
+   "playTicks": 6394372,
    "deaths": 2,
    "mobKills": 3983,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 452388,
-   "damageTaken": 21445,
-   "distanceCm": 63595077,
-   "walkCm": 27814783,
-   "flyCm": 21127263,
-   "jumps": 63697,
+   "damageTaken": 21471,
+   "distanceCm": 63681730,
+   "walkCm": 27822164,
+   "flyCm": 21190295,
+   "jumps": 63716,
    "mined": 104572,
    "topMined": [
     [
@@ -3842,9 +3842,17 @@
     "mtime": "2026-10-19T12:23:05Z",
     "rendered": "2026-10-24T19:01:04Z"
    },
+   "-7.9": {
+    "mtime": "2026-10-19T22:43:09Z",
+    "rendered": "2026-10-24T19:03:09Z"
+   },
    "-8.8": {
     "mtime": "2026-10-19T12:21:47Z",
     "rendered": "2026-10-19T12:40:38Z"
+   },
+   "10.-3": {
+    "mtime": "2026-10-17T17:29:29Z",
+    "rendered": "2026-10-24T19:03:09Z"
    }
   }
  }
