@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T08:51:11Z",
+ "updated": "2026-10-24T08:52:39Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 16481237,
  "players": [
@@ -112,18 +112,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T08:46:20Z",
-   "playTicks": 6056959,
+   "lastSeen": "2026-10-24T08:51:20Z",
+   "playTicks": 6062959,
    "deaths": 2,
-   "mobKills": 3323,
+   "mobKills": 3327,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 404011,
+   "damageDealt": 404591,
    "damageTaken": 19118,
-   "distanceCm": 60784427,
-   "walkCm": 26809355,
-   "flyCm": 20048716,
-   "jumps": 60679,
+   "distanceCm": 60807339,
+   "walkCm": 26819862,
+   "flyCm": 20059880,
+   "jumps": 60691,
    "mined": 104150,
    "topMined": [
     [
@@ -1157,19 +1157,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-24T08:46:20Z",
-   "playTicks": 2551723,
+   "lastSeen": "2026-10-24T08:51:20Z",
+   "playTicks": 2557723,
    "deaths": 4,
-   "mobKills": 4364,
+   "mobKills": 4367,
    "playerKills": 1,
    "killedByPlayers": 2,
-   "damageDealt": 130284,
-   "damageTaken": 21511,
-   "distanceCm": 27035944,
-   "walkCm": 11805752,
-   "flyCm": 7886104,
-   "jumps": 38923,
-   "mined": 50816,
+   "damageDealt": 130664,
+   "damageTaken": 21539,
+   "distanceCm": 27128168,
+   "walkCm": 11817111,
+   "flyCm": 7892686,
+   "jumps": 38969,
+   "mined": 51166,
    "topMined": [
     [
      "netherrack",
@@ -1206,7 +1206,7 @@
     ],
     [
      "zombie",
-     396
+     397
     ],
     [
      "skeleton",
