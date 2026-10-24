@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-24T18:51:06Z",
+ "updated": "2026-10-24T18:53:08Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 16934410,
+ "serverTicks": 16940410,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T18:47:01Z",
-   "playTicks": 7711217,
+   "lastSeen": "2026-10-24T18:52:01Z",
+   "playTicks": 7717217,
    "deaths": 0,
-   "mobKills": 4720,
+   "mobKills": 4730,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 600502,
-   "damageTaken": 90950,
-   "distanceCm": 120026449,
-   "walkCm": 32018189,
-   "flyCm": 42338940,
-   "jumps": 165966,
-   "mined": 86091,
+   "damageDealt": 602242,
+   "damageTaken": 91102,
+   "distanceCm": 120084332,
+   "walkCm": 32047844,
+   "flyCm": 42357663,
+   "jumps": 166105,
+   "mined": 86099,
    "topMined": [
     [
      "netherrack",
@@ -65,14 +65,18 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 57,
+    "count": 58,
     "byTab": {
      "story": 13,
-     "adventure": 18,
+     "adventure": 19,
      "husbandry": 11,
      "nether": 15
     },
     "recent": [
+     [
+      "adventure/lighten_up",
+      "2026-10-24T18:48:17Z"
+     ],
      [
       "adventure/blowback",
       "2026-10-18T16:19:23Z"
@@ -100,10 +104,6 @@
      [
       "nether/netherite_armor",
       "2026-10-18T13:47:13Z"
-     ],
-     [
-      "husbandry/place_dried_ghast_in_water",
-      "2026-10-17T21:17:39Z"
      ]
     ]
    }
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T18:47:01Z",
-   "playTicks": 6376372,
+   "lastSeen": "2026-10-24T18:52:01Z",
+   "playTicks": 6382372,
    "deaths": 2,
-   "mobKills": 3969,
+   "mobKills": 3980,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 450511,
-   "damageTaken": 21258,
-   "distanceCm": 63451185,
-   "walkCm": 27741671,
-   "flyCm": 21075746,
-   "jumps": 63470,
-   "mined": 104485,
+   "damageDealt": 451865,
+   "damageTaken": 21347,
+   "distanceCm": 63507583,
+   "walkCm": 27775795,
+   "flyCm": 21089150,
+   "jumps": 63550,
+   "mined": 104487,
    "topMined": [
     [
      "netherrack",
@@ -179,14 +179,22 @@
     ]
    ],
    "adv": {
-    "count": 44,
+    "count": 46,
     "byTab": {
-     "adventure": 11,
+     "adventure": 12,
      "story": 14,
-     "husbandry": 7,
+     "husbandry": 8,
      "nether": 12
     },
     "recent": [
+     [
+      "adventure/lighten_up",
+      "2026-10-24T18:48:33Z"
+     ],
+     [
+      "husbandry/wax_off",
+      "2026-10-24T18:48:33Z"
+     ],
      [
       "husbandry/plant_any_sniffer_seed",
       "2026-10-19T22:50:42Z"
@@ -210,14 +218,6 @@
      [
       "nether/find_bastion",
       "2026-10-18T18:11:24Z"
-     ],
-     [
-      "nether/explore_nether",
-      "2026-10-18T17:20:32Z"
-     ],
-     [
-      "nether/get_wither_skull",
-      "2026-10-18T14:32:53Z"
      ]
     ]
    }
@@ -2384,8 +2384,8 @@
     "rendered": "2026-10-23T22:34:32Z"
    },
    "1.-2": {
-    "mtime": "2026-10-24T15:50:36Z",
-    "rendered": "2026-10-24T15:52:19Z"
+    "mtime": "2026-10-24T18:09:48Z",
+    "rendered": "2026-10-24T18:53:08Z"
    },
    "0.1": {
     "mtime": "2026-10-24T09:46:07Z",
@@ -3763,6 +3763,19 @@
    "6.-7": {
     "mtime": "2026-10-17T17:31:40Z",
     "rendered": "2026-10-24T18:49:11Z"
+   },
+   "7.-6": {
+    "mtime": "2026-10-21T01:17:16Z",
+    "rendered": "2026-10-24T18:53:08Z",
+    "empty": true
+   },
+   "9.-4": {
+    "mtime": "2026-10-17T19:52:06Z",
+    "rendered": "2026-10-24T18:53:08Z"
+   },
+   "8.-5": {
+    "mtime": "2026-10-21T01:17:16Z",
+    "rendered": "2026-10-24T18:53:08Z"
    },
    "3.8": {
     "mtime": "2026-10-24T01:16:48Z",
