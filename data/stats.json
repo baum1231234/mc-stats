@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T10:15:19Z",
+ "updated": "2026-10-24T10:16:51Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 16581412,
+ "serverTicks": 16583237,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1039,19 +1039,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-24T10:14:49Z",
-   "playTicks": 2657898,
+   "lastSeen": "2026-10-24T10:16:20Z",
+   "playTicks": 2659723,
    "deaths": 4,
    "mobKills": 4974,
    "playerKills": 1,
    "killedByPlayers": 2,
    "damageDealt": 138405,
    "damageTaken": 22682,
-   "distanceCm": 28398554,
-   "walkCm": 12215847,
-   "flyCm": 8179686,
-   "jumps": 40311,
-   "mined": 53350,
+   "distanceCm": 28438499,
+   "walkCm": 12220018,
+   "flyCm": 8183227,
+   "jumps": 40319,
+   "mined": 53371,
    "topMined": [
     [
      "netherrack",
@@ -1376,18 +1376,18 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-24T10:14:49Z",
-   "playTicks": 1458993,
+   "lastSeen": "2026-10-24T10:16:20Z",
+   "playTicks": 1460818,
    "deaths": 28,
    "mobKills": 283,
    "playerKills": 0,
    "killedByPlayers": 3,
    "damageDealt": 20740,
-   "damageTaken": 16277,
-   "distanceCm": 13311531,
-   "walkCm": 7079495,
-   "flyCm": 3561408,
-   "jumps": 20323,
+   "damageTaken": 16294,
+   "distanceCm": 13328883,
+   "walkCm": 7087485,
+   "flyCm": 3563613,
+   "jumps": 20337,
    "mined": 11886,
    "topMined": [
     [
@@ -1606,19 +1606,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-24T10:14:49Z",
-   "playTicks": 325513,
+   "lastSeen": "2026-10-24T10:16:20Z",
+   "playTicks": 327338,
    "deaths": 0,
    "mobKills": 18,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 3537,
    "damageTaken": 3202,
-   "distanceCm": 2945982,
-   "walkCm": 1569576,
-   "flyCm": 691067,
-   "jumps": 4970,
-   "mined": 2999,
+   "distanceCm": 2949219,
+   "walkCm": 1572516,
+   "flyCm": 691364,
+   "jumps": 4971,
+   "mined": 3000,
    "topMined": [
     [
      "stone",
@@ -1633,11 +1633,11 @@
      410
     ]
    ],
-   "crafted": 1679,
+   "crafted": 1763,
    "topCrafted": [
     [
      "iron_nugget",
-     630
+     666
     ],
     [
      "stick",
