@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T20:23:20Z",
+ "updated": "2026-10-24T20:26:53Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 17048410,
+ "serverTicks": 17054410,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T20:22:01Z",
-   "playTicks": 6490372,
+   "lastSeen": "2026-10-24T20:27:01Z",
+   "playTicks": 6496372,
    "deaths": 2,
    "mobKills": 4125,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 464875,
    "damageTaken": 22303,
-   "distanceCm": 64864853,
-   "walkCm": 28258935,
-   "flyCm": 21537002,
-   "jumps": 65036,
-   "mined": 104874,
+   "distanceCm": 64888442,
+   "walkCm": 28274841,
+   "flyCm": 21544685,
+   "jumps": 65117,
+   "mined": 104876,
    "topMined": [
     [
      "netherrack",
@@ -139,7 +139,7 @@
      9650
     ]
    ],
-   "crafted": 57121,
+   "crafted": 57125,
    "topCrafted": [
     [
      "spruce_planks",
@@ -1606,23 +1606,23 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-24T20:22:02Z",
-   "playTicks": 516141,
+   "lastSeen": "2026-10-24T20:27:02Z",
+   "playTicks": 522141,
    "deaths": 1,
    "mobKills": 81,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 13874,
-   "damageTaken": 5877,
-   "distanceCm": 4242318,
-   "walkCm": 2438861,
-   "flyCm": 815503,
-   "jumps": 6304,
-   "mined": 4136,
+   "damageDealt": 13935,
+   "damageTaken": 5921,
+   "distanceCm": 4288402,
+   "walkCm": 2456138,
+   "flyCm": 818909,
+   "jumps": 6398,
+   "mined": 4164,
    "topMined": [
     [
      "stone",
-     1276
+     1291
     ],
     [
      "spruce_log",
@@ -1633,7 +1633,7 @@
      464
     ]
    ],
-   "crafted": 2183,
+   "crafted": 2243,
    "topCrafted": [
     [
      "iron_nugget",
@@ -1669,14 +1669,18 @@
     ]
    ],
    "adv": {
-    "count": 21,
+    "count": 22,
     "byTab": {
      "story": 10,
      "husbandry": 2,
-     "adventure": 8,
+     "adventure": 9,
      "nether": 1
     },
     "recent": [
+     [
+      "adventure/who_needs_rockets",
+      "2026-10-24T20:23:08Z"
+     ],
      [
       "adventure/revaulting",
       "2026-10-24T19:53:08Z"
@@ -1704,10 +1708,6 @@
      [
       "story/shiny_gear",
       "2026-10-24T08:53:36Z"
-     ],
-     [
-      "story/lava_bucket",
-      "2026-10-24T07:40:14Z"
      ]
     ]
    }
@@ -1716,23 +1716,23 @@
    "uuid": "33ea52e3-86de-4e6b-9526-ef4483a31005",
    "name": "mcGammler",
    "firstSeen": "2026-10-17T17:31:12Z",
-   "lastSeen": "2026-10-24T20:22:02Z",
-   "playTicks": 154135,
+   "lastSeen": "2026-10-24T20:27:02Z",
+   "playTicks": 160135,
    "deaths": 9,
    "mobKills": 9,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 1763,
-   "damageTaken": 3766,
-   "distanceCm": 1710925,
-   "walkCm": 779638,
-   "flyCm": 560521,
-   "jumps": 3115,
-   "mined": 897,
+   "damageDealt": 1765,
+   "damageTaken": 4149,
+   "distanceCm": 1739870,
+   "walkCm": 793652,
+   "flyCm": 564662,
+   "jumps": 3144,
+   "mined": 917,
    "topMined": [
     [
      "grass_block",
-     188
+     206
     ],
     [
      "stone",
@@ -1743,19 +1743,19 @@
      115
     ]
    ],
-   "crafted": 1139,
+   "crafted": 1294,
    "topCrafted": [
     [
      "spruce_planks",
-     336
+     463
     ],
     [
      "spruce_slab",
      162
     ],
     [
-     "oak_planks",
-     108
+     "spruce_stairs",
+     124
     ]
    ],
    "topKilled": [
@@ -1787,13 +1787,17 @@
     ]
    ],
    "adv": {
-    "count": 11,
+    "count": 12,
     "byTab": {
      "story": 6,
      "husbandry": 2,
-     "adventure": 3
+     "adventure": 4
     },
     "recent": [
+     [
+      "adventure/totem_of_undying",
+      "2026-10-24T20:24:12Z"
+     ],
      [
       "adventure/shoot_arrow",
       "2026-10-24T20:12:56Z"
@@ -1821,10 +1825,6 @@
      [
       "story/iron_tools",
       "2026-10-17T17:49:31Z"
-     ],
-     [
-      "story/smelt_iron",
-      "2026-10-17T17:45:58Z"
      ]
     ]
    }
