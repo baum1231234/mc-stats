@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T10:26:57Z",
+ "updated": "2026-10-24T10:29:51Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 16595237,
+ "serverTicks": 16599406,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1039,19 +1039,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-24T10:26:20Z",
-   "playTicks": 2671723,
+   "lastSeen": "2026-10-24T10:29:48Z",
+   "playTicks": 2675892,
    "deaths": 4,
-   "mobKills": 5290,
+   "mobKills": 5452,
    "playerKills": 1,
    "killedByPlayers": 2,
    "damageDealt": 138405,
-   "damageTaken": 22686,
-   "distanceCm": 28518012,
-   "walkCm": 12259528,
-   "flyCm": 8208766,
-   "jumps": 40486,
-   "mined": 53390,
+   "damageTaken": 22712,
+   "distanceCm": 28574478,
+   "walkCm": 12274104,
+   "flyCm": 8226863,
+   "jumps": 40583,
+   "mined": 53391,
    "topMined": [
     [
      "netherrack",
@@ -1066,7 +1066,7 @@
      5129
     ]
    ],
-   "crafted": 79206,
+   "crafted": 79208,
    "topCrafted": [
     [
      "stick",
@@ -1084,7 +1084,7 @@
    "topKilled": [
     [
      "silverfish",
-     3168
+     3299
     ],
     [
      "zombie",
@@ -1376,18 +1376,18 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-24T10:26:20Z",
-   "playTicks": 1472818,
+   "lastSeen": "2026-10-24T10:29:48Z",
+   "playTicks": 1476601,
    "deaths": 28,
    "mobKills": 283,
    "playerKills": 0,
    "killedByPlayers": 3,
    "damageDealt": 20740,
-   "damageTaken": 16294,
-   "distanceCm": 13384925,
-   "walkCm": 7125683,
-   "flyCm": 3570031,
-   "jumps": 20388,
+   "damageTaken": 16304,
+   "distanceCm": 13419283,
+   "walkCm": 7150228,
+   "flyCm": 3578544,
+   "jumps": 20425,
    "mined": 11952,
    "topMined": [
     [
@@ -1403,7 +1403,7 @@
      1831
     ]
    ],
-   "crafted": 18618,
+   "crafted": 18663,
    "topCrafted": [
     [
      "stick",
@@ -1606,23 +1606,23 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-24T10:26:20Z",
-   "playTicks": 339338,
+   "lastSeen": "2026-10-24T10:29:48Z",
+   "playTicks": 343507,
    "deaths": 0,
    "mobKills": 18,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 3537,
    "damageTaken": 3282,
-   "distanceCm": 3029135,
-   "walkCm": 1631212,
-   "flyCm": 703684,
-   "jumps": 5136,
-   "mined": 3071,
+   "distanceCm": 3042154,
+   "walkCm": 1643155,
+   "flyCm": 703711,
+   "jumps": 5154,
+   "mined": 3109,
    "topMined": [
     [
      "stone",
-     533
+     562
     ],
     [
      "dirt",
@@ -1633,18 +1633,18 @@
      410
     ]
    ],
-   "crafted": 1905,
+   "crafted": 2020,
    "topCrafted": [
     [
      "iron_nugget",
      666
     ],
     [
-     "deepslate_bricks",
-     168
+     "stick",
+     176
     ],
     [
-     "polished_deepslate",
+     "deepslate_bricks",
      168
     ]
    ],
