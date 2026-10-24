@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T11:27:28Z",
+ "updated": "2026-10-24T11:28:57Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 16667237,
  "players": [
@@ -1039,18 +1039,18 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-24T11:26:20Z",
-   "playTicks": 2743723,
+   "lastSeen": "2026-10-24T11:28:34Z",
+   "playTicks": 2746405,
    "deaths": 4,
    "mobKills": 5463,
    "playerKills": 1,
    "killedByPlayers": 2,
-   "damageDealt": 140481,
-   "damageTaken": 23725,
-   "distanceCm": 29278656,
-   "walkCm": 12620749,
-   "flyCm": 8351894,
-   "jumps": 41432,
+   "damageDealt": 140618,
+   "damageTaken": 23777,
+   "distanceCm": 29318979,
+   "walkCm": 12623550,
+   "flyCm": 8355853,
+   "jumps": 41439,
    "mined": 56396,
    "topMined": [
     [
@@ -1376,18 +1376,18 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-24T11:27:01Z",
-   "playTicks": 1504939,
+   "lastSeen": "2026-10-24T11:28:31Z",
+   "playTicks": 1506547,
    "deaths": 28,
-   "mobKills": 296,
+   "mobKills": 297,
    "playerKills": 0,
    "killedByPlayers": 3,
-   "damageDealt": 22289,
-   "damageTaken": 16722,
-   "distanceCm": 13678360,
-   "walkCm": 7237826,
-   "flyCm": 3612519,
-   "jumps": 20646,
+   "damageDealt": 22308,
+   "damageTaken": 16785,
+   "distanceCm": 13692829,
+   "walkCm": 7239070,
+   "flyCm": 3612708,
+   "jumps": 20647,
    "mined": 11986,
    "topMined": [
     [
@@ -1455,14 +1455,18 @@
     ]
    ],
    "adv": {
-    "count": 22,
+    "count": 23,
     "byTab": {
      "story": 12,
-     "adventure": 6,
+     "adventure": 7,
      "husbandry": 3,
      "nether": 1
     },
     "recent": [
+     [
+      "adventure/totem_of_undying",
+      "2026-10-24T11:27:13Z"
+     ],
      [
       "adventure/voluntary_exile",
       "2026-10-24T08:03:15Z"
@@ -1490,10 +1494,6 @@
      [
       "adventure/sleep_in_bed",
       "2026-10-11T17:48:16Z"
-     ],
-     [
-      "story/mine_diamond",
-      "2026-10-11T17:46:59Z"
      ]
     ]
    }
