@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T21:39:37Z",
+ "updated": "2026-10-24T21:42:31Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 17138410,
+ "serverTicks": 17144410,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T21:37:01Z",
-   "playTicks": 6579173,
+   "lastSeen": "2026-10-24T21:42:01Z",
+   "playTicks": 6585173,
    "deaths": 2,
-   "mobKills": 4281,
+   "mobKills": 4287,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 478491,
-   "damageTaken": 23049,
-   "distanceCm": 67033148,
-   "walkCm": 28574963,
-   "flyCm": 22578347,
-   "jumps": 66378,
-   "mined": 104921,
+   "damageDealt": 479262,
+   "damageTaken": 23102,
+   "distanceCm": 67131675,
+   "walkCm": 28622576,
+   "flyCm": 22626783,
+   "jumps": 66417,
+   "mined": 105244,
    "topMined": [
     [
      "netherrack",
@@ -132,7 +132,7 @@
     ],
     [
      "grass_block",
-     12902
+     12907
     ],
     [
      "dirt",
@@ -161,7 +161,7 @@
     ],
     [
      "zombie",
-     624
+     628
     ],
     [
      "skeleton",
@@ -2983,8 +2983,8 @@
     "rendered": "2026-10-24T20:43:04Z"
    },
    "2.5": {
-    "mtime": "2026-10-23T21:23:32Z",
-    "rendered": "2026-10-23T23:37:01Z"
+    "mtime": "2026-10-24T21:42:48Z",
+    "rendered": "2026-10-24T21:42:31Z"
    },
    "3.4": {
     "mtime": "2026-10-24T21:31:33Z",
@@ -3216,16 +3216,16 @@
     "rendered": "2026-10-23T23:38:41Z"
    },
    "3.5": {
-    "mtime": "2026-10-24T01:16:48Z",
-    "rendered": "2026-10-24T02:39:15Z"
+    "mtime": "2026-10-24T21:42:53Z",
+    "rendered": "2026-10-24T21:42:31Z"
    },
    "4.4": {
-    "mtime": "2026-10-22T17:43:01Z",
-    "rendered": "2026-10-22T20:34:09Z"
+    "mtime": "2026-10-24T21:42:56Z",
+    "rendered": "2026-10-24T21:42:31Z"
    },
    "5.3": {
-    "mtime": "2026-10-21T01:17:16Z",
-    "rendered": "2026-10-21T01:26:07Z"
+    "mtime": "2026-10-24T21:42:02Z",
+    "rendered": "2026-10-24T21:42:31Z"
    },
    "6.2": {
     "mtime": "2026-10-20T14:08:23Z",
