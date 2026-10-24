@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-24T20:43:04Z",
+ "updated": "2026-10-24T20:46:48Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 17072410,
+ "serverTicks": 17078410,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T20:42:02Z",
-   "playTicks": 7849217,
+   "lastSeen": "2026-10-24T20:45:51Z",
+   "playTicks": 7853798,
    "deaths": 0,
    "mobKills": 4853,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 616754,
-   "damageTaken": 93769,
-   "distanceCm": 121943848,
-   "walkCm": 32444110,
-   "flyCm": 43057602,
-   "jumps": 169536,
+   "damageTaken": 93835,
+   "distanceCm": 122090313,
+   "walkCm": 32452759,
+   "flyCm": 43094335,
+   "jumps": 169633,
    "mined": 86734,
    "topMined": [
     [
@@ -112,19 +112,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-24T20:42:02Z",
-   "playTicks": 6514372,
+   "lastSeen": "2026-10-24T20:47:02Z",
+   "playTicks": 6520372,
    "deaths": 2,
    "mobKills": 4126,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 465871,
-   "damageTaken": 22419,
-   "distanceCm": 65328544,
-   "walkCm": 28356508,
-   "flyCm": 21704817,
-   "jumps": 65639,
-   "mined": 104905,
+   "damageTaken": 22430,
+   "distanceCm": 65461907,
+   "walkCm": 28368745,
+   "flyCm": 21744462,
+   "jumps": 65725,
+   "mined": 104907,
    "topMined": [
     [
      "netherrack",
@@ -917,19 +917,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-24T20:42:02Z",
-   "playTicks": 2863905,
+   "lastSeen": "2026-10-24T20:45:51Z",
+   "playTicks": 2868486,
    "deaths": 4,
-   "mobKills": 5669,
+   "mobKills": 5764,
    "playerKills": 1,
    "killedByPlayers": 2,
-   "damageDealt": 168319,
-   "damageTaken": 26047,
-   "distanceCm": 30611675,
-   "walkCm": 13201560,
-   "flyCm": 8613099,
-   "jumps": 42803,
-   "mined": 57674,
+   "damageDealt": 168399,
+   "damageTaken": 26087,
+   "distanceCm": 30715610,
+   "walkCm": 13212541,
+   "flyCm": 8645146,
+   "jumps": 42852,
+   "mined": 57677,
    "topMined": [
     [
      "netherrack",
@@ -944,7 +944,7 @@
      5129
     ]
    ],
-   "crafted": 80501,
+   "crafted": 80502,
    "topCrafted": [
     [
      "stick",
@@ -962,7 +962,7 @@
    "topKilled": [
     [
      "silverfish",
-     3311
+     3394
     ],
     [
      "zombie",
@@ -1606,18 +1606,18 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-24T20:42:02Z",
-   "playTicks": 540141,
+   "lastSeen": "2026-10-24T20:47:02Z",
+   "playTicks": 546141,
    "deaths": 1,
-   "mobKills": 329,
+   "mobKills": 690,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 13935,
+   "damageDealt": 13941,
    "damageTaken": 5956,
-   "distanceCm": 4402521,
-   "walkCm": 2525706,
-   "flyCm": 833412,
-   "jumps": 6539,
+   "distanceCm": 4411301,
+   "walkCm": 2534169,
+   "flyCm": 833729,
+   "jumps": 6547,
    "mined": 4169,
    "topMined": [
     [
@@ -1651,7 +1651,7 @@
    "topKilled": [
     [
      "silverfish",
-     131
+     337
     ],
     [
      "bogged",
@@ -1716,19 +1716,19 @@
    "uuid": "33ea52e3-86de-4e6b-9526-ef4483a31005",
    "name": "mcGammler",
    "firstSeen": "2026-10-17T17:31:12Z",
-   "lastSeen": "2026-10-24T20:42:02Z",
-   "playTicks": 178135,
+   "lastSeen": "2026-10-24T20:47:02Z",
+   "playTicks": 184135,
    "deaths": 9,
    "mobKills": 10,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 1965,
-   "damageTaken": 4199,
-   "distanceCm": 1815486,
-   "walkCm": 862524,
-   "flyCm": 569561,
-   "jumps": 3272,
-   "mined": 1004,
+   "damageTaken": 4219,
+   "distanceCm": 1836342,
+   "walkCm": 881184,
+   "flyCm": 571032,
+   "jumps": 3295,
+   "mined": 1017,
    "topMined": [
     [
      "grass_block",
@@ -1743,7 +1743,7 @@
      118
     ]
    ],
-   "crafted": 1663,
+   "crafted": 1667,
    "topCrafted": [
     [
      "spruce_planks",
@@ -3126,8 +3126,8 @@
     "rendered": "2026-10-24T20:00:09Z"
    },
    "-8.3": {
-    "mtime": "2026-10-19T12:14:30Z",
-    "rendered": "2026-10-19T15:13:30Z"
+    "mtime": "2026-10-24T20:47:23Z",
+    "rendered": "2026-10-24T20:46:48Z"
    },
    "-9.-2": {
     "mtime": "2026-10-24T16:34:15Z",
@@ -3310,8 +3310,8 @@
     "rendered": "2026-10-24T18:01:59Z"
    },
    "-7.3": {
-    "mtime": "2026-10-19T12:15:05Z",
-    "rendered": "2026-10-19T12:27:09Z"
+    "mtime": "2026-10-24T20:47:15Z",
+    "rendered": "2026-10-24T20:46:48Z"
    },
    "-8.4": {
     "mtime": "2026-10-19T14:33:37Z",
