@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-25T16:12:18Z",
+ "updated": "2026-10-25T16:14:12Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 17564550,
+ "serverTicks": 17570550,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-25T16:08:13Z",
-   "playTicks": 7925488,
+   "lastSeen": "2026-10-25T16:13:13Z",
+   "playTicks": 7931488,
    "deaths": 0,
-   "mobKills": 4892,
+   "mobKills": 4895,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 617533,
-   "damageTaken": 94841,
-   "distanceCm": 123712410,
-   "walkCm": 32613579,
-   "flyCm": 43637511,
-   "jumps": 170991,
+   "damageDealt": 618103,
+   "damageTaken": 94873,
+   "distanceCm": 123819401,
+   "walkCm": 32644474,
+   "flyCm": 43703459,
+   "jumps": 171270,
    "mined": 86999,
    "topMined": [
     [
@@ -34,7 +34,7 @@
      6486
     ]
    ],
-   "crafted": 104741,
+   "crafted": 105301,
    "topCrafted": [
     [
      "stick",
@@ -60,7 +60,7 @@
     ],
     [
      "zombie",
-     470
+     472
     ]
    ],
    "topKilledBy": [],
@@ -917,19 +917,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-24T21:14:35Z",
-   "playTicks": 2902970,
+   "lastSeen": "2026-10-25T16:13:13Z",
+   "playTicks": 2905641,
    "deaths": 4,
    "mobKills": 5765,
    "playerKills": 1,
    "killedByPlayers": 2,
    "damageDealt": 168853,
-   "damageTaken": 26440,
-   "distanceCm": 31270181,
-   "walkCm": 13342009,
-   "flyCm": 8760211,
-   "jumps": 43193,
-   "mined": 57688,
+   "damageTaken": 26452,
+   "distanceCm": 31336749,
+   "walkCm": 13349490,
+   "flyCm": 8771984,
+   "jumps": 43214,
+   "mined": 57704,
    "topMined": [
     [
      "netherrack",
@@ -1612,18 +1612,18 @@
    "uuid": "e0716f67-b0d0-4d15-b374-ed3a090ab96a",
    "name": "Bensen1405",
    "firstSeen": null,
-   "lastSeen": "2026-10-18T18:10:17Z",
-   "playTicks": 598760,
+   "lastSeen": "2026-10-25T16:13:13Z",
+   "playTicks": 603135,
    "deaths": 1,
    "mobKills": 65,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 9024,
    "damageTaken": 3971,
-   "distanceCm": 7811490,
-   "walkCm": 3762703,
-   "flyCm": 3041022,
-   "jumps": 12703,
+   "distanceCm": 7899006,
+   "walkCm": 3785195,
+   "flyCm": 3102708,
+   "jumps": 12880,
    "mined": 3300,
    "topMined": [
     [
@@ -2518,8 +2518,8 @@
     "rendered": "2026-10-24T15:28:10Z"
    },
    "0.-4": {
-    "mtime": "2026-10-23T15:16:49Z",
-    "rendered": "2026-10-23T16:33:40Z"
+    "mtime": "2026-10-25T16:11:36Z",
+    "rendered": "2026-10-25T16:14:12Z"
    },
    "1.-5": {
     "mtime": "2026-10-23T21:19:52Z",
@@ -2582,8 +2582,8 @@
     "rendered": "2026-10-25T00:32:03Z"
    },
    "3.2": {
-    "mtime": "2026-10-25T10:04:53Z",
-    "rendered": "2026-10-25T12:00:29Z"
+    "mtime": "2026-10-25T16:11:09Z",
+    "rendered": "2026-10-25T16:14:12Z"
    },
    "4.1": {
     "mtime": "2026-10-24T21:42:01Z",
