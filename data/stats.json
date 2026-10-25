@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-25T19:25:15Z",
+ "updated": "2026-10-25T19:27:00Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 17792550,
+ "serverTicks": 17798550,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -113,19 +113,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-25T19:21:18Z",
-   "playTicks": 6949390,
+   "lastSeen": "2026-10-25T19:26:17Z",
+   "playTicks": 6955390,
    "deaths": 2,
-   "mobKills": 4394,
+   "mobKills": 4402,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 495980,
-   "damageTaken": 24370,
-   "distanceCm": 70236004,
-   "walkCm": 30180843,
-   "flyCm": 23952637,
-   "jumps": 70244,
-   "mined": 106261,
+   "damageDealt": 498303,
+   "damageTaken": 24640,
+   "distanceCm": 70297713,
+   "walkCm": 30199183,
+   "flyCm": 23984565,
+   "jumps": 70377,
+   "mined": 106263,
    "topMined": [
     [
      "netherrack",
@@ -180,15 +180,19 @@
     ]
    ],
    "adv": {
-    "count": 53,
+    "count": 54,
     "byTab": {
      "adventure": 14,
      "story": 15,
      "husbandry": 9,
      "nether": 12,
-     "end": 3
+     "end": 4
     },
     "recent": [
+     [
+      "end/elytra",
+      "2026-10-25T19:24:08Z"
+     ],
      [
       "end/find_end_city",
       "2026-10-25T18:56:21Z"
@@ -216,10 +220,6 @@
      [
       "adventure/ol_betsy",
       "2026-10-24T18:52:18Z"
-     ],
-     [
-      "adventure/lighten_up",
-      "2026-10-24T18:48:33Z"
      ]
     ]
    }
@@ -228,19 +228,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-25T19:21:18Z",
-   "playTicks": 5599597,
+   "lastSeen": "2026-10-25T19:26:18Z",
+   "playTicks": 5605597,
    "deaths": 0,
    "mobKills": 6372,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 477057,
-   "damageTaken": 86123,
-   "distanceCm": 64113256,
-   "walkCm": 18573478,
-   "flyCm": 26966801,
-   "jumps": 93954,
-   "mined": 81770,
+   "damageTaken": 86125,
+   "distanceCm": 64185724,
+   "walkCm": 18576690,
+   "flyCm": 27033170,
+   "jumps": 93968,
+   "mined": 81790,
    "topMined": [
     [
      "netherrack",
@@ -248,14 +248,14 @@
     ],
     [
      "stone",
-     9176
+     9189
     ],
     [
      "snow_block",
      4668
     ]
    ],
-   "crafted": 94973,
+   "crafted": 95044,
    "topCrafted": [
     [
      "stick",
@@ -263,7 +263,7 @@
     ],
     [
      "iron_ingot",
-     19808
+     19862
     ],
     [
      "spruce_planks",
@@ -921,19 +921,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-25T19:21:18Z",
-   "playTicks": 3127069,
-   "deaths": 5,
-   "mobKills": 6526,
-   "playerKills": 1,
-   "killedByPlayers": 2,
-   "damageDealt": 178965,
-   "damageTaken": 30007,
-   "distanceCm": 35406925,
-   "walkCm": 14442614,
-   "flyCm": 10940585,
-   "jumps": 47230,
-   "mined": 61399,
+   "lastSeen": "2026-10-25T19:26:57Z",
+   "playTicks": 3133864,
+   "deaths": 7,
+   "mobKills": 6527,
+   "playerKills": 5,
+   "killedByPlayers": 3,
+   "damageDealt": 180067,
+   "damageTaken": 30588,
+   "distanceCm": 35426461,
+   "walkCm": 14458742,
+   "flyCm": 10942309,
+   "jumps": 47286,
+   "mined": 61407,
    "topMined": [
     [
      "netherrack",
@@ -980,7 +980,7 @@
    "topKilledBy": [
     [
      "player",
-     2
+     3
     ],
     [
      "skeleton",
@@ -1507,19 +1507,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-25T19:25:09Z",
-   "playTicks": 847921,
+   "lastSeen": "2026-10-25T19:26:47Z",
+   "playTicks": 849446,
    "deaths": 6,
    "mobKills": 1537,
    "playerKills": 1,
    "killedByPlayers": 5,
-   "damageDealt": 26731,
+   "damageDealt": 26734,
    "damageTaken": 11283,
-   "distanceCm": 8037429,
-   "walkCm": 3818069,
+   "distanceCm": 8042415,
+   "walkCm": 3823055,
    "flyCm": 2284840,
    "jumps": 11270,
-   "mined": 6818,
+   "mined": 6819,
    "topMined": [
     [
      "stone",
