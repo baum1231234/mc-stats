@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-25T08:59:57Z",
+ "updated": "2026-10-25T09:01:39Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 17183635,
+ "serverTicks": 17185297,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1499,6 +1499,116 @@
    }
   },
   {
+   "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
+   "name": "jojocrafter098",
+   "firstSeen": "2026-10-17T15:25:27Z",
+   "lastSeen": "2026-10-25T09:01:29Z",
+   "playTicks": 598856,
+   "deaths": 1,
+   "mobKills": 1124,
+   "playerKills": 0,
+   "killedByPlayers": 1,
+   "damageDealt": 15147,
+   "damageTaken": 6590,
+   "distanceCm": 4948671,
+   "walkCm": 2701429,
+   "flyCm": 972879,
+   "jumps": 7092,
+   "mined": 4976,
+   "topMined": [
+    [
+     "stone",
+     1299
+    ],
+    [
+     "sand",
+     1130
+    ],
+    [
+     "dirt",
+     478
+    ]
+   ],
+   "crafted": 3373,
+   "topCrafted": [
+    [
+     "iron_ingot",
+     774
+    ],
+    [
+     "iron_nugget",
+     666
+    ],
+    [
+     "wind_charge",
+     420
+    ]
+   ],
+   "topKilled": [
+    [
+     "silverfish",
+     731
+    ],
+    [
+     "bogged",
+     22
+    ],
+    [
+     "cave_spider",
+     16
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "player",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 23,
+    "byTab": {
+     "story": 10,
+     "husbandry": 2,
+     "adventure": 10,
+     "nether": 1
+    },
+    "recent": [
+     [
+      "adventure/trade",
+      "2026-10-24T20:33:43Z"
+     ],
+     [
+      "adventure/who_needs_rockets",
+      "2026-10-24T20:23:08Z"
+     ],
+     [
+      "adventure/revaulting",
+      "2026-10-24T19:53:08Z"
+     ],
+     [
+      "adventure/under_lock_and_key",
+      "2026-10-24T19:30:19Z"
+     ],
+     [
+      "adventure/minecraft_trials_edition",
+      "2026-10-24T19:26:05Z"
+     ],
+     [
+      "adventure/voluntary_exile",
+      "2026-10-24T11:14:09Z"
+     ],
+     [
+      "nether/root",
+      "2026-10-24T10:55:29Z"
+     ],
+     [
+      "story/enter_the_nether",
+      "2026-10-24T10:55:29Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "e0716f67-b0d0-4d15-b374-ed3a090ab96a",
    "name": "Bensen1405",
    "firstSeen": null,
@@ -1598,116 +1708,6 @@
      [
       "adventure/kill_a_mob",
       "2026-10-10T18:00:49Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
-   "name": "jojocrafter098",
-   "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-25T09:00:06Z",
-   "playTicks": 597194,
-   "deaths": 1,
-   "mobKills": 1124,
-   "playerKills": 0,
-   "killedByPlayers": 1,
-   "damageDealt": 15147,
-   "damageTaken": 6588,
-   "distanceCm": 4932542,
-   "walkCm": 2698746,
-   "flyCm": 972394,
-   "jumps": 7069,
-   "mined": 4973,
-   "topMined": [
-    [
-     "stone",
-     1299
-    ],
-    [
-     "sand",
-     1130
-    ],
-    [
-     "dirt",
-     475
-    ]
-   ],
-   "crafted": 3373,
-   "topCrafted": [
-    [
-     "iron_ingot",
-     774
-    ],
-    [
-     "iron_nugget",
-     666
-    ],
-    [
-     "wind_charge",
-     420
-    ]
-   ],
-   "topKilled": [
-    [
-     "silverfish",
-     731
-    ],
-    [
-     "bogged",
-     22
-    ],
-    [
-     "cave_spider",
-     16
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "player",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 23,
-    "byTab": {
-     "story": 10,
-     "husbandry": 2,
-     "adventure": 10,
-     "nether": 1
-    },
-    "recent": [
-     [
-      "adventure/trade",
-      "2026-10-24T20:33:43Z"
-     ],
-     [
-      "adventure/who_needs_rockets",
-      "2026-10-24T20:23:08Z"
-     ],
-     [
-      "adventure/revaulting",
-      "2026-10-24T19:53:08Z"
-     ],
-     [
-      "adventure/under_lock_and_key",
-      "2026-10-24T19:30:19Z"
-     ],
-     [
-      "adventure/minecraft_trials_edition",
-      "2026-10-24T19:26:05Z"
-     ],
-     [
-      "adventure/voluntary_exile",
-      "2026-10-24T11:14:09Z"
-     ],
-     [
-      "nether/root",
-      "2026-10-24T10:55:29Z"
-     ],
-     [
-      "story/enter_the_nether",
-      "2026-10-24T10:55:29Z"
      ]
     ]
    }
