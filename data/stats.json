@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-25T16:19:22Z",
+ "updated": "2026-10-25T16:24:18Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 17576550,
+ "serverTicks": 17582550,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-25T16:18:13Z",
-   "playTicks": 7937488,
+   "lastSeen": "2026-10-25T16:23:13Z",
+   "playTicks": 7943488,
    "deaths": 0,
    "mobKills": 4895,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 618103,
-   "damageTaken": 94901,
-   "distanceCm": 123905782,
-   "walkCm": 32671426,
-   "flyCm": 43750278,
-   "jumps": 171462,
+   "damageTaken": 94949,
+   "distanceCm": 124132672,
+   "walkCm": 32697118,
+   "flyCm": 43832828,
+   "jumps": 171714,
    "mined": 86999,
    "topMined": [
     [
@@ -34,7 +34,7 @@
      6486
     ]
    ],
-   "crafted": 105373,
+   "crafted": 105409,
    "topCrafted": [
     [
      "stick",
@@ -917,18 +917,18 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-25T16:18:13Z",
-   "playTicks": 2911641,
+   "lastSeen": "2026-10-25T16:23:13Z",
+   "playTicks": 2917641,
    "deaths": 4,
-   "mobKills": 5765,
+   "mobKills": 6305,
    "playerKills": 1,
    "killedByPlayers": 2,
    "damageDealt": 168855,
    "damageTaken": 26466,
-   "distanceCm": 31396414,
-   "walkCm": 13382199,
-   "flyCm": 8795147,
-   "jumps": 43330,
+   "distanceCm": 31406435,
+   "walkCm": 13391001,
+   "flyCm": 8796366,
+   "jumps": 43360,
    "mined": 57725,
    "topMined": [
     [
@@ -944,7 +944,7 @@
      5129
     ]
    ],
-   "crafted": 82095,
+   "crafted": 82616,
    "topCrafted": [
     [
      "stick",
@@ -956,13 +956,13 @@
     ],
     [
      "iron_ingot",
-     5714
+     6137
     ]
    ],
    "topKilled": [
     [
      "silverfish",
-     3394
+     3855
     ],
     [
      "zombie",
@@ -1612,19 +1612,19 @@
    "uuid": "e0716f67-b0d0-4d15-b374-ed3a090ab96a",
    "name": "Bensen1405",
    "firstSeen": null,
-   "lastSeen": "2026-10-25T16:18:13Z",
-   "playTicks": 609135,
+   "lastSeen": "2026-10-25T16:23:13Z",
+   "playTicks": 615135,
    "deaths": 1,
    "mobKills": 65,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 9024,
    "damageTaken": 3971,
-   "distanceCm": 7947537,
-   "walkCm": 3806585,
-   "flyCm": 3128724,
-   "jumps": 12966,
-   "mined": 3335,
+   "distanceCm": 8014670,
+   "walkCm": 3850675,
+   "flyCm": 3149967,
+   "jumps": 13048,
+   "mined": 3430,
    "topMined": [
     [
      "stone",
