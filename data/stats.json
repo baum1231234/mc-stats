@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T19:21:40Z",
+ "updated": "2026-10-25T19:25:15Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 17792550,
  "players": [
@@ -1507,19 +1507,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-25T19:21:18Z",
-   "playTicks": 843288,
-   "deaths": 2,
+   "lastSeen": "2026-10-25T19:25:09Z",
+   "playTicks": 847921,
+   "deaths": 6,
    "mobKills": 1537,
-   "playerKills": 0,
-   "killedByPlayers": 1,
-   "damageDealt": 26442,
-   "damageTaken": 10257,
-   "distanceCm": 8025097,
-   "walkCm": 3807490,
-   "flyCm": 2283812,
-   "jumps": 11217,
-   "mined": 6814,
+   "playerKills": 1,
+   "killedByPlayers": 5,
+   "damageDealt": 26731,
+   "damageTaken": 11283,
+   "distanceCm": 8037429,
+   "walkCm": 3818069,
+   "flyCm": 2284840,
+   "jumps": 11270,
+   "mined": 6818,
    "topMined": [
     [
      "stone",
@@ -1531,7 +1531,7 @@
     ],
     [
      "netherrack",
-     887
+     890
     ]
    ],
    "crafted": 4754,
@@ -1566,7 +1566,7 @@
    "topKilledBy": [
     [
      "player",
-     1
+     5
     ],
     [
      "shulker",
