@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T17:56:00Z",
+ "updated": "2026-10-25T17:57:50Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 17690550,
  "players": [
@@ -227,18 +227,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-25T17:54:55Z",
-   "playTicks": 5527232,
+   "lastSeen": "2026-10-25T17:56:31Z",
+   "playTicks": 5529159,
    "deaths": 0,
    "mobKills": 6265,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 471917,
-   "damageTaken": 84903,
-   "distanceCm": 62280922,
-   "walkCm": 18402246,
-   "flyCm": 25375615,
-   "jumps": 93396,
+   "damageTaken": 85035,
+   "distanceCm": 62332295,
+   "walkCm": 18411894,
+   "flyCm": 25414584,
+   "jumps": 93416,
    "mined": 81529,
    "topMined": [
     [
@@ -1506,19 +1506,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-25T17:54:55Z",
-   "playTicks": 766732,
+   "lastSeen": "2026-10-25T17:56:53Z",
+   "playTicks": 769098,
    "deaths": 1,
-   "mobKills": 1371,
+   "mobKills": 1372,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 22741,
+   "damageDealt": 23041,
    "damageTaken": 8395,
-   "distanceCm": 7241214,
-   "walkCm": 3431670,
-   "flyCm": 1958082,
-   "jumps": 10178,
-   "mined": 5859,
+   "distanceCm": 7251156,
+   "walkCm": 3440676,
+   "flyCm": 1959018,
+   "jumps": 10225,
+   "mined": 5861,
    "topMined": [
     [
      "stone",
@@ -1569,15 +1569,23 @@
     ]
    ],
    "adv": {
-    "count": 27,
+    "count": 29,
     "byTab": {
      "story": 11,
      "husbandry": 2,
      "adventure": 10,
-     "nether": 1,
-     "end": 3
+     "nether": 2,
+     "end": 4
     },
     "recent": [
+     [
+      "nether/brew_potion",
+      "2026-10-25T17:56:06Z"
+     ],
+     [
+      "end/elytra",
+      "2026-10-25T17:55:45Z"
+     ],
      [
       "end/find_end_city",
       "2026-10-25T17:30:40Z"
@@ -1601,14 +1609,6 @@
      [
       "adventure/who_needs_rockets",
       "2026-10-24T20:23:08Z"
-     ],
-     [
-      "adventure/revaulting",
-      "2026-10-24T19:53:08Z"
-     ],
-     [
-      "adventure/under_lock_and_key",
-      "2026-10-24T19:30:19Z"
      ]
     ]
    }
