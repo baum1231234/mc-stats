@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T18:32:28Z",
+ "updated": "2026-10-25T18:34:17Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 17735160,
  "players": [
@@ -8,16 +8,16 @@
    "name": "4rtjom",
    "firstSeen": null,
    "lastSeen": "2026-10-25T18:32:36Z",
-   "playTicks": 8093488,
+   "playTicks": 8096098,
    "deaths": 0,
    "mobKills": 4957,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 634175,
    "damageTaken": 97694,
-   "distanceCm": 127953945,
+   "distanceCm": 128347139,
    "walkCm": 33407405,
-   "flyCm": 46495171,
+   "flyCm": 46888365,
    "jumps": 177257,
    "mined": 87646,
    "topMined": [
@@ -920,19 +920,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-25T18:29:57Z",
-   "playTicks": 3067069,
+   "lastSeen": "2026-10-25T18:32:36Z",
+   "playTicks": 3069679,
    "deaths": 5,
-   "mobKills": 6518,
+   "mobKills": 6520,
    "playerKills": 1,
    "killedByPlayers": 2,
-   "damageDealt": 176994,
-   "damageTaken": 28692,
-   "distanceCm": 34560578,
-   "walkCm": 14050870,
-   "flyCm": 10516333,
-   "jumps": 46089,
-   "mined": 59386,
+   "damageDealt": 177591,
+   "damageTaken": 28870,
+   "distanceCm": 34670919,
+   "walkCm": 14062682,
+   "flyCm": 10613117,
+   "jumps": 46134,
+   "mined": 59407,
    "topMined": [
     [
      "netherrack",
@@ -969,7 +969,7 @@
     ],
     [
      "zombie",
-     427
+     429
     ],
     [
      "skeleton",
