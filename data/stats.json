@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-25T08:46:57Z",
+ "updated": "2026-10-25T08:50:19Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 17167250,
+ "serverTicks": 17171635,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1606,18 +1606,18 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-25T08:46:27Z",
-   "playTicks": 580809,
+   "lastSeen": "2026-10-25T08:50:06Z",
+   "playTicks": 585194,
    "deaths": 1,
    "mobKills": 1123,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 14957,
-   "damageTaken": 6349,
-   "distanceCm": 4786870,
-   "walkCm": 2656114,
-   "flyCm": 939160,
-   "jumps": 6969,
+   "damageTaken": 6351,
+   "distanceCm": 4805052,
+   "walkCm": 2667300,
+   "flyCm": 944789,
+   "jumps": 6998,
    "mined": 4971,
    "topMined": [
     [
@@ -1633,8 +1633,12 @@
      475
     ]
    ],
-   "crafted": 2868,
+   "crafted": 3295,
    "topCrafted": [
+    [
+     "iron_ingot",
+     711
+    ],
     [
      "iron_nugget",
      666
@@ -1642,10 +1646,6 @@
     [
      "wind_charge",
      420
-    ],
-    [
-     "iron_ingot",
-     378
     ]
    ],
    "topKilled": [
