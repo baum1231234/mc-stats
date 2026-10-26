@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-26T16:34:15Z",
+ "updated": "2026-10-26T16:36:14Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 18665638,
+ "serverTicks": 18667575,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-26T16:34:08Z",
-   "playTicks": 8207904,
+   "lastSeen": "2026-10-26T16:35:45Z",
+   "playTicks": 8209841,
    "deaths": 0,
    "mobKills": 4992,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 642269,
-   "damageTaken": 100199,
-   "distanceCm": 133013778,
-   "walkCm": 33674887,
-   "flyCm": 50978932,
-   "jumps": 178655,
+   "damageTaken": 100221,
+   "distanceCm": 133226082,
+   "walkCm": 33676222,
+   "flyCm": 51186643,
+   "jumps": 178661,
    "mined": 87748,
    "topMined": [
     [
@@ -113,19 +113,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-26T16:34:08Z",
-   "playTicks": 7315524,
+   "lastSeen": "2026-10-26T16:35:45Z",
+   "playTicks": 7317461,
    "deaths": 2,
    "mobKills": 4525,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 524975,
-   "damageTaken": 28009,
-   "distanceCm": 74425149,
-   "walkCm": 31354610,
-   "flyCm": 26878497,
-   "jumps": 72072,
-   "mined": 112442,
+   "damageTaken": 28019,
+   "distanceCm": 74446629,
+   "walkCm": 31364428,
+   "flyCm": 26888619,
+   "jumps": 72111,
+   "mined": 112479,
    "topMined": [
     [
      "netherrack",
@@ -137,7 +137,7 @@
     ],
     [
      "sand",
-     10594
+     10598
     ]
    ],
    "crafted": 58848,
@@ -1509,19 +1509,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-26T16:34:08Z",
-   "playTicks": 919157,
+   "lastSeen": "2026-10-26T16:35:45Z",
+   "playTicks": 921094,
    "deaths": 6,
    "mobKills": 1668,
    "playerKills": 1,
    "killedByPlayers": 5,
    "damageDealt": 27564,
-   "damageTaken": 12015,
-   "distanceCm": 10555733,
-   "walkCm": 3975442,
-   "flyCm": 4551850,
+   "damageTaken": 12027,
+   "distanceCm": 10571321,
+   "walkCm": 3977933,
+   "flyCm": 4563173,
    "jumps": 11709,
-   "mined": 6945,
+   "mined": 6946,
    "topMined": [
     [
      "stone",
@@ -1536,8 +1536,12 @@
      891
     ]
    ],
-   "crafted": 5222,
+   "crafted": 5990,
    "topCrafted": [
+    [
+     "firework_rocket",
+     927
+    ],
     [
      "iron_ingot",
      774
@@ -1545,10 +1549,6 @@
     [
      "iron_nugget",
      666
-    ],
-    [
-     "wind_charge",
-     516
     ]
    ],
    "topKilled": [
