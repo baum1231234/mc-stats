@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T16:00:28Z",
+ "updated": "2026-10-26T16:02:32Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 18625575,
  "players": [
@@ -113,19 +113,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-26T15:55:45Z",
-   "playTicks": 7269461,
+   "lastSeen": "2026-10-26T16:00:45Z",
+   "playTicks": 7275461,
    "deaths": 2,
    "mobKills": 4522,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 524473,
    "damageTaken": 27319,
-   "distanceCm": 73864520,
-   "walkCm": 30972569,
-   "flyCm": 26704793,
-   "jumps": 71752,
-   "mined": 108039,
+   "distanceCm": 73964120,
+   "walkCm": 31059011,
+   "flyCm": 26717731,
+   "jumps": 71799,
+   "mined": 109183,
    "topMined": [
     [
      "netherrack",
@@ -137,7 +137,7 @@
     ],
     [
      "dirt",
-     9658
+     9769
     ]
    ],
    "crafted": 58848,
@@ -3703,6 +3703,10 @@
     "mtime": "2026-10-19T12:20:05Z",
     "rendered": "2026-10-26T16:00:28Z"
    },
+   "-6.9": {
+    "mtime": "2026-10-19T12:22:59Z",
+    "rendered": "2026-10-26T16:02:32Z"
+   },
    "-7.8": {
     "mtime": "2026-10-19T12:21:02Z",
     "rendered": "2026-10-19T12:38:41Z"
@@ -3710,6 +3714,18 @@
    "-8.7": {
     "mtime": "2026-10-19T17:12:43Z",
     "rendered": "2026-10-19T17:16:15Z"
+   },
+   "9.-3": {
+    "mtime": "2026-10-17T19:52:06Z",
+    "rendered": "2026-10-26T16:02:32Z"
+   },
+   "-16.-2": {
+    "mtime": "2026-10-17T17:24:16Z",
+    "rendered": "2026-10-26T16:02:32Z"
+   },
+   "-17.-1": {
+    "mtime": "2026-10-17T17:24:22Z",
+    "rendered": "2026-10-26T16:02:32Z"
    },
    "-7.-3": {
     "mtime": "2026-10-25T19:24:04Z",
