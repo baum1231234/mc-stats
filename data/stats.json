@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T18:14:18Z",
+ "updated": "2026-10-26T18:19:32Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 18785867,
+ "serverTicks": 18791867,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1383,19 +1383,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-26T18:14:26Z",
-   "playTicks": 1565422,
+   "lastSeen": "2026-10-26T18:19:26Z",
+   "playTicks": 1571422,
    "deaths": 28,
    "mobKills": 304,
    "playerKills": 0,
    "killedByPlayers": 3,
-   "damageDealt": 24434,
-   "damageTaken": 17671,
-   "distanceCm": 14173758,
-   "walkCm": 7483322,
-   "flyCm": 3674819,
-   "jumps": 21176,
-   "mined": 12055,
+   "damageDealt": 24471,
+   "damageTaken": 17686,
+   "distanceCm": 14256867,
+   "walkCm": 7514691,
+   "flyCm": 3678766,
+   "jumps": 21255,
+   "mined": 12056,
    "topMined": [
     [
      "stone",
@@ -1403,14 +1403,14 @@
     ],
     [
      "grass_block",
-     1907
+     1908
     ],
     [
      "dirt",
      1859
     ]
    ],
-   "crafted": 18837,
+   "crafted": 18838,
    "topCrafted": [
     [
      "stick",
@@ -1509,19 +1509,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-26T18:14:26Z",
-   "playTicks": 961590,
+   "lastSeen": "2026-10-26T18:19:26Z",
+   "playTicks": 967590,
    "deaths": 6,
-   "mobKills": 1682,
+   "mobKills": 1687,
    "playerKills": 1,
    "killedByPlayers": 5,
-   "damageDealt": 30242,
-   "damageTaken": 12751,
-   "distanceCm": 11483136,
-   "walkCm": 4147813,
-   "flyCm": 5244415,
-   "jumps": 12138,
-   "mined": 7047,
+   "damageDealt": 31020,
+   "damageTaken": 12855,
+   "distanceCm": 11527205,
+   "walkCm": 4176142,
+   "flyCm": 5252149,
+   "jumps": 12259,
+   "mined": 7136,
    "topMined": [
     [
      "stone",
@@ -1562,7 +1562,7 @@
     ],
     [
      "zombie",
-     19
+     21
     ]
    ],
    "topKilledBy": [
@@ -2418,8 +2418,8 @@
     "rendered": "2026-10-26T16:04:36Z"
    },
    "0.0": {
-    "mtime": "2026-10-26T14:41:15Z",
-    "rendered": "2026-10-26T15:18:07Z"
+    "mtime": "2026-10-26T16:35:17Z",
+    "rendered": "2026-10-26T18:19:32Z"
    },
    "1.-1": {
     "mtime": "2026-10-26T17:17:29Z",
