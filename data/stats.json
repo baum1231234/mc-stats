@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T18:19:32Z",
+ "updated": "2026-10-26T18:24:50Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 18791867,
+ "serverTicks": 18797867,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1383,19 +1383,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-26T18:19:26Z",
-   "playTicks": 1571422,
+   "lastSeen": "2026-10-26T18:24:26Z",
+   "playTicks": 1577422,
    "deaths": 28,
    "mobKills": 304,
    "playerKills": 0,
    "killedByPlayers": 3,
-   "damageDealt": 24471,
-   "damageTaken": 17686,
-   "distanceCm": 14256867,
-   "walkCm": 7514691,
-   "flyCm": 3678766,
-   "jumps": 21255,
-   "mined": 12056,
+   "damageDealt": 24571,
+   "damageTaken": 17722,
+   "distanceCm": 14303678,
+   "walkCm": 7543633,
+   "flyCm": 3688042,
+   "jumps": 21302,
+   "mined": 12057,
    "topMined": [
     [
      "stone",
@@ -1509,19 +1509,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-26T18:19:26Z",
-   "playTicks": 967590,
+   "lastSeen": "2026-10-26T18:24:26Z",
+   "playTicks": 973590,
    "deaths": 6,
-   "mobKills": 1687,
+   "mobKills": 1696,
    "playerKills": 1,
    "killedByPlayers": 5,
-   "damageDealt": 31020,
-   "damageTaken": 12855,
-   "distanceCm": 11527205,
-   "walkCm": 4176142,
-   "flyCm": 5252149,
-   "jumps": 12259,
-   "mined": 7136,
+   "damageDealt": 32400,
+   "damageTaken": 13097,
+   "distanceCm": 11626123,
+   "walkCm": 4207461,
+   "flyCm": 5309514,
+   "jumps": 12386,
+   "mined": 7139,
    "topMined": [
     [
      "stone",
@@ -1557,12 +1557,12 @@
      1109
     ],
     [
-     "bogged",
-     22
+     "zombie",
+     24
     ],
     [
-     "zombie",
-     21
+     "bogged",
+     22
     ]
    ],
    "topKilledBy": [
@@ -1886,10 +1886,10 @@
      "2026-10-25",
      "2026-10-26"
     ],
-    "rendered": "2026-10-26T15:24:09Z",
+    "rendered": "2026-10-26T18:24:50Z",
     "regions": {
-     "r.0.-1.mca": "2026-10-26T14:41:15Z",
-     "r.0.-2.mca": "2026-10-26T14:29:33Z"
+     "r.0.-1.mca": "2026-10-26T17:21:51Z",
+     "r.0.-2.mca": "2026-10-26T17:22:18Z"
     }
    }
   },
@@ -2302,8 +2302,8 @@
     "rendered": "2026-10-26T17:31:25Z"
    },
    "0.-1": {
-    "mtime": "2026-10-26T14:41:15Z",
-    "rendered": "2026-10-26T15:24:09Z"
+    "mtime": "2026-10-26T17:21:51Z",
+    "rendered": "2026-10-26T18:24:50Z"
    },
    "1.1": {
     "mtime": "2026-10-26T18:04:55Z",
@@ -2434,8 +2434,8 @@
     "rendered": "2026-10-26T17:33:31Z"
    },
    "0.1": {
-    "mtime": "2026-10-26T14:41:14Z",
-    "rendered": "2026-10-26T15:24:09Z"
+    "mtime": "2026-10-26T16:34:58Z",
+    "rendered": "2026-10-26T18:24:50Z"
    },
    "1.2": {
     "mtime": "2026-10-26T12:28:37Z",
