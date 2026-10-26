@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T15:46:56Z",
+ "updated": "2026-10-26T15:48:58Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 18607575,
+ "serverTicks": 18611516,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -113,19 +113,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-26T15:45:37Z",
-   "playTicks": 7257516,
+   "lastSeen": "2026-10-26T15:49:02Z",
+   "playTicks": 7261402,
    "deaths": 2,
    "mobKills": 4522,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 524473,
    "damageTaken": 27319,
-   "distanceCm": 73713530,
-   "walkCm": 30857050,
-   "flyCm": 26672389,
-   "jumps": 71614,
-   "mined": 106979,
+   "distanceCm": 73761067,
+   "walkCm": 30889554,
+   "flyCm": 26685884,
+   "jumps": 71683,
+   "mined": 107235,
    "topMined": [
     [
      "netherrack",
@@ -180,15 +180,19 @@
     ]
    ],
    "adv": {
-    "count": 56,
+    "count": 57,
     "byTab": {
      "adventure": 15,
      "story": 15,
      "husbandry": 9,
-     "nether": 13,
+     "nether": 14,
      "end": 4
     },
     "recent": [
+     [
+      "nether/create_full_beacon",
+      "2026-10-26T15:45:50Z"
+     ],
      [
       "nether/create_beacon",
       "2026-10-26T15:41:02Z"
@@ -216,10 +220,6 @@
      [
       "story/enter_the_end",
       "2026-10-25T18:46:08Z"
-     ],
-     [
-      "adventure/craft_decorated_pot_using_only_sherds",
-      "2026-10-24T19:17:28Z"
      ]
     ]
    }
@@ -1509,19 +1509,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-26T15:45:45Z",
-   "playTicks": 861094,
+   "lastSeen": "2026-10-26T15:49:02Z",
+   "playTicks": 865035,
    "deaths": 6,
    "mobKills": 1537,
    "playerKills": 1,
    "killedByPlayers": 5,
-   "damageDealt": 26734,
-   "damageTaken": 11283,
-   "distanceCm": 8195208,
-   "walkCm": 3848996,
-   "flyCm": 2408752,
-   "jumps": 11311,
-   "mined": 6844,
+   "damageDealt": 27204,
+   "damageTaken": 11468,
+   "distanceCm": 8243831,
+   "walkCm": 3866778,
+   "flyCm": 2437593,
+   "jumps": 11377,
+   "mined": 6845,
    "topMined": [
     [
      "stone",
@@ -1536,7 +1536,7 @@
      890
     ]
    ],
-   "crafted": 4754,
+   "crafted": 4850,
    "topCrafted": [
     [
      "iron_ingot",
@@ -1547,8 +1547,8 @@
      666
     ],
     [
-     "deepslate_bricks",
-     504
+     "wind_charge",
+     516
     ]
    ],
    "topKilled": [
@@ -3536,6 +3536,18 @@
     "rendered": "2026-10-26T15:46:56Z",
     "empty": true
    },
+   "-1.10": {
+    "mtime": "2026-10-17T17:23:15Z",
+    "rendered": "2026-10-26T15:48:58Z"
+   },
+   "-2.11": {
+    "mtime": "2026-10-17T17:24:48Z",
+    "rendered": "2026-10-26T15:48:58Z"
+   },
+   "0.9": {
+    "mtime": "2026-10-17T17:28:54Z",
+    "rendered": "2026-10-26T15:48:58Z"
+   },
    "1.8": {
     "mtime": "2026-10-23T21:21:45Z",
     "rendered": "2026-10-23T23:40:18Z"
@@ -3556,6 +3568,10 @@
    "-9.-4": {
     "mtime": "2026-10-17T17:28:18Z",
     "rendered": "2026-10-17T21:42:38Z"
+   },
+   "-2.-12": {
+    "mtime": "2026-10-17T17:24:39Z",
+    "rendered": "2026-10-26T15:48:58Z"
    },
    "-4.-10": {
     "mtime": "2026-10-17T17:26:25Z",
