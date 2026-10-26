@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-26T16:30:40Z",
+ "updated": "2026-10-26T16:34:15Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 18661575,
+ "serverTicks": 18665638,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-26T16:30:45Z",
-   "playTicks": 8203841,
+   "lastSeen": "2026-10-26T16:34:08Z",
+   "playTicks": 8207904,
    "deaths": 0,
-   "mobKills": 4991,
+   "mobKills": 4992,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 642109,
-   "damageTaken": 100125,
-   "distanceCm": 132751532,
-   "walkCm": 33659115,
-   "flyCm": 50777892,
-   "jumps": 178587,
+   "damageDealt": 642269,
+   "damageTaken": 100199,
+   "distanceCm": 133013778,
+   "walkCm": 33674887,
+   "flyCm": 50978932,
+   "jumps": 178655,
    "mined": 87748,
    "topMined": [
     [
@@ -113,19 +113,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-26T16:30:45Z",
-   "playTicks": 7311461,
+   "lastSeen": "2026-10-26T16:34:08Z",
+   "playTicks": 7315524,
    "deaths": 2,
    "mobKills": 4525,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 524975,
    "damageTaken": 28009,
-   "distanceCm": 74385278,
-   "walkCm": 31316998,
-   "flyCm": 26876238,
-   "jumps": 72052,
-   "mined": 111847,
+   "distanceCm": 74425149,
+   "walkCm": 31354610,
+   "flyCm": 26878497,
+   "jumps": 72072,
+   "mined": 112442,
    "topMined": [
     [
      "netherrack",
@@ -137,7 +137,7 @@
     ],
     [
      "sand",
-     10195
+     10594
     ]
    ],
    "crafted": 58848,
@@ -1509,18 +1509,18 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-26T16:30:45Z",
-   "playTicks": 915094,
+   "lastSeen": "2026-10-26T16:34:08Z",
+   "playTicks": 919157,
    "deaths": 6,
    "mobKills": 1668,
    "playerKills": 1,
    "killedByPlayers": 5,
    "damageDealt": 27564,
    "damageTaken": 12015,
-   "distanceCm": 10506954,
-   "walkCm": 3972609,
-   "flyCm": 4505904,
-   "jumps": 11707,
+   "distanceCm": 10555733,
+   "walkCm": 3975442,
+   "flyCm": 4551850,
+   "jumps": 11709,
    "mined": 6945,
    "topMined": [
     [
@@ -2358,8 +2358,8 @@
     "rendered": "2026-10-26T13:49:31Z"
    },
    "-2.-6": {
-    "mtime": "2026-10-26T13:32:58Z",
-    "rendered": "2026-10-26T13:32:40Z"
+    "mtime": "2026-10-26T14:40:55Z",
+    "rendered": "2026-10-26T16:34:15Z"
    },
    "1.-4": {
     "mtime": "2026-10-25T19:21:10Z",
@@ -2474,8 +2474,8 @@
     "rendered": "2026-10-25T19:21:40Z"
    },
    "0.-5": {
-    "mtime": "2026-10-26T13:32:45Z",
-    "rendered": "2026-10-26T13:32:40Z"
+    "mtime": "2026-10-26T14:40:47Z",
+    "rendered": "2026-10-26T16:34:15Z"
    },
    "2.-2": {
     "mtime": "2026-10-25T19:19:10Z",
