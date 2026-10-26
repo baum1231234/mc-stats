@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T13:51:34Z",
+ "updated": "2026-10-26T13:53:35Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 18516177,
+ "serverTicks": 18520640,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -812,18 +812,18 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-26T13:48:54Z",
-   "playTicks": 3752506,
+   "lastSeen": "2026-10-26T13:52:37Z",
+   "playTicks": 3756969,
    "deaths": 2,
-   "mobKills": 3805,
+   "mobKills": 3946,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 305293,
-   "damageTaken": 38428,
-   "distanceCm": 43180193,
-   "walkCm": 14508263,
-   "flyCm": 10486856,
-   "jumps": 49840,
+   "damageDealt": 313076,
+   "damageTaken": 38622,
+   "distanceCm": 43228938,
+   "walkCm": 14514105,
+   "flyCm": 10495769,
+   "jumps": 49933,
    "mined": 51541,
    "topMined": [
     [
@@ -857,7 +857,7 @@
    "topKilled": [
     [
      "guardian",
-     854
+     995
     ],
     [
      "skeleton",
