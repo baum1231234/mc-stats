@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-26T14:39:10Z",
+ "updated": "2026-10-26T14:42:39Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 18558259,
+ "serverTicks": 18565575,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-26T14:36:09Z",
-   "playTicks": 8166004,
+   "lastSeen": "2026-10-26T14:41:14Z",
+   "playTicks": 8172120,
    "deaths": 0,
    "mobKills": 4987,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 641396,
-   "damageTaken": 99065,
-   "distanceCm": 131811690,
-   "walkCm": 33571215,
-   "flyCm": 50040863,
-   "jumps": 178044,
-   "mined": 87744,
+   "damageTaken": 99142,
+   "distanceCm": 131943952,
+   "walkCm": 33577592,
+   "flyCm": 50107369,
+   "jumps": 178069,
+   "mined": 87747,
    "topMined": [
     [
      "netherrack",
-     38012
+     38015
     ],
     [
      "spruce_log",
@@ -812,18 +812,18 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-26T14:37:28Z",
-   "playTicks": 3780226,
-   "deaths": 2,
+   "lastSeen": "2026-10-26T14:41:09Z",
+   "playTicks": 3781375,
+   "deaths": 3,
    "mobKills": 3971,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 316058,
-   "damageTaken": 39015,
-   "distanceCm": 43464149,
-   "walkCm": 14599434,
-   "flyCm": 10588631,
-   "jumps": 50283,
+   "damageTaken": 39215,
+   "distanceCm": 43474601,
+   "walkCm": 14601828,
+   "flyCm": 10596248,
+   "jumps": 50295,
    "mined": 51681,
    "topMined": [
     [
@@ -875,15 +875,19 @@
     ]
    ],
    "adv": {
-    "count": 47,
+    "count": 48,
     "byTab": {
      "story": 14,
      "adventure": 13,
      "husbandry": 7,
      "nether": 11,
-     "end": 2
+     "end": 3
     },
     "recent": [
+     [
+      "end/elytra",
+      "2026-10-26T14:40:12Z"
+     ],
      [
       "end/enter_end_gateway",
       "2026-10-26T14:08:46Z"
@@ -911,10 +915,6 @@
      [
       "nether/explore_nether",
       "2026-10-17T19:43:35Z"
-     ],
-     [
-      "nether/obtain_blaze_rod",
-      "2026-10-17T19:41:34Z"
      ]
     ]
    }
