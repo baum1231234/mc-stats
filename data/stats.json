@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-26T17:02:24Z",
+ "updated": "2026-10-26T17:04:17Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 18697575,
+ "serverTicks": 18701912,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-26T17:00:45Z",
-   "playTicks": 8239841,
+   "lastSeen": "2026-10-26T17:04:22Z",
+   "playTicks": 8244178,
    "deaths": 0,
    "mobKills": 5026,
    "playerKills": 4,
@@ -113,19 +113,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-26T17:00:45Z",
-   "playTicks": 7347461,
+   "lastSeen": "2026-10-26T17:04:22Z",
+   "playTicks": 7351798,
    "deaths": 2,
-   "mobKills": 4526,
+   "mobKills": 4536,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 525097,
-   "damageTaken": 28028,
-   "distanceCm": 74784372,
-   "walkCm": 31598475,
-   "flyCm": 26987677,
-   "jumps": 72526,
-   "mined": 114610,
+   "damageDealt": 526067,
+   "damageTaken": 28087,
+   "distanceCm": 74868391,
+   "walkCm": 31622242,
+   "flyCm": 27005913,
+   "jumps": 72601,
+   "mined": 114865,
    "topMined": [
     [
      "netherrack",
@@ -137,7 +137,7 @@
     ],
     [
      "stone",
-     11534
+     11748
     ]
    ],
    "crafted": 58848,
@@ -158,7 +158,7 @@
    "topKilled": [
     [
      "guardian",
-     2043
+     2053
     ],
     [
      "zombie",
@@ -2526,8 +2526,8 @@
     "rendered": "2026-10-26T14:02:12Z"
    },
    "-11.3": {
-    "mtime": "2026-10-24T17:52:37Z",
-    "rendered": "2026-10-24T17:53:51Z"
+    "mtime": "2026-10-26T17:03:22Z",
+    "rendered": "2026-10-26T17:04:17Z"
    },
    "-9.1": {
     "mtime": "2026-10-25T18:09:04Z",
@@ -2666,8 +2666,8 @@
     "rendered": "2026-10-26T17:02:24Z"
    },
    "-12.3": {
-    "mtime": "2026-10-24T17:52:37Z",
-    "rendered": "2026-10-24T17:53:51Z"
+    "mtime": "2026-10-26T17:03:23Z",
+    "rendered": "2026-10-26T17:04:17Z"
    },
    "-13.0": {
     "mtime": "2026-10-26T16:52:22Z",
@@ -2871,8 +2871,8 @@
     "rendered": "2026-10-17T22:49:33Z"
    },
    "-13.3": {
-    "mtime": "2026-10-24T17:52:29Z",
-    "rendered": "2026-10-24T17:53:51Z"
+    "mtime": "2026-10-26T17:03:16Z",
+    "rendered": "2026-10-26T17:04:17Z"
    },
    "-14.0": {
     "mtime": "2026-10-17T17:24:04Z",
