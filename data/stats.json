@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T12:49:07Z",
+ "updated": "2026-10-26T12:54:50Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 18486131,
+ "serverTicks": 18491920,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -701,19 +701,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-26T12:48:48Z",
-   "playTicks": 4004808,
+   "lastSeen": "2026-10-26T12:53:38Z",
+   "playTicks": 4010597,
    "deaths": 4,
-   "mobKills": 3428,
+   "mobKills": 3429,
    "playerKills": 3,
    "killedByPlayers": 0,
-   "damageDealt": 330682,
-   "damageTaken": 32025,
-   "distanceCm": 50635201,
-   "walkCm": 14051977,
-   "flyCm": 18786633,
-   "jumps": 61399,
-   "mined": 36619,
+   "damageDealt": 330992,
+   "damageTaken": 32090,
+   "distanceCm": 50724205,
+   "walkCm": 14091241,
+   "flyCm": 18828695,
+   "jumps": 61542,
+   "mined": 36749,
    "topMined": [
     [
      "spruce_log",
@@ -764,15 +764,19 @@
     ]
    ],
    "adv": {
-    "count": 38,
+    "count": 39,
     "byTab": {
      "story": 13,
      "adventure": 11,
      "husbandry": 3,
      "nether": 9,
-     "end": 2
+     "end": 3
     },
     "recent": [
+     [
+      "end/find_end_city",
+      "2026-10-26T12:53:35Z"
+     ],
      [
       "end/enter_end_gateway",
       "2026-10-26T12:33:40Z"
@@ -800,10 +804,6 @@
      [
       "nether/obtain_blaze_rod",
       "2026-10-17T12:12:23Z"
-     ],
-     [
-      "nether/explore_nether",
-      "2026-10-17T03:06:31Z"
      ]
     ]
    }
