@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T15:53:11Z",
+ "updated": "2026-10-26T15:56:22Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 18616016,
+ "serverTicks": 18619575,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -113,19 +113,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-26T15:52:47Z",
-   "playTicks": 7265902,
+   "lastSeen": "2026-10-26T15:55:45Z",
+   "playTicks": 7269461,
    "deaths": 2,
    "mobKills": 4522,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 524473,
    "damageTaken": 27319,
-   "distanceCm": 73828462,
-   "walkCm": 30946374,
-   "flyCm": 26695150,
-   "jumps": 71718,
-   "mined": 107831,
+   "distanceCm": 73864520,
+   "walkCm": 30972569,
+   "flyCm": 26704793,
+   "jumps": 71752,
+   "mined": 108039,
    "topMined": [
     [
      "netherrack",
@@ -1509,18 +1509,18 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-26T15:52:47Z",
-   "playTicks": 869535,
+   "lastSeen": "2026-10-26T15:55:45Z",
+   "playTicks": 873094,
    "deaths": 6,
    "mobKills": 1537,
    "playerKills": 1,
    "killedByPlayers": 5,
    "damageDealt": 27204,
-   "damageTaken": 11468,
-   "distanceCm": 8642439,
-   "walkCm": 3875979,
-   "flyCm": 2825900,
-   "jumps": 11405,
+   "damageTaken": 11583,
+   "distanceCm": 8883847,
+   "walkCm": 3886467,
+   "flyCm": 3052807,
+   "jumps": 11467,
    "mined": 6845,
    "topMined": [
     [
@@ -3626,6 +3626,14 @@
     "rendered": "2026-10-26T15:53:11Z",
     "empty": true
    },
+   "8.-4": {
+    "mtime": "2026-10-21T01:17:16Z",
+    "rendered": "2026-10-26T15:56:22Z"
+   },
+   "7.-5": {
+    "mtime": "2026-10-21T01:17:16Z",
+    "rendered": "2026-10-26T15:56:22Z"
+   },
    "-6.-3": {
     "mtime": "2026-10-20T06:36:41Z",
     "rendered": "2026-10-20T06:48:51Z"
@@ -3646,6 +3654,14 @@
     "mtime": "2026-10-20T01:16:52Z",
     "rendered": "2026-10-20T03:36:12Z",
     "empty": true
+   },
+   "8.2": {
+    "mtime": "2026-10-21T01:17:16Z",
+    "rendered": "2026-10-26T15:56:22Z"
+   },
+   "9.1": {
+    "mtime": "2026-10-17T17:32:16Z",
+    "rendered": "2026-10-26T15:56:22Z"
    },
    "-7.-4": {
     "mtime": "2026-10-20T06:36:17Z",
