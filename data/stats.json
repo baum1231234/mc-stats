@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T14:09:14Z",
+ "updated": "2026-10-26T14:12:42Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 18538640,
+ "serverTicks": 18545020,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -812,19 +812,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-26T14:07:37Z",
-   "playTicks": 3774969,
+   "lastSeen": "2026-10-26T14:11:56Z",
+   "playTicks": 3780149,
    "deaths": 2,
-   "mobKills": 3951,
+   "mobKills": 3971,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 313718,
-   "damageTaken": 38948,
-   "distanceCm": 43393842,
-   "walkCm": 14572120,
-   "flyCm": 10553176,
-   "jumps": 50130,
-   "mined": 51678,
+   "damageDealt": 316058,
+   "damageTaken": 39015,
+   "distanceCm": 43464149,
+   "walkCm": 14599434,
+   "flyCm": 10588631,
+   "jumps": 50283,
+   "mined": 51681,
    "topMined": [
     [
      "netherrack",
@@ -839,7 +839,7 @@
      6207
     ]
    ],
-   "crafted": 129160,
+   "crafted": 129167,
    "topCrafted": [
     [
      "stick",
@@ -875,14 +875,27 @@
     ]
    ],
    "adv": {
-    "count": 44,
+    "count": 47,
     "byTab": {
-     "story": 13,
+     "story": 14,
      "adventure": 13,
      "husbandry": 7,
-     "nether": 11
+     "nether": 11,
+     "end": 2
     },
     "recent": [
+     [
+      "end/enter_end_gateway",
+      "2026-10-26T14:08:46Z"
+     ],
+     [
+      "end/root",
+      "2026-10-26T14:07:58Z"
+     ],
+     [
+      "story/enter_the_end",
+      "2026-10-26T14:07:58Z"
+     ],
      [
       "story/follow_ender_eye",
       "2026-10-20T16:34:54Z"
@@ -902,18 +915,6 @@
      [
       "nether/obtain_blaze_rod",
       "2026-10-17T19:41:34Z"
-     ],
-     [
-      "nether/find_fortress",
-      "2026-10-17T19:41:11Z"
-     ],
-     [
-      "nether/netherite_armor",
-      "2026-10-17T19:36:13Z"
-     ],
-     [
-      "nether/obtain_crying_obsidian",
-      "2026-10-17T19:07:59Z"
      ]
     ]
    }
