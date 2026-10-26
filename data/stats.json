@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-26T19:50:58Z",
+ "updated": "2026-10-26T19:54:08Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 18878507,
+ "serverTicks": 18882447,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-26T19:49:33Z",
-   "playTicks": 8355921,
+   "lastSeen": "2026-10-26T19:52:50Z",
+   "playTicks": 8359861,
    "deaths": 0,
-   "mobKills": 5031,
+   "mobKills": 5032,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 646100,
+   "damageDealt": 646129,
    "damageTaken": 102655,
-   "distanceCm": 135490470,
-   "walkCm": 33965511,
-   "flyCm": 52852256,
-   "jumps": 180179,
-   "mined": 88098,
+   "distanceCm": 135513625,
+   "walkCm": 33986005,
+   "flyCm": 52854697,
+   "jumps": 180214,
+   "mined": 88165,
    "topMined": [
     [
      "netherrack",
@@ -60,7 +60,7 @@
     ],
     [
      "zombie",
-     478
+     479
     ]
    ],
    "topKilledBy": [],
@@ -2354,8 +2354,8 @@
     "rendered": "2026-10-26T16:52:41Z"
    },
    "-11.2": {
-    "mtime": "2026-10-26T16:53:06Z",
-    "rendered": "2026-10-26T16:52:41Z"
+    "mtime": "2026-10-26T17:03:18Z",
+    "rendered": "2026-10-26T19:54:08Z"
    },
    "-2.-6": {
     "mtime": "2026-10-26T19:14:01Z",
@@ -2490,8 +2490,8 @@
     "rendered": "2026-10-26T16:52:41Z"
    },
    "-12.2": {
-    "mtime": "2026-10-26T16:52:25Z",
-    "rendered": "2026-10-26T16:52:41Z"
+    "mtime": "2026-10-26T17:09:58Z",
+    "rendered": "2026-10-26T19:54:08Z"
    },
    "-13.1": {
     "mtime": "2026-10-26T16:52:22Z",
