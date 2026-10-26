@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T06:31:43Z",
+ "updated": "2026-10-26T06:33:34Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 18062553,
+ "serverTicks": 18064079,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1276,18 +1276,18 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-23T21:17:47Z",
-   "playTicks": 1946499,
+   "lastSeen": "2026-10-26T06:33:05Z",
+   "playTicks": 1948025,
    "deaths": 0,
    "mobKills": 522,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 45040,
    "damageTaken": 7082,
-   "distanceCm": 12662439,
-   "walkCm": 7133381,
-   "flyCm": 2550255,
-   "jumps": 13686,
+   "distanceCm": 12667541,
+   "walkCm": 7137367,
+   "flyCm": 2551371,
+   "jumps": 13690,
    "mined": 36371,
    "topMined": [
     [
@@ -2366,8 +2366,8 @@
     "rendered": "2026-10-26T06:31:43Z"
    },
    "0.-6": {
-    "mtime": "2026-10-25T19:21:27Z",
-    "rendered": "2026-10-25T21:55:42Z"
+    "mtime": "2026-10-26T06:33:57Z",
+    "rendered": "2026-10-26T06:33:34Z"
    },
    "2.-4": {
     "mtime": "2026-10-25T19:20:13Z",
@@ -2450,8 +2450,8 @@
     "rendered": "2026-10-25T20:16:31Z"
    },
    "-2.-5": {
-    "mtime": "2026-10-25T19:21:27Z",
-    "rendered": "2026-10-25T21:55:42Z"
+    "mtime": "2026-10-26T06:33:24Z",
+    "rendered": "2026-10-26T06:33:34Z"
    },
    "-3.6": {
     "mtime": "2026-10-25T21:50:26Z",
@@ -2466,8 +2466,8 @@
     "rendered": "2026-10-25T19:21:40Z"
    },
    "0.-5": {
-    "mtime": "2026-10-25T19:21:27Z",
-    "rendered": "2026-10-25T21:55:42Z"
+    "mtime": "2026-10-26T06:33:31Z",
+    "rendered": "2026-10-26T06:33:34Z"
    },
    "2.-2": {
     "mtime": "2026-10-25T19:19:10Z",
@@ -2526,8 +2526,8 @@
     "rendered": "2026-10-25T18:39:33Z"
    },
    "-2.-7": {
-    "mtime": "2026-10-25T19:21:34Z",
-    "rendered": "2026-10-25T21:55:42Z"
+    "mtime": "2026-10-26T06:32:39Z",
+    "rendered": "2026-10-26T06:33:34Z"
    },
    "-3.-6": {
     "mtime": "2026-10-24T15:27:14Z",
