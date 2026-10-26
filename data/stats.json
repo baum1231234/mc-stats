@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T12:22:36Z",
+ "updated": "2026-10-26T12:24:19Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 18450089,
+ "serverTicks": 18455920,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -701,19 +701,19 @@
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
-   "lastSeen": "2026-10-26T12:18:46Z",
-   "playTicks": 3968766,
+   "lastSeen": "2026-10-26T12:23:38Z",
+   "playTicks": 3974597,
    "deaths": 4,
-   "mobKills": 3403,
+   "mobKills": 3418,
    "playerKills": 3,
    "killedByPlayers": 0,
-   "damageDealt": 327785,
-   "damageTaken": 30846,
-   "distanceCm": 49742564,
-   "walkCm": 13886435,
-   "flyCm": 18396267,
-   "jumps": 60640,
-   "mined": 36501,
+   "damageDealt": 328112,
+   "damageTaken": 31077,
+   "distanceCm": 49824985,
+   "walkCm": 13909556,
+   "flyCm": 18425385,
+   "jumps": 60728,
+   "mined": 36524,
    "topMined": [
     [
      "spruce_log",
@@ -728,7 +728,7 @@
      3422
     ]
    ],
-   "crafted": 118619,
+   "crafted": 118763,
    "topCrafted": [
     [
      "stick",
