@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-26T16:16:59Z",
+ "updated": "2026-10-26T16:19:00Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 18643575,
+ "serverTicks": 18647519,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-26T16:15:45Z",
-   "playTicks": 8185841,
+   "lastSeen": "2026-10-26T16:19:02Z",
+   "playTicks": 8189785,
    "deaths": 0,
    "mobKills": 4987,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 641424,
-   "damageTaken": 99421,
-   "distanceCm": 132306186,
-   "walkCm": 33591146,
-   "flyCm": 50426330,
-   "jumps": 178185,
+   "damageTaken": 99447,
+   "distanceCm": 132355311,
+   "walkCm": 33605241,
+   "flyCm": 50457490,
+   "jumps": 178295,
    "mined": 87748,
    "topMined": [
     [
@@ -113,16 +113,16 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-26T16:15:45Z",
-   "playTicks": 7293461,
+   "lastSeen": "2026-10-26T16:19:02Z",
+   "playTicks": 7297405,
    "deaths": 2,
    "mobKills": 4523,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 524613,
    "damageTaken": 27319,
-   "distanceCm": 74198976,
-   "walkCm": 31262260,
+   "distanceCm": 74199008,
+   "walkCm": 31262292,
    "flyCm": 26747839,
    "jumps": 71934,
    "mined": 111644,
@@ -1509,19 +1509,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-26T16:15:45Z",
-   "playTicks": 897094,
+   "lastSeen": "2026-10-26T16:19:02Z",
+   "playTicks": 901038,
    "deaths": 6,
    "mobKills": 1540,
    "playerKills": 1,
    "killedByPlayers": 5,
    "damageDealt": 27554,
-   "damageTaken": 11878,
-   "distanceCm": 9762892,
-   "walkCm": 3937189,
-   "flyCm": 3816271,
-   "jumps": 11596,
-   "mined": 6908,
+   "damageTaken": 11919,
+   "distanceCm": 9950542,
+   "walkCm": 3944653,
+   "flyCm": 3991947,
+   "jumps": 11614,
+   "mined": 6911,
    "topMined": [
     [
      "stone",
@@ -1533,7 +1533,7 @@
     ],
     [
      "netherrack",
-     890
+     891
     ]
    ],
    "crafted": 5222,
@@ -3826,6 +3826,10 @@
     "rendered": "2026-10-26T16:16:59Z",
     "empty": true
    },
+   "2.9": {
+    "mtime": "2026-10-17T17:30:34Z",
+    "rendered": "2026-10-26T16:19:00Z"
+   },
    "3.8": {
     "mtime": "2026-10-24T01:16:48Z",
     "rendered": "2026-10-24T02:42:17Z"
@@ -3837,6 +3841,18 @@
    "5.6": {
     "mtime": "2026-10-17T17:31:33Z",
     "rendered": "2026-10-17T22:21:23Z"
+   },
+   "6.5": {
+    "mtime": "2026-10-20T01:16:52Z",
+    "rendered": "2026-10-26T16:19:00Z"
+   },
+   "7.4": {
+    "mtime": "2026-10-20T14:07:41Z",
+    "rendered": "2026-10-26T16:19:00Z"
+   },
+   "8.3": {
+    "mtime": "2026-10-20T14:07:49Z",
+    "rendered": "2026-10-26T16:19:00Z"
    },
    "-8.8": {
     "mtime": "2026-10-19T12:21:47Z",
