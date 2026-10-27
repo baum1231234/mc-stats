@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T10:03:23Z",
+ "updated": "2026-10-27T10:06:22Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 19380358,
+ "serverTicks": 19386358,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1278,19 +1278,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-27T10:01:50Z",
-   "playTicks": 2560666,
+   "lastSeen": "2026-10-27T10:05:18Z",
+   "playTicks": 2564838,
    "deaths": 0,
-   "mobKills": 1204,
+   "mobKills": 1209,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 99767,
+   "damageDealt": 100808,
    "damageTaken": 12205,
-   "distanceCm": 17587427,
-   "walkCm": 9332476,
-   "flyCm": 4514984,
-   "jumps": 17246,
-   "mined": 63763,
+   "distanceCm": 17599347,
+   "walkCm": 9339535,
+   "flyCm": 4516517,
+   "jumps": 17261,
+   "mined": 63765,
    "topMined": [
     [
      "netherrack",
@@ -1327,7 +1327,7 @@
     ],
     [
      "zombie",
-     190
+     192
     ],
     [
      "creeper",
@@ -3565,12 +3565,12 @@
     "empty": true
    },
    "-7.-2": {
-    "mtime": "2026-10-25T19:24:04Z",
-    "rendered": "2026-10-25T19:38:52Z"
+    "mtime": "2026-10-27T09:58:18Z",
+    "rendered": "2026-10-27T10:06:22Z"
    },
    "-8.-3": {
-    "mtime": "2026-10-25T20:17:40Z",
-    "rendered": "2026-10-25T20:22:43Z"
+    "mtime": "2026-10-27T09:58:03Z",
+    "rendered": "2026-10-27T10:06:22Z"
    },
    "-9.-4": {
     "mtime": "2026-10-17T17:28:18Z",
@@ -3642,8 +3642,8 @@
     "rendered": "2026-10-27T05:37:08Z"
    },
    "-6.-3": {
-    "mtime": "2026-10-20T06:36:41Z",
-    "rendered": "2026-10-20T06:48:51Z"
+    "mtime": "2026-10-27T09:58:46Z",
+    "rendered": "2026-10-27T10:06:22Z"
    },
    "2.8": {
     "mtime": "2026-10-26T18:21:13Z",
@@ -3690,8 +3690,8 @@
     "rendered": "2026-10-27T05:40:40Z"
    },
    "-7.-4": {
-    "mtime": "2026-10-20T06:36:17Z",
-    "rendered": "2026-10-20T06:48:51Z"
+    "mtime": "2026-10-27T09:58:24Z",
+    "rendered": "2026-10-27T10:06:22Z"
    },
    "-8.-5": {
     "mtime": "2026-10-17T17:28:00Z",
