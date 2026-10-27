@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T08:25:50Z",
+ "updated": "2026-10-27T08:27:37Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 19260358,
+ "serverTicks": 19266358,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -113,19 +113,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-27T00:18:39Z",
-   "playTicks": 7598112,
+   "lastSeen": "2026-10-27T08:26:50Z",
+   "playTicks": 7602859,
    "deaths": 2,
-   "mobKills": 5061,
+   "mobKills": 5063,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 555873,
+   "damageDealt": 556573,
    "damageTaken": 28796,
-   "distanceCm": 78934020,
-   "walkCm": 33865751,
-   "flyCm": 28778477,
-   "jumps": 74487,
-   "mined": 134380,
+   "distanceCm": 79008483,
+   "walkCm": 33909634,
+   "flyCm": 28807532,
+   "jumps": 74542,
+   "mined": 134806,
    "topMined": [
     [
      "netherrack",
@@ -133,11 +133,11 @@
     ],
     [
      "stone",
-     15502
+     15869
     ],
     [
      "dirt",
-     14045
+     14051
     ]
    ],
    "crafted": 59324,
@@ -162,7 +162,7 @@
     ],
     [
      "zombie",
-     693
+     695
     ],
     [
      "skeleton",
@@ -1278,19 +1278,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-27T08:21:50Z",
-   "playTicks": 2440666,
+   "lastSeen": "2026-10-27T08:26:50Z",
+   "playTicks": 2446666,
    "deaths": 0,
    "mobKills": 555,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 53219,
    "damageTaken": 10303,
-   "distanceCm": 15707190,
-   "walkCm": 8913908,
-   "flyCm": 3112116,
-   "jumps": 16268,
-   "mined": 61911,
+   "distanceCm": 15727733,
+   "walkCm": 8928992,
+   "flyCm": 3115625,
+   "jumps": 16311,
+   "mined": 62050,
    "topMined": [
     [
      "netherrack",
@@ -1305,7 +1305,7 @@
      5031
     ]
    ],
-   "crafted": 31064,
+   "crafted": 31739,
    "topCrafted": [
     [
      "stick",
