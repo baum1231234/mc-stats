@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T09:17:20Z",
+ "updated": "2026-10-27T09:20:31Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 19326358,
+ "serverTicks": 19330536,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -113,19 +113,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-27T09:16:50Z",
-   "playTicks": 7662859,
+   "lastSeen": "2026-10-27T09:20:19Z",
+   "playTicks": 7667037,
    "deaths": 2,
-   "mobKills": 5353,
+   "mobKills": 5354,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 572262,
+   "damageDealt": 572339,
    "damageTaken": 28796,
-   "distanceCm": 80475147,
-   "walkCm": 34399358,
-   "flyCm": 29777329,
-   "jumps": 75358,
-   "mined": 136736,
+   "distanceCm": 80554615,
+   "walkCm": 34431261,
+   "flyCm": 29824444,
+   "jumps": 75462,
+   "mined": 136861,
    "topMined": [
     [
      "netherrack",
@@ -133,7 +133,7 @@
     ],
     [
      "stone",
-     17214
+     17287
     ],
     [
      "dirt",
@@ -1278,19 +1278,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-27T09:16:50Z",
-   "playTicks": 2506666,
+   "lastSeen": "2026-10-27T09:20:19Z",
+   "playTicks": 2510844,
    "deaths": 0,
    "mobKills": 556,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 53420,
-   "damageTaken": 10363,
-   "distanceCm": 16059869,
-   "walkCm": 9193561,
-   "flyCm": 3155200,
-   "jumps": 16752,
-   "mined": 63512,
+   "damageTaken": 10369,
+   "distanceCm": 16093402,
+   "walkCm": 9219178,
+   "flyCm": 3160716,
+   "jumps": 16822,
+   "mined": 63753,
    "topMined": [
     [
      "netherrack",
