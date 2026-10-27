@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T09:11:06Z",
+ "updated": "2026-10-27T09:12:53Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 19314358,
+ "serverTicks": 19320358,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -113,19 +113,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-27T09:06:50Z",
-   "playTicks": 7650859,
+   "lastSeen": "2026-10-27T09:11:50Z",
+   "playTicks": 7656859,
    "deaths": 2,
    "mobKills": 5353,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 572262,
    "damageTaken": 28796,
-   "distanceCm": 79712561,
-   "walkCm": 34343783,
-   "flyCm": 29071934,
-   "jumps": 75272,
-   "mined": 136734,
+   "distanceCm": 80212913,
+   "walkCm": 34361875,
+   "flyCm": 29553275,
+   "jumps": 75281,
+   "mined": 136735,
    "topMined": [
     [
      "netherrack",
@@ -1278,18 +1278,18 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-27T09:06:50Z",
-   "playTicks": 2494666,
+   "lastSeen": "2026-10-27T09:11:50Z",
+   "playTicks": 2500666,
    "deaths": 0,
    "mobKills": 556,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 53420,
-   "damageTaken": 10361,
-   "distanceCm": 16018882,
-   "walkCm": 9158026,
-   "flyCm": 3150848,
-   "jumps": 16693,
+   "damageTaken": 10363,
+   "distanceCm": 16042991,
+   "walkCm": 9180445,
+   "flyCm": 3151438,
+   "jumps": 16699,
    "mined": 63363,
    "topMined": [
     [
@@ -1305,7 +1305,7 @@
      5031
     ]
    ],
-   "crafted": 48154,
+   "crafted": 48356,
    "topCrafted": [
     [
      "stick",
@@ -1336,14 +1336,19 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 30,
+    "count": 31,
     "byTab": {
      "story": 9,
      "husbandry": 5,
      "adventure": 10,
-     "nether": 6
+     "nether": 6,
+     "end": 1
     },
     "recent": [
+     [
+      "end/elytra",
+      "2026-10-27T09:09:57Z"
+     ],
      [
       "husbandry/wax_on",
       "2026-10-23T20:21:19Z"
@@ -1371,10 +1376,6 @@
      [
       "nether/get_wither_skull",
       "2026-10-20T07:22:45Z"
-     ],
-     [
-      "husbandry/silk_touch_nest",
-      "2026-10-20T06:45:40Z"
      ]
     ]
    }
@@ -2368,8 +2369,8 @@
     "rendered": "2026-10-27T06:32:22Z"
    },
    "1.-4": {
-    "mtime": "2026-10-25T19:21:10Z",
-    "rendered": "2026-10-25T22:15:03Z"
+    "mtime": "2026-10-27T09:11:38Z",
+    "rendered": "2026-10-27T09:12:53Z"
    },
    "-2.4": {
     "mtime": "2026-10-27T08:24:35Z",
@@ -2592,8 +2593,8 @@
     "rendered": "2026-10-17T19:21:29Z"
    },
    "-3.-1": {
-    "mtime": "2026-10-25T16:39:43Z",
-    "rendered": "2026-10-25T16:39:25Z"
+    "mtime": "2026-10-27T09:08:17Z",
+    "rendered": "2026-10-27T09:12:53Z"
    },
    "-4.0": {
     "mtime": "2026-10-17T17:26:35Z",
@@ -2640,8 +2641,8 @@
     "rendered": "2026-10-26T21:29:41Z"
    },
    "-1.2": {
-    "mtime": "2026-10-26T16:43:23Z",
-    "rendered": "2026-10-26T18:28:45Z"
+    "mtime": "2026-10-27T09:07:27Z",
+    "rendered": "2026-10-27T09:12:53Z"
    },
    "-2.-4": {
     "mtime": "2026-10-27T08:08:11Z",
@@ -2749,8 +2750,8 @@
     "rendered": "2026-10-20T15:40:16Z"
    },
    "-1.3": {
-    "mtime": "2026-10-26T16:44:31Z",
-    "rendered": "2026-10-26T18:28:45Z"
+    "mtime": "2026-10-27T09:07:26Z",
+    "rendered": "2026-10-27T09:12:53Z"
    },
    "0.4": {
     "mtime": "2026-10-26T18:29:53Z",
