@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T15:31:21Z",
+ "updated": "2026-10-27T15:33:10Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 19465168,
+ "serverTicks": 19471168,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -923,19 +923,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-27T15:27:57Z",
-   "playTicks": 3175864,
+   "lastSeen": "2026-10-27T15:32:57Z",
+   "playTicks": 3181864,
    "deaths": 7,
-   "mobKills": 6603,
+   "mobKills": 6607,
    "playerKills": 5,
    "killedByPlayers": 3,
-   "damageDealt": 195628,
-   "damageTaken": 31840,
-   "distanceCm": 36218534,
-   "walkCm": 14636616,
-   "flyCm": 11491175,
-   "jumps": 48390,
-   "mined": 61943,
+   "damageDealt": 196308,
+   "damageTaken": 32100,
+   "distanceCm": 36421052,
+   "walkCm": 14654827,
+   "flyCm": 11667053,
+   "jumps": 48452,
+   "mined": 61973,
    "topMined": [
     [
      "netherrack",
@@ -947,10 +947,10 @@
     ],
     [
      "deepslate",
-     5199
+     5200
     ]
    ],
-   "crafted": 86037,
+   "crafted": 86136,
    "topCrafted": [
     [
      "stick",
@@ -972,11 +972,11 @@
     ],
     [
      "zombie",
-     468
+     469
     ],
     [
      "skeleton",
-     371
+     373
     ]
    ],
    "topKilledBy": [
@@ -1510,19 +1510,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-27T15:27:57Z",
-   "playTicks": 1043776,
+   "lastSeen": "2026-10-27T15:32:57Z",
+   "playTicks": 1049776,
    "deaths": 6,
-   "mobKills": 1794,
+   "mobKills": 1795,
    "playerKills": 1,
    "killedByPlayers": 5,
-   "damageDealt": 39288,
-   "damageTaken": 15942,
-   "distanceCm": 14630716,
-   "walkCm": 4508291,
-   "flyCm": 7833860,
-   "jumps": 13352,
-   "mined": 7293,
+   "damageDealt": 39348,
+   "damageTaken": 16115,
+   "distanceCm": 14857282,
+   "walkCm": 4527586,
+   "flyCm": 8025775,
+   "jumps": 13399,
+   "mined": 7297,
    "topMined": [
     [
      "stone",
@@ -2529,8 +2529,8 @@
     "rendered": "2026-10-27T15:31:21Z"
    },
    "-10.2": {
-    "mtime": "2026-10-27T09:56:41Z",
-    "rendered": "2026-10-27T12:31:36Z"
+    "mtime": "2026-10-27T14:02:13Z",
+    "rendered": "2026-10-27T15:33:10Z"
    },
    "-11.-1": {
     "mtime": "2026-10-27T09:56:58Z",
