@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T14:12:25Z",
+ "updated": "2026-10-27T14:18:10Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 19401980,
+ "serverTicks": 19407980,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,19 +228,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-27T14:11:58Z",
-   "playTicks": 5710635,
+   "lastSeen": "2026-10-27T14:16:58Z",
+   "playTicks": 5716635,
    "deaths": 0,
    "mobKills": 6399,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 478742,
-   "damageTaken": 87088,
-   "distanceCm": 64757169,
-   "walkCm": 18725242,
-   "flyCm": 27396096,
-   "jumps": 94548,
-   "mined": 81937,
+   "damageDealt": 478751,
+   "damageTaken": 87117,
+   "distanceCm": 64794319,
+   "walkCm": 18743077,
+   "flyCm": 27402799,
+   "jumps": 94622,
+   "mined": 81955,
    "topMined": [
     [
      "netherrack",
@@ -252,10 +252,10 @@
     ],
     [
      "snow_block",
-     4668
+     4674
     ]
    ],
-   "crafted": 97850,
+   "crafted": 97853,
    "topCrafted": [
     [
      "iron_ingot",
@@ -3565,8 +3565,8 @@
     "empty": true
    },
    "-7.-2": {
-    "mtime": "2026-10-27T09:58:18Z",
-    "rendered": "2026-10-27T10:06:22Z"
+    "mtime": "2026-10-27T14:18:18Z",
+    "rendered": "2026-10-27T14:18:10Z"
    },
    "-8.-3": {
     "mtime": "2026-10-27T14:03:21Z",
@@ -3750,8 +3750,8 @@
     "rendered": "2026-10-27T05:46:00Z"
    },
    "-7.-3": {
-    "mtime": "2026-10-27T09:58:25Z",
-    "rendered": "2026-10-27T10:08:02Z"
+    "mtime": "2026-10-27T14:18:18Z",
+    "rendered": "2026-10-27T14:18:10Z"
    },
    "-8.-4": {
     "mtime": "2026-10-20T06:35:38Z",
