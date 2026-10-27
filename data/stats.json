@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T20:25:36Z",
+ "updated": "2026-10-27T20:28:32Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 19584896,
+ "serverTicks": 19590896,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -586,23 +586,23 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-27T20:25:10Z",
-   "playTicks": 4202274,
+   "lastSeen": "2026-10-27T20:27:28Z",
+   "playTicks": 4204179,
    "deaths": 2,
    "mobKills": 1622,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 151423,
    "damageTaken": 40443,
-   "distanceCm": 42305616,
-   "walkCm": 17143927,
-   "flyCm": 15986765,
-   "jumps": 74525,
-   "mined": 109702,
+   "distanceCm": 42317620,
+   "walkCm": 17155128,
+   "flyCm": 15987568,
+   "jumps": 74536,
+   "mined": 109998,
    "topMined": [
     [
      "netherrack",
-     52106
+     52395
     ],
     [
      "stone",
