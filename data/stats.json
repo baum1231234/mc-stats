@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T15:33:10Z",
+ "updated": "2026-10-27T15:36:25Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 19471168,
+ "serverTicks": 19474654,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -923,19 +923,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-27T15:32:57Z",
-   "playTicks": 3181864,
+   "lastSeen": "2026-10-27T15:35:51Z",
+   "playTicks": 3185350,
    "deaths": 7,
    "mobKills": 6607,
    "playerKills": 5,
    "killedByPlayers": 3,
    "damageDealt": 196308,
-   "damageTaken": 32100,
-   "distanceCm": 36421052,
-   "walkCm": 14654827,
+   "damageTaken": 32104,
+   "distanceCm": 36448777,
+   "walkCm": 14678502,
    "flyCm": 11667053,
-   "jumps": 48452,
-   "mined": 61973,
+   "jumps": 48496,
+   "mined": 61987,
    "topMined": [
     [
      "netherrack",
@@ -1510,18 +1510,18 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-27T15:32:57Z",
-   "playTicks": 1049776,
+   "lastSeen": "2026-10-27T15:35:51Z",
+   "playTicks": 1053262,
    "deaths": 6,
    "mobKills": 1795,
    "playerKills": 1,
    "killedByPlayers": 5,
    "damageDealt": 39348,
    "damageTaken": 16115,
-   "distanceCm": 14857282,
-   "walkCm": 4527586,
-   "flyCm": 8025775,
-   "jumps": 13399,
+   "distanceCm": 14882087,
+   "walkCm": 4543814,
+   "flyCm": 8031637,
+   "jumps": 13435,
    "mined": 7297,
    "topMined": [
     [
@@ -1577,15 +1577,19 @@
     ]
    ],
    "adv": {
-    "count": 30,
+    "count": 31,
     "byTab": {
      "story": 11,
      "husbandry": 2,
-     "adventure": 10,
+     "adventure": 11,
      "nether": 3,
      "end": 4
     },
     "recent": [
+     [
+      "adventure/avoid_vibration",
+      "2026-10-27T15:34:55Z"
+     ],
      [
       "nether/obtain_ancient_debris",
       "2026-10-25T18:57:34Z"
@@ -1613,10 +1617,6 @@
      [
       "story/enter_the_end",
       "2026-10-25T17:15:13Z"
-     ],
-     [
-      "adventure/trade",
-      "2026-10-24T20:33:43Z"
      ]
     ]
    }
