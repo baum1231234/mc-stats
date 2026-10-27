@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T15:19:45Z",
+ "updated": "2026-10-27T15:21:25Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 19453168,
+ "serverTicks": 19456641,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -923,19 +923,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-27T15:17:57Z",
-   "playTicks": 3163864,
+   "lastSeen": "2026-10-27T15:20:50Z",
+   "playTicks": 3167337,
    "deaths": 7,
-   "mobKills": 6583,
+   "mobKills": 6594,
    "playerKills": 5,
    "killedByPlayers": 3,
-   "damageDealt": 191829,
-   "damageTaken": 31429,
-   "distanceCm": 35965465,
-   "walkCm": 14604116,
-   "flyCm": 11291097,
-   "jumps": 48060,
-   "mined": 61705,
+   "damageDealt": 193789,
+   "damageTaken": 31690,
+   "distanceCm": 36011960,
+   "walkCm": 14623271,
+   "flyCm": 11315112,
+   "jumps": 48205,
+   "mined": 61745,
    "topMined": [
     [
      "netherrack",
@@ -972,11 +972,11 @@
     ],
     [
      "zombie",
-     454
+     460
     ],
     [
      "skeleton",
-     367
+     371
     ]
    ],
    "topKilledBy": [
@@ -1510,19 +1510,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-27T15:17:57Z",
-   "playTicks": 1031776,
+   "lastSeen": "2026-10-27T15:20:50Z",
+   "playTicks": 1035249,
    "deaths": 6,
-   "mobKills": 1793,
+   "mobKills": 1794,
    "playerKills": 1,
    "killedByPlayers": 5,
-   "damageDealt": 39128,
-   "damageTaken": 15708,
-   "distanceCm": 14246921,
-   "walkCm": 4445346,
-   "flyCm": 7529122,
-   "jumps": 13098,
-   "mined": 7222,
+   "damageDealt": 39288,
+   "damageTaken": 15817,
+   "distanceCm": 14459264,
+   "walkCm": 4465101,
+   "flyCm": 7717996,
+   "jumps": 13138,
+   "mined": 7236,
    "topMined": [
     [
      "stone",
@@ -3051,8 +3051,8 @@
     "rendered": "2026-10-27T15:05:57Z"
    },
    "6.-1": {
-    "mtime": "2026-10-17T17:31:37Z",
-    "rendered": "2026-10-27T05:09:50Z"
+    "mtime": "2026-10-27T15:21:51Z",
+    "rendered": "2026-10-27T15:21:25Z"
    },
    "7.0": {
     "mtime": "2026-10-17T17:31:53Z",
