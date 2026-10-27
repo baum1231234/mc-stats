@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T09:47:30Z",
+ "updated": "2026-10-27T09:50:41Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 19362358,
+ "serverTicks": 19366540,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -113,18 +113,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-27T09:46:50Z",
-   "playTicks": 7698859,
+   "lastSeen": "2026-10-27T09:50:19Z",
+   "playTicks": 7703041,
    "deaths": 2,
    "mobKills": 5354,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 572339,
    "damageTaken": 28796,
-   "distanceCm": 80940332,
-   "walkCm": 34707300,
-   "flyCm": 29932075,
-   "jumps": 75664,
+   "distanceCm": 80961203,
+   "walkCm": 34720462,
+   "flyCm": 29939246,
+   "jumps": 75692,
    "mined": 138751,
    "topMined": [
     [
@@ -1278,18 +1278,18 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-27T09:46:50Z",
-   "playTicks": 2542666,
+   "lastSeen": "2026-10-27T09:50:19Z",
+   "playTicks": 2546848,
    "deaths": 0,
    "mobKills": 1204,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 99767,
-   "damageTaken": 11849,
-   "distanceCm": 16799313,
-   "walkCm": 9279028,
-   "flyCm": 3799986,
-   "jumps": 17171,
+   "damageTaken": 12088,
+   "distanceCm": 16880543,
+   "walkCm": 9291547,
+   "flyCm": 3851707,
+   "jumps": 17216,
    "mined": 63759,
    "topMined": [
     [
@@ -1305,7 +1305,7 @@
      5031
     ]
    ],
-   "crafted": 53058,
+   "crafted": 53060,
    "topCrafted": [
     [
      "stick",
