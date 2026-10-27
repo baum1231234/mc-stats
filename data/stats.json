@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T09:32:26Z",
+ "updated": "2026-10-27T09:35:24Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 19344358,
+ "serverTicks": 19348567,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -113,19 +113,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-27T09:31:50Z",
-   "playTicks": 7680859,
+   "lastSeen": "2026-10-27T09:35:20Z",
+   "playTicks": 7685068,
    "deaths": 2,
    "mobKills": 5354,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 572339,
    "damageTaken": 28796,
-   "distanceCm": 80679005,
-   "walkCm": 34527727,
-   "flyCm": 29852143,
-   "jumps": 75507,
-   "mined": 137771,
+   "distanceCm": 80750599,
+   "walkCm": 34573026,
+   "flyCm": 29878438,
+   "jumps": 75517,
+   "mined": 138099,
    "topMined": [
     [
      "netherrack",
@@ -133,11 +133,11 @@
     ],
     [
      "stone",
-     17886
+     18138
     ],
     [
      "dirt",
-     14187
+     14196
     ]
    ],
    "crafted": 59549,
@@ -1278,18 +1278,18 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-27T09:31:50Z",
-   "playTicks": 2524666,
+   "lastSeen": "2026-10-27T09:35:20Z",
+   "playTicks": 2528875,
    "deaths": 0,
-   "mobKills": 626,
+   "mobKills": 757,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 58901,
-   "damageTaken": 10498,
-   "distanceCm": 16752830,
-   "walkCm": 9237453,
+   "damageDealt": 69694,
+   "damageTaken": 10951,
+   "distanceCm": 16764098,
+   "walkCm": 9248721,
    "flyCm": 3799986,
-   "jumps": 16870,
+   "jumps": 16931,
    "mined": 63758,
    "topMined": [
     [
@@ -1322,16 +1322,16 @@
    ],
    "topKilled": [
     [
+     "guardian",
+     200
+    ],
+    [
      "zombie",
      190
     ],
     [
      "creeper",
      134
-    ],
-    [
-     "skeleton",
-     92
     ]
    ],
    "topKilledBy": [],
@@ -2381,8 +2381,8 @@
     "rendered": "2026-10-27T09:32:26Z"
    },
    "0.-6": {
-    "mtime": "2026-10-27T06:32:27Z",
-    "rendered": "2026-10-27T06:34:11Z"
+    "mtime": "2026-10-27T09:12:45Z",
+    "rendered": "2026-10-27T09:35:24Z"
    },
    "2.-4": {
     "mtime": "2026-10-25T19:20:13Z",
@@ -2465,8 +2465,8 @@
     "rendered": "2026-10-27T09:11:06Z"
    },
    "-2.-5": {
-    "mtime": "2026-10-27T06:32:41Z",
-    "rendered": "2026-10-27T06:34:11Z"
+    "mtime": "2026-10-27T09:13:00Z",
+    "rendered": "2026-10-27T09:35:24Z"
    },
    "-3.6": {
     "mtime": "2026-10-26T21:38:00Z",
@@ -2481,8 +2481,8 @@
     "rendered": "2026-10-27T08:07:46Z"
    },
    "0.-5": {
-    "mtime": "2026-10-27T06:32:41Z",
-    "rendered": "2026-10-27T06:34:11Z"
+    "mtime": "2026-10-27T09:12:28Z",
+    "rendered": "2026-10-27T09:35:24Z"
    },
    "2.-2": {
     "mtime": "2026-10-25T19:19:10Z",
@@ -2541,8 +2541,8 @@
     "rendered": "2026-10-27T09:30:37Z"
    },
    "-2.-7": {
-    "mtime": "2026-10-27T06:32:31Z",
-    "rendered": "2026-10-27T06:34:11Z"
+    "mtime": "2026-10-27T09:13:00Z",
+    "rendered": "2026-10-27T09:35:24Z"
    },
    "-3.-6": {
     "mtime": "2026-10-26T19:13:36Z",
