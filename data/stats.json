@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-28T21:29:44Z",
+ "updated": "2026-10-28T21:31:17Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 20390382,
+ "serverTicks": 20396382,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -586,8 +586,8 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-28T21:25:41Z",
-   "playTicks": 4377016,
+   "lastSeen": "2026-10-28T21:30:41Z",
+   "playTicks": 4383016,
    "deaths": 2,
    "mobKills": 1713,
    "playerKills": 0,
@@ -1038,19 +1038,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-28T21:25:41Z",
-   "playTicks": 3177481,
+   "lastSeen": "2026-10-28T21:30:41Z",
+   "playTicks": 3183481,
    "deaths": 0,
-   "mobKills": 1947,
+   "mobKills": 1948,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 143843,
-   "damageTaken": 18168,
-   "distanceCm": 22718751,
-   "walkCm": 11801327,
-   "flyCm": 6774378,
-   "jumps": 21781,
-   "mined": 69770,
+   "damageDealt": 143923,
+   "damageTaken": 18239,
+   "distanceCm": 22764418,
+   "walkCm": 11818350,
+   "flyCm": 6801976,
+   "jumps": 21833,
+   "mined": 69853,
    "topMined": [
     [
      "netherrack",
@@ -1065,19 +1065,19 @@
      5403
     ]
    ],
-   "crafted": 78677,
+   "crafted": 79913,
    "topCrafted": [
     [
      "stick",
-     39239
+     39823
     ],
     [
      "spruce_planks",
-     16460
+     16752
     ],
     [
      "iron_ingot",
-     5003
+     5309
     ]
    ],
    "topKilled": [
@@ -1087,7 +1087,7 @@
     ],
     [
      "zombie",
-     213
+     214
     ],
     [
      "creeper",
@@ -2630,8 +2630,8 @@
     "rendered": "2026-10-28T20:03:12Z"
    },
    "4.1": {
-    "mtime": "2026-10-28T18:30:52Z",
-    "rendered": "2026-10-28T18:31:12Z"
+    "mtime": "2026-10-28T18:47:25Z",
+    "rendered": "2026-10-28T21:31:17Z"
    },
    "3.-2": {
     "mtime": "2026-10-28T18:36:16Z",
