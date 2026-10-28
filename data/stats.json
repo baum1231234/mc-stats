@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-28T20:20:00Z",
+ "updated": "2026-10-28T20:21:30Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 20306382,
+ "serverTicks": 20312382,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,19 +228,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-28T20:15:41Z",
-   "playTicks": 5869322,
+   "lastSeen": "2026-10-28T20:20:41Z",
+   "playTicks": 5875322,
    "deaths": 0,
-   "mobKills": 6426,
+   "mobKills": 6430,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 481335,
-   "damageTaken": 88363,
-   "distanceCm": 66281284,
-   "walkCm": 19288960,
-   "flyCm": 28249779,
-   "jumps": 95396,
-   "mined": 88319,
+   "damageDealt": 482002,
+   "damageTaken": 88458,
+   "distanceCm": 66341825,
+   "walkCm": 19306811,
+   "flyCm": 28287927,
+   "jumps": 95435,
+   "mined": 88335,
    "topMined": [
     [
      "netherrack",
@@ -281,7 +281,7 @@
     ],
     [
      "skeleton",
-     255
+     259
     ]
    ],
    "topKilledBy": [],
@@ -586,19 +586,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-28T20:15:41Z",
-   "playTicks": 4293016,
+   "lastSeen": "2026-10-28T20:20:41Z",
+   "playTicks": 4299016,
    "deaths": 2,
    "mobKills": 1631,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 154017,
-   "damageTaken": 40802,
-   "distanceCm": 43562580,
-   "walkCm": 17849514,
-   "flyCm": 16445045,
-   "jumps": 76836,
-   "mined": 120357,
+   "damageTaken": 40808,
+   "distanceCm": 43708668,
+   "walkCm": 17911262,
+   "flyCm": 16526621,
+   "jumps": 76886,
+   "mined": 121722,
    "topMined": [
     [
      "netherrack",
@@ -606,7 +606,7 @@
     ],
     [
      "stone",
-     33803
+     35134
     ],
     [
      "waxed_copper_block",
@@ -812,18 +812,18 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-28T20:15:41Z",
-   "playTicks": 3872281,
+   "lastSeen": "2026-10-28T20:20:41Z",
+   "playTicks": 3878281,
    "deaths": 3,
-   "mobKills": 4519,
+   "mobKills": 4543,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 340321,
-   "damageTaken": 40423,
-   "distanceCm": 44777169,
-   "walkCm": 14835041,
-   "flyCm": 11555576,
-   "jumps": 51308,
+   "damageDealt": 340817,
+   "damageTaken": 40454,
+   "distanceCm": 45085428,
+   "walkCm": 14850101,
+   "flyCm": 11825135,
+   "jumps": 51320,
    "mined": 51687,
    "topMined": [
     [
@@ -861,11 +861,11 @@
     ],
     [
      "skeleton",
-     669
+     680
     ],
     [
      "zombie",
-     577
+     579
     ]
    ],
    "topKilledBy": [
@@ -1038,19 +1038,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-28T20:15:41Z",
-   "playTicks": 3093481,
+   "lastSeen": "2026-10-28T20:20:41Z",
+   "playTicks": 3099481,
    "deaths": 0,
    "mobKills": 1930,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 141090,
    "damageTaken": 15604,
-   "distanceCm": 22155903,
-   "walkCm": 11588823,
-   "flyCm": 6460483,
-   "jumps": 21055,
-   "mined": 69165,
+   "distanceCm": 22178207,
+   "walkCm": 11607638,
+   "flyCm": 6463022,
+   "jumps": 21131,
+   "mined": 69420,
    "topMined": [
     [
      "netherrack",
@@ -1065,15 +1065,15 @@
      5403
     ]
    ],
-   "crafted": 75154,
+   "crafted": 75487,
    "topCrafted": [
     [
      "stick",
-     36951
+     37207
     ],
     [
      "spruce_planks",
-     15380
+     15444
     ],
     [
      "iron_ingot",
