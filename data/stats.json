@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T20:15:37Z",
+ "updated": "2026-10-28T20:17:06Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 20306382,
  "players": [
@@ -586,19 +586,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-28T20:10:41Z",
-   "playTicks": 4287016,
+   "lastSeen": "2026-10-28T20:15:41Z",
+   "playTicks": 4293016,
    "deaths": 2,
-   "mobKills": 1628,
+   "mobKills": 1631,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 153617,
-   "damageTaken": 40798,
-   "distanceCm": 43481209,
-   "walkCm": 17781732,
-   "flyCm": 16433080,
-   "jumps": 76784,
-   "mined": 118563,
+   "damageDealt": 154017,
+   "damageTaken": 40802,
+   "distanceCm": 43562580,
+   "walkCm": 17849514,
+   "flyCm": 16445045,
+   "jumps": 76836,
+   "mined": 120357,
    "topMined": [
     [
      "netherrack",
@@ -606,7 +606,7 @@
     ],
     [
      "stone",
-     32029
+     33803
     ],
     [
      "waxed_copper_block",
@@ -639,7 +639,7 @@
     ],
     [
      "zombie",
-     156
+     158
     ]
    ],
    "topKilledBy": [
@@ -812,19 +812,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-28T20:10:41Z",
-   "playTicks": 3866281,
+   "lastSeen": "2026-10-28T20:15:41Z",
+   "playTicks": 3872281,
    "deaths": 3,
-   "mobKills": 4485,
+   "mobKills": 4519,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 339583,
-   "damageTaken": 40356,
-   "distanceCm": 44544912,
-   "walkCm": 14825014,
-   "flyCm": 11365483,
-   "jumps": 51277,
-   "mined": 51686,
+   "damageDealt": 340321,
+   "damageTaken": 40423,
+   "distanceCm": 44777169,
+   "walkCm": 14835041,
+   "flyCm": 11555576,
+   "jumps": 51308,
+   "mined": 51687,
    "topMined": [
     [
      "netherrack",
@@ -861,11 +861,11 @@
     ],
     [
      "skeleton",
-     656
+     669
     ],
     [
      "zombie",
-     568
+     577
     ]
    ],
    "topKilledBy": [
