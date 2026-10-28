@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-28T16:54:24Z",
+ "updated": "2026-10-28T16:56:03Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 20068451,
+ "serverTicks": 20072382,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-28T16:52:47Z",
-   "playTicks": 8448653,
+   "lastSeen": "2026-10-28T16:56:03Z",
+   "playTicks": 8452584,
    "deaths": 0,
    "mobKills": 5037,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 647259,
    "damageTaken": 103218,
-   "distanceCm": 136197628,
-   "walkCm": 34531278,
-   "flyCm": 52967008,
-   "jumps": 180906,
-   "mined": 88620,
+   "distanceCm": 136208183,
+   "walkCm": 34540550,
+   "flyCm": 52968291,
+   "jumps": 180915,
+   "mined": 88645,
    "topMined": [
     [
      "netherrack",
@@ -1510,18 +1510,18 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-28T16:52:47Z",
-   "playTicks": 1061349,
+   "lastSeen": "2026-10-28T16:56:03Z",
+   "playTicks": 1065280,
    "deaths": 6,
-   "mobKills": 1795,
+   "mobKills": 1799,
    "playerKills": 1,
    "killedByPlayers": 5,
-   "damageDealt": 39348,
-   "damageTaken": 16216,
-   "distanceCm": 15305905,
-   "walkCm": 4558890,
-   "flyCm": 8434005,
-   "jumps": 13484,
+   "damageDealt": 40136,
+   "damageTaken": 16280,
+   "distanceCm": 15525799,
+   "walkCm": 4584235,
+   "flyCm": 8626059,
+   "jumps": 13531,
    "mined": 7298,
    "topMined": [
     [
@@ -1559,7 +1559,7 @@
     ],
     [
      "zombie",
-     31
+     35
     ],
     [
      "skeleton",
@@ -2381,8 +2381,8 @@
     "rendered": "2026-10-28T09:43:45Z"
    },
    "1.-4": {
-    "mtime": "2026-10-27T09:11:38Z",
-    "rendered": "2026-10-27T09:12:53Z"
+    "mtime": "2026-10-28T16:56:23Z",
+    "rendered": "2026-10-28T16:56:03Z"
    },
    "-2.4": {
     "mtime": "2026-10-27T18:40:47Z",
@@ -2397,8 +2397,8 @@
     "rendered": "2026-10-28T12:46:38Z"
    },
    "2.-4": {
-    "mtime": "2026-10-27T15:15:59Z",
-    "rendered": "2026-10-27T17:59:12Z"
+    "mtime": "2026-10-28T16:56:23Z",
+    "rendered": "2026-10-28T16:56:03Z"
    },
    "2.-1": {
     "mtime": "2026-10-28T16:53:05Z",
@@ -2445,8 +2445,8 @@
     "rendered": "2026-10-28T15:43:48Z"
    },
    "0.-3": {
-    "mtime": "2026-10-27T09:12:00Z",
-    "rendered": "2026-10-27T11:09:36Z"
+    "mtime": "2026-10-28T16:55:39Z",
+    "rendered": "2026-10-28T16:56:03Z"
    },
    "1.-2": {
     "mtime": "2026-10-28T15:41:18Z",
