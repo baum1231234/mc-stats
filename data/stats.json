@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-28T20:45:00Z",
+ "updated": "2026-10-28T20:46:29Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 20336382,
+ "serverTicks": 20342382,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,19 +228,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-28T20:40:41Z",
-   "playTicks": 5899322,
+   "lastSeen": "2026-10-28T20:45:41Z",
+   "playTicks": 5905322,
    "deaths": 0,
-   "mobKills": 6441,
+   "mobKills": 6541,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 484238,
-   "damageTaken": 88708,
-   "distanceCm": 66572391,
-   "walkCm": 19497858,
-   "flyCm": 28324365,
-   "jumps": 95525,
-   "mined": 91041,
+   "damageDealt": 487708,
+   "damageTaken": 88854,
+   "distanceCm": 66691183,
+   "walkCm": 19508983,
+   "flyCm": 28426907,
+   "jumps": 95586,
+   "mined": 91042,
    "topMined": [
     [
      "netherrack",
@@ -273,7 +273,7 @@
    "topKilled": [
     [
      "guardian",
-     4296
+     4396
     ],
     [
      "zombie",
@@ -586,8 +586,8 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-28T20:40:41Z",
-   "playTicks": 4323016,
+   "lastSeen": "2026-10-28T20:45:41Z",
+   "playTicks": 4329016,
    "deaths": 2,
    "mobKills": 1708,
    "playerKills": 0,
@@ -1038,19 +1038,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-28T20:40:41Z",
-   "playTicks": 3123481,
+   "lastSeen": "2026-10-28T20:45:41Z",
+   "playTicks": 3129481,
    "deaths": 0,
-   "mobKills": 1936,
+   "mobKills": 1944,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 141921,
-   "damageTaken": 16299,
-   "distanceCm": 22294726,
-   "walkCm": 11647158,
-   "flyCm": 6528543,
-   "jumps": 21305,
-   "mined": 69488,
+   "damageDealt": 142677,
+   "damageTaken": 16489,
+   "distanceCm": 22319950,
+   "walkCm": 11662331,
+   "flyCm": 6536589,
+   "jumps": 21327,
+   "mined": 69514,
    "topMined": [
     [
      "netherrack",
@@ -1087,7 +1087,7 @@
     ],
     [
      "zombie",
-     204
+     212
     ],
     [
      "creeper",
