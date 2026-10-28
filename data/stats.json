@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-28T18:04:40Z",
+ "updated": "2026-10-28T18:06:08Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 20150382,
+ "serverTicks": 20156382,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -923,19 +923,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-28T18:01:03Z",
-   "playTicks": 3206308,
+   "lastSeen": "2026-10-28T18:06:03Z",
+   "playTicks": 3212308,
    "deaths": 7,
-   "mobKills": 6615,
+   "mobKills": 6628,
    "playerKills": 6,
    "killedByPlayers": 3,
-   "damageDealt": 198138,
-   "damageTaken": 32896,
-   "distanceCm": 37077505,
-   "walkCm": 14762083,
-   "flyCm": 12128548,
-   "jumps": 48833,
-   "mined": 62140,
+   "damageDealt": 200167,
+   "damageTaken": 33068,
+   "distanceCm": 37170638,
+   "walkCm": 14789889,
+   "flyCm": 12182276,
+   "jumps": 49007,
+   "mined": 62173,
    "topMined": [
     [
      "netherrack",
@@ -947,7 +947,7 @@
     ],
     [
      "deepslate",
-     5309
+     5325
     ]
    ],
    "crafted": 86136,
@@ -972,11 +972,11 @@
     ],
     [
      "zombie",
-     471
+     479
     ],
     [
      "skeleton",
-     376
+     377
     ]
    ],
    "topKilledBy": [
@@ -1038,19 +1038,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-28T11:52:27Z",
-   "playTicks": 2939449,
+   "lastSeen": "2026-10-28T18:06:03Z",
+   "playTicks": 2943741,
    "deaths": 0,
    "mobKills": 1929,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 140762,
-   "damageTaken": 15375,
-   "distanceCm": 20944351,
-   "walkCm": 10832998,
-   "flyCm": 6035735,
-   "jumps": 20043,
-   "mined": 67702,
+   "damageTaken": 15377,
+   "distanceCm": 20971114,
+   "walkCm": 10846549,
+   "flyCm": 6047096,
+   "jumps": 20115,
+   "mined": 67838,
    "topMined": [
     [
      "netherrack",
@@ -1384,19 +1384,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-28T18:01:03Z",
-   "playTicks": 1681388,
+   "lastSeen": "2026-10-28T18:06:03Z",
+   "playTicks": 1687388,
    "deaths": 30,
    "mobKills": 314,
    "playerKills": 0,
    "killedByPlayers": 4,
    "damageDealt": 26976,
-   "damageTaken": 19799,
-   "distanceCm": 15594700,
-   "walkCm": 7914335,
-   "flyCm": 3942478,
-   "jumps": 22459,
-   "mined": 12142,
+   "damageTaken": 19878,
+   "distanceCm": 15702655,
+   "walkCm": 7927040,
+   "flyCm": 3993345,
+   "jumps": 22531,
+   "mined": 12143,
    "topMined": [
     [
      "stone",
