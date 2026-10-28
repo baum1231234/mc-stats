@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-28T20:06:30Z",
+ "updated": "2026-10-28T20:08:11Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 20294382,
+ "serverTicks": 20297386,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,19 +228,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-28T20:05:41Z",
-   "playTicks": 5857322,
+   "lastSeen": "2026-10-28T20:08:11Z",
+   "playTicks": 5860326,
    "deaths": 0,
-   "mobKills": 6424,
+   "mobKills": 6426,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 481015,
-   "damageTaken": 88347,
-   "distanceCm": 66240656,
-   "walkCm": 19264253,
-   "flyCm": 28233858,
-   "jumps": 95355,
-   "mined": 88277,
+   "damageDealt": 481335,
+   "damageTaken": 88363,
+   "distanceCm": 66277835,
+   "walkCm": 19288027,
+   "flyCm": 28247263,
+   "jumps": 95391,
+   "mined": 88319,
    "topMined": [
     [
      "netherrack",
@@ -248,7 +248,7 @@
     ],
     [
      "stone",
-     12517
+     12558
     ],
     [
      "snow_block",
@@ -586,19 +586,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-28T20:05:41Z",
-   "playTicks": 4281016,
+   "lastSeen": "2026-10-28T20:08:11Z",
+   "playTicks": 4284020,
    "deaths": 2,
    "mobKills": 1628,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 153617,
-   "damageTaken": 40785,
-   "distanceCm": 43422139,
-   "walkCm": 17738846,
-   "flyCm": 16419054,
-   "jumps": 76691,
-   "mined": 118188,
+   "damageTaken": 40798,
+   "distanceCm": 43449867,
+   "walkCm": 17760809,
+   "flyCm": 16423099,
+   "jumps": 76720,
+   "mined": 118539,
    "topMined": [
     [
      "netherrack",
@@ -606,7 +606,7 @@
     ],
     [
      "stone",
-     31846
+     32009
     ],
     [
      "waxed_copper_block",
@@ -812,8 +812,8 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-28T20:05:41Z",
-   "playTicks": 3860281,
+   "lastSeen": "2026-10-28T20:08:11Z",
+   "playTicks": 3863285,
    "deaths": 3,
    "mobKills": 4485,
    "playerKills": 0,
@@ -1038,19 +1038,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-28T20:05:41Z",
-   "playTicks": 3081481,
+   "lastSeen": "2026-10-28T20:08:11Z",
+   "playTicks": 3084485,
    "deaths": 0,
    "mobKills": 1930,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 141090,
    "damageTaken": 15600,
-   "distanceCm": 22084866,
-   "walkCm": 11554053,
-   "flyCm": 6430473,
-   "jumps": 20924,
-   "mined": 68834,
+   "distanceCm": 22119212,
+   "walkCm": 11563512,
+   "flyCm": 6454761,
+   "jumps": 20960,
+   "mined": 68860,
    "topMined": [
     [
      "netherrack",
@@ -1065,7 +1065,7 @@
      5403
     ]
    ],
-   "crafted": 71440,
+   "crafted": 71566,
    "topCrafted": [
     [
      "stick",
@@ -3225,12 +3225,12 @@
     "rendered": "2026-10-20T01:06:04Z"
    },
    "1.-9": {
-    "mtime": "2026-10-28T17:01:37Z",
-    "rendered": "2026-10-28T17:06:00Z"
+    "mtime": "2026-10-28T18:40:57Z",
+    "rendered": "2026-10-28T20:08:11Z"
    },
    "2.-8": {
-    "mtime": "2026-10-28T17:02:01Z",
-    "rendered": "2026-10-28T17:07:40Z"
+    "mtime": "2026-10-28T18:40:57Z",
+    "rendered": "2026-10-28T20:08:11Z"
    },
    "3.-7": {
     "mtime": "2026-10-28T16:58:49Z",
@@ -3440,8 +3440,8 @@
     "rendered": "2026-10-17T21:20:09Z"
    },
    "3.-8": {
-    "mtime": "2026-10-28T17:00:00Z",
-    "rendered": "2026-10-28T17:07:40Z"
+    "mtime": "2026-10-28T18:40:57Z",
+    "rendered": "2026-10-28T20:08:11Z"
    },
    "4.-7": {
     "mtime": "2026-10-17T19:52:06Z",
@@ -3452,8 +3452,8 @@
     "rendered": "2026-10-28T18:22:22Z"
    },
    "2.-9": {
-    "mtime": "2026-10-28T17:01:40Z",
-    "rendered": "2026-10-28T17:07:40Z"
+    "mtime": "2026-10-28T18:40:57Z",
+    "rendered": "2026-10-28T20:08:11Z"
    },
    "7.-4": {
     "mtime": "2026-10-21T01:17:16Z",
