@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-28T07:44:06Z",
+ "updated": "2026-10-28T07:48:45Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 19682821,
+ "serverTicks": 19688821,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1157,6 +1157,112 @@
    }
   },
   {
+   "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
+   "name": "snacx_27",
+   "firstSeen": "2026-10-13T07:04:58Z",
+   "lastSeen": "2026-10-28T07:48:49Z",
+   "playTicks": 2647088,
+   "deaths": 0,
+   "mobKills": 1907,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 135998,
+   "damageTaken": 14435,
+   "distanceCm": 18861225,
+   "walkCm": 9570005,
+   "flyCm": 5475190,
+   "jumps": 17927,
+   "mined": 64217,
+   "topMined": [
+    [
+     "netherrack",
+     31593
+    ],
+    [
+     "deepslate",
+     5471
+    ],
+    [
+     "stone",
+     5037
+    ]
+   ],
+   "crafted": 53794,
+   "topCrafted": [
+    [
+     "stick",
+     25018
+    ],
+    [
+     "spruce_planks",
+     9568
+    ],
+    [
+     "iron_ingot",
+     4571
+    ]
+   ],
+   "topKilled": [
+    [
+     "guardian",
+     1342
+    ],
+    [
+     "zombie",
+     192
+    ],
+    [
+     "creeper",
+     135
+    ]
+   ],
+   "topKilledBy": [],
+   "adv": {
+    "count": 31,
+    "byTab": {
+     "story": 9,
+     "husbandry": 5,
+     "adventure": 10,
+     "nether": 6,
+     "end": 1
+    },
+    "recent": [
+     [
+      "end/elytra",
+      "2026-10-27T09:09:57Z"
+     ],
+     [
+      "husbandry/wax_on",
+      "2026-10-23T20:21:19Z"
+     ],
+     [
+      "adventure/totem_of_undying",
+      "2026-10-22T19:08:06Z"
+     ],
+     [
+      "nether/netherite_armor",
+      "2026-10-22T17:13:46Z"
+     ],
+     [
+      "husbandry/plant_seed",
+      "2026-10-20T09:19:44Z"
+     ],
+     [
+      "nether/return_to_sender",
+      "2026-10-20T08:28:02Z"
+     ],
+     [
+      "nether/obtain_blaze_rod",
+      "2026-10-20T07:25:57Z"
+     ],
+     [
+      "nether/get_wither_skull",
+      "2026-10-20T07:22:45Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "4188cb0a-a5ee-41cd-8baa-8c6ecd219ee1",
    "name": "imoptimalfall187",
    "firstSeen": "2026-10-13T19:10:19Z",
@@ -1270,112 +1376,6 @@
      [
       "story/shiny_gear",
       "2026-10-13T12:34:11Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
-   "name": "snacx_27",
-   "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-28T07:43:49Z",
-   "playTicks": 2641088,
-   "deaths": 0,
-   "mobKills": 1906,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 135798,
-   "damageTaken": 14389,
-   "distanceCm": 18836970,
-   "walkCm": 9559841,
-   "flyCm": 5474341,
-   "jumps": 17857,
-   "mined": 64142,
-   "topMined": [
-    [
-     "netherrack",
-     31593
-    ],
-    [
-     "deepslate",
-     5471
-    ],
-    [
-     "stone",
-     5037
-    ]
-   ],
-   "crafted": 53794,
-   "topCrafted": [
-    [
-     "stick",
-     25018
-    ],
-    [
-     "spruce_planks",
-     9568
-    ],
-    [
-     "iron_ingot",
-     4571
-    ]
-   ],
-   "topKilled": [
-    [
-     "guardian",
-     1342
-    ],
-    [
-     "zombie",
-     192
-    ],
-    [
-     "creeper",
-     134
-    ]
-   ],
-   "topKilledBy": [],
-   "adv": {
-    "count": 31,
-    "byTab": {
-     "story": 9,
-     "husbandry": 5,
-     "adventure": 10,
-     "nether": 6,
-     "end": 1
-    },
-    "recent": [
-     [
-      "end/elytra",
-      "2026-10-27T09:09:57Z"
-     ],
-     [
-      "husbandry/wax_on",
-      "2026-10-23T20:21:19Z"
-     ],
-     [
-      "adventure/totem_of_undying",
-      "2026-10-22T19:08:06Z"
-     ],
-     [
-      "nether/netherite_armor",
-      "2026-10-22T17:13:46Z"
-     ],
-     [
-      "husbandry/plant_seed",
-      "2026-10-20T09:19:44Z"
-     ],
-     [
-      "nether/return_to_sender",
-      "2026-10-20T08:28:02Z"
-     ],
-     [
-      "nether/obtain_blaze_rod",
-      "2026-10-20T07:25:57Z"
-     ],
-     [
-      "nether/get_wither_skull",
-      "2026-10-20T07:22:45Z"
      ]
     ]
    }
