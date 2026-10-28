@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T07:08:16Z",
+ "updated": "2026-10-28T07:11:18Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 19640821,
  "players": [
@@ -1278,18 +1278,18 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-28T07:06:51Z",
-   "playTicks": 2596730,
+   "lastSeen": "2026-10-28T07:08:49Z",
+   "playTicks": 2599088,
    "deaths": 0,
-   "mobKills": 1864,
+   "mobKills": 1905,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 133541,
-   "damageTaken": 13171,
-   "distanceCm": 18401432,
-   "walkCm": 9404207,
-   "flyCm": 5250491,
-   "jumps": 17569,
+   "damageDealt": 134798,
+   "damageTaken": 13285,
+   "distanceCm": 18484072,
+   "walkCm": 9413588,
+   "flyCm": 5312510,
+   "jumps": 17604,
    "mined": 63772,
    "topMined": [
     [
@@ -1323,7 +1323,7 @@
    "topKilled": [
     [
      "guardian",
-     1301
+     1342
     ],
     [
      "zombie",
@@ -3756,8 +3756,8 @@
     "rendered": "2026-10-27T05:46:00Z"
    },
    "-7.-3": {
-    "mtime": "2026-10-27T14:18:18Z",
-    "rendered": "2026-10-27T14:18:10Z"
+    "mtime": "2026-10-28T06:47:47Z",
+    "rendered": "2026-10-28T07:11:18Z"
    },
    "-8.-4": {
     "mtime": "2026-10-20T06:35:38Z",
