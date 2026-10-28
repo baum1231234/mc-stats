@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-28T17:31:06Z",
+ "updated": "2026-10-28T17:38:08Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 20114382,
+ "serverTicks": 20122614,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-28T17:31:03Z",
-   "playTicks": 8494584,
+   "lastSeen": "2026-10-28T17:37:55Z",
+   "playTicks": 8502816,
    "deaths": 0,
-   "mobKills": 5037,
+   "mobKills": 5038,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 647259,
-   "damageTaken": 103904,
-   "distanceCm": 136712168,
-   "walkCm": 34765848,
-   "flyCm": 53195734,
-   "jumps": 181303,
-   "mined": 89164,
+   "damageDealt": 647459,
+   "damageTaken": 103916,
+   "distanceCm": 136784534,
+   "walkCm": 34813011,
+   "flyCm": 53218526,
+   "jumps": 181338,
+   "mined": 89234,
    "topMined": [
     [
      "netherrack",
@@ -34,7 +34,7 @@
      6491
     ]
    ],
-   "crafted": 107746,
+   "crafted": 107795,
    "topCrafted": [
     [
      "stick",
@@ -60,7 +60,7 @@
     ],
     [
      "zombie",
-     479
+     480
     ]
    ],
    "topKilledBy": [],
@@ -1384,19 +1384,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-28T17:31:03Z",
-   "playTicks": 1645388,
+   "lastSeen": "2026-10-28T17:37:55Z",
+   "playTicks": 1653620,
    "deaths": 28,
-   "mobKills": 311,
+   "mobKills": 314,
    "playerKills": 0,
    "killedByPlayers": 3,
-   "damageDealt": 26521,
-   "damageTaken": 18958,
-   "distanceCm": 15150286,
-   "walkCm": 7788583,
-   "flyCm": 3853396,
-   "jumps": 22260,
-   "mined": 12071,
+   "damageDealt": 26951,
+   "damageTaken": 18976,
+   "distanceCm": 15284743,
+   "walkCm": 7815860,
+   "flyCm": 3876114,
+   "jumps": 22348,
+   "mined": 12076,
    "topMined": [
     [
      "stone",
@@ -1408,7 +1408,7 @@
     ],
     [
      "dirt",
-     1859
+     1863
     ]
    ],
    "crafted": 18843,
@@ -1429,7 +1429,7 @@
    "topKilled": [
     [
      "zombie",
-     89
+     91
     ],
     [
      "creeper",
@@ -1510,19 +1510,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-28T17:31:03Z",
-   "playTicks": 1107280,
+   "lastSeen": "2026-10-28T17:37:55Z",
+   "playTicks": 1115512,
    "deaths": 6,
-   "mobKills": 1845,
+   "mobKills": 1989,
    "playerKills": 1,
    "killedByPlayers": 5,
    "damageDealt": 40335,
-   "damageTaken": 16887,
-   "distanceCm": 17176863,
-   "walkCm": 4717172,
-   "flyCm": 10104193,
-   "jumps": 13934,
-   "mined": 7320,
+   "damageTaken": 16896,
+   "distanceCm": 17353279,
+   "walkCm": 4751255,
+   "flyCm": 10245012,
+   "jumps": 14018,
+   "mined": 7324,
    "topMined": [
     [
      "stone",
@@ -1555,7 +1555,7 @@
    "topKilled": [
     [
      "silverfish",
-     1160
+     1212
     ],
     [
      "zombie",
