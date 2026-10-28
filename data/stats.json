@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T19:18:43Z",
+ "updated": "2026-10-28T19:21:41Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 20240382,
  "players": [
@@ -1510,19 +1510,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-28T19:16:37Z",
-   "playTicks": 1181561,
+   "lastSeen": "2026-10-28T19:21:36Z",
+   "playTicks": 1186664,
    "deaths": 6,
-   "mobKills": 2006,
+   "mobKills": 2008,
    "playerKills": 1,
    "killedByPlayers": 5,
-   "damageDealt": 43664,
-   "damageTaken": 19788,
-   "distanceCm": 19317947,
-   "walkCm": 4988656,
-   "flyCm": 11827745,
-   "jumps": 14743,
-   "mined": 7748,
+   "damageDealt": 44064,
+   "damageTaken": 19902,
+   "distanceCm": 19414971,
+   "walkCm": 5041877,
+   "flyCm": 11868973,
+   "jumps": 14866,
+   "mined": 7751,
    "topMined": [
     [
      "stone",
@@ -1577,15 +1577,19 @@
     ]
    ],
    "adv": {
-    "count": 33,
+    "count": 34,
     "byTab": {
      "story": 11,
      "husbandry": 2,
      "adventure": 11,
-     "nether": 5,
+     "nether": 6,
      "end": 4
     },
     "recent": [
+     [
+      "nether/obtain_blaze_rod",
+      "2026-10-28T19:20:46Z"
+     ],
      [
       "nether/find_fortress",
       "2026-10-28T19:00:28Z"
@@ -1613,10 +1617,6 @@
      [
       "end/find_end_city",
       "2026-10-25T17:30:40Z"
-     ],
-     [
-      "end/enter_end_gateway",
-      "2026-10-25T17:19:24Z"
      ]
     ]
    }
