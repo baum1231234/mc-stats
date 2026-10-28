@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-28T19:42:43Z",
+ "updated": "2026-10-28T19:45:37Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 20264382,
+ "serverTicks": 20270382,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-10-28T19:40:23Z",
-   "playTicks": 8608691,
+   "lastSeen": "2026-10-28T19:45:41Z",
+   "playTicks": 8614691,
    "deaths": 0,
    "mobKills": 5040,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 647969,
-   "damageTaken": 104968,
-   "distanceCm": 138573916,
-   "walkCm": 35374274,
-   "flyCm": 54340645,
-   "jumps": 182694,
-   "mined": 90160,
+   "damageTaken": 105030,
+   "distanceCm": 138641692,
+   "walkCm": 35408762,
+   "flyCm": 54368106,
+   "jumps": 182752,
+   "mined": 90221,
    "topMined": [
     [
      "netherrack",
@@ -27,22 +27,22 @@
     ],
     [
      "spruce_log",
-     7852
+     7912
     ],
     [
      "stone",
      6491
     ]
    ],
-   "crafted": 110863,
+   "crafted": 111661,
    "topCrafted": [
     [
      "stick",
-     57005
+     57545
     ],
     [
      "spruce_planks",
-     30353
+     30592
     ],
     [
      "spruce_slab",
@@ -228,19 +228,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-28T19:40:23Z",
-   "playTicks": 5827322,
+   "lastSeen": "2026-10-28T19:45:41Z",
+   "playTicks": 5833322,
    "deaths": 0,
-   "mobKills": 6421,
+   "mobKills": 6422,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 480607,
-   "damageTaken": 88192,
-   "distanceCm": 65889655,
-   "walkCm": 19024886,
-   "flyCm": 28134015,
-   "jumps": 95115,
-   "mined": 84879,
+   "damageDealt": 480757,
+   "damageTaken": 88269,
+   "distanceCm": 65977970,
+   "walkCm": 19065838,
+   "flyCm": 28174112,
+   "jumps": 95179,
+   "mined": 85415,
    "topMined": [
     [
      "netherrack",
@@ -248,7 +248,7 @@
     ],
     [
      "stone",
-     9199
+     9729
     ],
     [
      "snow_block",
@@ -277,7 +277,7 @@
     ],
     [
      "zombie",
-     328
+     329
     ],
     [
      "skeleton",
@@ -1038,19 +1038,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-28T19:40:23Z",
-   "playTicks": 3051481,
+   "lastSeen": "2026-10-28T19:45:41Z",
+   "playTicks": 3057481,
    "deaths": 0,
    "mobKills": 1930,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 141090,
    "damageTaken": 15592,
-   "distanceCm": 21903362,
-   "walkCm": 11433150,
-   "flyCm": 6377197,
-   "jumps": 20784,
-   "mined": 68726,
+   "distanceCm": 21912495,
+   "walkCm": 11441561,
+   "flyCm": 6377919,
+   "jumps": 20786,
+   "mined": 68735,
    "topMined": [
     [
      "netherrack",
@@ -1065,7 +1065,7 @@
      5403
     ]
    ],
-   "crafted": 71364,
+   "crafted": 71382,
    "topCrafted": [
     [
      "stick",
