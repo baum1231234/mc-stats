@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T07:28:02Z",
+ "updated": "2026-10-29T07:33:53Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 20857015,
+ "serverTicks": 20863015,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -460,8 +460,8 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-29T07:27:56Z",
-   "playTicks": 4841250,
+   "lastSeen": "2026-10-29T07:32:56Z",
+   "playTicks": 4847250,
    "deaths": 2,
    "mobKills": 1713,
    "playerKills": 0,
@@ -1038,19 +1038,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-29T07:27:56Z",
-   "playTicks": 3259194,
+   "lastSeen": "2026-10-29T07:32:56Z",
+   "playTicks": 3265194,
    "deaths": 0,
    "mobKills": 1973,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 150915,
-   "damageTaken": 19615,
-   "distanceCm": 23310910,
-   "walkCm": 12024066,
-   "flyCm": 7056342,
-   "jumps": 22490,
-   "mined": 70579,
+   "damageTaken": 19654,
+   "distanceCm": 23383393,
+   "walkCm": 12042165,
+   "flyCm": 7110726,
+   "jumps": 22514,
+   "mined": 70584,
    "topMined": [
     [
      "netherrack",
@@ -1065,7 +1065,7 @@
      5404
     ]
    ],
-   "crafted": 81364,
+   "crafted": 81493,
    "topCrafted": [
     [
      "stick",
@@ -1096,15 +1096,19 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 31,
+    "count": 32,
     "byTab": {
-     "story": 9,
+     "story": 10,
      "husbandry": 5,
      "adventure": 10,
      "nether": 6,
      "end": 1
     },
     "recent": [
+     [
+      "story/upgrade_tools",
+      "2026-10-29T07:30:02Z"
+     ],
      [
       "end/elytra",
       "2026-10-27T09:09:57Z"
@@ -1132,10 +1136,6 @@
      [
       "nether/obtain_blaze_rod",
       "2026-10-20T07:25:57Z"
-     ],
-     [
-      "nether/get_wither_skull",
-      "2026-10-20T07:22:45Z"
      ]
     ]
    }
