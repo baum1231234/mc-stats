@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T09:14:20Z",
+ "updated": "2026-10-29T09:19:03Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 20983015,
+ "serverTicks": 20989015,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -331,6 +331,121 @@
    }
   },
   {
+   "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
+   "name": "Ogerxy",
+   "firstSeen": "2026-10-11T15:50:26Z",
+   "lastSeen": "2026-10-29T09:17:56Z",
+   "playTicks": 4973250,
+   "deaths": 2,
+   "mobKills": 1713,
+   "playerKills": 0,
+   "killedByPlayers": 1,
+   "damageDealt": 156130,
+   "damageTaken": 40944,
+   "distanceCm": 44348899,
+   "walkCm": 18246522,
+   "flyCm": 16814917,
+   "jumps": 77588,
+   "mined": 126201,
+   "topMined": [
+    [
+     "netherrack",
+     57146
+    ],
+    [
+     "stone",
+     39427
+    ],
+    [
+     "waxed_copper_block",
+     3152
+    ]
+   ],
+   "crafted": 23080,
+   "topCrafted": [
+    [
+     "stick",
+     6287
+    ],
+    [
+     "spruce_planks",
+     3596
+    ],
+    [
+     "emerald",
+     2550
+    ]
+   ],
+   "topKilled": [
+    [
+     "guardian",
+     596
+    ],
+    [
+     "skeleton",
+     163
+    ],
+    [
+     "zombie",
+     159
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "player",
+     1
+    ],
+    [
+     "creeper",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 51,
+    "byTab": {
+     "story": 14,
+     "adventure": 12,
+     "husbandry": 4,
+     "nether": 16,
+     "end": 5
+    },
+    "recent": [
+     [
+      "end/elytra",
+      "2026-10-25T17:31:30Z"
+     ],
+     [
+      "end/find_end_city",
+      "2026-10-25T17:31:08Z"
+     ],
+     [
+      "end/enter_end_gateway",
+      "2026-10-25T17:21:06Z"
+     ],
+     [
+      "end/dragon_egg",
+      "2026-10-25T17:20:16Z"
+     ],
+     [
+      "end/root",
+      "2026-10-25T17:15:08Z"
+     ],
+     [
+      "story/enter_the_end",
+      "2026-10-25T17:15:08Z"
+     ],
+     [
+      "nether/create_beacon",
+      "2026-10-18T16:00:07Z"
+     ],
+     [
+      "nether/create_full_beacon",
+      "2026-10-18T16:00:07Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
@@ -452,121 +567,6 @@
      [
       "nether/fast_travel",
       "2026-10-18T20:57:56Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
-   "name": "Ogerxy",
-   "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-29T09:12:56Z",
-   "playTicks": 4967250,
-   "deaths": 2,
-   "mobKills": 1713,
-   "playerKills": 0,
-   "killedByPlayers": 1,
-   "damageDealt": 156130,
-   "damageTaken": 40944,
-   "distanceCm": 44348899,
-   "walkCm": 18246522,
-   "flyCm": 16814917,
-   "jumps": 77588,
-   "mined": 126201,
-   "topMined": [
-    [
-     "netherrack",
-     57146
-    ],
-    [
-     "stone",
-     39427
-    ],
-    [
-     "waxed_copper_block",
-     3152
-    ]
-   ],
-   "crafted": 23080,
-   "topCrafted": [
-    [
-     "stick",
-     6287
-    ],
-    [
-     "spruce_planks",
-     3596
-    ],
-    [
-     "emerald",
-     2550
-    ]
-   ],
-   "topKilled": [
-    [
-     "guardian",
-     596
-    ],
-    [
-     "skeleton",
-     163
-    ],
-    [
-     "zombie",
-     159
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "player",
-     1
-    ],
-    [
-     "creeper",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 51,
-    "byTab": {
-     "story": 14,
-     "adventure": 12,
-     "husbandry": 4,
-     "nether": 16,
-     "end": 5
-    },
-    "recent": [
-     [
-      "end/elytra",
-      "2026-10-25T17:31:30Z"
-     ],
-     [
-      "end/find_end_city",
-      "2026-10-25T17:31:08Z"
-     ],
-     [
-      "end/enter_end_gateway",
-      "2026-10-25T17:21:06Z"
-     ],
-     [
-      "end/dragon_egg",
-      "2026-10-25T17:20:16Z"
-     ],
-     [
-      "end/root",
-      "2026-10-25T17:15:08Z"
-     ],
-     [
-      "story/enter_the_end",
-      "2026-10-25T17:15:08Z"
-     ],
-     [
-      "nether/create_beacon",
-      "2026-10-18T16:00:07Z"
-     ],
-     [
-      "nether/create_full_beacon",
-      "2026-10-18T16:00:07Z"
      ]
     ]
    }
@@ -923,19 +923,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-29T09:12:56Z",
-   "playTicks": 3385194,
+   "lastSeen": "2026-10-29T09:17:56Z",
+   "playTicks": 3391194,
    "deaths": 0,
    "mobKills": 1979,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 152285,
-   "damageTaken": 19833,
-   "distanceCm": 24184779,
-   "walkCm": 12563680,
-   "flyCm": 7383523,
-   "jumps": 22932,
-   "mined": 72213,
+   "damageTaken": 19881,
+   "distanceCm": 24265844,
+   "walkCm": 12592890,
+   "flyCm": 7434653,
+   "jumps": 22982,
+   "mined": 72215,
    "topMined": [
     [
      "netherrack",
@@ -950,15 +950,15 @@
      5471
     ]
    ],
-   "crafted": 92710,
+   "crafted": 92824,
    "topCrafted": [
     [
      "stick",
-     46382
+     46438
     ],
     [
      "spruce_planks",
-     20128
+     20156
     ],
     [
      "iron_ingot",
