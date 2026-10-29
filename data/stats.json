@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T11:33:35Z",
+ "updated": "2026-10-29T11:38:17Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 21151015,
+ "serverTicks": 21157015,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -113,19 +113,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-29T11:32:56Z",
-   "playTicks": 7728968,
+   "lastSeen": "2026-10-29T11:37:56Z",
+   "playTicks": 7734968,
    "deaths": 2,
    "mobKills": 5354,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 572339,
    "damageTaken": 28796,
-   "distanceCm": 81282802,
-   "walkCm": 34951424,
-   "flyCm": 30028295,
-   "jumps": 75949,
-   "mined": 140957,
+   "distanceCm": 81374462,
+   "walkCm": 35033008,
+   "flyCm": 30038146,
+   "jumps": 75974,
+   "mined": 141720,
    "topMined": [
     [
      "netherrack",
@@ -133,11 +133,11 @@
     ],
     [
      "stone",
-     20165
+     20794
     ],
     [
      "dirt",
-     14242
+     14253
     ]
    ],
    "crafted": 59551,
@@ -334,8 +334,8 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-29T11:32:56Z",
-   "playTicks": 5135250,
+   "lastSeen": "2026-10-29T11:37:56Z",
+   "playTicks": 5141250,
    "deaths": 2,
    "mobKills": 1713,
    "playerKills": 0,
