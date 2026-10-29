@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T20:22:37Z",
+ "updated": "2026-10-29T20:24:17Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 21787015,
  "players": [
@@ -113,18 +113,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-29T20:17:56Z",
-   "playTicks": 7923428,
+   "lastSeen": "2026-10-29T20:22:56Z",
+   "playTicks": 7929428,
    "deaths": 2,
    "mobKills": 5661,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 582032,
-   "damageTaken": 29735,
-   "distanceCm": 86721331,
-   "walkCm": 35898480,
-   "flyCm": 34493930,
-   "jumps": 77353,
+   "damageTaken": 29743,
+   "distanceCm": 86817322,
+   "walkCm": 35908394,
+   "flyCm": 34576764,
+   "jumps": 77386,
    "mined": 148113,
    "topMined": [
     [
@@ -228,18 +228,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-29T20:17:56Z",
-   "playTicks": 5977662,
+   "lastSeen": "2026-10-29T20:22:56Z",
+   "playTicks": 5983662,
    "deaths": 0,
    "mobKills": 6642,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 493079,
-   "damageTaken": 89281,
-   "distanceCm": 67827632,
-   "walkCm": 19877800,
-   "flyCm": 29157239,
-   "jumps": 96102,
+   "damageTaken": 89290,
+   "distanceCm": 67877599,
+   "walkCm": 19888427,
+   "flyCm": 29194360,
+   "jumps": 96142,
    "mined": 96777,
    "topMined": [
     [
@@ -255,11 +255,11 @@
      4688
     ]
    ],
-   "crafted": 98951,
+   "crafted": 99108,
    "topCrafted": [
     [
      "iron_ingot",
-     21333
+     21450
     ],
     [
      "stick",
