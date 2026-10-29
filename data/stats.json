@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T12:38:21Z",
+ "updated": "2026-10-29T12:40:23Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 21229015,
+ "serverTicks": 21230863,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -113,19 +113,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-29T12:37:56Z",
-   "playTicks": 7806968,
+   "lastSeen": "2026-10-29T12:39:28Z",
+   "playTicks": 7808816,
    "deaths": 2,
    "mobKills": 5528,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 578129,
    "damageTaken": 29344,
-   "distanceCm": 83378808,
-   "walkCm": 35491162,
-   "flyCm": 31580100,
-   "jumps": 76770,
-   "mined": 145398,
+   "distanceCm": 83418769,
+   "walkCm": 35529327,
+   "flyCm": 31581896,
+   "jumps": 76775,
+   "mined": 145988,
    "topMined": [
     [
      "netherrack",
@@ -133,7 +133,7 @@
     ],
     [
      "stone",
-     23518
+     24042
     ],
     [
      "dirt",
@@ -334,8 +334,8 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-29T12:37:56Z",
-   "playTicks": 5213250,
+   "lastSeen": "2026-10-29T12:39:28Z",
+   "playTicks": 5215098,
    "deaths": 2,
    "mobKills": 1713,
    "playerKills": 0,
@@ -923,19 +923,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-29T12:37:56Z",
-   "playTicks": 3561701,
+   "lastSeen": "2026-10-29T12:39:28Z",
+   "playTicks": 3563549,
    "deaths": 0,
    "mobKills": 1994,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 154834,
-   "damageTaken": 20276,
-   "distanceCm": 27017892,
-   "walkCm": 13422938,
-   "flyCm": 9285875,
-   "jumps": 23873,
-   "mined": 74050,
+   "damageTaken": 20278,
+   "distanceCm": 27039849,
+   "walkCm": 13437158,
+   "flyCm": 9292900,
+   "jumps": 23899,
+   "mined": 74051,
    "topMined": [
     [
      "netherrack",
@@ -950,7 +950,7 @@
      5672
     ]
    ],
-   "crafted": 97234,
+   "crafted": 97746,
    "topCrafted": [
     [
      "stick",
@@ -2711,8 +2711,8 @@
     "rendered": "2026-10-29T12:00:41Z"
    },
    "-5.4": {
-    "mtime": "2026-10-26T21:02:24Z",
-    "rendered": "2026-10-27T00:03:21Z"
+    "mtime": "2026-10-29T12:33:09Z",
+    "rendered": "2026-10-29T12:40:23Z"
    },
    "-1.6": {
     "mtime": "2026-10-26T15:14:42Z",
@@ -2731,8 +2731,8 @@
     "rendered": "2026-10-28T06:55:48Z"
    },
    "-10.3": {
-    "mtime": "2026-10-20T21:23:26Z",
-    "rendered": "2026-10-21T00:22:54Z"
+    "mtime": "2026-10-29T12:31:51Z",
+    "rendered": "2026-10-29T12:40:23Z"
    },
    "-11.-2": {
     "mtime": "2026-10-27T18:39:00Z",
@@ -2747,12 +2747,12 @@
     "rendered": "2026-10-28T06:55:48Z"
    },
    "-9.2": {
-    "mtime": "2026-10-27T09:28:39Z",
-    "rendered": "2026-10-27T09:30:37Z"
+    "mtime": "2026-10-29T12:31:53Z",
+    "rendered": "2026-10-29T12:40:23Z"
    },
    "-11.4": {
-    "mtime": "2026-10-21T01:17:16Z",
-    "rendered": "2026-10-21T01:17:06Z",
+    "mtime": "2026-10-29T12:31:32Z",
+    "rendered": "2026-10-29T12:40:23Z",
     "empty": true
    },
    "-2.-8": {
