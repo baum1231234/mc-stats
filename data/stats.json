@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T22:16:45Z",
+ "updated": "2026-10-29T22:18:22Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 21919015,
+ "serverTicks": 21925015,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -113,18 +113,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-29T22:12:56Z",
-   "playTicks": 8061428,
+   "lastSeen": "2026-10-29T22:17:56Z",
+   "playTicks": 8067428,
    "deaths": 2,
    "mobKills": 6317,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 586613,
    "damageTaken": 30443,
-   "distanceCm": 88525535,
-   "walkCm": 36250772,
-   "flyCm": 35877088,
-   "jumps": 77634,
+   "distanceCm": 88633066,
+   "walkCm": 36255087,
+   "flyCm": 35937646,
+   "jumps": 77664,
    "mined": 148391,
    "topMined": [
     [
@@ -2388,8 +2388,8 @@
     "rendered": "2026-10-29T19:59:44Z"
    },
    "-2.-6": {
-    "mtime": "2026-10-29T18:19:09Z",
-    "rendered": "2026-10-29T19:16:52Z"
+    "mtime": "2026-10-29T20:21:53Z",
+    "rendered": "2026-10-29T22:18:22Z"
    },
    "1.-4": {
     "mtime": "2026-10-29T18:18:37Z",
@@ -2404,8 +2404,8 @@
     "rendered": "2026-10-29T21:29:43Z"
    },
    "0.-6": {
-    "mtime": "2026-10-29T18:19:01Z",
-    "rendered": "2026-10-29T19:16:52Z"
+    "mtime": "2026-10-29T20:23:10Z",
+    "rendered": "2026-10-29T22:18:22Z"
    },
    "2.-4": {
     "mtime": "2026-10-29T20:25:31Z",
@@ -2504,8 +2504,8 @@
     "rendered": "2026-10-29T21:13:18Z"
    },
    "0.-5": {
-    "mtime": "2026-10-29T18:19:01Z",
-    "rendered": "2026-10-29T19:16:52Z"
+    "mtime": "2026-10-29T20:23:30Z",
+    "rendered": "2026-10-29T22:18:22Z"
    },
    "2.-2": {
     "mtime": "2026-10-29T20:26:26Z",
@@ -3414,6 +3414,10 @@
    "-9.5": {
     "mtime": "2026-10-29T19:56:37Z",
     "rendered": "2026-10-29T20:07:20Z"
+   },
+   "-2.-11": {
+    "mtime": "2026-10-17T17:24:38Z",
+    "rendered": "2026-10-29T22:18:22Z"
    },
    "-3.-10": {
     "mtime": "2026-10-17T17:25:42Z",
