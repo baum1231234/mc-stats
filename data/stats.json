@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T18:07:29Z",
+ "updated": "2026-10-29T18:09:21Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 21625015,
  "players": [
@@ -334,8 +334,8 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-29T18:02:56Z",
-   "playTicks": 5603250,
+   "lastSeen": "2026-10-29T18:07:56Z",
+   "playTicks": 5609250,
    "deaths": 2,
    "mobKills": 1741,
    "playerKills": 0,
@@ -701,19 +701,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-29T18:02:56Z",
-   "playTicks": 4027131,
+   "lastSeen": "2026-10-29T18:07:56Z",
+   "playTicks": 4033131,
    "deaths": 3,
-   "mobKills": 4562,
+   "mobKills": 4628,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 346711,
+   "damageDealt": 347206,
    "damageTaken": 41735,
-   "distanceCm": 48153145,
-   "walkCm": 15268688,
-   "flyCm": 14276502,
-   "jumps": 52556,
-   "mined": 52210,
+   "distanceCm": 48332045,
+   "walkCm": 15274662,
+   "flyCm": 14448351,
+   "jumps": 52572,
+   "mined": 52213,
    "topMined": [
     [
      "netherrack",
@@ -750,11 +750,11 @@
     ],
     [
      "skeleton",
-     680
+     704
     ],
     [
      "zombie",
-     580
+     602
     ]
    ],
    "topKilledBy": [
