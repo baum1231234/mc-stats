@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T01:25:56Z",
+ "updated": "2026-10-29T01:31:37Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 20678382,
+ "serverTicks": 20684382,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -457,6 +457,121 @@
    }
   },
   {
+   "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
+   "name": "Ogerxy",
+   "firstSeen": "2026-10-11T15:50:26Z",
+   "lastSeen": "2026-10-29T01:30:41Z",
+   "playTicks": 4671016,
+   "deaths": 2,
+   "mobKills": 1713,
+   "playerKills": 0,
+   "killedByPlayers": 1,
+   "damageDealt": 156130,
+   "damageTaken": 40941,
+   "distanceCm": 44338647,
+   "walkCm": 18241870,
+   "flyCm": 16810042,
+   "jumps": 77568,
+   "mined": 126195,
+   "topMined": [
+    [
+     "netherrack",
+     57146
+    ],
+    [
+     "stone",
+     39421
+    ],
+    [
+     "waxed_copper_block",
+     3152
+    ]
+   ],
+   "crafted": 23080,
+   "topCrafted": [
+    [
+     "stick",
+     6287
+    ],
+    [
+     "spruce_planks",
+     3596
+    ],
+    [
+     "emerald",
+     2550
+    ]
+   ],
+   "topKilled": [
+    [
+     "guardian",
+     596
+    ],
+    [
+     "skeleton",
+     163
+    ],
+    [
+     "zombie",
+     159
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "player",
+     1
+    ],
+    [
+     "creeper",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 51,
+    "byTab": {
+     "story": 14,
+     "adventure": 12,
+     "husbandry": 4,
+     "nether": 16,
+     "end": 5
+    },
+    "recent": [
+     [
+      "end/elytra",
+      "2026-10-25T17:31:30Z"
+     ],
+     [
+      "end/find_end_city",
+      "2026-10-25T17:31:08Z"
+     ],
+     [
+      "end/enter_end_gateway",
+      "2026-10-25T17:21:06Z"
+     ],
+     [
+      "end/dragon_egg",
+      "2026-10-25T17:20:16Z"
+     ],
+     [
+      "end/root",
+      "2026-10-25T17:15:08Z"
+     ],
+     [
+      "story/enter_the_end",
+      "2026-10-25T17:15:08Z"
+     ],
+     [
+      "nether/create_beacon",
+      "2026-10-18T16:00:07Z"
+     ],
+     [
+      "nether/create_full_beacon",
+      "2026-10-18T16:00:07Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "775e2172-8576-416e-b390-8328646044f9",
    "name": "htxl",
    "firstSeen": "2026-10-14T22:34:53Z",
@@ -578,121 +693,6 @@
      [
       "husbandry/place_dried_ghast_in_water",
       "2026-10-19T00:45:05Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
-   "name": "Ogerxy",
-   "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-29T01:25:41Z",
-   "playTicks": 4665016,
-   "deaths": 2,
-   "mobKills": 1713,
-   "playerKills": 0,
-   "killedByPlayers": 1,
-   "damageDealt": 156130,
-   "damageTaken": 40941,
-   "distanceCm": 44338647,
-   "walkCm": 18241870,
-   "flyCm": 16810042,
-   "jumps": 77568,
-   "mined": 126195,
-   "topMined": [
-    [
-     "netherrack",
-     57146
-    ],
-    [
-     "stone",
-     39421
-    ],
-    [
-     "waxed_copper_block",
-     3152
-    ]
-   ],
-   "crafted": 23080,
-   "topCrafted": [
-    [
-     "stick",
-     6287
-    ],
-    [
-     "spruce_planks",
-     3596
-    ],
-    [
-     "emerald",
-     2550
-    ]
-   ],
-   "topKilled": [
-    [
-     "guardian",
-     596
-    ],
-    [
-     "skeleton",
-     163
-    ],
-    [
-     "zombie",
-     159
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "player",
-     1
-    ],
-    [
-     "creeper",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 51,
-    "byTab": {
-     "story": 14,
-     "adventure": 12,
-     "husbandry": 4,
-     "nether": 16,
-     "end": 5
-    },
-    "recent": [
-     [
-      "end/elytra",
-      "2026-10-25T17:31:30Z"
-     ],
-     [
-      "end/find_end_city",
-      "2026-10-25T17:31:08Z"
-     ],
-     [
-      "end/enter_end_gateway",
-      "2026-10-25T17:21:06Z"
-     ],
-     [
-      "end/dragon_egg",
-      "2026-10-25T17:20:16Z"
-     ],
-     [
-      "end/root",
-      "2026-10-25T17:15:08Z"
-     ],
-     [
-      "story/enter_the_end",
-      "2026-10-25T17:15:08Z"
-     ],
-     [
-      "nether/create_beacon",
-      "2026-10-18T16:00:07Z"
-     ],
-     [
-      "nether/create_full_beacon",
-      "2026-10-18T16:00:07Z"
      ]
     ]
    }
