@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T11:43:05Z",
+ "updated": "2026-10-29T11:47:50Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 21163015,
+ "serverTicks": 21169015,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -113,19 +113,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-29T11:42:56Z",
-   "playTicks": 7740968,
+   "lastSeen": "2026-10-29T11:47:56Z",
+   "playTicks": 7746968,
    "deaths": 2,
-   "mobKills": 5354,
+   "mobKills": 5356,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 572339,
+   "damageDealt": 572719,
    "damageTaken": 28796,
-   "distanceCm": 81439025,
-   "walkCm": 35075897,
-   "flyCm": 30059607,
-   "jumps": 76011,
-   "mined": 142248,
+   "distanceCm": 81545161,
+   "walkCm": 35175740,
+   "flyCm": 30065900,
+   "jumps": 76038,
+   "mined": 143138,
    "topMined": [
     [
      "netherrack",
@@ -133,14 +133,14 @@
     ],
     [
      "stone",
-     21299
+     22029
     ],
     [
      "dirt",
-     14253
+     14279
     ]
    ],
-   "crafted": 59551,
+   "crafted": 59552,
    "topCrafted": [
     [
      "spruce_planks",
@@ -162,7 +162,7 @@
     ],
     [
      "zombie",
-     700
+     702
     ],
     [
      "skeleton",
