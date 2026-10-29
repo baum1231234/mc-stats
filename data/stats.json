@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T17:34:08Z",
+ "updated": "2026-10-29T17:39:04Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 21583015,
+ "serverTicks": 21589015,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -334,8 +334,8 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-29T17:32:56Z",
-   "playTicks": 5567250,
+   "lastSeen": "2026-10-29T17:37:56Z",
+   "playTicks": 5573250,
    "deaths": 2,
    "mobKills": 1741,
    "playerKills": 0,
@@ -812,18 +812,18 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-29T17:32:56Z",
-   "playTicks": 3991131,
+   "lastSeen": "2026-10-29T17:37:56Z",
+   "playTicks": 3997131,
    "deaths": 3,
    "mobKills": 4543,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 341066,
-   "damageTaken": 41347,
-   "distanceCm": 47042471,
-   "walkCm": 15167718,
-   "flyCm": 13291263,
-   "jumps": 52350,
+   "damageTaken": 41407,
+   "distanceCm": 47647205,
+   "walkCm": 15178220,
+   "flyCm": 13879746,
+   "jumps": 52366,
    "mined": 52196,
    "topMined": [
     [
@@ -875,15 +875,19 @@
     ]
    ],
    "adv": {
-    "count": 48,
+    "count": 49,
     "byTab": {
      "story": 14,
      "adventure": 13,
      "husbandry": 7,
      "nether": 11,
-     "end": 3
+     "end": 4
     },
     "recent": [
+     [
+      "end/find_end_city",
+      "2026-10-29T17:34:03Z"
+     ],
      [
       "end/elytra",
       "2026-10-26T14:40:12Z"
@@ -911,10 +915,6 @@
      [
       "adventure/trim_with_any_armor_pattern",
       "2026-10-17T21:13:51Z"
-     ],
-     [
-      "nether/explore_nether",
-      "2026-10-17T19:43:35Z"
      ]
     ]
    }
