@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T17:49:05Z",
+ "updated": "2026-10-29T17:54:00Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 21601015,
+ "serverTicks": 21607015,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -334,8 +334,8 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-29T17:47:56Z",
-   "playTicks": 5585250,
+   "lastSeen": "2026-10-29T17:52:56Z",
+   "playTicks": 5591250,
    "deaths": 2,
    "mobKills": 1741,
    "playerKills": 0,
@@ -698,6 +698,117 @@
    }
   },
   {
+   "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
+   "name": "Dovid1346",
+   "firstSeen": "2026-10-12T15:11:10Z",
+   "lastSeen": "2026-10-29T17:52:56Z",
+   "playTicks": 4015131,
+   "deaths": 3,
+   "mobKills": 4561,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 346511,
+   "damageTaken": 41701,
+   "distanceCm": 48035240,
+   "walkCm": 15249578,
+   "flyCm": 14178317,
+   "jumps": 52505,
+   "mined": 52209,
+   "topMined": [
+    [
+     "netherrack",
+     9886
+    ],
+    [
+     "spruce_log",
+     7875
+    ],
+    [
+     "gravel",
+     6207
+    ]
+   ],
+   "crafted": 132221,
+   "topCrafted": [
+    [
+     "stick",
+     68144
+    ],
+    [
+     "spruce_planks",
+     33131
+    ],
+    [
+     "emerald",
+     3487
+    ]
+   ],
+   "topKilled": [
+    [
+     "guardian",
+     1508
+    ],
+    [
+     "skeleton",
+     680
+    ],
+    [
+     "zombie",
+     579
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "warden",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 49,
+    "byTab": {
+     "story": 14,
+     "adventure": 13,
+     "husbandry": 7,
+     "nether": 11,
+     "end": 4
+    },
+    "recent": [
+     [
+      "end/find_end_city",
+      "2026-10-29T17:34:03Z"
+     ],
+     [
+      "end/elytra",
+      "2026-10-26T14:40:12Z"
+     ],
+     [
+      "end/enter_end_gateway",
+      "2026-10-26T14:08:46Z"
+     ],
+     [
+      "end/root",
+      "2026-10-26T14:07:58Z"
+     ],
+     [
+      "story/enter_the_end",
+      "2026-10-26T14:07:58Z"
+     ],
+     [
+      "story/follow_ender_eye",
+      "2026-10-20T16:34:54Z"
+     ],
+     [
+      "nether/return_to_sender",
+      "2026-10-20T15:26:45Z"
+     ],
+     [
+      "adventure/trim_with_any_armor_pattern",
+      "2026-10-17T21:13:51Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
@@ -804,117 +915,6 @@
      [
       "nether/obtain_blaze_rod",
       "2026-10-17T12:12:23Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
-   "name": "Dovid1346",
-   "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-29T17:47:56Z",
-   "playTicks": 4009131,
-   "deaths": 3,
-   "mobKills": 4561,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 346511,
-   "damageTaken": 41642,
-   "distanceCm": 47910468,
-   "walkCm": 15235309,
-   "flyCm": 14068510,
-   "jumps": 52454,
-   "mined": 52209,
-   "topMined": [
-    [
-     "netherrack",
-     9886
-    ],
-    [
-     "spruce_log",
-     7875
-    ],
-    [
-     "gravel",
-     6207
-    ]
-   ],
-   "crafted": 132221,
-   "topCrafted": [
-    [
-     "stick",
-     68144
-    ],
-    [
-     "spruce_planks",
-     33131
-    ],
-    [
-     "emerald",
-     3487
-    ]
-   ],
-   "topKilled": [
-    [
-     "guardian",
-     1508
-    ],
-    [
-     "skeleton",
-     680
-    ],
-    [
-     "zombie",
-     579
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "warden",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 49,
-    "byTab": {
-     "story": 14,
-     "adventure": 13,
-     "husbandry": 7,
-     "nether": 11,
-     "end": 4
-    },
-    "recent": [
-     [
-      "end/find_end_city",
-      "2026-10-29T17:34:03Z"
-     ],
-     [
-      "end/elytra",
-      "2026-10-26T14:40:12Z"
-     ],
-     [
-      "end/enter_end_gateway",
-      "2026-10-26T14:08:46Z"
-     ],
-     [
-      "end/root",
-      "2026-10-26T14:07:58Z"
-     ],
-     [
-      "story/enter_the_end",
-      "2026-10-26T14:07:58Z"
-     ],
-     [
-      "story/follow_ender_eye",
-      "2026-10-20T16:34:54Z"
-     ],
-     [
-      "nether/return_to_sender",
-      "2026-10-20T15:26:45Z"
-     ],
-     [
-      "adventure/trim_with_any_armor_pattern",
-      "2026-10-17T21:13:51Z"
      ]
     ]
    }
