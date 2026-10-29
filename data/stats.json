@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T12:18:01Z",
+ "updated": "2026-10-29T12:23:11Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 21205015,
+ "serverTicks": 21211015,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -113,19 +113,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-29T12:17:56Z",
-   "playTicks": 7782968,
+   "lastSeen": "2026-10-29T12:22:56Z",
+   "playTicks": 7788968,
    "deaths": 2,
    "mobKills": 5356,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 572719,
-   "damageTaken": 28796,
-   "distanceCm": 82370979,
-   "walkCm": 35359840,
-   "flyCm": 30706025,
-   "jumps": 76413,
-   "mined": 144264,
+   "damageTaken": 29061,
+   "distanceCm": 82566746,
+   "walkCm": 35407367,
+   "flyCm": 30852831,
+   "jumps": 76580,
+   "mined": 144409,
    "topMined": [
     [
      "netherrack",
@@ -133,7 +133,7 @@
     ],
     [
      "stone",
-     22732
+     22837
     ],
     [
      "dirt",
@@ -334,8 +334,8 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-29T12:17:56Z",
-   "playTicks": 5189250,
+   "lastSeen": "2026-10-29T12:22:56Z",
+   "playTicks": 5195250,
    "deaths": 2,
    "mobKills": 1713,
    "playerKills": 0,
@@ -923,18 +923,18 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-29T12:17:56Z",
-   "playTicks": 3537701,
+   "lastSeen": "2026-10-29T12:22:56Z",
+   "playTicks": 3543701,
    "deaths": 0,
    "mobKills": 1994,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 154834,
    "damageTaken": 20276,
-   "distanceCm": 26548406,
-   "walkCm": 13350029,
-   "flyCm": 8890198,
-   "jumps": 23790,
+   "distanceCm": 26558545,
+   "walkCm": 13358663,
+   "flyCm": 8891703,
+   "jumps": 23795,
    "mined": 74005,
    "topMined": [
     [
