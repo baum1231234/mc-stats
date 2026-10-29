@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T19:08:26Z",
+ "updated": "2026-10-29T19:10:14Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 21697015,
+ "serverTicks": 21699449,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -334,8 +334,8 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-29T19:07:56Z",
-   "playTicks": 5681250,
+   "lastSeen": "2026-10-29T19:09:58Z",
+   "playTicks": 5683684,
    "deaths": 2,
    "mobKills": 1741,
    "playerKills": 0,
@@ -1384,19 +1384,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-29T19:07:56Z",
-   "playTicks": 1833908,
+   "lastSeen": "2026-10-29T19:09:58Z",
+   "playTicks": 1836342,
    "deaths": 32,
    "mobKills": 325,
    "playerKills": 0,
    "killedByPlayers": 5,
    "damageDealt": 27824,
-   "damageTaken": 22663,
-   "distanceCm": 17204094,
-   "walkCm": 8487213,
-   "flyCm": 4366326,
+   "damageTaken": 22746,
+   "distanceCm": 17222250,
+   "walkCm": 8501994,
+   "flyCm": 4366778,
    "jumps": 23616,
-   "mined": 13844,
+   "mined": 13851,
    "topMined": [
     [
      "stone",
@@ -1411,7 +1411,7 @@
      1904
     ]
    ],
-   "crafted": 21336,
+   "crafted": 21392,
    "topCrafted": [
     [
      "stick",
@@ -1423,7 +1423,7 @@
     ],
     [
      "stone_bricks",
-     3420
+     3464
     ]
    ],
    "topKilled": [
