@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T08:03:53Z",
+ "updated": "2026-10-29T08:08:39Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 20899015,
+ "serverTicks": 20906165,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -460,8 +460,8 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-29T08:02:56Z",
-   "playTicks": 4883250,
+   "lastSeen": "2026-10-29T08:07:56Z",
+   "playTicks": 4889250,
    "deaths": 2,
    "mobKills": 1713,
    "playerKills": 0,
@@ -1038,19 +1038,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-29T08:02:56Z",
-   "playTicks": 3301194,
+   "lastSeen": "2026-10-29T08:07:56Z",
+   "playTicks": 3307194,
    "deaths": 0,
    "mobKills": 1976,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 151625,
    "damageTaken": 19660,
-   "distanceCm": 23591684,
-   "walkCm": 12206007,
-   "flyCm": 7154225,
-   "jumps": 22606,
-   "mined": 70825,
+   "distanceCm": 23638072,
+   "walkCm": 12248755,
+   "flyCm": 7157865,
+   "jumps": 22634,
+   "mined": 70838,
    "topMined": [
     [
      "netherrack",
@@ -1065,7 +1065,7 @@
      5407
     ]
    ],
-   "crafted": 81784,
+   "crafted": 81822,
    "topCrafted": [
     [
      "stick",
