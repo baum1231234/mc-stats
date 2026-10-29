@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T20:24:17Z",
+ "updated": "2026-10-29T20:25:59Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 21787015,
+ "serverTicks": 21789713,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -113,17 +113,17 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-29T20:22:56Z",
-   "playTicks": 7929428,
+   "lastSeen": "2026-10-29T20:25:11Z",
+   "playTicks": 7932126,
    "deaths": 2,
-   "mobKills": 5661,
+   "mobKills": 5684,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 582032,
+   "damageDealt": 582598,
    "damageTaken": 29743,
-   "distanceCm": 86817322,
-   "walkCm": 35908394,
-   "flyCm": 34576764,
+   "distanceCm": 86964612,
+   "walkCm": 35909315,
+   "flyCm": 34723133,
    "jumps": 77386,
    "mined": 148113,
    "topMined": [
@@ -162,11 +162,11 @@
     ],
     [
      "zombie",
-     712
+     720
     ],
     [
      "skeleton",
-     408
+     418
     ]
    ],
    "topKilledBy": [
@@ -228,8 +228,8 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-10-29T20:22:56Z",
-   "playTicks": 5983662,
+   "lastSeen": "2026-10-29T20:25:11Z",
+   "playTicks": 5986360,
    "deaths": 0,
    "mobKills": 6642,
    "playerKills": 0,
@@ -2508,8 +2508,8 @@
     "rendered": "2026-10-29T19:16:52Z"
    },
    "2.-2": {
-    "mtime": "2026-10-28T20:12:19Z",
-    "rendered": "2026-10-28T22:56:30Z"
+    "mtime": "2026-10-29T20:26:26Z",
+    "rendered": "2026-10-29T20:25:59Z"
    },
    "3.-3": {
     "mtime": "2026-10-28T18:18:24Z",
