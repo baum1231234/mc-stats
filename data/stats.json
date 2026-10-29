@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T18:19:18Z",
+ "updated": "2026-10-29T18:22:37Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 21637015,
+ "serverTicks": 21643015,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -701,19 +701,19 @@
    "uuid": "34919bcc-0ba6-4558-a400-0e2e3efbbb3a",
    "name": "Dovid1346",
    "firstSeen": "2026-10-12T15:11:10Z",
-   "lastSeen": "2026-10-29T18:17:56Z",
-   "playTicks": 4045131,
+   "lastSeen": "2026-10-29T18:21:46Z",
+   "playTicks": 4049730,
    "deaths": 3,
-   "mobKills": 4805,
+   "mobKills": 4807,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 349076,
-   "damageTaken": 41735,
-   "distanceCm": 48381434,
-   "walkCm": 15277777,
-   "flyCm": 14494463,
-   "jumps": 52574,
-   "mined": 52213,
+   "damageDealt": 349347,
+   "damageTaken": 41795,
+   "distanceCm": 48576692,
+   "walkCm": 15289826,
+   "flyCm": 14676122,
+   "jumps": 52625,
+   "mined": 52214,
    "topMined": [
     [
      "netherrack",
@@ -728,7 +728,7 @@
      6207
     ]
    ],
-   "crafted": 132293,
+   "crafted": 132485,
    "topCrafted": [
     [
      "stick",
@@ -754,7 +754,7 @@
     ],
     [
      "zombie",
-     658
+     660
     ]
    ],
    "topKilledBy": [
