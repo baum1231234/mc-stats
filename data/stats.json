@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T19:39:37Z",
+ "updated": "2026-10-29T19:41:22Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 21735469,
  "players": [
@@ -113,18 +113,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-10-29T19:37:56Z",
-   "playTicks": 7875428,
+   "lastSeen": "2026-10-29T19:39:59Z",
+   "playTicks": 7877882,
    "deaths": 2,
    "mobKills": 5529,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 578295,
    "damageTaken": 29395,
-   "distanceCm": 83923832,
-   "walkCm": 35835936,
-   "flyCm": 31775743,
-   "jumps": 77084,
+   "distanceCm": 83985759,
+   "walkCm": 35841345,
+   "flyCm": 31832261,
+   "jumps": 77132,
    "mined": 148108,
    "topMined": [
     [
@@ -334,8 +334,8 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-10-29T19:37:56Z",
-   "playTicks": 5717250,
+   "lastSeen": "2026-10-29T19:39:59Z",
+   "playTicks": 5719704,
    "deaths": 2,
    "mobKills": 1741,
    "playerKills": 0,
@@ -1384,19 +1384,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-29T19:37:56Z",
-   "playTicks": 1869908,
+   "lastSeen": "2026-10-29T19:39:59Z",
+   "playTicks": 1872362,
    "deaths": 32,
    "mobKills": 328,
    "playerKills": 0,
    "killedByPlayers": 5,
    "damageDealt": 28593,
    "damageTaken": 23427,
-   "distanceCm": 17617756,
-   "walkCm": 8668615,
-   "flyCm": 4512363,
+   "distanceCm": 17629698,
+   "walkCm": 8680003,
+   "flyCm": 4512417,
    "jumps": 24086,
-   "mined": 14042,
+   "mined": 14043,
    "topMined": [
     [
      "stone",
@@ -1411,15 +1411,15 @@
      1904
     ]
    ],
-   "crafted": 22464,
+   "crafted": 22594,
    "topCrafted": [
     [
      "stick",
-     4483
+     4507
     ],
     [
      "stone",
-     4189
+     4261
     ],
     [
      "stone_bricks",
