@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-30T15:40:39Z",
+ "updated": "2026-10-30T15:42:22Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 22521216,
+ "serverTicks": 22527216,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -809,6 +809,112 @@
    }
   },
   {
+   "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
+   "name": "snacx_27",
+   "firstSeen": "2026-10-13T07:04:58Z",
+   "lastSeen": "2026-10-30T15:42:32Z",
+   "playTicks": 4018727,
+   "deaths": 0,
+   "mobKills": 2017,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 160671,
+   "damageTaken": 20951,
+   "distanceCm": 29465329,
+   "walkCm": 15083468,
+   "flyCm": 10007224,
+   "jumps": 25647,
+   "mined": 75489,
+   "topMined": [
+    [
+     "netherrack",
+     31593
+    ],
+    [
+     "spruce_log",
+     6033
+    ],
+    [
+     "stone",
+     5688
+    ]
+   ],
+   "crafted": 104228,
+   "topCrafted": [
+    [
+     "stick",
+     46598
+    ],
+    [
+     "spruce_planks",
+     20608
+    ],
+    [
+     "iron_ingot",
+     8545
+    ]
+   ],
+   "topKilled": [
+    [
+     "guardian",
+     1342
+    ],
+    [
+     "zombie",
+     244
+    ],
+    [
+     "creeper",
+     140
+    ]
+   ],
+   "topKilledBy": [],
+   "adv": {
+    "count": 35,
+    "byTab": {
+     "story": 10,
+     "husbandry": 6,
+     "adventure": 12,
+     "nether": 6,
+     "end": 1
+    },
+    "recent": [
+     [
+      "adventure/lightning_rod_with_villager_no_fire",
+      "2026-10-30T08:24:59Z"
+     ],
+     [
+      "husbandry/allay_deliver_item_to_player",
+      "2026-10-29T12:17:25Z"
+     ],
+     [
+      "adventure/voluntary_exile",
+      "2026-10-29T12:14:55Z"
+     ],
+     [
+      "story/upgrade_tools",
+      "2026-10-29T07:30:02Z"
+     ],
+     [
+      "end/elytra",
+      "2026-10-27T09:09:57Z"
+     ],
+     [
+      "husbandry/wax_on",
+      "2026-10-23T20:21:19Z"
+     ],
+     [
+      "adventure/totem_of_undying",
+      "2026-10-22T19:08:06Z"
+     ],
+     [
+      "nether/netherite_armor",
+      "2026-10-22T17:13:46Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
@@ -915,112 +1021,6 @@
      [
       "nether/obtain_blaze_rod",
       "2026-10-17T12:12:23Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
-   "name": "snacx_27",
-   "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-10-30T12:02:43Z",
-   "playTicks": 4012727,
-   "deaths": 0,
-   "mobKills": 2017,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 160671,
-   "damageTaken": 20942,
-   "distanceCm": 29424649,
-   "walkCm": 15050509,
-   "flyCm": 10005771,
-   "jumps": 25626,
-   "mined": 75455,
-   "topMined": [
-    [
-     "netherrack",
-     31593
-    ],
-    [
-     "spruce_log",
-     6033
-    ],
-    [
-     "stone",
-     5688
-    ]
-   ],
-   "crafted": 104228,
-   "topCrafted": [
-    [
-     "stick",
-     46598
-    ],
-    [
-     "spruce_planks",
-     20608
-    ],
-    [
-     "iron_ingot",
-     8545
-    ]
-   ],
-   "topKilled": [
-    [
-     "guardian",
-     1342
-    ],
-    [
-     "zombie",
-     244
-    ],
-    [
-     "creeper",
-     140
-    ]
-   ],
-   "topKilledBy": [],
-   "adv": {
-    "count": 35,
-    "byTab": {
-     "story": 10,
-     "husbandry": 6,
-     "adventure": 12,
-     "nether": 6,
-     "end": 1
-    },
-    "recent": [
-     [
-      "adventure/lightning_rod_with_villager_no_fire",
-      "2026-10-30T08:24:59Z"
-     ],
-     [
-      "husbandry/allay_deliver_item_to_player",
-      "2026-10-29T12:17:25Z"
-     ],
-     [
-      "adventure/voluntary_exile",
-      "2026-10-29T12:14:55Z"
-     ],
-     [
-      "story/upgrade_tools",
-      "2026-10-29T07:30:02Z"
-     ],
-     [
-      "end/elytra",
-      "2026-10-27T09:09:57Z"
-     ],
-     [
-      "husbandry/wax_on",
-      "2026-10-23T20:21:19Z"
-     ],
-     [
-      "adventure/totem_of_undying",
-      "2026-10-22T19:08:06Z"
-     ],
-     [
-      "nether/netherite_armor",
-      "2026-10-22T17:13:46Z"
      ]
     ]
    }
