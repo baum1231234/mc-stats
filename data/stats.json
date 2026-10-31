@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-31T16:53:49Z",
+ "updated": "2026-10-31T17:00:07Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 22854358,
+ "serverTicks": 22860843,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1029,23 +1029,23 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-31T16:53:17Z",
-   "playTicks": 3505880,
+   "lastSeen": "2026-10-31T16:58:42Z",
+   "playTicks": 3512365,
    "deaths": 7,
    "mobKills": 7240,
    "playerKills": 7,
    "killedByPlayers": 3,
    "damageDealt": 235505,
-   "damageTaken": 38549,
-   "distanceCm": 45704392,
-   "walkCm": 16141858,
-   "flyCm": 19198753,
-   "jumps": 52018,
-   "mined": 85999,
+   "damageTaken": 38569,
+   "distanceCm": 45839468,
+   "walkCm": 16189011,
+   "flyCm": 19284441,
+   "jumps": 52075,
+   "mined": 86042,
    "topMined": [
     [
      "stone",
-     17855
+     17889
     ],
     [
      "netherrack",
@@ -1510,23 +1510,23 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-31T16:53:17Z",
-   "playTicks": 1328003,
+   "lastSeen": "2026-10-31T16:58:42Z",
+   "playTicks": 1334488,
    "deaths": 6,
    "mobKills": 2622,
    "playerKills": 1,
    "killedByPlayers": 5,
-   "damageDealt": 45597,
+   "damageDealt": 45617,
    "damageTaken": 21482,
-   "distanceCm": 22179880,
-   "walkCm": 5747166,
-   "flyCm": 13857141,
-   "jumps": 16046,
-   "mined": 13508,
+   "distanceCm": 22244351,
+   "walkCm": 5808537,
+   "flyCm": 13859916,
+   "jumps": 16077,
+   "mined": 15063,
    "topMined": [
     [
      "dirt",
-     3165
+     4044
     ],
     [
      "stone",
@@ -1534,7 +1534,7 @@
     ],
     [
      "grass_block",
-     1566
+     2229
     ]
    ],
    "crafted": 6700,
