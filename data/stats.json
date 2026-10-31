@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-31T15:09:15Z",
+ "updated": "2026-10-31T15:14:21Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 22728358,
+ "serverTicks": 22734576,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1029,19 +1029,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-31T15:08:17Z",
-   "playTicks": 3382623,
+   "lastSeen": "2026-10-31T15:13:28Z",
+   "playTicks": 3388841,
    "deaths": 7,
    "mobKills": 6902,
    "playerKills": 7,
    "killedByPlayers": 3,
    "damageDealt": 233159,
-   "damageTaken": 37663,
-   "distanceCm": 43464119,
-   "walkCm": 15372979,
-   "flyCm": 17771353,
-   "jumps": 51099,
-   "mined": 63306,
+   "damageTaken": 37687,
+   "distanceCm": 43583642,
+   "walkCm": 15386557,
+   "flyCm": 17876498,
+   "jumps": 51132,
+   "mined": 63386,
    "topMined": [
     [
      "netherrack",
@@ -1056,7 +1056,7 @@
      5497
     ]
    ],
-   "crafted": 87630,
+   "crafted": 87631,
    "topCrafted": [
     [
      "stick",
@@ -1096,15 +1096,19 @@
     ]
    ],
    "adv": {
-    "count": 49,
+    "count": 50,
     "byTab": {
      "story": 13,
-     "husbandry": 5,
+     "husbandry": 6,
      "adventure": 14,
      "nether": 14,
      "end": 3
     },
     "recent": [
+     [
+      "husbandry/obtain_netherite_hoe",
+      "2026-10-31T15:10:43Z"
+     ],
      [
       "nether/summon_wither",
       "2026-10-28T19:33:29Z"
@@ -1132,10 +1136,6 @@
      [
       "adventure/who_needs_rockets",
       "2026-10-24T20:04:20Z"
-     ],
-     [
-      "adventure/revaulting",
-      "2026-10-24T19:53:19Z"
      ]
     ]
    }
@@ -1510,19 +1510,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-31T15:08:17Z",
-   "playTicks": 1214295,
+   "lastSeen": "2026-10-31T15:13:28Z",
+   "playTicks": 1220513,
    "deaths": 6,
    "mobKills": 2075,
    "playerKills": 1,
    "killedByPlayers": 5,
    "damageDealt": 45119,
    "damageTaken": 20775,
-   "distanceCm": 20288459,
-   "walkCm": 5146814,
+   "distanceCm": 20291373,
+   "walkCm": 5149728,
    "flyCm": 12600689,
    "jumps": 15146,
-   "mined": 7839,
+   "mined": 7840,
    "topMined": [
     [
      "stone",
@@ -1577,15 +1577,19 @@
     ]
    ],
    "adv": {
-    "count": 37,
+    "count": 38,
     "byTab": {
      "story": 11,
      "husbandry": 2,
      "adventure": 11,
-     "nether": 9,
+     "nether": 10,
      "end": 4
     },
     "recent": [
+     [
+      "nether/netherite_armor",
+      "2026-10-31T15:10:26Z"
+     ],
      [
       "nether/create_beacon",
       "2026-10-28T19:39:58Z"
@@ -1613,10 +1617,6 @@
      [
       "adventure/avoid_vibration",
       "2026-10-27T15:34:55Z"
-     ],
-     [
-      "nether/obtain_ancient_debris",
-      "2026-10-25T18:57:34Z"
      ]
     ]
    }
