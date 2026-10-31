@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-31T16:04:19Z",
+ "updated": "2026-10-31T16:09:24Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 22794358,
+ "serverTicks": 22800358,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1029,19 +1029,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-31T16:03:17Z",
-   "playTicks": 3448623,
+   "lastSeen": "2026-10-31T16:08:17Z",
+   "playTicks": 3454623,
    "deaths": 7,
    "mobKills": 6907,
    "playerKills": 7,
    "killedByPlayers": 3,
-   "damageDealt": 233840,
-   "damageTaken": 37967,
-   "distanceCm": 44689318,
-   "walkCm": 15795961,
-   "flyCm": 18557009,
-   "jumps": 51638,
-   "mined": 76160,
+   "damageDealt": 233896,
+   "damageTaken": 38113,
+   "distanceCm": 44781985,
+   "walkCm": 15824803,
+   "flyCm": 18614586,
+   "jumps": 51673,
+   "mined": 77280,
    "topMined": [
     [
      "netherrack",
@@ -1049,11 +1049,11 @@
     ],
     [
      "stone",
-     12797
+     12825
     ],
     [
      "grass_block",
-     8502
+     8855
     ]
    ],
    "crafted": 87631,
@@ -1510,23 +1510,23 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-31T16:03:17Z",
-   "playTicks": 1280295,
+   "lastSeen": "2026-10-31T16:08:17Z",
+   "playTicks": 1286295,
    "deaths": 6,
    "mobKills": 2440,
    "playerKills": 1,
    "killedByPlayers": 5,
-   "damageDealt": 45336,
-   "damageTaken": 20995,
-   "distanceCm": 21508632,
-   "walkCm": 5439255,
-   "flyCm": 13511818,
-   "jumps": 15578,
-   "mined": 9343,
+   "damageDealt": 45339,
+   "damageTaken": 21079,
+   "distanceCm": 21587252,
+   "walkCm": 5484025,
+   "flyCm": 13542247,
+   "jumps": 15684,
+   "mined": 9864,
    "topMined": [
     [
      "stone",
-     1963
+     2463
     ],
     [
      "sand",
@@ -1534,7 +1534,7 @@
     ],
     [
      "dirt",
-     955
+     957
     ]
    ],
    "crafted": 6698,
