@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-31T14:24:52Z",
+ "updated": "2026-10-31T14:28:27Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 22674358,
+ "serverTicks": 22680591,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1029,19 +1029,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-31T14:23:17Z",
-   "playTicks": 3328623,
+   "lastSeen": "2026-10-31T14:28:29Z",
+   "playTicks": 3334856,
    "deaths": 7,
-   "mobKills": 6767,
+   "mobKills": 6894,
    "playerKills": 7,
    "killedByPlayers": 3,
    "damageDealt": 228267,
-   "damageTaken": 37175,
-   "distanceCm": 41006699,
-   "walkCm": 15211021,
-   "flyCm": 15494120,
-   "jumps": 50639,
-   "mined": 62916,
+   "damageTaken": 37224,
+   "distanceCm": 41037902,
+   "walkCm": 15233049,
+   "flyCm": 15503295,
+   "jumps": 50711,
+   "mined": 62918,
    "topMined": [
     [
      "netherrack",
@@ -1056,11 +1056,11 @@
      5497
     ]
    ],
-   "crafted": 86789,
+   "crafted": 87342,
    "topCrafted": [
     [
      "stick",
-     34646
+     34654
     ],
     [
      "spruce_planks",
@@ -1068,13 +1068,13 @@
     ],
     [
      "iron_ingot",
-     7487
+     7775
     ]
    ],
    "topKilled": [
     [
      "silverfish",
-     4010
+     4066
     ],
     [
      "zombie",
