@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-31T15:07:26Z",
+ "updated": "2026-10-31T15:09:15Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 22722358,
+ "serverTicks": 22728358,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1029,19 +1029,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-31T15:03:17Z",
-   "playTicks": 3376623,
+   "lastSeen": "2026-10-31T15:08:17Z",
+   "playTicks": 3382623,
    "deaths": 7,
-   "mobKills": 6899,
+   "mobKills": 6902,
    "playerKills": 7,
    "killedByPlayers": 3,
-   "damageDealt": 232464,
-   "damageTaken": 37625,
-   "distanceCm": 43430839,
-   "walkCm": 15361860,
-   "flyCm": 17750934,
-   "jumps": 51061,
-   "mined": 63301,
+   "damageDealt": 233159,
+   "damageTaken": 37663,
+   "distanceCm": 43464119,
+   "walkCm": 15372979,
+   "flyCm": 17771353,
+   "jumps": 51099,
+   "mined": 63306,
    "topMined": [
     [
      "netherrack",
@@ -1056,7 +1056,7 @@
      5497
     ]
    ],
-   "crafted": 87352,
+   "crafted": 87630,
    "topCrafted": [
     [
      "stick",
@@ -1078,7 +1078,7 @@
     ],
     [
      "zombie",
-     491
+     494
     ],
     [
      "skeleton",
@@ -1510,18 +1510,18 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-31T15:03:17Z",
-   "playTicks": 1208295,
+   "lastSeen": "2026-10-31T15:08:17Z",
+   "playTicks": 1214295,
    "deaths": 6,
-   "mobKills": 2060,
+   "mobKills": 2075,
    "playerKills": 1,
    "killedByPlayers": 5,
    "damageDealt": 45119,
-   "damageTaken": 20700,
-   "distanceCm": 20203334,
-   "walkCm": 5133324,
-   "flyCm": 12531914,
-   "jumps": 15120,
+   "damageTaken": 20775,
+   "distanceCm": 20288459,
+   "walkCm": 5146814,
+   "flyCm": 12600689,
+   "jumps": 15146,
    "mined": 7839,
    "topMined": [
     [
@@ -1555,7 +1555,7 @@
    "topKilled": [
     [
      "silverfish",
-     1238
+     1246
     ],
     [
      "zombie",
