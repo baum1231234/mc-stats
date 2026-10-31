@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-31T15:29:37Z",
+ "updated": "2026-10-31T15:33:02Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 22752583,
+ "serverTicks": 22758358,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1510,19 +1510,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-31T15:28:29Z",
-   "playTicks": 1238520,
+   "lastSeen": "2026-10-31T15:33:17Z",
+   "playTicks": 1244295,
    "deaths": 6,
-   "mobKills": 2075,
+   "mobKills": 2098,
    "playerKills": 1,
    "killedByPlayers": 5,
    "damageDealt": 45119,
-   "damageTaken": 20874,
-   "distanceCm": 20783413,
-   "walkCm": 5230618,
-   "flyCm": 13001956,
-   "jumps": 15298,
-   "mined": 7856,
+   "damageTaken": 20890,
+   "distanceCm": 20942487,
+   "walkCm": 5251004,
+   "flyCm": 13139161,
+   "jumps": 15338,
+   "mined": 7857,
    "topMined": [
     [
      "stone",
@@ -1537,7 +1537,7 @@
      891
     ]
    ],
-   "crafted": 6695,
+   "crafted": 6697,
    "topCrafted": [
     [
      "firework_rocket",
@@ -1555,7 +1555,7 @@
    "topKilled": [
     [
      "silverfish",
-     1246
+     1261
     ],
     [
      "zombie",
