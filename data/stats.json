@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T16:33:21Z",
+ "updated": "2026-10-31T16:36:47Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 22830358,
  "players": [
@@ -1510,19 +1510,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-31T16:33:17Z",
-   "playTicks": 1315945,
+   "lastSeen": "2026-10-31T16:36:11Z",
+   "playTicks": 1319427,
    "deaths": 6,
    "mobKills": 2622,
    "playerKills": 1,
    "killedByPlayers": 5,
-   "damageDealt": 45584,
-   "damageTaken": 21352,
-   "distanceCm": 22021131,
-   "walkCm": 5654437,
-   "flyCm": 13797131,
-   "jumps": 15950,
-   "mined": 11940,
+   "damageDealt": 45597,
+   "damageTaken": 21481,
+   "distanceCm": 22097384,
+   "walkCm": 5673883,
+   "flyCm": 13849578,
+   "jumps": 15996,
+   "mined": 11950,
    "topMined": [
     [
      "stone",
@@ -1530,11 +1530,11 @@
     ],
     [
      "dirt",
-     2049
+     2050
     ],
     [
-     "sand",
-     1130
+     "grass_block",
+     1131
     ]
    ],
    "crafted": 6700,
