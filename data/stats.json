@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-31T17:10:26Z",
+ "updated": "2026-10-31T17:13:52Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 22872358,
+ "serverTicks": 22878769,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1029,19 +1029,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-31T17:08:17Z",
-   "playTicks": 3523880,
+   "lastSeen": "2026-10-31T17:13:38Z",
+   "playTicks": 3530291,
    "deaths": 7,
-   "mobKills": 7431,
+   "mobKills": 7437,
    "playerKills": 7,
    "killedByPlayers": 3,
-   "damageDealt": 235510,
-   "damageTaken": 38612,
-   "distanceCm": 46871916,
-   "walkCm": 16235351,
-   "flyCm": 20269096,
-   "jumps": 52111,
-   "mined": 86593,
+   "damageDealt": 236665,
+   "damageTaken": 38902,
+   "distanceCm": 47393481,
+   "walkCm": 16252192,
+   "flyCm": 20757363,
+   "jumps": 52157,
+   "mined": 86602,
    "topMined": [
     [
      "stone",
@@ -1056,7 +1056,7 @@
      11003
     ]
    ],
-   "crafted": 87897,
+   "crafted": 88089,
    "topCrafted": [
     [
      "stick",
@@ -1078,11 +1078,11 @@
     ],
     [
      "zombie",
-     496
+     498
     ],
     [
      "skeleton",
-     407
+     408
     ]
    ],
    "topKilledBy": [
@@ -1510,18 +1510,18 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-31T17:08:17Z",
-   "playTicks": 1346003,
+   "lastSeen": "2026-10-31T17:13:38Z",
+   "playTicks": 1352414,
    "deaths": 7,
    "mobKills": 2622,
    "playerKills": 1,
    "killedByPlayers": 5,
    "damageDealt": 45617,
-   "damageTaken": 21906,
-   "distanceCm": 23153964,
-   "walkCm": 5856692,
-   "flyCm": 14715272,
-   "jumps": 16182,
+   "damageTaken": 22183,
+   "distanceCm": 23615202,
+   "walkCm": 5860333,
+   "flyCm": 15171469,
+   "jumps": 16187,
    "mined": 15157,
    "topMined": [
     [
