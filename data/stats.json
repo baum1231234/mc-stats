@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-31T15:59:14Z",
+ "updated": "2026-10-31T16:04:19Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 22788799,
+ "serverTicks": 22794358,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1029,19 +1029,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-10-31T15:58:39Z",
-   "playTicks": 3443064,
+   "lastSeen": "2026-10-31T16:03:17Z",
+   "playTicks": 3448623,
    "deaths": 7,
    "mobKills": 6907,
    "playerKills": 7,
    "killedByPlayers": 3,
-   "damageDealt": 233823,
-   "damageTaken": 37950,
-   "distanceCm": 44612946,
-   "walkCm": 15754842,
-   "flyCm": 18522356,
-   "jumps": 51551,
-   "mined": 75452,
+   "damageDealt": 233840,
+   "damageTaken": 37967,
+   "distanceCm": 44689318,
+   "walkCm": 15795961,
+   "flyCm": 18557009,
+   "jumps": 51638,
+   "mined": 76160,
    "topMined": [
     [
      "netherrack",
@@ -1049,11 +1049,11 @@
     ],
     [
      "stone",
-     12643
+     12797
     ],
     [
      "grass_block",
-     8299
+     8502
     ]
    ],
    "crafted": 87631,
@@ -1510,31 +1510,31 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-10-31T15:58:39Z",
-   "playTicks": 1274736,
+   "lastSeen": "2026-10-31T16:03:17Z",
+   "playTicks": 1280295,
    "deaths": 6,
    "mobKills": 2440,
    "playerKills": 1,
    "killedByPlayers": 5,
-   "damageDealt": 45333,
-   "damageTaken": 20966,
-   "distanceCm": 21437642,
-   "walkCm": 5385076,
-   "flyCm": 13495807,
-   "jumps": 15535,
-   "mined": 8928,
+   "damageDealt": 45336,
+   "damageTaken": 20995,
+   "distanceCm": 21508632,
+   "walkCm": 5439255,
+   "flyCm": 13511818,
+   "jumps": 15578,
+   "mined": 9343,
    "topMined": [
     [
      "stone",
-     1672
+     1963
     ],
     [
      "sand",
      1130
     ],
     [
-     "netherrack",
-     891
+     "dirt",
+     955
     ]
    ],
    "crafted": 6698,
