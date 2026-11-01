@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-01T17:40:08Z",
+ "updated": "2026-11-01T17:43:18Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 23833158,
+ "serverTicks": 23839158,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-11-01T17:38:00Z",
-   "playTicks": 8801620,
+   "lastSeen": "2026-11-01T17:43:00Z",
+   "playTicks": 8807620,
    "deaths": 0,
    "mobKills": 5076,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 653993,
-   "damageTaken": 109916,
-   "distanceCm": 142966160,
-   "walkCm": 36237460,
-   "flyCm": 57599010,
-   "jumps": 185212,
-   "mined": 91958,
+   "damageTaken": 109930,
+   "distanceCm": 143031201,
+   "walkCm": 36274842,
+   "flyCm": 57624881,
+   "jumps": 185266,
+   "mined": 91967,
    "topMined": [
     [
      "netherrack",
@@ -1029,19 +1029,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-11-01T17:38:00Z",
-   "playTicks": 3708961,
+   "lastSeen": "2026-11-01T17:43:00Z",
+   "playTicks": 3714961,
    "deaths": 9,
-   "mobKills": 7677,
+   "mobKills": 7683,
    "playerKills": 7,
    "killedByPlayers": 3,
-   "damageDealt": 250050,
-   "damageTaken": 43805,
-   "distanceCm": 55147676,
-   "walkCm": 16915651,
-   "flyCm": 27677296,
-   "jumps": 53845,
-   "mined": 87976,
+   "damageDealt": 251346,
+   "damageTaken": 43891,
+   "distanceCm": 55489380,
+   "walkCm": 16930243,
+   "flyCm": 27997418,
+   "jumps": 53937,
+   "mined": 87980,
    "topMined": [
     [
      "stone",
@@ -1056,7 +1056,7 @@
      11014
     ]
    ],
-   "crafted": 90009,
+   "crafted": 90102,
    "topCrafted": [
     [
      "stick",
@@ -1388,18 +1388,18 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-10-31T18:11:04Z",
-   "playTicks": 1944336,
+   "lastSeen": "2026-11-01T17:43:00Z",
+   "playTicks": 1947603,
    "deaths": 32,
    "mobKills": 367,
    "playerKills": 0,
    "killedByPlayers": 5,
    "damageDealt": 31233,
-   "damageTaken": 25440,
-   "distanceCm": 18500759,
-   "walkCm": 8969031,
-   "flyCm": 4846423,
-   "jumps": 24945,
+   "damageTaken": 25446,
+   "distanceCm": 18526993,
+   "walkCm": 8983873,
+   "flyCm": 4856499,
+   "jumps": 24953,
    "mined": 14808,
    "topMined": [
     [
@@ -1467,14 +1467,19 @@
     ]
    ],
    "adv": {
-    "count": 26,
+    "count": 27,
     "byTab": {
      "story": 12,
      "adventure": 7,
      "husbandry": 4,
-     "nether": 3
+     "nether": 3,
+     "end": 1
     },
     "recent": [
+     [
+      "end/elytra",
+      "2026-11-01T17:42:29Z"
+     ],
      [
       "nether/create_beacon",
       "2026-10-29T18:37:53Z"
@@ -1501,10 +1506,6 @@
      ],
      [
       "nether/root",
-      "2026-10-17T18:06:32Z"
-     ],
-     [
-      "story/enter_the_nether",
       "2026-10-17T18:06:32Z"
      ]
     ]
