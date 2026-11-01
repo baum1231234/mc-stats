@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-01T18:38:16Z",
+ "updated": "2026-11-01T18:42:58Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 23905158,
+ "serverTicks": 23911158,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-11-01T18:38:00Z",
-   "playTicks": 8873620,
+   "lastSeen": "2026-11-01T18:42:43Z",
+   "playTicks": 8879280,
    "deaths": 0,
    "mobKills": 5085,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 655185,
    "damageTaken": 111205,
-   "distanceCm": 144325516,
-   "walkCm": 36740260,
-   "flyCm": 58349478,
-   "jumps": 185880,
+   "distanceCm": 144328586,
+   "walkCm": 36742885,
+   "flyCm": 58349694,
+   "jumps": 185882,
    "mined": 92643,
    "topMined": [
     [
@@ -1388,18 +1388,18 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-11-01T18:38:00Z",
-   "playTicks": 2013603,
-   "deaths": 32,
+   "lastSeen": "2026-11-01T18:43:00Z",
+   "playTicks": 2019603,
+   "deaths": 33,
    "mobKills": 370,
    "playerKills": 0,
    "killedByPlayers": 5,
    "damageDealt": 31953,
-   "damageTaken": 26575,
-   "distanceCm": 20582235,
-   "walkCm": 9269972,
-   "flyCm": 6555337,
-   "jumps": 25480,
+   "damageTaken": 27018,
+   "distanceCm": 20813920,
+   "walkCm": 9302632,
+   "flyCm": 6743669,
+   "jumps": 25489,
    "mined": 16123,
    "topMined": [
     [
@@ -1415,7 +1415,7 @@
      1955
     ]
    ],
-   "crafted": 24038,
+   "crafted": 24151,
    "topCrafted": [
     [
      "stick",
@@ -1423,7 +1423,7 @@
     ],
     [
      "stone",
-     4467
+     4468
     ],
     [
      "stone_bricks",
