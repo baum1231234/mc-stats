@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T10:30:34Z",
+ "updated": "2026-11-01T10:32:19Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 23322471,
+ "serverTicks": 23325312,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -701,8 +701,8 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-11-01T10:30:02Z",
-   "playTicks": 4493735,
+   "lastSeen": "2026-11-01T10:32:24Z",
+   "playTicks": 4496576,
    "deaths": 0,
    "mobKills": 2021,
    "playerKills": 0,
@@ -1510,31 +1510,31 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-11-01T10:30:02Z",
-   "playTicks": 1463094,
+   "lastSeen": "2026-11-01T10:32:24Z",
+   "playTicks": 1465935,
    "deaths": 7,
    "mobKills": 2907,
    "playerKills": 1,
    "killedByPlayers": 5,
    "damageDealt": 45798,
-   "damageTaken": 22973,
-   "distanceCm": 26680109,
-   "walkCm": 6138261,
-   "flyCm": 17905402,
-   "jumps": 16688,
-   "mined": 16077,
+   "damageTaken": 22979,
+   "distanceCm": 26703275,
+   "walkCm": 6159140,
+   "flyCm": 17907089,
+   "jumps": 16718,
+   "mined": 16149,
    "topMined": [
     [
      "dirt",
-     4390
+     4419
     ],
     [
      "stone",
-     2871
+     2895
     ],
     [
      "grass_block",
-     2511
+     2530
     ]
    ],
    "crafted": 7660,
