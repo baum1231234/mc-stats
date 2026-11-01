@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T16:31:12Z",
+ "updated": "2026-11-01T16:32:50Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 23752180,
+ "serverTicks": 23755158,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1510,19 +1510,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-11-01T16:30:31Z",
-   "playTicks": 1705905,
+   "lastSeen": "2026-11-01T16:33:00Z",
+   "playTicks": 1708883,
    "deaths": 7,
-   "mobKills": 3034,
+   "mobKills": 3039,
    "playerKills": 1,
    "killedByPlayers": 5,
-   "damageDealt": 50031,
-   "damageTaken": 25162,
-   "distanceCm": 32582258,
-   "walkCm": 7073295,
-   "flyCm": 22697945,
-   "jumps": 18286,
-   "mined": 16497,
+   "damageDealt": 50697,
+   "damageTaken": 25324,
+   "distanceCm": 32614359,
+   "walkCm": 7097300,
+   "flyCm": 22706041,
+   "jumps": 18320,
+   "mined": 16498,
    "topMined": [
     [
      "dirt",
@@ -1559,7 +1559,7 @@
     ],
     [
      "zombie",
-     55
+     57
     ],
     [
      "skeleton",
@@ -1731,18 +1731,18 @@
    "uuid": "33ea52e3-86de-4e6b-9526-ef4483a31005",
    "name": "mcGammler",
    "firstSeen": "2026-10-17T17:31:12Z",
-   "lastSeen": "2026-11-01T16:30:31Z",
-   "playTicks": 297051,
-   "deaths": 9,
+   "lastSeen": "2026-11-01T16:33:00Z",
+   "playTicks": 300029,
+   "deaths": 10,
    "mobKills": 22,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 2855,
-   "damageTaken": 5443,
-   "distanceCm": 3133902,
-   "walkCm": 1492380,
-   "flyCm": 1161168,
-   "jumps": 4510,
+   "damageDealt": 2936,
+   "damageTaken": 5599,
+   "distanceCm": 3177066,
+   "walkCm": 1524584,
+   "flyCm": 1171453,
+   "jumps": 4570,
    "mined": 1373,
    "topMined": [
     [
@@ -1790,7 +1790,7 @@
    "topKilledBy": [
     [
      "zombie",
-     7
+     8
     ],
     [
      "skeleton",
