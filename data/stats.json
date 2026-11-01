@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T10:18:31Z",
+ "updated": "2026-11-01T10:23:38Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 23307312,
+ "serverTicks": 23313312,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -701,8 +701,8 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-11-01T10:17:24Z",
-   "playTicks": 4478576,
+   "lastSeen": "2026-11-01T10:22:24Z",
+   "playTicks": 4484576,
    "deaths": 0,
    "mobKills": 2021,
    "playerKills": 0,
@@ -1510,19 +1510,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-11-01T10:17:24Z",
-   "playTicks": 1447935,
+   "lastSeen": "2026-11-01T10:22:24Z",
+   "playTicks": 1453935,
    "deaths": 7,
-   "mobKills": 2674,
+   "mobKills": 2907,
    "playerKills": 1,
    "killedByPlayers": 5,
    "damageDealt": 45798,
-   "damageTaken": 22965,
-   "distanceCm": 26375449,
-   "walkCm": 6057405,
-   "flyCm": 17684605,
-   "jumps": 16576,
-   "mined": 15613,
+   "damageTaken": 22973,
+   "distanceCm": 26594194,
+   "walkCm": 6076498,
+   "flyCm": 17883480,
+   "jumps": 16609,
+   "mined": 15615,
    "topMined": [
     [
      "dirt",
@@ -1555,7 +1555,7 @@
    "topKilled": [
     [
      "silverfish",
-     1626
+     1832
     ],
     [
      "zombie",
@@ -1577,15 +1577,19 @@
     ]
    ],
    "adv": {
-    "count": 38,
+    "count": 39,
     "byTab": {
-     "story": 11,
+     "story": 12,
      "husbandry": 2,
      "adventure": 11,
      "nether": 10,
      "end": 4
     },
     "recent": [
+     [
+      "story/form_obsidian",
+      "2026-11-01T10:21:41Z"
+     ],
      [
       "nether/netherite_armor",
       "2026-10-31T15:10:26Z"
@@ -1613,10 +1617,6 @@
      [
       "nether/explore_nether",
       "2026-10-28T19:00:05Z"
-     ],
-     [
-      "adventure/avoid_vibration",
-      "2026-10-27T15:34:55Z"
      ]
     ]
    }
