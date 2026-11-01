@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T18:12:26Z",
+ "updated": "2026-11-01T18:14:12Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 23875158,
  "players": [
@@ -7,19 +7,19 @@
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-11-01T18:08:00Z",
-   "playTicks": 8837620,
+   "lastSeen": "2026-11-01T18:13:00Z",
+   "playTicks": 8843620,
    "deaths": 0,
-   "mobKills": 5079,
+   "mobKills": 5081,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 654341,
-   "damageTaken": 110280,
-   "distanceCm": 143481734,
-   "walkCm": 36465214,
-   "flyCm": 57829267,
-   "jumps": 185624,
-   "mined": 92142,
+   "damageDealt": 654572,
+   "damageTaken": 110552,
+   "distanceCm": 143633866,
+   "walkCm": 36501876,
+   "flyCm": 57936129,
+   "jumps": 185665,
+   "mined": 92186,
    "topMined": [
     [
      "netherrack",
@@ -56,7 +56,7 @@
     ],
     [
      "skeleton",
-     525
+     526
     ],
     [
      "zombie",
@@ -1388,23 +1388,23 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-11-01T18:08:00Z",
-   "playTicks": 1977603,
+   "lastSeen": "2026-11-01T18:13:00Z",
+   "playTicks": 1983603,
    "deaths": 32,
    "mobKills": 370,
    "playerKills": 0,
    "killedByPlayers": 5,
    "damageDealt": 31953,
-   "damageTaken": 26364,
-   "distanceCm": 20259973,
-   "walkCm": 9100098,
-   "flyCm": 6427511,
-   "jumps": 25299,
-   "mined": 14813,
+   "damageTaken": 26452,
+   "distanceCm": 20395904,
+   "walkCm": 9123262,
+   "flyCm": 6528992,
+   "jumps": 25341,
+   "mined": 14842,
    "topMined": [
     [
      "stone",
-     5091
+     5093
     ],
     [
      "dirt",
@@ -1415,7 +1415,7 @@
      1911
     ]
    ],
-   "crafted": 23778,
+   "crafted": 23790,
    "topCrafted": [
     [
      "stick",
@@ -2423,8 +2423,8 @@
     "rendered": "2026-11-01T16:57:54Z"
    },
    "-2.-6": {
-    "mtime": "2026-11-01T15:04:38Z",
-    "rendered": "2026-11-01T15:13:11Z"
+    "mtime": "2026-11-01T18:13:54Z",
+    "rendered": "2026-11-01T18:14:12Z"
    },
    "1.-4": {
     "mtime": "2026-11-01T17:54:25Z",
@@ -2543,8 +2543,8 @@
     "rendered": "2026-11-01T17:28:16Z"
    },
    "2.-2": {
-    "mtime": "2026-11-01T13:19:21Z",
-    "rendered": "2026-11-01T15:13:11Z"
+    "mtime": "2026-11-01T17:55:01Z",
+    "rendered": "2026-11-01T18:14:12Z"
    },
    "3.-3": {
     "mtime": "2026-11-01T15:29:33Z",
@@ -2607,8 +2607,8 @@
     "rendered": "2026-10-31T17:50:25Z"
    },
    "0.-4": {
-    "mtime": "2026-11-01T13:20:25Z",
-    "rendered": "2026-11-01T15:13:11Z"
+    "mtime": "2026-11-01T17:54:10Z",
+    "rendered": "2026-11-01T18:14:12Z"
    },
    "1.-5": {
     "mtime": "2026-11-01T15:26:38Z",
@@ -2659,8 +2659,8 @@
     "rendered": "2026-10-31T14:35:11Z"
    },
    "-1.-3": {
-    "mtime": "2026-11-01T13:20:08Z",
-    "rendered": "2026-11-01T15:13:11Z"
+    "mtime": "2026-11-01T17:54:11Z",
+    "rendered": "2026-11-01T18:14:12Z"
    },
    "-2.-2": {
     "mtime": "2026-11-01T12:17:47Z",
