@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-01T17:21:35Z",
+ "updated": "2026-11-01T17:23:17Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 23809158,
+ "serverTicks": 23815158,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-11-01T17:18:00Z",
-   "playTicks": 8777620,
+   "lastSeen": "2026-11-01T17:23:00Z",
+   "playTicks": 8783620,
    "deaths": 0,
    "mobKills": 5068,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 653113,
-   "damageTaken": 109753,
-   "distanceCm": 142495786,
-   "walkCm": 36124480,
-   "flyCm": 57276071,
-   "jumps": 184980,
-   "mined": 91801,
+   "damageTaken": 109821,
+   "distanceCm": 142692421,
+   "walkCm": 36149342,
+   "flyCm": 57427632,
+   "jumps": 185039,
+   "mined": 91909,
    "topMined": [
     [
      "netherrack",
@@ -34,7 +34,7 @@
      6645
     ]
    ],
-   "crafted": 112505,
+   "crafted": 112517,
    "topCrafted": [
     [
      "stick",
@@ -1029,23 +1029,23 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-11-01T17:18:00Z",
-   "playTicks": 3686453,
+   "lastSeen": "2026-11-01T17:23:00Z",
+   "playTicks": 3692453,
    "deaths": 9,
-   "mobKills": 7664,
+   "mobKills": 7667,
    "playerKills": 7,
    "killedByPlayers": 3,
-   "damageDealt": 247190,
-   "damageTaken": 43333,
-   "distanceCm": 54222564,
-   "walkCm": 16814443,
-   "flyCm": 26859407,
-   "jumps": 53505,
-   "mined": 87519,
+   "damageDealt": 247810,
+   "damageTaken": 43445,
+   "distanceCm": 54284679,
+   "walkCm": 16873971,
+   "flyCm": 26860309,
+   "jumps": 53569,
+   "mined": 87699,
    "topMined": [
     [
      "stone",
-     18148
+     18211
     ],
     [
      "netherrack",
@@ -1078,7 +1078,7 @@
     ],
     [
      "zombie",
-     513
+     514
     ],
     [
      "skeleton",
@@ -1735,23 +1735,23 @@
    "uuid": "33ea52e3-86de-4e6b-9526-ef4483a31005",
    "name": "mcGammler",
    "firstSeen": "2026-10-17T17:31:12Z",
-   "lastSeen": "2026-11-01T17:18:00Z",
-   "playTicks": 353055,
+   "lastSeen": "2026-11-01T17:23:00Z",
+   "playTicks": 359055,
    "deaths": 10,
-   "mobKills": 51,
+   "mobKills": 52,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 2937,
-   "damageTaken": 6089,
-   "distanceCm": 4069363,
-   "walkCm": 1875805,
-   "flyCm": 1704392,
-   "jumps": 5187,
-   "mined": 1708,
+   "damageTaken": 6140,
+   "distanceCm": 4123923,
+   "walkCm": 1902595,
+   "flyCm": 1731262,
+   "jumps": 5259,
+   "mined": 1820,
    "topMined": [
     [
      "grass_block",
-     545
+     609
     ],
     [
      "stone",
@@ -1759,7 +1759,7 @@
     ],
     [
      "dirt",
-     252
+     253
     ]
    ],
    "crafted": 3501,
@@ -1806,14 +1806,23 @@
     ]
    ],
    "adv": {
-    "count": 17,
+    "count": 19,
     "byTab": {
-     "story": 7,
+     "story": 8,
      "husbandry": 3,
      "adventure": 6,
-     "end": 1
+     "end": 1,
+     "nether": 1
     },
     "recent": [
+     [
+      "nether/root",
+      "2026-11-01T17:18:40Z"
+     ],
+     [
+      "story/enter_the_nether",
+      "2026-11-01T17:18:40Z"
+     ],
      [
       "end/elytra",
       "2026-11-01T16:19:32Z"
@@ -1837,14 +1846,6 @@
      [
       "adventure/totem_of_undying",
       "2026-10-24T20:24:12Z"
-     ],
-     [
-      "adventure/shoot_arrow",
-      "2026-10-24T20:12:56Z"
-     ],
-     [
-      "adventure/kill_a_mob",
-      "2026-10-17T19:41:55Z"
      ]
     ]
    }
