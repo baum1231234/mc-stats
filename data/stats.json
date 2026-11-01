@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T16:13:51Z",
+ "updated": "2026-11-01T16:15:27Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 23731158,
  "players": [
@@ -1510,18 +1510,18 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-11-01T16:13:00Z",
-   "playTicks": 1684883,
+   "lastSeen": "2026-11-01T16:15:33Z",
+   "playTicks": 1687942,
    "deaths": 7,
-   "mobKills": 3023,
+   "mobKills": 3030,
    "playerKills": 1,
    "killedByPlayers": 5,
-   "damageDealt": 49106,
-   "damageTaken": 24991,
-   "distanceCm": 32022038,
-   "walkCm": 6975472,
-   "flyCm": 22259719,
-   "jumps": 18070,
+   "damageDealt": 49716,
+   "damageTaken": 24998,
+   "distanceCm": 32062501,
+   "walkCm": 6995479,
+   "flyCm": 22267529,
+   "jumps": 18114,
    "mined": 16345,
    "topMined": [
     [
@@ -1731,18 +1731,18 @@
    "uuid": "33ea52e3-86de-4e6b-9526-ef4483a31005",
    "name": "mcGammler",
    "firstSeen": "2026-10-17T17:31:12Z",
-   "lastSeen": "2026-11-01T16:13:00Z",
-   "playTicks": 276029,
+   "lastSeen": "2026-11-01T16:15:33Z",
+   "playTicks": 279088,
    "deaths": 9,
-   "mobKills": 14,
+   "mobKills": 20,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 2186,
-   "damageTaken": 5154,
-   "distanceCm": 2606173,
-   "walkCm": 1415412,
-   "flyCm": 726480,
-   "jumps": 4244,
+   "damageDealt": 2656,
+   "damageTaken": 5220,
+   "distanceCm": 2645947,
+   "walkCm": 1431373,
+   "flyCm": 741390,
+   "jumps": 4339,
    "mined": 1348,
    "topMined": [
     [
@@ -1779,11 +1779,11 @@
      8
     ],
     [
-     "salmon",
-     2
+     "sheep",
+     6
     ],
     [
-     "spider",
+     "salmon",
      2
     ]
    ],
