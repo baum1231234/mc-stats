@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T14:38:44Z",
+ "updated": "2026-11-01T14:42:11Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 23619312,
+ "serverTicks": 23625312,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -575,23 +575,23 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-11-01T14:37:24Z",
-   "playTicks": 4786697,
+   "lastSeen": "2026-11-01T14:42:24Z",
+   "playTicks": 4792697,
    "deaths": 0,
-   "mobKills": 2049,
+   "mobKills": 2062,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 167836,
-   "damageTaken": 21928,
-   "distanceCm": 34483021,
-   "walkCm": 16633837,
-   "flyCm": 13370819,
-   "jumps": 28244,
-   "mined": 78031,
+   "damageDealt": 169911,
+   "damageTaken": 22108,
+   "distanceCm": 34603355,
+   "walkCm": 16651208,
+   "flyCm": 13470882,
+   "jumps": 28306,
+   "mined": 78073,
    "topMined": [
     [
      "netherrack",
-     32091
+     32127
     ],
     [
      "spruce_log",
@@ -624,7 +624,7 @@
     ],
     [
      "zombie",
-     254
+     264
     ],
     [
      "creeper",
