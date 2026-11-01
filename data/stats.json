@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T18:21:26Z",
+ "updated": "2026-11-01T18:23:05Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 23881158,
  "players": [
@@ -7,19 +7,19 @@
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-11-01T18:18:00Z",
-   "playTicks": 8849620,
+   "lastSeen": "2026-11-01T18:23:00Z",
+   "playTicks": 8855620,
    "deaths": 0,
-   "mobKills": 5082,
+   "mobKills": 5083,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 654772,
-   "damageTaken": 110562,
-   "distanceCm": 143712010,
-   "walkCm": 36569803,
-   "flyCm": 57946121,
-   "jumps": 185705,
-   "mined": 92193,
+   "damageDealt": 654964,
+   "damageTaken": 110672,
+   "distanceCm": 143855740,
+   "walkCm": 36610003,
+   "flyCm": 58027149,
+   "jumps": 185781,
+   "mined": 92296,
    "topMined": [
     [
      "netherrack",
@@ -31,7 +31,7 @@
     ],
     [
      "stone",
-     6648
+     6651
     ]
    ],
    "crafted": 113889,
@@ -56,7 +56,7 @@
     ],
     [
      "skeleton",
-     527
+     528
     ],
     [
      "zombie",
@@ -1388,23 +1388,23 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-11-01T18:18:00Z",
-   "playTicks": 1989603,
+   "lastSeen": "2026-11-01T18:23:00Z",
+   "playTicks": 1995603,
    "deaths": 32,
    "mobKills": 370,
    "playerKills": 0,
    "killedByPlayers": 5,
    "damageDealt": 31953,
-   "damageTaken": 26498,
-   "distanceCm": 20428765,
-   "walkCm": 9150111,
-   "flyCm": 6532112,
-   "jumps": 25379,
-   "mined": 15161,
+   "damageTaken": 26545,
+   "distanceCm": 20483400,
+   "walkCm": 9187126,
+   "flyCm": 6540720,
+   "jumps": 25410,
+   "mined": 15303,
    "topMined": [
     [
      "stone",
-     5324
+     5445
     ],
     [
      "dirt",
@@ -1415,7 +1415,7 @@
      1911
     ]
    ],
-   "crafted": 23790,
+   "crafted": 23826,
    "topCrafted": [
     [
      "stick",
@@ -2824,8 +2824,8 @@
     "rendered": "2026-10-28T20:04:51Z"
    },
    "1.-7": {
-    "mtime": "2026-10-28T18:40:57Z",
-    "rendered": "2026-10-28T20:04:51Z"
+    "mtime": "2026-11-01T18:23:31Z",
+    "rendered": "2026-11-01T18:23:05Z"
    },
    "2.-6": {
     "mtime": "2026-10-28T17:03:50Z",
