@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-01T18:29:49Z",
+ "updated": "2026-11-01T18:31:32Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 23893158,
+ "serverTicks": 23896551,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-11-01T18:28:00Z",
-   "playTicks": 8861620,
+   "lastSeen": "2026-11-01T18:30:49Z",
+   "playTicks": 8865013,
    "deaths": 0,
-   "mobKills": 5083,
+   "mobKills": 5084,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 654964,
-   "damageTaken": 110754,
-   "distanceCm": 143954271,
-   "walkCm": 36647143,
-   "flyCm": 58085447,
-   "jumps": 185805,
-   "mined": 92524,
+   "damageDealt": 655064,
+   "damageTaken": 110795,
+   "distanceCm": 144042926,
+   "walkCm": 36683734,
+   "flyCm": 58135609,
+   "jumps": 185823,
+   "mined": 92526,
    "topMined": [
     [
      "netherrack",
@@ -1388,31 +1388,31 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-11-01T18:28:00Z",
-   "playTicks": 2001603,
+   "lastSeen": "2026-11-01T18:30:49Z",
+   "playTicks": 2004996,
    "deaths": 32,
    "mobKills": 370,
    "playerKills": 0,
    "killedByPlayers": 5,
    "damageDealt": 31953,
    "damageTaken": 26545,
-   "distanceCm": 20527170,
-   "walkCm": 9226814,
+   "distanceCm": 20543872,
+   "walkCm": 9243516,
    "flyCm": 6544577,
-   "jumps": 25456,
-   "mined": 15683,
+   "jumps": 25458,
+   "mined": 15948,
    "topMined": [
     [
      "stone",
-     5711
+     5890
     ],
     [
      "dirt",
-     1955
+     1986
     ],
     [
      "grass_block",
-     1934
+     1955
     ]
    ],
    "crafted": 23826,
@@ -2395,8 +2395,8 @@
     "rendered": "2026-11-01T17:26:28Z"
    },
    "2.-3": {
-    "mtime": "2026-11-01T15:31:45Z",
-    "rendered": "2026-11-01T15:31:19Z"
+    "mtime": "2026-11-01T17:54:43Z",
+    "rendered": "2026-11-01T18:31:32Z"
    },
    "-12.1": {
     "mtime": "2026-11-01T14:01:34Z",
@@ -2679,8 +2679,8 @@
     "rendered": "2026-11-01T17:35:12Z"
    },
    "3.-2": {
-    "mtime": "2026-11-01T15:31:43Z",
-    "rendered": "2026-11-01T15:31:19Z"
+    "mtime": "2026-11-01T17:46:45Z",
+    "rendered": "2026-11-01T18:31:32Z"
    },
    "4.-1": {
     "mtime": "2026-11-01T14:40:39Z",
