@@ -1,29 +1,29 @@
 {
- "updated": "2026-11-01T14:26:06Z",
+ "updated": "2026-11-01T14:28:05Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 23601312,
+ "serverTicks": 23607312,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-11-01T14:22:24Z",
-   "playTicks": 8724797,
+   "lastSeen": "2026-11-01T14:27:24Z",
+   "playTicks": 8730797,
    "deaths": 0,
    "mobKills": 5062,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 652213,
-   "damageTaken": 108797,
-   "distanceCm": 141690038,
-   "walkCm": 35792561,
-   "flyCm": 56850934,
-   "jumps": 184506,
-   "mined": 90831,
+   "damageTaken": 108968,
+   "distanceCm": 141785826,
+   "walkCm": 35804975,
+   "flyCm": 56926519,
+   "jumps": 184546,
+   "mined": 90961,
    "topMined": [
     [
      "netherrack",
-     38433
+     38553
     ],
     [
      "spruce_log",
@@ -575,23 +575,23 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-11-01T14:22:24Z",
-   "playTicks": 4772576,
+   "lastSeen": "2026-11-01T14:27:24Z",
+   "playTicks": 4778576,
    "deaths": 0,
-   "mobKills": 2045,
+   "mobKills": 2048,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 167237,
-   "damageTaken": 21679,
-   "distanceCm": 34322887,
-   "walkCm": 16602248,
-   "flyCm": 13248469,
-   "jumps": 28087,
-   "mined": 77926,
+   "damageDealt": 167538,
+   "damageTaken": 21733,
+   "distanceCm": 34379597,
+   "walkCm": 16614632,
+   "flyCm": 13291145,
+   "jumps": 28154,
+   "mined": 77964,
    "topMined": [
     [
      "netherrack",
-     32018
+     32041
     ],
     [
      "spruce_log",
@@ -624,7 +624,7 @@
     ],
     [
      "zombie",
-     250
+     253
     ],
     [
      "creeper",
@@ -2532,8 +2532,8 @@
     "rendered": "2026-11-01T12:10:42Z"
    },
    "0.-5": {
-    "mtime": "2026-11-01T09:01:39Z",
-    "rendered": "2026-11-01T11:25:54Z"
+    "mtime": "2026-11-01T14:14:47Z",
+    "rendered": "2026-11-01T14:28:05Z"
    },
    "2.-2": {
     "mtime": "2026-11-01T12:08:23Z",
@@ -2620,8 +2620,8 @@
     "rendered": "2026-10-28T19:15:59Z"
    },
    "0.-7": {
-    "mtime": "2026-11-01T09:16:01Z",
-    "rendered": "2026-11-01T11:27:49Z"
+    "mtime": "2026-11-01T14:14:52Z",
+    "rendered": "2026-11-01T14:28:05Z"
    },
    "1.-6": {
     "mtime": "2026-11-01T13:20:29Z",
