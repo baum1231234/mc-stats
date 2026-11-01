@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-01T14:28:05Z",
+ "updated": "2026-11-01T14:31:39Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 23607312,
+ "serverTicks": 23610785,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-11-01T14:27:24Z",
-   "playTicks": 8730797,
+   "lastSeen": "2026-11-01T14:30:17Z",
+   "playTicks": 8734270,
    "deaths": 0,
    "mobKills": 5062,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 652213,
-   "damageTaken": 108968,
-   "distanceCm": 141785826,
-   "walkCm": 35804975,
-   "flyCm": 56926519,
-   "jumps": 184546,
+   "damageTaken": 109046,
+   "distanceCm": 141888584,
+   "walkCm": 35820657,
+   "flyCm": 57005196,
+   "jumps": 184598,
    "mined": 90961,
    "topMined": [
     [
@@ -34,7 +34,7 @@
      6645
     ]
    ],
-   "crafted": 112148,
+   "crafted": 112172,
    "topCrafted": [
     [
      "stick",
@@ -575,23 +575,23 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-11-01T14:27:24Z",
-   "playTicks": 4778576,
+   "lastSeen": "2026-11-01T14:30:49Z",
+   "playTicks": 4782681,
    "deaths": 0,
    "mobKills": 2048,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 167538,
-   "damageTaken": 21733,
-   "distanceCm": 34379597,
-   "walkCm": 16614632,
-   "flyCm": 13291145,
-   "jumps": 28154,
-   "mined": 77964,
+   "damageTaken": 21773,
+   "distanceCm": 34403452,
+   "walkCm": 16621124,
+   "flyCm": 13305608,
+   "jumps": 28194,
+   "mined": 78023,
    "topMined": [
     [
      "netherrack",
-     32041
+     32089
     ],
     [
      "spruce_log",
