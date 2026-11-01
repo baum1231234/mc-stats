@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T16:21:42Z",
+ "updated": "2026-11-01T16:23:20Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 23737158,
+ "serverTicks": 23743158,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1029,19 +1029,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-11-01T16:18:00Z",
-   "playTicks": 3614524,
+   "lastSeen": "2026-11-01T16:23:00Z",
+   "playTicks": 3620524,
    "deaths": 8,
    "mobKills": 7495,
    "playerKills": 7,
    "killedByPlayers": 3,
-   "damageDealt": 243581,
-   "damageTaken": 41566,
-   "distanceCm": 51903182,
-   "walkCm": 16477631,
-   "flyCm": 24963258,
-   "jumps": 52748,
-   "mined": 86835,
+   "damageDealt": 243609,
+   "damageTaken": 41624,
+   "distanceCm": 52028684,
+   "walkCm": 16498065,
+   "flyCm": 25066984,
+   "jumps": 52783,
+   "mined": 86839,
    "topMined": [
     [
      "stone",
@@ -1056,7 +1056,7 @@
      11004
     ]
    ],
-   "crafted": 89499,
+   "crafted": 89622,
    "topCrafted": [
     [
      "stick",
@@ -1510,19 +1510,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-11-01T16:18:00Z",
-   "playTicks": 1690883,
+   "lastSeen": "2026-11-01T16:23:00Z",
+   "playTicks": 1696883,
    "deaths": 7,
    "mobKills": 3034,
    "playerKills": 1,
    "killedByPlayers": 5,
    "damageDealt": 50026,
-   "damageTaken": 24998,
-   "distanceCm": 32110002,
-   "walkCm": 7011609,
-   "flyCm": 22295447,
-   "jumps": 18134,
-   "mined": 16460,
+   "damageTaken": 25053,
+   "distanceCm": 32248668,
+   "walkCm": 7035979,
+   "flyCm": 22407987,
+   "jumps": 18203,
+   "mined": 16497,
    "topMined": [
     [
      "dirt",
@@ -1534,7 +1534,7 @@
     ],
     [
      "grass_block",
-     2557
+     2560
     ]
    ],
    "crafted": 7996,
@@ -1731,19 +1731,19 @@
    "uuid": "33ea52e3-86de-4e6b-9526-ef4483a31005",
    "name": "mcGammler",
    "firstSeen": "2026-10-17T17:31:12Z",
-   "lastSeen": "2026-11-01T16:18:00Z",
-   "playTicks": 282029,
+   "lastSeen": "2026-11-01T16:23:00Z",
+   "playTicks": 288029,
    "deaths": 9,
-   "mobKills": 20,
+   "mobKills": 21,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 2656,
-   "damageTaken": 5220,
-   "distanceCm": 2658240,
-   "walkCm": 1434963,
-   "flyCm": 749643,
-   "jumps": 4369,
-   "mined": 1348,
+   "damageTaken": 5289,
+   "distanceCm": 2915490,
+   "walkCm": 1451937,
+   "flyCm": 985421,
+   "jumps": 4436,
+   "mined": 1359,
    "topMined": [
     [
      "grass_block",
@@ -1751,7 +1751,7 @@
     ],
     [
      "stone",
-     268
+     273
     ],
     [
      "dirt",
@@ -1802,13 +1802,18 @@
     ]
    ],
    "adv": {
-    "count": 16,
+    "count": 17,
     "byTab": {
      "story": 7,
      "husbandry": 3,
-     "adventure": 6
+     "adventure": 6,
+     "end": 1
     },
     "recent": [
+     [
+      "end/elytra",
+      "2026-11-01T16:19:32Z"
+     ],
      [
       "husbandry/plant_seed",
       "2026-10-24T21:31:12Z"
@@ -1836,10 +1841,6 @@
      [
       "adventure/kill_a_mob",
       "2026-10-17T19:41:55Z"
-     ],
-     [
-      "story/mine_diamond",
-      "2026-10-17T18:34:03Z"
      ]
     ]
    }
