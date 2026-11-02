@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T17:58:03Z",
+ "updated": "2026-11-02T17:59:43Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 24431116,
  "players": [
@@ -1388,19 +1388,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-11-02T17:53:19Z",
-   "playTicks": 2145623,
-   "deaths": 34,
-   "mobKills": 594,
+   "lastSeen": "2026-11-02T17:58:19Z",
+   "playTicks": 2151623,
+   "deaths": 36,
+   "mobKills": 595,
    "playerKills": 0,
    "killedByPlayers": 6,
-   "damageDealt": 35693,
-   "damageTaken": 29196,
-   "distanceCm": 22517120,
-   "walkCm": 9839530,
-   "flyCm": 7702294,
-   "jumps": 26156,
-   "mined": 17549,
+   "damageDealt": 35703,
+   "damageTaken": 29727,
+   "distanceCm": 22663153,
+   "walkCm": 9859176,
+   "flyCm": 7789217,
+   "jumps": 26261,
+   "mined": 17579,
    "topMined": [
     [
      "stone",
@@ -1433,7 +1433,7 @@
    "topKilled": [
     [
      "creeper",
-     311
+     312
     ],
     [
      "zombie",
@@ -1455,11 +1455,11 @@
     ],
     [
      "creeper",
-     4
+     5
     ],
     [
      "zombie",
-     4
+     5
     ],
     [
      "phantom",
