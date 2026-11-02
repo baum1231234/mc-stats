@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T07:18:31Z",
+ "updated": "2026-11-02T07:23:08Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 24129577,
+ "serverTicks": 24135577,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -446,6 +446,112 @@
    }
   },
   {
+   "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
+   "name": "snacx_27",
+   "firstSeen": "2026-10-13T07:04:58Z",
+   "lastSeen": "2026-11-02T07:22:20Z",
+   "playTicks": 4969844,
+   "deaths": 0,
+   "mobKills": 2068,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 171041,
+   "damageTaken": 22369,
+   "distanceCm": 34960880,
+   "walkCm": 16710390,
+   "flyCm": 13763708,
+   "jumps": 28423,
+   "mined": 78136,
+   "topMined": [
+    [
+     "netherrack",
+     32136
+    ],
+    [
+     "spruce_log",
+     6033
+    ],
+    [
+     "stone",
+     5906
+    ]
+   ],
+   "crafted": 112523,
+   "topCrafted": [
+    [
+     "stick",
+     46598
+    ],
+    [
+     "spruce_planks",
+     20608
+    ],
+    [
+     "iron_ingot",
+     11146
+    ]
+   ],
+   "topKilled": [
+    [
+     "guardian",
+     1342
+    ],
+    [
+     "zombie",
+     270
+    ],
+    [
+     "creeper",
+     141
+    ]
+   ],
+   "topKilledBy": [],
+   "adv": {
+    "count": 36,
+    "byTab": {
+     "story": 10,
+     "husbandry": 6,
+     "adventure": 12,
+     "nether": 7,
+     "end": 1
+    },
+    "recent": [
+     [
+      "nether/explore_nether",
+      "2026-11-01T13:45:31Z"
+     ],
+     [
+      "adventure/lightning_rod_with_villager_no_fire",
+      "2026-10-30T08:24:59Z"
+     ],
+     [
+      "husbandry/allay_deliver_item_to_player",
+      "2026-10-29T12:17:25Z"
+     ],
+     [
+      "adventure/voluntary_exile",
+      "2026-10-29T12:14:55Z"
+     ],
+     [
+      "story/upgrade_tools",
+      "2026-10-29T07:30:02Z"
+     ],
+     [
+      "end/elytra",
+      "2026-10-27T09:09:57Z"
+     ],
+     [
+      "husbandry/wax_on",
+      "2026-10-23T20:21:19Z"
+     ],
+     [
+      "adventure/totem_of_undying",
+      "2026-10-22T19:08:06Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
@@ -567,112 +673,6 @@
      [
       "nether/fast_travel",
       "2026-10-18T20:57:56Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
-   "name": "snacx_27",
-   "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-11-02T07:17:20Z",
-   "playTicks": 4963844,
-   "deaths": 0,
-   "mobKills": 2068,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 171041,
-   "damageTaken": 22369,
-   "distanceCm": 34960880,
-   "walkCm": 16710390,
-   "flyCm": 13763708,
-   "jumps": 28423,
-   "mined": 78136,
-   "topMined": [
-    [
-     "netherrack",
-     32136
-    ],
-    [
-     "spruce_log",
-     6033
-    ],
-    [
-     "stone",
-     5906
-    ]
-   ],
-   "crafted": 112523,
-   "topCrafted": [
-    [
-     "stick",
-     46598
-    ],
-    [
-     "spruce_planks",
-     20608
-    ],
-    [
-     "iron_ingot",
-     11146
-    ]
-   ],
-   "topKilled": [
-    [
-     "guardian",
-     1342
-    ],
-    [
-     "zombie",
-     270
-    ],
-    [
-     "creeper",
-     141
-    ]
-   ],
-   "topKilledBy": [],
-   "adv": {
-    "count": 36,
-    "byTab": {
-     "story": 10,
-     "husbandry": 6,
-     "adventure": 12,
-     "nether": 7,
-     "end": 1
-    },
-    "recent": [
-     [
-      "nether/explore_nether",
-      "2026-11-01T13:45:31Z"
-     ],
-     [
-      "adventure/lightning_rod_with_villager_no_fire",
-      "2026-10-30T08:24:59Z"
-     ],
-     [
-      "husbandry/allay_deliver_item_to_player",
-      "2026-10-29T12:17:25Z"
-     ],
-     [
-      "adventure/voluntary_exile",
-      "2026-10-29T12:14:55Z"
-     ],
-     [
-      "story/upgrade_tools",
-      "2026-10-29T07:30:02Z"
-     ],
-     [
-      "end/elytra",
-      "2026-10-27T09:09:57Z"
-     ],
-     [
-      "husbandry/wax_on",
-      "2026-10-23T20:21:19Z"
-     ],
-     [
-      "adventure/totem_of_undying",
-      "2026-10-22T19:08:06Z"
      ]
     ]
    }
