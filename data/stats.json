@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T17:13:03Z",
+ "updated": "2026-11-02T17:14:42Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 24377116,
  "players": [
@@ -1388,19 +1388,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-11-02T17:08:19Z",
-   "playTicks": 2091623,
+   "lastSeen": "2026-11-02T17:13:19Z",
+   "playTicks": 2097623,
    "deaths": 34,
-   "mobKills": 379,
+   "mobKills": 380,
    "playerKills": 0,
    "killedByPlayers": 6,
-   "damageDealt": 33496,
-   "damageTaken": 28620,
-   "distanceCm": 21510090,
-   "walkCm": 9644788,
-   "flyCm": 6996188,
-   "jumps": 25799,
-   "mined": 17212,
+   "damageDealt": 33696,
+   "damageTaken": 28717,
+   "distanceCm": 21752969,
+   "walkCm": 9656379,
+   "flyCm": 7194346,
+   "jumps": 25829,
+   "mined": 17214,
    "topMined": [
     [
      "stone",
@@ -1415,11 +1415,11 @@
      2001
     ]
    ],
-   "crafted": 25076,
+   "crafted": 25209,
    "topCrafted": [
     [
      "stone",
-     4965
+     5098
     ],
     [
      "stick",
