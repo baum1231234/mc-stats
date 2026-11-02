@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T16:33:39Z",
+ "updated": "2026-11-02T16:58:22Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 24353116,
+ "serverTicks": 24359116,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1388,23 +1388,23 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-11-01T19:28:01Z",
-   "playTicks": 2073623,
+   "lastSeen": "2026-11-02T16:58:19Z",
+   "playTicks": 2079623,
    "deaths": 33,
-   "mobKills": 378,
+   "mobKills": 379,
    "playerKills": 0,
    "killedByPlayers": 5,
-   "damageDealt": 33296,
-   "damageTaken": 28147,
-   "distanceCm": 21336261,
-   "walkCm": 9564942,
-   "flyCm": 6935825,
+   "damageDealt": 33496,
+   "damageTaken": 28246,
+   "distanceCm": 21370262,
+   "walkCm": 9594744,
+   "flyCm": 6940024,
    "jumps": 25757,
-   "mined": 16383,
+   "mined": 16750,
    "topMined": [
     [
      "stone",
-     6049
+     6369
     ],
     [
      "grass_block",
@@ -1433,7 +1433,7 @@
    "topKilled": [
     [
      "zombie",
-     99
+     100
     ],
     [
      "creeper",
