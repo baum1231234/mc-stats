@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T18:18:15Z",
+ "updated": "2026-11-02T18:23:10Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 24455116,
+ "serverTicks": 24461116,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1388,23 +1388,23 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-11-02T18:18:19Z",
-   "playTicks": 2175623,
+   "lastSeen": "2026-11-02T18:23:19Z",
+   "playTicks": 2181623,
    "deaths": 39,
-   "mobKills": 595,
+   "mobKills": 596,
    "playerKills": 0,
    "killedByPlayers": 6,
-   "damageDealt": 35783,
-   "damageTaken": 30805,
-   "distanceCm": 23606186,
-   "walkCm": 9930219,
-   "flyCm": 8605791,
-   "jumps": 26463,
-   "mined": 17659,
+   "damageDealt": 35853,
+   "damageTaken": 30818,
+   "distanceCm": 23669488,
+   "walkCm": 9961700,
+   "flyCm": 8613190,
+   "jumps": 26543,
+   "mined": 17838,
    "topMined": [
     [
      "stone",
-     6947
+     7082
     ],
     [
      "grass_block",
@@ -1412,10 +1412,10 @@
     ],
     [
      "dirt",
-     2001
+     2003
     ]
    ],
-   "crafted": 26099,
+   "crafted": 26131,
    "topCrafted": [
     [
      "stone",
@@ -1515,19 +1515,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-11-02T18:18:19Z",
-   "playTicks": 1877464,
+   "lastSeen": "2026-11-02T18:23:19Z",
+   "playTicks": 1883464,
    "deaths": 7,
    "mobKills": 3073,
    "playerKills": 2,
    "killedByPlayers": 5,
    "damageDealt": 56623,
-   "damageTaken": 27858,
-   "distanceCm": 36283939,
-   "walkCm": 7943995,
-   "flyCm": 25399079,
-   "jumps": 20239,
-   "mined": 18507,
+   "damageTaken": 27860,
+   "distanceCm": 36368847,
+   "walkCm": 7991622,
+   "flyCm": 25435935,
+   "jumps": 20303,
+   "mined": 18532,
    "topMined": [
     [
      "dirt",
@@ -1539,10 +1539,10 @@
     ],
     [
      "grass_block",
-     2605
+     2613
     ]
    ],
-   "crafted": 8908,
+   "crafted": 8940,
    "topCrafted": [
     [
      "firework_rocket",
