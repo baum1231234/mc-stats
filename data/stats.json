@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T16:07:33Z",
+ "updated": "2026-11-02T16:12:37Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 24321506,
+ "serverTicks": 24327506,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1515,19 +1515,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-11-02T16:07:19Z",
-   "playTicks": 1785305,
+   "lastSeen": "2026-11-02T16:12:19Z",
+   "playTicks": 1791305,
    "deaths": 7,
-   "mobKills": 3047,
+   "mobKills": 3059,
    "playerKills": 1,
    "killedByPlayers": 5,
-   "damageDealt": 51961,
-   "damageTaken": 27013,
-   "distanceCm": 34540918,
-   "walkCm": 7470116,
-   "flyCm": 24201140,
-   "jumps": 19197,
-   "mined": 17320,
+   "damageDealt": 53881,
+   "damageTaken": 27137,
+   "distanceCm": 34705853,
+   "walkCm": 7505197,
+   "flyCm": 24330452,
+   "jumps": 19243,
+   "mined": 17322,
    "topMined": [
     [
      "dirt",
@@ -1564,11 +1564,11 @@
     ],
     [
      "zombie",
-     58
+     62
     ],
     [
      "skeleton",
-     34
+     35
     ]
    ],
    "topKilledBy": [
