@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T17:59:43Z",
+ "updated": "2026-11-02T18:02:59Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 24431116,
+ "serverTicks": 24437116,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1388,18 +1388,18 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-11-02T17:58:19Z",
-   "playTicks": 2151623,
-   "deaths": 36,
+   "lastSeen": "2026-11-02T18:02:34Z",
+   "playTicks": 2156715,
+   "deaths": 38,
    "mobKills": 595,
    "playerKills": 0,
    "killedByPlayers": 6,
    "damageDealt": 35703,
-   "damageTaken": 29727,
-   "distanceCm": 22663153,
-   "walkCm": 9859176,
-   "flyCm": 7789217,
-   "jumps": 26261,
+   "damageTaken": 30534,
+   "distanceCm": 22748436,
+   "walkCm": 9894882,
+   "flyCm": 7824725,
+   "jumps": 26366,
    "mined": 17579,
    "topMined": [
     [
@@ -1447,7 +1447,7 @@
    "topKilledBy": [
     [
      "skeleton",
-     8
+     9
     ],
     [
      "player",
@@ -1455,7 +1455,7 @@
     ],
     [
      "creeper",
-     5
+     6
     ],
     [
      "zombie",
@@ -1515,19 +1515,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-11-02T17:58:19Z",
-   "playTicks": 1853464,
+   "lastSeen": "2026-11-02T18:02:34Z",
+   "playTicks": 1858556,
    "deaths": 7,
-   "mobKills": 3067,
+   "mobKills": 3071,
    "playerKills": 2,
    "killedByPlayers": 5,
-   "damageDealt": 55267,
-   "damageTaken": 27511,
-   "distanceCm": 35764418,
-   "walkCm": 7819686,
-   "flyCm": 25021165,
-   "jumps": 19814,
-   "mined": 18267,
+   "damageDealt": 55907,
+   "damageTaken": 27609,
+   "distanceCm": 35845776,
+   "walkCm": 7850546,
+   "flyCm": 25066509,
+   "jumps": 19989,
+   "mined": 18444,
    "topMined": [
     [
      "dirt",
