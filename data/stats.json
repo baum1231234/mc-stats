@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T18:42:50Z",
+ "updated": "2026-11-02T18:44:30Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 24479116,
+ "serverTicks": 24486905,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1388,19 +1388,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-11-02T18:38:19Z",
-   "playTicks": 2199623,
+   "lastSeen": "2026-11-02T18:43:49Z",
+   "playTicks": 2206212,
    "deaths": 40,
-   "mobKills": 596,
+   "mobKills": 597,
    "playerKills": 0,
    "killedByPlayers": 7,
-   "damageDealt": 35998,
-   "damageTaken": 31095,
-   "distanceCm": 23844965,
-   "walkCm": 10049238,
-   "flyCm": 8667712,
-   "jumps": 26637,
-   "mined": 18610,
+   "damageDealt": 36312,
+   "damageTaken": 31672,
+   "distanceCm": 23960688,
+   "walkCm": 10067867,
+   "flyCm": 8736710,
+   "jumps": 26695,
+   "mined": 18617,
    "topMined": [
     [
      "stone",
@@ -1415,19 +1415,19 @@
      2011
     ]
    ],
-   "crafted": 26339,
+   "crafted": 26547,
    "topCrafted": [
     [
      "stone",
      5653
     ],
     [
-     "stick",
-     4507
+     "stone_bricks",
+     4608
     ],
     [
-     "stone_bricks",
-     4400
+     "stick",
+     4507
     ]
    ],
    "topKilled": [
@@ -1515,19 +1515,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-11-02T18:38:19Z",
-   "playTicks": 1901464,
+   "lastSeen": "2026-11-02T18:43:28Z",
+   "playTicks": 1907642,
    "deaths": 7,
    "mobKills": 3074,
    "playerKills": 3,
    "killedByPlayers": 5,
-   "damageDealt": 57026,
-   "damageTaken": 28245,
-   "distanceCm": 36832156,
-   "walkCm": 8082134,
-   "flyCm": 25785377,
-   "jumps": 20502,
-   "mined": 18559,
+   "damageDealt": 57223,
+   "damageTaken": 28496,
+   "distanceCm": 36914268,
+   "walkCm": 8117676,
+   "flyCm": 25807825,
+   "jumps": 20578,
+   "mined": 18569,
    "topMined": [
     [
      "dirt",
