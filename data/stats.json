@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T18:34:39Z",
+ "updated": "2026-11-02T18:39:33Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 24473116,
+ "serverTicks": 24479116,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1388,18 +1388,18 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-11-02T18:33:19Z",
-   "playTicks": 2193623,
-   "deaths": 39,
+   "lastSeen": "2026-11-02T18:38:19Z",
+   "playTicks": 2199623,
+   "deaths": 40,
    "mobKills": 596,
    "playerKills": 0,
-   "killedByPlayers": 6,
-   "damageDealt": 35853,
-   "damageTaken": 30872,
-   "distanceCm": 23782344,
-   "walkCm": 10036229,
-   "flyCm": 8632110,
-   "jumps": 26630,
+   "killedByPlayers": 7,
+   "damageDealt": 35998,
+   "damageTaken": 31095,
+   "distanceCm": 23844965,
+   "walkCm": 10049238,
+   "flyCm": 8667712,
+   "jumps": 26637,
    "mined": 18610,
    "topMined": [
     [
@@ -1415,11 +1415,11 @@
      2011
     ]
    ],
-   "crafted": 26131,
+   "crafted": 26339,
    "topCrafted": [
     [
      "stone",
-     5445
+     5653
     ],
     [
      "stick",
@@ -1451,7 +1451,7 @@
     ],
     [
      "player",
-     6
+     7
     ],
     [
      "creeper",
@@ -1515,19 +1515,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-11-02T18:33:19Z",
-   "playTicks": 1895464,
+   "lastSeen": "2026-11-02T18:38:19Z",
+   "playTicks": 1901464,
    "deaths": 7,
    "mobKills": 3074,
-   "playerKills": 2,
+   "playerKills": 3,
    "killedByPlayers": 5,
-   "damageDealt": 56823,
-   "damageTaken": 28092,
-   "distanceCm": 36723153,
-   "walkCm": 8057971,
-   "flyCm": 25713167,
-   "jumps": 20462,
-   "mined": 18558,
+   "damageDealt": 57026,
+   "damageTaken": 28245,
+   "distanceCm": 36832156,
+   "walkCm": 8082134,
+   "flyCm": 25785377,
+   "jumps": 20502,
+   "mined": 18559,
    "topMined": [
     [
      "dirt",
@@ -1542,7 +1542,7 @@
      2613
     ]
    ],
-   "crafted": 8945,
+   "crafted": 8946,
    "topCrafted": [
     [
      "firework_rocket",
