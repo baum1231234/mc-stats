@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T17:26:50Z",
+ "updated": "2026-11-02T17:28:30Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 24389116,
+ "serverTicks": 24395116,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -334,18 +334,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-02T17:23:19Z",
-   "playTicks": 5790977,
+   "lastSeen": "2026-11-02T17:28:19Z",
+   "playTicks": 5796977,
    "deaths": 2,
-   "mobKills": 1876,
+   "mobKills": 1877,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 168086,
-   "damageTaken": 41918,
-   "distanceCm": 45520991,
-   "walkCm": 18537178,
-   "flyCm": 17621157,
-   "jumps": 79459,
+   "damageDealt": 168286,
+   "damageTaken": 41962,
+   "distanceCm": 45531883,
+   "walkCm": 18542357,
+   "flyCm": 17625658,
+   "jumps": 79476,
    "mined": 126225,
    "topMined": [
     [
@@ -382,12 +382,12 @@
      712
     ],
     [
-     "skeleton",
+     "zombie",
      165
     ],
     [
-     "zombie",
-     164
+     "skeleton",
+     165
     ]
    ],
    "topKilledBy": [
@@ -1388,23 +1388,23 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-11-02T17:23:19Z",
-   "playTicks": 2109623,
+   "lastSeen": "2026-11-02T17:28:19Z",
+   "playTicks": 2115623,
    "deaths": 34,
    "mobKills": 380,
    "playerKills": 0,
    "killedByPlayers": 6,
    "damageDealt": 33696,
-   "damageTaken": 28832,
-   "distanceCm": 21881222,
-   "walkCm": 9743129,
-   "flyCm": 7220545,
-   "jumps": 25962,
-   "mined": 17402,
+   "damageTaken": 28885,
+   "distanceCm": 22053657,
+   "walkCm": 9762360,
+   "flyCm": 7367800,
+   "jumps": 25986,
+   "mined": 17406,
    "topMined": [
     [
      "stone",
-     6912
+     6913
     ],
     [
      "grass_block",
@@ -1415,11 +1415,11 @@
      2001
     ]
    ],
-   "crafted": 25438,
+   "crafted": 25556,
    "topCrafted": [
     [
      "stone",
-     5327
+     5445
     ],
     [
      "stick",
