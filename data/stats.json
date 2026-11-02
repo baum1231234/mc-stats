@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T18:13:02Z",
+ "updated": "2026-11-02T18:14:54Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 24449116,
  "players": [
@@ -334,18 +334,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-02T18:10:19Z",
-   "playTicks": 5810686,
+   "lastSeen": "2026-11-02T18:13:19Z",
+   "playTicks": 5812456,
    "deaths": 2,
    "mobKills": 1877,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 168286,
-   "damageTaken": 41991,
-   "distanceCm": 45643781,
-   "walkCm": 18587819,
-   "flyCm": 17680053,
-   "jumps": 79740,
+   "damageTaken": 41993,
+   "distanceCm": 45653810,
+   "walkCm": 18591950,
+   "flyCm": 17684662,
+   "jumps": 79776,
    "mined": 126229,
    "topMined": [
     [
@@ -1388,19 +1388,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-11-02T18:08:19Z",
-   "playTicks": 2163623,
+   "lastSeen": "2026-11-02T18:13:19Z",
+   "playTicks": 2169623,
    "deaths": 38,
    "mobKills": 595,
    "playerKills": 0,
    "killedByPlayers": 6,
    "damageDealt": 35703,
    "damageTaken": 30549,
-   "distanceCm": 23114383,
-   "walkCm": 9906964,
-   "flyCm": 8161068,
-   "jumps": 26388,
-   "mined": 17592,
+   "distanceCm": 23440479,
+   "walkCm": 9910331,
+   "flyCm": 8481829,
+   "jumps": 26398,
+   "mined": 17594,
    "topMined": [
     [
      "stone",
@@ -1515,19 +1515,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-11-02T18:08:19Z",
-   "playTicks": 1865464,
+   "lastSeen": "2026-11-02T18:13:19Z",
+   "playTicks": 1871464,
    "deaths": 7,
    "mobKills": 3073,
    "playerKills": 2,
    "killedByPlayers": 5,
    "damageDealt": 56623,
-   "damageTaken": 27782,
-   "distanceCm": 36044641,
-   "walkCm": 7882567,
-   "flyCm": 25226408,
-   "jumps": 20065,
-   "mined": 18473,
+   "damageTaken": 27836,
+   "distanceCm": 36189185,
+   "walkCm": 7904030,
+   "flyCm": 25347059,
+   "jumps": 20173,
+   "mined": 18477,
    "topMined": [
     [
      "dirt",
@@ -1542,7 +1542,7 @@
      2604
     ]
    ],
-   "crafted": 8774,
+   "crafted": 8872,
    "topCrafted": [
     [
      "firework_rocket",
@@ -3339,8 +3339,8 @@
     "rendered": "2026-11-02T07:38:33Z"
    },
    "6.-2": {
-    "mtime": "2026-10-28T18:28:58Z",
-    "rendered": "2026-11-02T04:39:32Z"
+    "mtime": "2026-11-02T18:08:59Z",
+    "rendered": "2026-11-02T18:14:54Z"
    },
    "7.-1": {
     "mtime": "2026-10-17T17:31:48Z",
