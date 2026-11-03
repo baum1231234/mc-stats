@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T17:35:55Z",
+ "updated": "2026-11-03T17:37:53Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 24773042,
+ "serverTicks": 24775576,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1388,19 +1388,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-11-03T17:34:38Z",
-   "playTicks": 2221031,
+   "lastSeen": "2026-11-03T17:36:44Z",
+   "playTicks": 2223565,
    "deaths": 40,
    "mobKills": 667,
    "playerKills": 0,
    "killedByPlayers": 7,
    "damageDealt": 37642,
-   "damageTaken": 31930,
-   "distanceCm": 24173818,
-   "walkCm": 10104547,
-   "flyCm": 8881414,
-   "jumps": 26744,
-   "mined": 18707,
+   "damageTaken": 31973,
+   "distanceCm": 24202775,
+   "walkCm": 10111503,
+   "flyCm": 8897353,
+   "jumps": 26757,
+   "mined": 18721,
    "topMined": [
     [
      "stone",
@@ -1415,7 +1415,7 @@
      2014
     ]
    ],
-   "crafted": 26599,
+   "crafted": 26626,
    "topCrafted": [
     [
      "stone",
@@ -2508,12 +2508,12 @@
     "rendered": "2026-11-03T17:27:02Z"
    },
    "0.-3": {
-    "mtime": "2026-11-03T14:30:25Z",
-    "rendered": "2026-11-03T14:34:46Z"
+    "mtime": "2026-11-03T16:02:12Z",
+    "rendered": "2026-11-03T17:37:53Z"
    },
    "1.-2": {
-    "mtime": "2026-11-03T14:30:21Z",
-    "rendered": "2026-11-03T14:34:46Z"
+    "mtime": "2026-11-03T16:01:22Z",
+    "rendered": "2026-11-03T17:37:53Z"
    },
    "0.1": {
     "mtime": "2026-11-03T15:37:33Z",
@@ -2540,8 +2540,8 @@
     "rendered": "2026-11-03T14:40:12Z"
    },
    "-2.-5": {
-    "mtime": "2026-11-03T14:32:53Z",
-    "rendered": "2026-11-03T14:34:46Z"
+    "mtime": "2026-11-03T16:34:15Z",
+    "rendered": "2026-11-03T17:37:53Z"
    },
    "-3.6": {
     "mtime": "2026-10-29T20:09:58Z",
@@ -2552,8 +2552,8 @@
     "rendered": "2026-10-30T22:12:58Z"
    },
    "-1.-4": {
-    "mtime": "2026-11-03T14:32:46Z",
-    "rendered": "2026-11-03T14:36:34Z"
+    "mtime": "2026-11-03T16:03:12Z",
+    "rendered": "2026-11-03T17:37:53Z"
    },
    "0.-5": {
     "mtime": "2026-11-03T14:30:45Z",
