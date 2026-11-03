@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T15:02:44Z",
+ "updated": "2026-11-03T15:04:31Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 24589148,
+ "serverTicks": 24593768,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -334,19 +334,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-03T14:22:06Z",
-   "playTicks": 5861662,
+   "lastSeen": "2026-11-03T15:04:35Z",
+   "playTicks": 5864248,
    "deaths": 2,
    "mobKills": 1880,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 168816,
-   "damageTaken": 42104,
-   "distanceCm": 45904649,
-   "walkCm": 18678350,
-   "flyCm": 17816246,
-   "jumps": 80523,
-   "mined": 126229,
+   "damageTaken": 42112,
+   "distanceCm": 45935722,
+   "walkCm": 18688156,
+   "flyCm": 17831923,
+   "jumps": 80647,
+   "mined": 126230,
    "topMined": [
     [
      "netherrack",
@@ -1029,19 +1029,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-11-03T15:00:35Z",
-   "playTicks": 3791457,
+   "lastSeen": "2026-11-03T15:04:26Z",
+   "playTicks": 3796077,
    "deaths": 9,
-   "mobKills": 7849,
+   "mobKills": 7857,
    "playerKills": 7,
    "killedByPlayers": 3,
-   "damageDealt": 276076,
-   "damageTaken": 47590,
-   "distanceCm": 60345751,
-   "walkCm": 17157655,
-   "flyCm": 32449136,
-   "jumps": 54657,
-   "mined": 88069,
+   "damageDealt": 278209,
+   "damageTaken": 47694,
+   "distanceCm": 60558963,
+   "walkCm": 17171313,
+   "flyCm": 32635947,
+   "jumps": 54719,
+   "mined": 88080,
    "topMined": [
     [
      "stone",
@@ -1100,15 +1100,19 @@
     ]
    ],
    "adv": {
-    "count": 51,
+    "count": 52,
     "byTab": {
      "story": 13,
      "husbandry": 6,
-     "adventure": 14,
+     "adventure": 15,
      "nether": 14,
      "end": 4
     },
     "recent": [
+     [
+      "adventure/hero_of_the_village",
+      "2026-11-03T15:01:01Z"
+     ],
      [
       "end/find_end_city",
       "2026-11-01T16:00:30Z"
@@ -1135,10 +1139,6 @@
      ],
      [
       "end/root",
-      "2026-10-25T17:15:10Z"
-     ],
-     [
-      "story/enter_the_end",
       "2026-10-25T17:15:10Z"
      ]
     ]
@@ -1515,19 +1515,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-11-03T15:00:35Z",
-   "playTicks": 1917024,
+   "lastSeen": "2026-11-03T15:04:26Z",
+   "playTicks": 1921644,
    "deaths": 7,
-   "mobKills": 3084,
+   "mobKills": 3090,
    "playerKills": 3,
    "killedByPlayers": 5,
-   "damageDealt": 60146,
-   "damageTaken": 28979,
-   "distanceCm": 37238441,
-   "walkCm": 8162787,
-   "flyCm": 26062971,
-   "jumps": 20675,
-   "mined": 18593,
+   "damageDealt": 61360,
+   "damageTaken": 29335,
+   "distanceCm": 37388283,
+   "walkCm": 8185850,
+   "flyCm": 26180871,
+   "jumps": 20736,
+   "mined": 18600,
    "topMined": [
     [
      "dirt",
@@ -1582,15 +1582,19 @@
     ]
    ],
    "adv": {
-    "count": 39,
+    "count": 40,
     "byTab": {
      "story": 12,
      "husbandry": 2,
-     "adventure": 11,
+     "adventure": 12,
      "nether": 10,
      "end": 4
     },
     "recent": [
+     [
+      "adventure/hero_of_the_village",
+      "2026-11-03T15:01:01Z"
+     ],
      [
       "story/form_obsidian",
       "2026-11-01T10:21:41Z"
@@ -1618,10 +1622,6 @@
      [
       "nether/find_fortress",
       "2026-10-28T19:00:28Z"
-     ],
-     [
-      "nether/explore_nether",
-      "2026-10-28T19:00:05Z"
      ]
     ]
    }
@@ -3645,8 +3645,8 @@
     "rendered": "2026-11-03T15:02:44Z"
    },
    "-8.-3": {
-    "mtime": "2026-10-31T14:41:21Z",
-    "rendered": "2026-10-31T15:05:31Z"
+    "mtime": "2026-11-03T14:33:10Z",
+    "rendered": "2026-11-03T15:04:31Z"
    },
    "-9.-4": {
     "mtime": "2026-10-17T17:28:18Z",
@@ -3722,8 +3722,8 @@
     "rendered": "2026-11-02T04:56:48Z"
    },
    "-6.-3": {
-    "mtime": "2026-10-31T14:41:57Z",
-    "rendered": "2026-10-31T15:05:31Z"
+    "mtime": "2026-11-03T14:33:08Z",
+    "rendered": "2026-11-03T15:04:31Z"
    },
    "2.8": {
     "mtime": "2026-11-02T02:17:11Z",
@@ -3830,8 +3830,8 @@
     "rendered": "2026-11-02T05:08:01Z"
    },
    "-7.-3": {
-    "mtime": "2026-10-31T14:41:38Z",
-    "rendered": "2026-10-31T15:07:26Z"
+    "mtime": "2026-11-03T14:33:10Z",
+    "rendered": "2026-11-03T15:04:31Z"
    },
    "-8.-4": {
     "mtime": "2026-10-20T06:35:38Z",
