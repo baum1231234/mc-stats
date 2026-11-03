@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T15:20:36Z",
+ "updated": "2026-11-03T15:25:24Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 24613148,
+ "serverTicks": 24619148,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1029,19 +1029,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-11-03T15:20:35Z",
-   "playTicks": 3815457,
+   "lastSeen": "2026-11-03T15:25:11Z",
+   "playTicks": 3820970,
    "deaths": 9,
-   "mobKills": 7902,
+   "mobKills": 7955,
    "playerKills": 7,
    "killedByPlayers": 3,
-   "damageDealt": 291045,
-   "damageTaken": 49537,
-   "distanceCm": 61385502,
-   "walkCm": 17242090,
-   "flyCm": 33346155,
-   "jumps": 54980,
-   "mined": 88128,
+   "damageDealt": 291245,
+   "damageTaken": 49612,
+   "distanceCm": 61525619,
+   "walkCm": 17252463,
+   "flyCm": 33474749,
+   "jumps": 55001,
+   "mined": 88218,
    "topMined": [
     [
      "stone",
@@ -1049,14 +1049,14 @@
     ],
     [
      "netherrack",
-     16118
+     16186
     ],
     [
      "grass_block",
      11032
     ]
    ],
-   "crafted": 91669,
+   "crafted": 91711,
    "topCrafted": [
     [
      "stick",
@@ -1074,7 +1074,7 @@
    "topKilled": [
     [
      "silverfish",
-     4766
+     4815
     ],
     [
      "zombie",
@@ -1082,7 +1082,7 @@
     ],
     [
      "skeleton",
-     423
+     424
     ]
    ],
    "topKilledBy": [
@@ -1515,19 +1515,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-11-03T15:20:35Z",
-   "playTicks": 1941024,
+   "lastSeen": "2026-11-03T15:25:35Z",
+   "playTicks": 1947024,
    "deaths": 7,
-   "mobKills": 3127,
+   "mobKills": 3230,
    "playerKills": 3,
    "killedByPlayers": 5,
    "damageDealt": 71591,
    "damageTaken": 31149,
-   "distanceCm": 37919803,
-   "walkCm": 8298876,
-   "flyCm": 26547586,
-   "jumps": 21062,
-   "mined": 18628,
+   "distanceCm": 37958011,
+   "walkCm": 8332338,
+   "flyCm": 26552293,
+   "jumps": 21127,
+   "mined": 18645,
    "topMined": [
     [
      "dirt",
@@ -1542,7 +1542,7 @@
      2613
     ]
    ],
-   "crafted": 8946,
+   "crafted": 9053,
    "topCrafted": [
     [
      "firework_rocket",
@@ -1560,7 +1560,7 @@
    "topKilled": [
     [
      "silverfish",
-     1918
+     2009
     ],
     [
      "zombie",
