@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T15:30:22Z",
+ "updated": "2026-11-03T15:32:00Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 24625148,
  "players": [
@@ -7,19 +7,19 @@
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-11-03T15:25:35Z",
-   "playTicks": 8883234,
+   "lastSeen": "2026-11-03T15:30:35Z",
+   "playTicks": 8889234,
    "deaths": 0,
    "mobKills": 5085,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 655185,
-   "damageTaken": 111207,
-   "distanceCm": 144335591,
-   "walkCm": 36744246,
-   "flyCm": 58353949,
-   "jumps": 185917,
-   "mined": 92643,
+   "damageTaken": 111246,
+   "distanceCm": 144393663,
+   "walkCm": 36763533,
+   "flyCm": 58388388,
+   "jumps": 185947,
+   "mined": 92685,
    "topMined": [
     [
      "netherrack",
@@ -34,7 +34,7 @@
      6654
     ]
    ],
-   "crafted": 113889,
+   "crafted": 113892,
    "topCrafted": [
     [
      "stick",
@@ -65,15 +65,19 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 64,
+    "count": 65,
     "byTab": {
      "story": 14,
      "adventure": 19,
-     "husbandry": 11,
+     "husbandry": 12,
      "nether": 15,
      "end": 5
     },
     "recent": [
+     [
+      "husbandry/safely_harvest_honey",
+      "2026-11-03T15:28:33Z"
+     ],
      [
       "end/elytra",
       "2026-10-25T18:14:23Z"
@@ -101,10 +105,6 @@
      [
       "adventure/lighten_up",
       "2026-10-24T18:48:17Z"
-     ],
-     [
-      "adventure/blowback",
-      "2026-10-18T16:19:23Z"
      ]
     ]
    }
