@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T17:10:00Z",
+ "updated": "2026-11-03T17:11:47Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 24745148,
  "players": [
@@ -7,18 +7,18 @@
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-11-03T17:05:35Z",
-   "playTicks": 9003234,
+   "lastSeen": "2026-11-03T17:10:35Z",
+   "playTicks": 9009234,
    "deaths": 0,
    "mobKills": 5101,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 657524,
-   "damageTaken": 112322,
-   "distanceCm": 146399331,
-   "walkCm": 37663520,
-   "flyCm": 59395623,
-   "jumps": 187763,
+   "damageTaken": 112480,
+   "distanceCm": 146632158,
+   "walkCm": 37683062,
+   "flyCm": 59596633,
+   "jumps": 187876,
    "mined": 94985,
    "topMined": [
     [
@@ -65,15 +65,19 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 66,
+    "count": 67,
     "byTab": {
-     "story": 14,
+     "story": 15,
      "adventure": 20,
      "husbandry": 12,
      "nether": 15,
      "end": 5
     },
     "recent": [
+     [
+      "story/follow_ender_eye",
+      "2026-11-03T17:09:09Z"
+     ],
      [
       "adventure/spear_many_mobs",
       "2026-11-03T16:00:45Z"
@@ -100,10 +104,6 @@
      ],
      [
       "end/root",
-      "2026-10-25T17:15:13Z"
-     ],
-     [
-      "story/enter_the_end",
       "2026-10-25T17:15:13Z"
      ]
     ]
