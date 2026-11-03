@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-03T16:03:47Z",
+ "updated": "2026-11-03T16:05:26Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 24661148,
+ "serverTicks": 24667148,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-11-03T16:00:35Z",
-   "playTicks": 8925234,
+   "lastSeen": "2026-11-03T16:04:27Z",
+   "playTicks": 8929865,
    "deaths": 0,
-   "mobKills": 5090,
+   "mobKills": 5093,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 655965,
-   "damageTaken": 111665,
-   "distanceCm": 145002216,
-   "walkCm": 37114835,
-   "flyCm": 58615882,
-   "jumps": 186465,
+   "damageDealt": 656624,
+   "damageTaken": 111782,
+   "distanceCm": 145309113,
+   "walkCm": 37140068,
+   "flyCm": 58885412,
+   "jumps": 186531,
    "mined": 93447,
    "topMined": [
     [
@@ -65,15 +65,19 @@
    ],
    "topKilledBy": [],
    "adv": {
-    "count": 65,
+    "count": 66,
     "byTab": {
      "story": 14,
-     "adventure": 19,
+     "adventure": 20,
      "husbandry": 12,
      "nether": 15,
      "end": 5
     },
     "recent": [
+     [
+      "adventure/spear_many_mobs",
+      "2026-11-03T16:00:45Z"
+     ],
      [
       "husbandry/safely_harvest_honey",
       "2026-11-03T15:28:33Z"
@@ -101,10 +105,6 @@
      [
       "story/enter_the_end",
       "2026-10-25T17:15:13Z"
-     ],
-     [
-      "adventure/lighten_up",
-      "2026-10-24T18:48:17Z"
      ]
     ]
    }
