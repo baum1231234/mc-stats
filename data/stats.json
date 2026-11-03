@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T17:52:16Z",
+ "updated": "2026-11-03T17:57:41Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 24793576,
+ "serverTicks": 24799576,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1388,19 +1388,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-11-03T17:51:44Z",
-   "playTicks": 2241565,
+   "lastSeen": "2026-11-03T17:56:44Z",
+   "playTicks": 2247565,
    "deaths": 40,
-   "mobKills": 672,
+   "mobKills": 676,
    "playerKills": 0,
    "killedByPlayers": 7,
-   "damageDealt": 39046,
-   "damageTaken": 32518,
-   "distanceCm": 24439788,
-   "walkCm": 10192522,
-   "flyCm": 9040280,
-   "jumps": 26978,
-   "mined": 18782,
+   "damageDealt": 39086,
+   "damageTaken": 32549,
+   "distanceCm": 24917120,
+   "walkCm": 10207361,
+   "flyCm": 9498325,
+   "jumps": 27037,
+   "mined": 18783,
    "topMined": [
     [
      "stone",
@@ -1415,7 +1415,7 @@
      2014
     ]
    ],
-   "crafted": 26635,
+   "crafted": 26707,
    "topCrafted": [
     [
      "stone",
@@ -1433,7 +1433,7 @@
    "topKilled": [
     [
      "creeper",
-     378
+     382
     ],
     [
      "zombie",
@@ -3105,8 +3105,8 @@
     "rendered": "2026-11-01T20:14:43Z"
    },
    "4.3": {
-    "mtime": "2026-11-03T14:48:01Z",
-    "rendered": "2026-11-03T14:57:25Z"
+    "mtime": "2026-11-03T14:58:41Z",
+    "rendered": "2026-11-03T17:57:41Z"
    },
    "5.2": {
     "mtime": "2026-10-28T18:46:51Z",
