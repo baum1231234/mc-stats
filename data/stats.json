@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T17:32:35Z",
+ "updated": "2026-11-03T17:35:55Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 24769576,
+ "serverTicks": 24773042,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1388,19 +1388,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-11-03T17:31:44Z",
-   "playTicks": 2217565,
+   "lastSeen": "2026-11-03T17:34:38Z",
+   "playTicks": 2221031,
    "deaths": 40,
-   "mobKills": 663,
+   "mobKills": 667,
    "playerKills": 0,
    "killedByPlayers": 7,
-   "damageDealt": 36843,
-   "damageTaken": 31826,
-   "distanceCm": 24148418,
-   "walkCm": 10096978,
-   "flyCm": 8872050,
-   "jumps": 26734,
-   "mined": 18620,
+   "damageDealt": 37642,
+   "damageTaken": 31930,
+   "distanceCm": 24173818,
+   "walkCm": 10104547,
+   "flyCm": 8881414,
+   "jumps": 26744,
+   "mined": 18707,
    "topMined": [
     [
      "stone",
@@ -1412,7 +1412,7 @@
     ],
     [
      "dirt",
-     2011
+     2014
     ]
    ],
    "crafted": 26599,
@@ -2440,24 +2440,24 @@
     "rendered": "2026-11-03T16:39:14Z"
    },
    "-2.-6": {
-    "mtime": "2026-11-03T14:32:50Z",
-    "rendered": "2026-11-03T14:32:58Z"
+    "mtime": "2026-11-03T16:34:05Z",
+    "rendered": "2026-11-03T17:35:55Z"
    },
    "1.-4": {
-    "mtime": "2026-11-03T14:30:25Z",
-    "rendered": "2026-11-03T14:32:58Z"
+    "mtime": "2026-11-03T16:02:09Z",
+    "rendered": "2026-11-03T17:35:55Z"
    },
    "-2.4": {
     "mtime": "2026-11-03T17:09:48Z",
     "rendered": "2026-11-03T17:10:00Z"
    },
    "-1.-7": {
-    "mtime": "2026-11-03T14:32:31Z",
-    "rendered": "2026-11-03T14:32:58Z"
+    "mtime": "2026-11-03T16:34:05Z",
+    "rendered": "2026-11-03T17:35:55Z"
    },
    "0.-6": {
-    "mtime": "2026-11-03T14:30:45Z",
-    "rendered": "2026-11-03T14:34:46Z"
+    "mtime": "2026-11-03T16:34:05Z",
+    "rendered": "2026-11-03T17:35:55Z"
    },
    "2.-4": {
     "mtime": "2026-11-01T17:47:31Z",
