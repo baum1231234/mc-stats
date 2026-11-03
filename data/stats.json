@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T20:18:06Z",
+ "updated": "2026-11-03T20:20:11Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 24937911,
+ "serverTicks": 24941497,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,18 +228,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-03T20:16:51Z",
-   "playTicks": 6062811,
+   "lastSeen": "2026-11-03T20:19:50Z",
+   "playTicks": 6066397,
    "deaths": 0,
    "mobKills": 6647,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 494090,
-   "damageTaken": 89729,
-   "distanceCm": 68665796,
-   "walkCm": 20188196,
-   "flyCm": 29654377,
-   "jumps": 96604,
+   "damageTaken": 89765,
+   "distanceCm": 68942723,
+   "walkCm": 20198975,
+   "flyCm": 29916852,
+   "jumps": 96642,
    "mined": 103461,
    "topMined": [
     [
@@ -334,18 +334,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-03T20:16:51Z",
-   "playTicks": 5933353,
+   "lastSeen": "2026-11-03T20:19:50Z",
+   "playTicks": 5936939,
    "deaths": 2,
    "mobKills": 1882,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 169118,
-   "damageTaken": 42291,
-   "distanceCm": 46592622,
-   "walkCm": 19007209,
-   "flyCm": 18132886,
-   "jumps": 81738,
+   "damageTaken": 42295,
+   "distanceCm": 46688718,
+   "walkCm": 19018018,
+   "flyCm": 18214848,
+   "jumps": 81794,
    "mined": 132571,
    "topMined": [
     [
@@ -449,19 +449,19 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-11-03T20:16:51Z",
-   "playTicks": 5228962,
+   "lastSeen": "2026-11-03T20:19:50Z",
+   "playTicks": 5232548,
    "deaths": 1,
    "mobKills": 2069,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 171243,
    "damageTaken": 22760,
-   "distanceCm": 35696247,
-   "walkCm": 16983363,
-   "flyCm": 14217734,
-   "jumps": 28931,
-   "mined": 78768,
+   "distanceCm": 35792591,
+   "walkCm": 16996259,
+   "flyCm": 14298260,
+   "jumps": 28985,
+   "mined": 78769,
    "topMined": [
     [
      "netherrack",
@@ -1029,19 +1029,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-11-03T20:16:51Z",
-   "playTicks": 3931536,
+   "lastSeen": "2026-11-03T20:19:50Z",
+   "playTicks": 3935122,
    "deaths": 10,
-   "mobKills": 8025,
+   "mobKills": 8135,
    "playerKills": 7,
    "killedByPlayers": 3,
    "damageDealt": 300454,
    "damageTaken": 52230,
-   "distanceCm": 64167697,
-   "walkCm": 17906853,
-   "flyCm": 35428428,
-   "jumps": 56030,
-   "mined": 99108,
+   "distanceCm": 64175411,
+   "walkCm": 17914115,
+   "flyCm": 35428880,
+   "jumps": 56033,
+   "mined": 99115,
    "topMined": [
     [
      "netherrack",
@@ -1056,11 +1056,11 @@
      11032
     ]
    ],
-   "crafted": 92793,
+   "crafted": 92813,
    "topCrafted": [
     [
      "stick",
-     34654
+     34671
     ],
     [
      "spruce_planks",
@@ -1074,7 +1074,7 @@
    "topKilled": [
     [
      "silverfish",
-     4815
+     4906
     ],
     [
      "zombie",
@@ -1388,19 +1388,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-11-03T20:16:51Z",
-   "playTicks": 2378971,
+   "lastSeen": "2026-11-03T20:19:50Z",
+   "playTicks": 2382557,
    "deaths": 43,
    "mobKills": 712,
    "playerKills": 0,
    "killedByPlayers": 7,
-   "damageDealt": 41952,
+   "damageDealt": 41962,
    "damageTaken": 36069,
-   "distanceCm": 27995433,
-   "walkCm": 10946919,
-   "flyCm": 11580727,
-   "jumps": 28874,
-   "mined": 23671,
+   "distanceCm": 28013153,
+   "walkCm": 10964023,
+   "flyCm": 11581343,
+   "jumps": 28885,
+   "mined": 23672,
    "topMined": [
     [
      "stone",
@@ -1415,7 +1415,7 @@
      2098
     ]
    ],
-   "crafted": 27049,
+   "crafted": 27089,
    "topCrafted": [
     [
      "stone",
@@ -2752,8 +2752,8 @@
     "rendered": "2026-11-03T19:45:11Z"
    },
    "-13.0": {
-    "mtime": "2026-11-03T17:13:03Z",
-    "rendered": "2026-11-03T17:13:25Z"
+    "mtime": "2026-11-03T20:20:21Z",
+    "rendered": "2026-11-03T20:20:11Z"
    },
    "-13.2": {
     "mtime": "2026-11-03T19:49:07Z",
