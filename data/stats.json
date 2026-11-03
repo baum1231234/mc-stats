@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T20:14:16Z",
+ "updated": "2026-11-03T20:18:06Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 24931911,
+ "serverTicks": 24937911,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,23 +228,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-03T20:11:51Z",
-   "playTicks": 6056811,
+   "lastSeen": "2026-11-03T20:16:51Z",
+   "playTicks": 6062811,
    "deaths": 0,
-   "mobKills": 6646,
+   "mobKills": 6647,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 493890,
-   "damageTaken": 89625,
-   "distanceCm": 68511463,
-   "walkCm": 20155242,
-   "flyCm": 29534580,
-   "jumps": 96545,
-   "mined": 103452,
+   "damageDealt": 494090,
+   "damageTaken": 89729,
+   "distanceCm": 68665796,
+   "walkCm": 20188196,
+   "flyCm": 29654377,
+   "jumps": 96604,
+   "mined": 103461,
    "topMined": [
     [
      "stone",
-     26688
+     26697
     ],
     [
      "netherrack",
@@ -277,7 +277,7 @@
     ],
     [
      "zombie",
-     340
+     341
     ],
     [
      "skeleton",
@@ -334,19 +334,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-03T20:11:51Z",
-   "playTicks": 5927353,
+   "lastSeen": "2026-11-03T20:16:51Z",
+   "playTicks": 5933353,
    "deaths": 2,
    "mobKills": 1882,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 169118,
-   "damageTaken": 42289,
-   "distanceCm": 46548896,
-   "walkCm": 18991850,
-   "flyCm": 18105711,
-   "jumps": 81655,
-   "mined": 132567,
+   "damageTaken": 42291,
+   "distanceCm": 46592622,
+   "walkCm": 19007209,
+   "flyCm": 18132886,
+   "jumps": 81738,
+   "mined": 132571,
    "topMined": [
     [
      "netherrack",
@@ -354,7 +354,7 @@
     ],
     [
      "stone",
-     45575
+     45577
     ],
     [
      "waxed_copper_block",
@@ -449,18 +449,18 @@
    "uuid": "9f790e0e-f3a7-4fca-a1f7-cf14645af12b",
    "name": "snacx_27",
    "firstSeen": "2026-10-13T07:04:58Z",
-   "lastSeen": "2026-11-03T20:11:51Z",
-   "playTicks": 5222962,
-   "deaths": 0,
-   "mobKills": 2068,
+   "lastSeen": "2026-11-03T20:16:51Z",
+   "playTicks": 5228962,
+   "deaths": 1,
+   "mobKills": 2069,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 171041,
-   "damageTaken": 22388,
-   "distanceCm": 35673252,
-   "walkCm": 16968124,
-   "flyCm": 14210353,
-   "jumps": 28902,
+   "damageDealt": 171243,
+   "damageTaken": 22760,
+   "distanceCm": 35696247,
+   "walkCm": 16983363,
+   "flyCm": 14217734,
+   "jumps": 28931,
    "mined": 78768,
    "topMined": [
     [
@@ -498,7 +498,7 @@
     ],
     [
      "zombie",
-     270
+     271
     ],
     [
      "creeper",
@@ -1029,19 +1029,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-11-03T20:11:51Z",
-   "playTicks": 3925536,
+   "lastSeen": "2026-11-03T20:16:51Z",
+   "playTicks": 3931536,
    "deaths": 10,
    "mobKills": 8025,
    "playerKills": 7,
    "killedByPlayers": 3,
    "damageDealt": 300454,
    "damageTaken": 52230,
-   "distanceCm": 64142782,
-   "walkCm": 17885047,
-   "flyCm": 35425319,
-   "jumps": 55991,
-   "mined": 99100,
+   "distanceCm": 64167697,
+   "walkCm": 17906853,
+   "flyCm": 35428428,
+   "jumps": 56030,
+   "mined": 99108,
    "topMined": [
     [
      "netherrack",
@@ -1056,7 +1056,7 @@
      11032
     ]
    ],
-   "crafted": 92760,
+   "crafted": 92793,
    "topCrafted": [
     [
      "stick",
@@ -1388,18 +1388,18 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-11-03T20:11:51Z",
-   "playTicks": 2372971,
+   "lastSeen": "2026-11-03T20:16:51Z",
+   "playTicks": 2378971,
    "deaths": 43,
-   "mobKills": 710,
+   "mobKills": 712,
    "playerKills": 0,
    "killedByPlayers": 7,
-   "damageDealt": 41873,
-   "damageTaken": 36029,
-   "distanceCm": 27898280,
-   "walkCm": 10909346,
-   "flyCm": 11532820,
-   "jumps": 28687,
+   "damageDealt": 41952,
+   "damageTaken": 36069,
+   "distanceCm": 27995433,
+   "walkCm": 10946919,
+   "flyCm": 11580727,
+   "jumps": 28874,
    "mined": 23671,
    "topMined": [
     [
@@ -1415,7 +1415,7 @@
      2098
     ]
    ],
-   "crafted": 27013,
+   "crafted": 27049,
    "topCrafted": [
     [
      "stone",
@@ -1437,7 +1437,7 @@
     ],
     [
      "zombie",
-     110
+     112
     ],
     [
      "skeleton",
