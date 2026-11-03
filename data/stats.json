@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T20:35:14Z",
+ "updated": "2026-11-03T20:37:01Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 24959544,
+ "serverTicks": 24961911,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -334,19 +334,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-03T20:34:07Z",
-   "playTicks": 5954071,
+   "lastSeen": "2026-11-03T20:36:51Z",
+   "playTicks": 5956397,
    "deaths": 2,
    "mobKills": 1882,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 169118,
-   "damageTaken": 42434,
-   "distanceCm": 46978033,
-   "walkCm": 19085585,
-   "flyCm": 18415864,
-   "jumps": 82112,
-   "mined": 132574,
+   "damageTaken": 42439,
+   "distanceCm": 46987310,
+   "walkCm": 19091763,
+   "flyCm": 18417888,
+   "jumps": 82130,
+   "mined": 132576,
    "topMined": [
     [
      "netherrack",
@@ -354,7 +354,7 @@
     ],
     [
      "stone",
-     45577
+     45578
     ],
     [
      "waxed_copper_block",
@@ -1029,19 +1029,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-11-03T20:34:52Z",
-   "playTicks": 3953169,
+   "lastSeen": "2026-11-03T20:36:51Z",
+   "playTicks": 3955536,
    "deaths": 10,
-   "mobKills": 8721,
+   "mobKills": 8729,
    "playerKills": 7,
    "killedByPlayers": 3,
-   "damageDealt": 300454,
-   "damageTaken": 52264,
-   "distanceCm": 64511725,
-   "walkCm": 17939597,
-   "flyCm": 35732550,
-   "jumps": 56091,
-   "mined": 99122,
+   "damageDealt": 301981,
+   "damageTaken": 52309,
+   "distanceCm": 64599276,
+   "walkCm": 17945792,
+   "flyCm": 35801215,
+   "jumps": 56130,
+   "mined": 99124,
    "topMined": [
     [
      "netherrack",
@@ -2440,8 +2440,8 @@
     "rendered": "2026-11-03T19:40:45Z"
    },
    "-2.-6": {
-    "mtime": "2026-11-03T16:34:05Z",
-    "rendered": "2026-11-03T17:35:55Z"
+    "mtime": "2026-11-03T20:34:54Z",
+    "rendered": "2026-11-03T20:37:01Z"
    },
    "1.-4": {
     "mtime": "2026-11-03T16:02:09Z",
@@ -2452,12 +2452,12 @@
     "rendered": "2026-11-03T20:12:01Z"
    },
    "-1.-7": {
-    "mtime": "2026-11-03T16:34:05Z",
-    "rendered": "2026-11-03T17:35:55Z"
+    "mtime": "2026-11-03T20:34:53Z",
+    "rendered": "2026-11-03T20:37:01Z"
    },
    "0.-6": {
-    "mtime": "2026-11-03T16:34:05Z",
-    "rendered": "2026-11-03T17:35:55Z"
+    "mtime": "2026-11-03T20:34:54Z",
+    "rendered": "2026-11-03T20:37:01Z"
    },
    "2.-4": {
     "mtime": "2026-11-01T17:47:31Z",
