@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T16:55:33Z",
+ "updated": "2026-11-04T16:57:13Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25116812,
+ "serverTicks": 25122812,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1515,19 +1515,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-11-04T16:52:20Z",
-   "playTicks": 2077283,
+   "lastSeen": "2026-11-04T16:56:46Z",
+   "playTicks": 2082604,
    "deaths": 7,
-   "mobKills": 3598,
+   "mobKills": 3617,
    "playerKills": 3,
    "killedByPlayers": 5,
-   "damageDealt": 80359,
-   "damageTaken": 32641,
-   "distanceCm": 41018533,
-   "walkCm": 8793253,
-   "flyCm": 29047291,
-   "jumps": 22334,
-   "mined": 18950,
+   "damageDealt": 80459,
+   "damageTaken": 32873,
+   "distanceCm": 41192206,
+   "walkCm": 8809879,
+   "flyCm": 29186765,
+   "jumps": 22374,
+   "mined": 18953,
    "topMined": [
     [
      "dirt",
@@ -1542,11 +1542,11 @@
      2613
     ]
    ],
-   "crafted": 10200,
+   "crafted": 10500,
    "topCrafted": [
     [
      "firework_rocket",
-     1737
+     1962
     ],
     [
      "wind_charge",
@@ -1564,7 +1564,7 @@
     ],
     [
      "creeper",
-     115
+     134
     ],
     [
      "zombie",
