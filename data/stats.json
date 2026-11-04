@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T14:50:20Z",
+ "updated": "2026-11-04T14:51:58Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25040659,
+ "serverTicks": 25042541,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1515,18 +1515,18 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-11-04T14:49:26Z",
-   "playTicks": 2016639,
+   "lastSeen": "2026-11-04T14:51:54Z",
+   "playTicks": 2019592,
    "deaths": 7,
    "mobKills": 3571,
    "playerKills": 3,
    "killedByPlayers": 5,
    "damageDealt": 77893,
-   "damageTaken": 32112,
-   "distanceCm": 39550129,
-   "walkCm": 8592094,
-   "flyCm": 27833895,
-   "jumps": 21885,
+   "damageTaken": 32114,
+   "distanceCm": 39657410,
+   "walkCm": 8604951,
+   "flyCm": 27927446,
+   "jumps": 21929,
    "mined": 18808,
    "topMined": [
     [
@@ -1542,11 +1542,11 @@
      2613
     ]
    ],
-   "crafted": 9586,
+   "crafted": 9775,
    "topCrafted": [
     [
      "firework_rocket",
-     1548
+     1737
     ],
     [
      "iron_ingot",
