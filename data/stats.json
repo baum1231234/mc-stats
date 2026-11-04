@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T16:21:55Z",
+ "updated": "2026-11-04T16:23:33Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 25080812,
  "players": [
@@ -7,19 +7,19 @@
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-11-04T16:21:18Z",
-   "playTicks": 9055218,
+   "lastSeen": "2026-11-04T16:22:20Z",
+   "playTicks": 9056462,
    "deaths": 0,
    "mobKills": 5170,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 661732,
    "damageTaken": 113275,
-   "distanceCm": 147885822,
-   "walkCm": 37890901,
-   "flyCm": 60585579,
-   "jumps": 188542,
-   "mined": 95922,
+   "distanceCm": 147900438,
+   "walkCm": 37903093,
+   "flyCm": 60587778,
+   "jumps": 188552,
+   "mined": 96006,
    "topMined": [
     [
      "netherrack",
@@ -1029,19 +1029,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-11-04T16:21:18Z",
-   "playTicks": 4008129,
+   "lastSeen": "2026-11-04T16:22:20Z",
+   "playTicks": 4009373,
    "deaths": 10,
    "mobKills": 8839,
    "playerKills": 7,
    "killedByPlayers": 3,
    "damageDealt": 330978,
    "damageTaken": 55098,
-   "distanceCm": 66589549,
-   "walkCm": 18168381,
-   "flyCm": 37484205,
-   "jumps": 56780,
-   "mined": 99614,
+   "distanceCm": 66598347,
+   "walkCm": 18175048,
+   "flyCm": 37485993,
+   "jumps": 56788,
+   "mined": 99616,
    "topMined": [
     [
      "netherrack",
@@ -1515,16 +1515,16 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-11-04T16:21:18Z",
-   "playTicks": 2040039,
+   "lastSeen": "2026-11-04T16:22:20Z",
+   "playTicks": 2041283,
    "deaths": 7,
    "mobKills": 3578,
    "playerKills": 3,
    "killedByPlayers": 5,
    "damageDealt": 79120,
    "damageTaken": 32251,
-   "distanceCm": 39995440,
-   "walkCm": 8672830,
+   "distanceCm": 39995747,
+   "walkCm": 8673137,
    "flyCm": 28189502,
    "jumps": 22065,
    "mined": 18839,
@@ -1542,7 +1542,7 @@
      2613
     ]
    ],
-   "crafted": 9788,
+   "crafted": 9801,
    "topCrafted": [
     [
      "firework_rocket",
@@ -1550,7 +1550,7 @@
     ],
     [
      "iron_ingot",
-     1089
+     1098
     ],
     [
      "wind_charge",
