@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T19:53:11Z",
+ "updated": "2026-11-04T19:54:49Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25205750,
+ "serverTicks": 25208259,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,23 +228,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-04T19:51:36Z",
-   "playTicks": 6111016,
+   "lastSeen": "2026-11-04T19:53:41Z",
+   "playTicks": 6113525,
    "deaths": 0,
-   "mobKills": 6740,
+   "mobKills": 6741,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 497339,
-   "damageTaken": 90007,
-   "distanceCm": 69465884,
-   "walkCm": 20477079,
-   "flyCm": 30125001,
-   "jumps": 97193,
-   "mined": 108403,
+   "damageDealt": 497539,
+   "damageTaken": 90011,
+   "distanceCm": 69504839,
+   "walkCm": 20513774,
+   "flyCm": 30126936,
+   "jumps": 97211,
+   "mined": 109369,
    "topMined": [
     [
      "stone",
-     31119
+     32032
     ],
     [
      "netherrack",
@@ -281,7 +281,7 @@
     ],
     [
      "skeleton",
-     264
+     265
     ]
    ],
    "topKilledBy": [],
@@ -334,19 +334,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-04T19:51:36Z",
-   "playTicks": 5997395,
+   "lastSeen": "2026-11-04T19:53:41Z",
+   "playTicks": 5999904,
    "deaths": 2,
-   "mobKills": 1977,
+   "mobKills": 1979,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 172284,
-   "damageTaken": 42537,
-   "distanceCm": 47515280,
-   "walkCm": 19350647,
-   "flyCm": 18665389,
-   "jumps": 82749,
-   "mined": 137555,
+   "damageDealt": 172554,
+   "damageTaken": 42616,
+   "distanceCm": 47559112,
+   "walkCm": 19392953,
+   "flyCm": 18666590,
+   "jumps": 82761,
+   "mined": 138735,
    "topMined": [
     [
      "netherrack",
@@ -354,7 +354,7 @@
     ],
     [
      "stone",
-     50382
+     51489
     ],
     [
      "waxed_copper_block",
@@ -387,7 +387,7 @@
     ],
     [
      "skeleton",
-     165
+     167
     ]
    ],
    "topKilledBy": [
@@ -2445,8 +2445,8 @@
     "rendered": "2026-11-04T19:53:11Z"
    },
    "-11.2": {
-    "mtime": "2026-11-04T16:53:56Z",
-    "rendered": "2026-11-04T16:53:44Z"
+    "mtime": "2026-11-04T19:44:35Z",
+    "rendered": "2026-11-04T19:54:49Z"
    },
    "-2.-6": {
     "mtime": "2026-11-04T17:25:22Z",
@@ -2577,12 +2577,12 @@
     "rendered": "2026-11-02T18:13:02Z"
    },
    "-12.0": {
-    "mtime": "2026-11-04T16:52:20Z",
-    "rendered": "2026-11-04T16:53:44Z"
+    "mtime": "2026-11-04T19:44:39Z",
+    "rendered": "2026-11-04T19:54:49Z"
    },
    "-12.2": {
-    "mtime": "2026-11-04T16:53:56Z",
-    "rendered": "2026-11-04T16:53:44Z"
+    "mtime": "2026-11-04T19:44:23Z",
+    "rendered": "2026-11-04T19:54:49Z"
    },
    "-13.1": {
     "mtime": "2026-11-04T19:41:44Z",
@@ -2605,8 +2605,8 @@
     "rendered": "2026-10-29T22:49:02Z"
    },
    "-10.0": {
-    "mtime": "2026-11-04T16:53:57Z",
-    "rendered": "2026-11-04T16:53:44Z"
+    "mtime": "2026-11-04T19:44:48Z",
+    "rendered": "2026-11-04T19:54:49Z"
    },
    "-10.2": {
     "mtime": "2026-11-04T16:53:57Z",
