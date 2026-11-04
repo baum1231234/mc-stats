@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T19:50:12Z",
+ "updated": "2026-11-04T19:51:41Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25202259,
+ "serverTicks": 25205750,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,23 +228,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-04T19:48:41Z",
-   "playTicks": 6107525,
+   "lastSeen": "2026-11-04T19:51:36Z",
+   "playTicks": 6111016,
    "deaths": 0,
-   "mobKills": 6732,
+   "mobKills": 6740,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 496100,
-   "damageTaken": 89985,
-   "distanceCm": 69418982,
-   "walkCm": 20432729,
-   "flyCm": 30123149,
-   "jumps": 97170,
-   "mined": 107081,
+   "damageDealt": 497339,
+   "damageTaken": 90007,
+   "distanceCm": 69465884,
+   "walkCm": 20477079,
+   "flyCm": 30125001,
+   "jumps": 97193,
+   "mined": 108403,
    "topMined": [
     [
      "stone",
-     29850
+     31119
     ],
     [
      "netherrack",
@@ -277,11 +277,11 @@
     ],
     [
      "zombie",
-     343
+     348
     ],
     [
      "skeleton",
-     263
+     264
     ]
    ],
    "topKilledBy": [],
@@ -334,19 +334,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-04T19:48:41Z",
-   "playTicks": 5993904,
+   "lastSeen": "2026-11-04T19:51:36Z",
+   "playTicks": 5997395,
    "deaths": 2,
-   "mobKills": 1974,
+   "mobKills": 1977,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 171694,
-   "damageTaken": 42524,
-   "distanceCm": 47453995,
-   "walkCm": 19290242,
-   "flyCm": 18664509,
-   "jumps": 82741,
-   "mined": 135552,
+   "damageDealt": 172284,
+   "damageTaken": 42537,
+   "distanceCm": 47515280,
+   "walkCm": 19350647,
+   "flyCm": 18665389,
+   "jumps": 82749,
+   "mined": 137555,
    "topMined": [
     [
      "netherrack",
@@ -354,7 +354,7 @@
     ],
     [
      "stone",
-     48395
+     50382
     ],
     [
      "waxed_copper_block",
@@ -383,7 +383,7 @@
     ],
     [
      "zombie",
-     168
+     171
     ],
     [
      "skeleton",
