@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T17:33:23Z",
+ "updated": "2026-11-04T17:36:30Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25164812,
+ "serverTicks": 25169640,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -807,19 +807,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-11-04T17:32:20Z",
-   "playTicks": 4093373,
+   "lastSeen": "2026-11-04T17:36:21Z",
+   "playTicks": 4098201,
    "deaths": 10,
-   "mobKills": 8953,
+   "mobKills": 8954,
    "playerKills": 7,
    "killedByPlayers": 3,
-   "damageDealt": 354173,
-   "damageTaken": 58315,
-   "distanceCm": 69684052,
-   "walkCm": 18489993,
-   "flyCm": 40092273,
-   "jumps": 57653,
-   "mined": 99820,
+   "damageDealt": 354613,
+   "damageTaken": 58339,
+   "distanceCm": 69820915,
+   "walkCm": 18507571,
+   "flyCm": 40208438,
+   "jumps": 57701,
+   "mined": 99825,
    "topMined": [
     [
      "netherrack",
@@ -834,7 +834,7 @@
      11085
     ]
    ],
-   "crafted": 94527,
+   "crafted": 95000,
    "topCrafted": [
     [
      "stick",
@@ -846,7 +846,7 @@
     ],
     [
      "iron_ingot",
-     8164
+     8443
     ]
    ],
    "topKilled": [
