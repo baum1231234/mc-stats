@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T19:14:59Z",
+ "updated": "2026-11-04T19:34:40Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25178259,
+ "serverTicks": 25184259,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,19 +228,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-03T20:34:06Z",
-   "playTicks": 6083525,
+   "lastSeen": "2026-11-04T19:33:41Z",
+   "playTicks": 6089525,
    "deaths": 0,
    "mobKills": 6731,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 495840,
-   "damageTaken": 89916,
-   "distanceCm": 69097311,
-   "walkCm": 20227374,
-   "flyCm": 30022587,
-   "jumps": 96781,
-   "mined": 103468,
+   "damageTaken": 89946,
+   "distanceCm": 69144493,
+   "walkCm": 20246941,
+   "flyCm": 30046239,
+   "jumps": 96861,
+   "mined": 103469,
    "topMined": [
     [
      "stone",
@@ -255,7 +255,7 @@
      4688
     ]
    ],
-   "crafted": 99445,
+   "crafted": 106023,
    "topCrafted": [
     [
      "iron_ingot",
@@ -334,19 +334,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-04T17:02:55Z",
-   "playTicks": 5970057,
+   "lastSeen": "2026-11-04T19:33:41Z",
+   "playTicks": 5975904,
    "deaths": 2,
    "mobKills": 1882,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 169118,
-   "damageTaken": 42452,
-   "distanceCm": 47065413,
-   "walkCm": 19138101,
-   "flyCm": 18442964,
-   "jumps": 82304,
-   "mined": 132583,
+   "damageTaken": 42459,
+   "distanceCm": 47113834,
+   "walkCm": 19154170,
+   "flyCm": 18471916,
+   "jumps": 82421,
+   "mined": 132587,
    "topMined": [
     [
      "netherrack",
@@ -361,7 +361,7 @@
      3152
     ]
    ],
-   "crafted": 23081,
+   "crafted": 26089,
    "topCrafted": [
     [
      "stick",
@@ -372,8 +372,8 @@
      3596
     ],
     [
-     "emerald",
-     2550
+     "bamboo_planks",
+     2688
     ]
    ],
    "topKilled": [
