@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T19:44:51Z",
+ "updated": "2026-11-04T19:50:12Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25196259,
+ "serverTicks": 25202259,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,23 +228,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-04T19:43:41Z",
-   "playTicks": 6101525,
+   "lastSeen": "2026-11-04T19:48:41Z",
+   "playTicks": 6107525,
    "deaths": 0,
-   "mobKills": 6731,
+   "mobKills": 6732,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 495840,
-   "damageTaken": 89981,
-   "distanceCm": 69331471,
-   "walkCm": 20355813,
-   "flyCm": 30113627,
-   "jumps": 97120,
-   "mined": 104876,
+   "damageDealt": 496100,
+   "damageTaken": 89985,
+   "distanceCm": 69418982,
+   "walkCm": 20432729,
+   "flyCm": 30123149,
+   "jumps": 97170,
+   "mined": 107081,
    "topMined": [
     [
      "stone",
-     27993
+     29850
     ],
     [
      "netherrack",
@@ -334,19 +334,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-04T19:43:41Z",
-   "playTicks": 5987904,
+   "lastSeen": "2026-11-04T19:48:41Z",
+   "playTicks": 5993904,
    "deaths": 2,
-   "mobKills": 1937,
+   "mobKills": 1974,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 170434,
-   "damageTaken": 42491,
-   "distanceCm": 47294426,
-   "walkCm": 19220445,
-   "flyCm": 18577906,
-   "jumps": 82714,
-   "mined": 133450,
+   "damageDealt": 171694,
+   "damageTaken": 42524,
+   "distanceCm": 47453995,
+   "walkCm": 19290242,
+   "flyCm": 18664509,
+   "jumps": 82741,
+   "mined": 135552,
    "topMined": [
     [
      "netherrack",
@@ -354,7 +354,7 @@
     ],
     [
      "stone",
-     46364
+     48395
     ],
     [
      "waxed_copper_block",
@@ -379,7 +379,7 @@
    "topKilled": [
     [
      "guardian",
-     767
+     804
     ],
     [
      "zombie",
