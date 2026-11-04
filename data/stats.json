@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T19:59:31Z",
+ "updated": "2026-11-04T20:03:46Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25214259,
+ "serverTicks": 25220287,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,18 +228,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-04T19:58:41Z",
-   "playTicks": 6119525,
+   "lastSeen": "2026-11-04T20:02:43Z",
+   "playTicks": 6124353,
    "deaths": 0,
-   "mobKills": 6758,
+   "mobKills": 6859,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 498304,
-   "damageTaken": 90123,
-   "distanceCm": 69649549,
-   "walkCm": 20548787,
-   "flyCm": 30229096,
-   "jumps": 97256,
+   "damageDealt": 500270,
+   "damageTaken": 90315,
+   "distanceCm": 69699604,
+   "walkCm": 20558762,
+   "flyCm": 30265039,
+   "jumps": 97304,
    "mined": 109987,
    "topMined": [
     [
@@ -273,11 +273,11 @@
    "topKilled": [
     [
      "guardian",
-     4589
+     4681
     ],
     [
      "zombie",
-     348
+     357
     ],
     [
      "skeleton",
@@ -334,19 +334,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-04T19:58:41Z",
-   "playTicks": 6005904,
+   "lastSeen": "2026-11-04T20:02:41Z",
+   "playTicks": 6010700,
    "deaths": 2,
-   "mobKills": 1988,
+   "mobKills": 2000,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 173875,
-   "damageTaken": 42658,
-   "distanceCm": 47638594,
-   "walkCm": 19457618,
-   "flyCm": 18679107,
-   "jumps": 82868,
-   "mined": 139561,
+   "damageDealt": 176213,
+   "damageTaken": 42745,
+   "distanceCm": 47688323,
+   "walkCm": 19495898,
+   "flyCm": 18689006,
+   "jumps": 82930,
+   "mined": 139569,
    "topMined": [
     [
      "netherrack",
@@ -354,14 +354,14 @@
     ],
     [
      "stone",
-     52298
+     52299
     ],
     [
      "waxed_copper_block",
      3152
     ]
    ],
-   "crafted": 26089,
+   "crafted": 26343,
    "topCrafted": [
     [
      "stick",
@@ -383,7 +383,7 @@
     ],
     [
      "zombie",
-     179
+     189
     ],
     [
      "skeleton",
