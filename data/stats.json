@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T14:18:48Z",
+ "updated": "2026-11-04T14:20:33Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 24998659,
+ "serverTicks": 25006608,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1515,19 +1515,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-11-04T14:14:26Z",
-   "playTicks": 1974639,
+   "lastSeen": "2026-11-04T14:19:26Z",
+   "playTicks": 1980639,
    "deaths": 7,
-   "mobKills": 3284,
+   "mobKills": 3285,
    "playerKills": 3,
    "killedByPlayers": 5,
-   "damageDealt": 72351,
-   "damageTaken": 31298,
-   "distanceCm": 38625640,
-   "walkCm": 8432114,
-   "flyCm": 27108951,
-   "jumps": 21295,
-   "mined": 18704,
+   "damageDealt": 72551,
+   "damageTaken": 31493,
+   "distanceCm": 38914821,
+   "walkCm": 8452870,
+   "flyCm": 27367879,
+   "jumps": 21359,
+   "mined": 18722,
    "topMined": [
     [
      "dirt",
@@ -3541,16 +3541,16 @@
     "rendered": "2026-11-03T22:16:20Z"
    },
    "3.6": {
-    "mtime": "2026-11-03T19:23:33Z",
-    "rendered": "2026-11-03T22:16:20Z"
+    "mtime": "2026-11-04T14:18:49Z",
+    "rendered": "2026-11-04T14:20:33Z"
    },
    "4.5": {
-    "mtime": "2026-11-02T02:17:11Z",
-    "rendered": "2026-11-02T02:18:11Z"
+    "mtime": "2026-11-04T14:20:57Z",
+    "rendered": "2026-11-04T14:20:33Z"
    },
    "5.4": {
-    "mtime": "2026-11-02T02:17:11Z",
-    "rendered": "2026-11-02T02:18:11Z"
+    "mtime": "2026-11-04T14:18:33Z",
+    "rendered": "2026-11-04T14:20:33Z"
    },
    "7.2": {
     "mtime": "2026-10-21T01:17:16Z",
@@ -3740,8 +3740,8 @@
     "rendered": "2026-11-03T22:18:14Z"
    },
    "4.6": {
-    "mtime": "2026-11-02T02:17:11Z",
-    "rendered": "2026-11-02T02:18:11Z"
+    "mtime": "2026-11-04T14:18:47Z",
+    "rendered": "2026-11-04T14:20:33Z"
    },
    "5.5": {
     "mtime": "2026-11-02T02:17:11Z",
