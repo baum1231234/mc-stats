@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-04T16:07:35Z",
+ "updated": "2026-11-04T16:12:22Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25062812,
+ "serverTicks": 25068812,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-11-04T16:07:20Z",
-   "playTicks": 9038462,
+   "lastSeen": "2026-11-04T16:12:20Z",
+   "playTicks": 9044462,
    "deaths": 0,
    "mobKills": 5170,
    "playerKills": 4,
    "killedByPlayers": 0,
-   "damageDealt": 661714,
-   "damageTaken": 113098,
-   "distanceCm": 147509256,
-   "walkCm": 37772890,
-   "flyCm": 60342457,
-   "jumps": 188323,
-   "mined": 95212,
+   "damageDealt": 661732,
+   "damageTaken": 113194,
+   "distanceCm": 147716714,
+   "walkCm": 37814999,
+   "flyCm": 60500632,
+   "jumps": 188425,
+   "mined": 95675,
    "topMined": [
     [
      "netherrack",
@@ -27,14 +27,14 @@
     ],
     [
      "spruce_log",
-     7913
+     7918
     ],
     [
      "stone",
-     6658
+     6711
     ]
    ],
-   "crafted": 114520,
+   "crafted": 114547,
    "topCrafted": [
     [
      "stick",
@@ -42,7 +42,7 @@
     ],
     [
      "spruce_planks",
-     30700
+     30724
     ],
     [
      "spruce_slab",
@@ -1029,19 +1029,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-11-04T16:07:20Z",
-   "playTicks": 3991373,
+   "lastSeen": "2026-11-04T16:12:20Z",
+   "playTicks": 3997373,
    "deaths": 10,
-   "mobKills": 8837,
+   "mobKills": 8839,
    "playerKills": 7,
    "killedByPlayers": 3,
-   "damageDealt": 330648,
+   "damageDealt": 330978,
    "damageTaken": 55043,
-   "distanceCm": 65949678,
-   "walkCm": 18086580,
-   "flyCm": 36945273,
-   "jumps": 56638,
-   "mined": 99518,
+   "distanceCm": 66127524,
+   "walkCm": 18114158,
+   "flyCm": 37088588,
+   "jumps": 56702,
+   "mined": 99542,
    "topMined": [
     [
      "netherrack",
@@ -1053,7 +1053,7 @@
     ],
     [
      "grass_block",
-     11033
+     11034
     ]
    ],
    "crafted": 92921,
@@ -1078,7 +1078,7 @@
     ],
     [
      "zombie",
-     523
+     524
     ],
     [
      "skeleton",
@@ -1515,18 +1515,18 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-11-04T16:07:20Z",
-   "playTicks": 2023283,
+   "lastSeen": "2026-11-04T16:12:20Z",
+   "playTicks": 2029283,
    "deaths": 7,
    "mobKills": 3571,
    "playerKills": 3,
    "killedByPlayers": 5,
    "damageDealt": 77893,
    "damageTaken": 32130,
-   "distanceCm": 39772405,
-   "walkCm": 8621476,
-   "flyCm": 28024810,
-   "jumps": 21940,
+   "distanceCm": 39873421,
+   "walkCm": 8631657,
+   "flyCm": 28113956,
+   "jumps": 21959,
    "mined": 18808,
    "topMined": [
     [
@@ -1542,7 +1542,7 @@
      2613
     ]
    ],
-   "crafted": 9775,
+   "crafted": 9777,
    "topCrafted": [
     [
      "firework_rocket",
