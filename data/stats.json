@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-04T16:23:33Z",
+ "updated": "2026-11-04T16:28:15Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25080812,
+ "serverTicks": 25086812,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-11-04T16:22:20Z",
-   "playTicks": 9056462,
+   "lastSeen": "2026-11-04T16:27:20Z",
+   "playTicks": 9062462,
    "deaths": 0,
    "mobKills": 5170,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 661732,
    "damageTaken": 113275,
-   "distanceCm": 147900438,
-   "walkCm": 37903093,
-   "flyCm": 60587778,
-   "jumps": 188552,
-   "mined": 96006,
+   "distanceCm": 147974132,
+   "walkCm": 37956896,
+   "flyCm": 60605840,
+   "jumps": 188615,
+   "mined": 96389,
    "topMined": [
     [
      "netherrack",
@@ -915,6 +915,125 @@
    }
   },
   {
+   "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
+   "name": "mcMinemanny",
+   "firstSeen": "2026-10-11T10:41:59Z",
+   "lastSeen": "2026-11-04T16:27:20Z",
+   "playTicks": 4015373,
+   "deaths": 10,
+   "mobKills": 8839,
+   "playerKills": 7,
+   "killedByPlayers": 3,
+   "damageDealt": 330978,
+   "damageTaken": 55104,
+   "distanceCm": 66630105,
+   "walkCm": 18205081,
+   "flyCm": 37485993,
+   "jumps": 56833,
+   "mined": 99624,
+   "topMined": [
+    [
+     "netherrack",
+     25252
+    ],
+    [
+     "stone",
+     18371
+    ],
+    [
+     "grass_block",
+     11034
+    ]
+   ],
+   "crafted": 92921,
+   "topCrafted": [
+    [
+     "stick",
+     34671
+    ],
+    [
+     "spruce_planks",
+     18063
+    ],
+    [
+     "iron_ingot",
+     8164
+    ]
+   ],
+   "topKilled": [
+    [
+     "silverfish",
+     5335
+    ],
+    [
+     "zombie",
+     524
+    ],
+    [
+     "skeleton",
+     426
+    ]
+   ],
+   "topKilledBy": [
+    [
+     "player",
+     3
+    ],
+    [
+     "skeleton",
+     1
+    ],
+    [
+     "creeper",
+     1
+    ]
+   ],
+   "adv": {
+    "count": 52,
+    "byTab": {
+     "story": 13,
+     "husbandry": 6,
+     "adventure": 15,
+     "nether": 14,
+     "end": 4
+    },
+    "recent": [
+     [
+      "adventure/hero_of_the_village",
+      "2026-11-03T15:01:01Z"
+     ],
+     [
+      "end/find_end_city",
+      "2026-11-01T16:00:30Z"
+     ],
+     [
+      "husbandry/obtain_netherite_hoe",
+      "2026-10-31T15:10:43Z"
+     ],
+     [
+      "nether/summon_wither",
+      "2026-10-28T19:33:29Z"
+     ],
+     [
+      "adventure/overoverkill",
+      "2026-10-28T17:50:58Z"
+     ],
+     [
+      "end/elytra",
+      "2026-10-25T18:00:53Z"
+     ],
+     [
+      "end/enter_end_gateway",
+      "2026-10-25T17:18:53Z"
+     ],
+     [
+      "end/root",
+      "2026-10-25T17:15:10Z"
+     ]
+    ]
+   }
+  },
+  {
    "uuid": "8fdfdf23-ac95-427d-a2a3-226ceb3b0259",
    "name": "Eingepacktt",
    "firstSeen": null,
@@ -1021,125 +1140,6 @@
      [
       "nether/obtain_blaze_rod",
       "2026-10-17T12:12:23Z"
-     ]
-    ]
-   }
-  },
-  {
-   "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
-   "name": "mcMinemanny",
-   "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-11-04T16:22:20Z",
-   "playTicks": 4009373,
-   "deaths": 10,
-   "mobKills": 8839,
-   "playerKills": 7,
-   "killedByPlayers": 3,
-   "damageDealt": 330978,
-   "damageTaken": 55098,
-   "distanceCm": 66598347,
-   "walkCm": 18175048,
-   "flyCm": 37485993,
-   "jumps": 56788,
-   "mined": 99616,
-   "topMined": [
-    [
-     "netherrack",
-     25252
-    ],
-    [
-     "stone",
-     18371
-    ],
-    [
-     "grass_block",
-     11034
-    ]
-   ],
-   "crafted": 92921,
-   "topCrafted": [
-    [
-     "stick",
-     34671
-    ],
-    [
-     "spruce_planks",
-     18063
-    ],
-    [
-     "iron_ingot",
-     8164
-    ]
-   ],
-   "topKilled": [
-    [
-     "silverfish",
-     5335
-    ],
-    [
-     "zombie",
-     524
-    ],
-    [
-     "skeleton",
-     426
-    ]
-   ],
-   "topKilledBy": [
-    [
-     "player",
-     3
-    ],
-    [
-     "skeleton",
-     1
-    ],
-    [
-     "creeper",
-     1
-    ]
-   ],
-   "adv": {
-    "count": 52,
-    "byTab": {
-     "story": 13,
-     "husbandry": 6,
-     "adventure": 15,
-     "nether": 14,
-     "end": 4
-    },
-    "recent": [
-     [
-      "adventure/hero_of_the_village",
-      "2026-11-03T15:01:01Z"
-     ],
-     [
-      "end/find_end_city",
-      "2026-11-01T16:00:30Z"
-     ],
-     [
-      "husbandry/obtain_netherite_hoe",
-      "2026-10-31T15:10:43Z"
-     ],
-     [
-      "nether/summon_wither",
-      "2026-10-28T19:33:29Z"
-     ],
-     [
-      "adventure/overoverkill",
-      "2026-10-28T17:50:58Z"
-     ],
-     [
-      "end/elytra",
-      "2026-10-25T18:00:53Z"
-     ],
-     [
-      "end/enter_end_gateway",
-      "2026-10-25T17:18:53Z"
-     ],
-     [
-      "end/root",
-      "2026-10-25T17:15:10Z"
      ]
     ]
    }
@@ -1515,18 +1515,18 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-11-04T16:22:20Z",
-   "playTicks": 2041283,
+   "lastSeen": "2026-11-04T16:27:20Z",
+   "playTicks": 2047283,
    "deaths": 7,
    "mobKills": 3578,
    "playerKills": 3,
    "killedByPlayers": 5,
    "damageDealt": 79120,
-   "damageTaken": 32251,
-   "distanceCm": 39995747,
-   "walkCm": 8673137,
-   "flyCm": 28189502,
-   "jumps": 22065,
+   "damageTaken": 32307,
+   "distanceCm": 40475746,
+   "walkCm": 8685704,
+   "flyCm": 28656934,
+   "jumps": 22082,
    "mined": 18839,
    "topMined": [
     [
@@ -1542,7 +1542,7 @@
      2613
     ]
    ],
-   "crafted": 9801,
+   "crafted": 9818,
    "topCrafted": [
     [
      "firework_rocket",
