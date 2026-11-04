@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T19:56:28Z",
+ "updated": "2026-11-04T19:59:31Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25208259,
+ "serverTicks": 25214259,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,23 +228,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-04T19:53:41Z",
-   "playTicks": 6113525,
+   "lastSeen": "2026-11-04T19:58:41Z",
+   "playTicks": 6119525,
    "deaths": 0,
-   "mobKills": 6741,
+   "mobKills": 6758,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 497539,
-   "damageTaken": 90011,
-   "distanceCm": 69504839,
-   "walkCm": 20513774,
-   "flyCm": 30126936,
-   "jumps": 97211,
-   "mined": 109369,
+   "damageDealt": 498304,
+   "damageTaken": 90123,
+   "distanceCm": 69649549,
+   "walkCm": 20548787,
+   "flyCm": 30229096,
+   "jumps": 97256,
+   "mined": 109987,
    "topMined": [
     [
      "stone",
-     32032
+     32608
     ],
     [
      "netherrack",
@@ -255,7 +255,7 @@
      4688
     ]
    ],
-   "crafted": 106055,
+   "crafted": 106103,
    "topCrafted": [
     [
      "iron_ingot",
@@ -273,7 +273,7 @@
    "topKilled": [
     [
      "guardian",
-     4573
+     4589
     ],
     [
      "zombie",
@@ -334,19 +334,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-04T19:53:41Z",
-   "playTicks": 5999904,
+   "lastSeen": "2026-11-04T19:58:41Z",
+   "playTicks": 6005904,
    "deaths": 2,
-   "mobKills": 1979,
+   "mobKills": 1988,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 172554,
-   "damageTaken": 42616,
-   "distanceCm": 47559112,
-   "walkCm": 19392953,
-   "flyCm": 18666590,
-   "jumps": 82761,
-   "mined": 138735,
+   "damageDealt": 173875,
+   "damageTaken": 42658,
+   "distanceCm": 47638594,
+   "walkCm": 19457618,
+   "flyCm": 18679107,
+   "jumps": 82868,
+   "mined": 139561,
    "topMined": [
     [
      "netherrack",
@@ -354,7 +354,7 @@
     ],
     [
      "stone",
-     51489
+     52298
     ],
     [
      "waxed_copper_block",
@@ -383,11 +383,11 @@
     ],
     [
      "zombie",
-     171
+     179
     ],
     [
      "skeleton",
-     167
+     168
     ]
    ],
    "topKilledBy": [
