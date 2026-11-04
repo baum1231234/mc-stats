@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-04T16:37:44Z",
+ "updated": "2026-11-04T16:42:26Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25098812,
+ "serverTicks": 25104812,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
    "name": "4rtjom",
    "firstSeen": null,
-   "lastSeen": "2026-11-04T16:37:20Z",
-   "playTicks": 9074462,
+   "lastSeen": "2026-11-04T16:42:20Z",
+   "playTicks": 9080462,
    "deaths": 0,
    "mobKills": 5170,
    "playerKills": 4,
    "killedByPlayers": 0,
    "damageDealt": 661732,
    "damageTaken": 113331,
-   "distanceCm": 148159074,
-   "walkCm": 38067822,
-   "flyCm": 60671240,
-   "jumps": 188827,
-   "mined": 97148,
+   "distanceCm": 148238163,
+   "walkCm": 38130875,
+   "flyCm": 60686826,
+   "jumps": 188910,
+   "mined": 97368,
    "topMined": [
     [
      "netherrack",
@@ -31,7 +31,7 @@
     ],
     [
      "stone",
-     6749
+     6837
     ]
    ],
    "crafted": 114556,
@@ -918,19 +918,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-11-04T16:37:20Z",
-   "playTicks": 4027373,
+   "lastSeen": "2026-11-04T16:42:20Z",
+   "playTicks": 4033373,
    "deaths": 10,
    "mobKills": 8843,
    "playerKills": 7,
    "killedByPlayers": 3,
    "damageDealt": 331938,
-   "damageTaken": 55162,
-   "distanceCm": 67102938,
-   "walkCm": 18242833,
-   "flyCm": 37908435,
-   "jumps": 56924,
-   "mined": 99655,
+   "damageTaken": 55240,
+   "distanceCm": 67353234,
+   "walkCm": 18265051,
+   "flyCm": 38128095,
+   "jumps": 56990,
+   "mined": 99663,
    "topMined": [
     [
      "netherrack",
@@ -945,7 +945,7 @@
      11037
     ]
    ],
-   "crafted": 92921,
+   "crafted": 92964,
    "topCrafted": [
     [
      "stick",
@@ -1515,19 +1515,19 @@
    "uuid": "f92fcaae-22bf-4e89-acad-a35acd386142",
    "name": "jojocrafter098",
    "firstSeen": "2026-10-17T15:25:27Z",
-   "lastSeen": "2026-11-04T16:37:20Z",
-   "playTicks": 2059283,
+   "lastSeen": "2026-11-04T16:42:20Z",
+   "playTicks": 2065283,
    "deaths": 7,
    "mobKills": 3584,
    "playerKills": 3,
    "killedByPlayers": 5,
    "damageDealt": 80258,
-   "damageTaken": 32568,
-   "distanceCm": 40833786,
-   "walkCm": 8743090,
-   "flyCm": 28941996,
-   "jumps": 22272,
-   "mined": 18860,
+   "damageTaken": 32594,
+   "distanceCm": 40863274,
+   "walkCm": 8757489,
+   "flyCm": 28950844,
+   "jumps": 22279,
+   "mined": 18861,
    "topMined": [
     [
      "dirt",
@@ -1542,7 +1542,7 @@
      2613
     ]
    ],
-   "crafted": 9840,
+   "crafted": 9844,
    "topCrafted": [
     [
      "firework_rocket",
@@ -1582,15 +1582,19 @@
     ]
    ],
    "adv": {
-    "count": 40,
+    "count": 41,
     "byTab": {
      "story": 12,
      "husbandry": 2,
-     "adventure": 12,
+     "adventure": 13,
      "nether": 10,
      "end": 4
     },
     "recent": [
+     [
+      "adventure/trim_with_any_armor_pattern",
+      "2026-11-04T16:37:41Z"
+     ],
      [
       "adventure/hero_of_the_village",
       "2026-11-03T15:01:01Z"
@@ -1618,10 +1622,6 @@
      [
       "nether/obtain_blaze_rod",
       "2026-10-28T19:20:46Z"
-     ],
-     [
-      "nether/find_fortress",
-      "2026-10-28T19:00:28Z"
      ]
     ]
    }
