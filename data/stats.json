@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T19:04:45Z",
+ "updated": "2026-11-05T19:09:26Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25343998,
+ "serverTicks": 25349998,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -811,19 +811,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-11-05T19:03:33Z",
-   "playTicks": 4141620,
+   "lastSeen": "2026-11-05T19:08:33Z",
+   "playTicks": 4147620,
    "deaths": 10,
-   "mobKills": 9043,
+   "mobKills": 9071,
    "playerKills": 7,
    "killedByPlayers": 3,
-   "damageDealt": 366838,
-   "damageTaken": 60168,
-   "distanceCm": 71275021,
-   "walkCm": 18631977,
-   "flyCm": 41473270,
-   "jumps": 58210,
-   "mined": 99957,
+   "damageDealt": 369801,
+   "damageTaken": 60550,
+   "distanceCm": 71380876,
+   "walkCm": 18654145,
+   "flyCm": 41551216,
+   "jumps": 58312,
+   "mined": 99958,
    "topMined": [
     [
      "netherrack",
@@ -860,11 +860,11 @@
     ],
     [
      "zombie",
-     545
+     549
     ],
     [
      "skeleton",
-     428
+     429
     ]
    ],
    "topKilledBy": [
