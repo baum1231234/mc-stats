@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T17:40:38Z",
+ "updated": "2026-11-05T17:45:03Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25247856,
+ "serverTicks": 25253856,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -334,19 +334,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-05T17:39:46Z",
-   "playTicks": 6022700,
+   "lastSeen": "2026-11-05T17:44:46Z",
+   "playTicks": 6028700,
    "deaths": 2,
    "mobKills": 2000,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 176213,
    "damageTaken": 42745,
-   "distanceCm": 47735107,
-   "walkCm": 19519883,
+   "distanceCm": 47739010,
+   "walkCm": 19523786,
    "flyCm": 18707164,
    "jumps": 83021,
-   "mined": 139989,
+   "mined": 140151,
    "topMined": [
     [
      "netherrack",
@@ -354,7 +354,7 @@
     ],
     [
      "stone",
-     52703
+     52865
     ],
     [
      "waxed_copper_block",
@@ -2294,9 +2294,9 @@
      "2026-11-04",
      "2026-11-05"
     ],
-    "rendered": "2026-11-05T14:44:25Z",
+    "rendered": "2026-11-05T17:45:03Z",
     "regions": {
-     "r.-11.1.mca": "2026-11-05T14:44:45Z"
+     "r.-11.1.mca": "2026-11-05T17:45:25Z"
     }
    }
   },
@@ -2366,8 +2366,8 @@
   "dir": "data/tiles/overworld",
   "regions": {
    "-11.1": {
-    "mtime": "2026-11-05T14:44:49Z",
-    "rendered": "2026-11-05T14:44:25Z"
+    "mtime": "2026-11-05T17:45:29Z",
+    "rendered": "2026-11-05T17:45:03Z"
    },
    "-1.-6": {
     "mtime": "2026-11-04T17:30:43Z",
@@ -2426,8 +2426,8 @@
     "rendered": "2026-11-04T19:04:27Z"
    },
    "-12.1": {
-    "mtime": "2026-11-05T14:44:45Z",
-    "rendered": "2026-11-05T14:44:25Z"
+    "mtime": "2026-11-05T17:45:26Z",
+    "rendered": "2026-11-05T17:45:03Z"
    },
    "-3.4": {
     "mtime": "2026-11-03T19:43:53Z",
@@ -2438,12 +2438,12 @@
     "rendered": "2026-11-03T20:09:47Z"
    },
    "-10.1": {
-    "mtime": "2026-11-05T14:44:10Z",
-    "rendered": "2026-11-05T14:44:25Z"
+    "mtime": "2026-11-05T17:29:53Z",
+    "rendered": "2026-11-05T17:45:03Z"
    },
    "-11.0": {
-    "mtime": "2026-11-05T14:44:10Z",
-    "rendered": "2026-11-05T14:44:25Z"
+    "mtime": "2026-11-05T17:38:02Z",
+    "rendered": "2026-11-05T17:45:03Z"
    },
    "-11.2": {
     "mtime": "2026-11-05T14:46:21Z",
