@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T19:23:43Z",
+ "updated": "2026-11-05T19:29:55Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25367998,
+ "serverTicks": 25373998,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,23 +228,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-05T18:24:58Z",
-   "playTicks": 6160723,
+   "lastSeen": "2026-11-05T19:28:33Z",
+   "playTicks": 6165017,
    "deaths": 0,
    "mobKills": 6883,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 505410,
-   "damageTaken": 90615,
-   "distanceCm": 69998945,
-   "walkCm": 20610469,
-   "flyCm": 30494232,
-   "jumps": 97560,
-   "mined": 109994,
+   "damageTaken": 90630,
+   "distanceCm": 70058997,
+   "walkCm": 20629219,
+   "flyCm": 30531125,
+   "jumps": 97650,
+   "mined": 110025,
    "topMined": [
     [
      "stone",
-     32612
+     32637
     ],
     [
      "netherrack",
@@ -252,7 +252,7 @@
     ],
     [
      "snow_block",
-     4688
+     4694
     ]
    ],
    "crafted": 106123,
@@ -811,19 +811,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-11-05T19:23:33Z",
-   "playTicks": 4165620,
+   "lastSeen": "2026-11-05T19:28:33Z",
+   "playTicks": 4171620,
    "deaths": 10,
    "mobKills": 9073,
    "playerKills": 7,
    "killedByPlayers": 3,
    "damageDealt": 369811,
-   "damageTaken": 60734,
-   "distanceCm": 71986209,
-   "walkCm": 18727033,
-   "flyCm": 42057066,
-   "jumps": 58446,
-   "mined": 100257,
+   "damageTaken": 60809,
+   "distanceCm": 72120895,
+   "walkCm": 18773069,
+   "flyCm": 42145150,
+   "jumps": 58487,
+   "mined": 100678,
    "topMined": [
     [
      "netherrack",
@@ -835,7 +835,7 @@
     ],
     [
      "grass_block",
-     11405
+     11806
     ]
    ],
    "crafted": 95638,
