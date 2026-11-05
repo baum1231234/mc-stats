@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T20:07:43Z",
+ "updated": "2026-11-05T20:09:22Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25415998,
+ "serverTicks": 25422003,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -811,19 +811,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-11-05T20:03:33Z",
-   "playTicks": 4213164,
+   "lastSeen": "2026-11-05T20:08:33Z",
+   "playTicks": 4219169,
    "deaths": 10,
-   "mobKills": 9084,
+   "mobKills": 9095,
    "playerKills": 7,
    "killedByPlayers": 3,
-   "damageDealt": 371672,
-   "damageTaken": 61039,
-   "distanceCm": 73768061,
-   "walkCm": 18927318,
-   "flyCm": 43577146,
-   "jumps": 58732,
-   "mined": 101852,
+   "damageDealt": 374096,
+   "damageTaken": 61299,
+   "distanceCm": 73918433,
+   "walkCm": 18956320,
+   "flyCm": 43685816,
+   "jumps": 58871,
+   "mined": 101876,
    "topMined": [
     [
      "netherrack",
@@ -1392,19 +1392,19 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-11-05T20:03:33Z",
-   "playTicks": 2428536,
+   "lastSeen": "2026-11-05T20:08:33Z",
+   "playTicks": 2434541,
    "deaths": 43,
-   "mobKills": 871,
+   "mobKills": 873,
    "playerKills": 0,
    "killedByPlayers": 7,
-   "damageDealt": 42804,
-   "damageTaken": 36404,
-   "distanceCm": 28394024,
-   "walkCm": 11099183,
-   "flyCm": 11746938,
-   "jumps": 29335,
-   "mined": 23675,
+   "damageDealt": 43565,
+   "damageTaken": 36459,
+   "distanceCm": 28497598,
+   "walkCm": 11127503,
+   "flyCm": 11805722,
+   "jumps": 29557,
+   "mined": 23676,
    "topMined": [
     [
      "stone",
@@ -1471,15 +1471,19 @@
     ]
    ],
    "adv": {
-    "count": 30,
+    "count": 31,
     "byTab": {
      "story": 12,
      "adventure": 8,
      "husbandry": 4,
-     "nether": 5,
+     "nether": 6,
      "end": 1
     },
     "recent": [
+     [
+      "nether/netherite_armor",
+      "2026-11-05T20:04:41Z"
+     ],
      [
       "adventure/ol_betsy",
       "2026-11-03T20:04:58Z"
@@ -1507,10 +1511,6 @@
      [
       "husbandry/tame_an_animal",
       "2026-10-28T18:18:43Z"
-     ],
-     [
-      "adventure/totem_of_undying",
-      "2026-10-24T11:27:13Z"
      ]
     ]
    }
