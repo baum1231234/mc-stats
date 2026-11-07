@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-07T14:53:53Z",
+ "updated": "2026-11-07T14:56:43Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25576862,
+ "serverTicks": 25581097,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -113,18 +113,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-11-03T19:44:28Z",
-   "playTicks": 8275633,
+   "lastSeen": "2026-11-07T14:56:52Z",
+   "playTicks": 8277688,
    "deaths": 2,
    "mobKills": 6327,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 588088,
    "damageTaken": 30470,
-   "distanceCm": 91453283,
-   "walkCm": 36421615,
-   "flyCm": 38338925,
-   "jumps": 77969,
+   "distanceCm": 91486558,
+   "walkCm": 36426542,
+   "flyCm": 38367273,
+   "jumps": 78004,
    "mined": 148404,
    "topMined": [
     [
@@ -334,19 +334,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-07T14:53:20Z",
-   "playTicks": 6078878,
+   "lastSeen": "2026-11-07T14:55:12Z",
+   "playTicks": 6081113,
    "deaths": 3,
    "mobKills": 2169,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 183733,
-   "damageTaken": 45095,
-   "distanceCm": 48174339,
-   "walkCm": 19644215,
-   "flyCm": 18984248,
-   "jumps": 83865,
-   "mined": 141208,
+   "damageTaken": 45105,
+   "distanceCm": 48214164,
+   "walkCm": 19655699,
+   "flyCm": 19007653,
+   "jumps": 83962,
+   "mined": 141209,
    "topMined": [
     [
      "netherrack",
@@ -2354,14 +2354,15 @@
      "2026-10-30",
      "2026-10-31",
      "2026-11-01",
-     "2026-11-03"
+     "2026-11-03",
+     "2026-11-07"
     ],
-    "rendered": "2026-11-03T20:09:47Z",
+    "rendered": "2026-11-07T14:56:43Z",
     "regions": {
-     "r.-2.4.mca": "2026-11-03T19:44:43Z",
-     "r.-2.5.mca": "2026-11-03T19:44:43Z",
-     "r.-3.4.mca": "2026-11-03T19:43:53Z",
-     "r.-3.5.mca": "2026-11-03T19:44:43Z"
+     "r.-2.4.mca": "2026-11-07T14:57:02Z",
+     "r.-2.5.mca": "2026-11-07T14:57:02Z",
+     "r.-3.4.mca": "2026-11-07T14:56:19Z",
+     "r.-3.5.mca": "2026-11-07T14:57:07Z"
     }
    }
   }
@@ -2430,8 +2431,8 @@
     "rendered": "2026-11-05T22:40:16Z"
    },
    "-3.5": {
-    "mtime": "2026-11-03T19:44:43Z",
-    "rendered": "2026-11-03T20:09:47Z"
+    "mtime": "2026-11-07T14:57:19Z",
+    "rendered": "2026-11-07T14:56:43Z"
    },
    "-1.-5": {
     "mtime": "2026-11-05T19:53:16Z",
@@ -2446,12 +2447,12 @@
     "rendered": "2026-11-07T13:50:42Z"
    },
    "-3.4": {
-    "mtime": "2026-11-03T19:43:53Z",
-    "rendered": "2026-11-03T20:09:47Z"
+    "mtime": "2026-11-07T14:56:19Z",
+    "rendered": "2026-11-07T14:56:43Z"
    },
    "-2.5": {
-    "mtime": "2026-11-03T19:44:43Z",
-    "rendered": "2026-11-03T20:09:47Z"
+    "mtime": "2026-11-07T14:57:14Z",
+    "rendered": "2026-11-07T14:56:43Z"
    },
    "-10.1": {
     "mtime": "2026-11-07T13:51:08Z",
@@ -2474,8 +2475,8 @@
     "rendered": "2026-11-05T22:40:16Z"
    },
    "-2.4": {
-    "mtime": "2026-11-03T19:44:43Z",
-    "rendered": "2026-11-03T20:12:01Z"
+    "mtime": "2026-11-07T14:57:12Z",
+    "rendered": "2026-11-07T14:56:43Z"
    },
    "-1.-7": {
     "mtime": "2026-11-05T19:50:31Z",
