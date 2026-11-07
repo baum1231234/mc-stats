@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-07T13:54:21Z",
+ "updated": "2026-11-07T13:56:02Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25518160,
+ "serverTicks": 25524160,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,23 +228,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-05T20:25:50Z",
-   "playTicks": 6228946,
+   "lastSeen": "2026-11-07T13:56:00Z",
+   "playTicks": 6234946,
    "deaths": 0,
-   "mobKills": 7071,
+   "mobKills": 7073,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 515264,
-   "damageTaken": 91994,
-   "distanceCm": 71386421,
-   "walkCm": 21158582,
-   "flyCm": 31268961,
-   "jumps": 98222,
-   "mined": 120496,
+   "damageDealt": 515644,
+   "damageTaken": 92185,
+   "distanceCm": 71544940,
+   "walkCm": 21183292,
+   "flyCm": 31388216,
+   "jumps": 98338,
+   "mined": 120501,
    "topMined": [
     [
      "stone",
-     42497
+     42499
     ],
     [
      "netherrack",
@@ -252,7 +252,7 @@
     ],
     [
      "snow_block",
-     4818
+     4820
     ]
    ],
    "crafted": 106324,
@@ -559,18 +559,18 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-10-23T14:43:47Z",
-   "playTicks": 4968683,
+   "lastSeen": "2026-11-07T13:56:00Z",
+   "playTicks": 4969868,
    "deaths": 8,
    "mobKills": 5151,
    "playerKills": 1,
    "killedByPlayers": 1,
    "damageDealt": 303032,
-   "damageTaken": 47366,
-   "distanceCm": 37226273,
-   "walkCm": 16291985,
-   "flyCm": 11933713,
-   "jumps": 61229,
+   "damageTaken": 47370,
+   "distanceCm": 37268212,
+   "walkCm": 16295441,
+   "flyCm": 11947100,
+   "jumps": 61269,
    "mined": 57788,
    "topMined": [
     [
@@ -2710,8 +2710,8 @@
     "rendered": "2026-11-03T14:44:53Z"
    },
    "2.3": {
-    "mtime": "2026-11-05T20:26:06Z",
-    "rendered": "2026-11-05T21:38:44Z"
+    "mtime": "2026-11-07T13:56:28Z",
+    "rendered": "2026-11-07T13:56:02Z"
    },
    "3.2": {
     "mtime": "2026-11-07T10:54:16Z",
@@ -2738,8 +2738,8 @@
     "rendered": "2026-11-04T19:14:59Z"
    },
    "1.3": {
-    "mtime": "2026-11-05T20:21:55Z",
-    "rendered": "2026-11-05T21:38:44Z"
+    "mtime": "2026-11-07T13:56:27Z",
+    "rendered": "2026-11-07T13:56:02Z"
    },
    "-1.2": {
     "mtime": "2026-11-01T12:26:30Z",
@@ -2911,12 +2911,12 @@
     "rendered": "2026-11-05T21:38:44Z"
    },
    "3.3": {
-    "mtime": "2026-11-05T20:30:25Z",
-    "rendered": "2026-11-05T21:40:35Z"
+    "mtime": "2026-11-07T13:55:41Z",
+    "rendered": "2026-11-07T13:56:02Z"
    },
    "4.2": {
-    "mtime": "2026-11-05T20:29:41Z",
-    "rendered": "2026-11-05T21:40:35Z"
+    "mtime": "2026-11-07T13:55:36Z",
+    "rendered": "2026-11-07T13:56:02Z"
    },
    "5.1": {
     "mtime": "2026-11-05T18:56:41Z",
