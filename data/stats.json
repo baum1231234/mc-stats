@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-07T13:56:02Z",
+ "updated": "2026-11-07T13:57:55Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25524160,
+ "serverTicks": 25525089,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,23 +228,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-07T13:56:00Z",
-   "playTicks": 6234946,
+   "lastSeen": "2026-11-07T13:56:47Z",
+   "playTicks": 6235875,
    "deaths": 0,
    "mobKills": 7073,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 515644,
    "damageTaken": 92185,
-   "distanceCm": 71544940,
-   "walkCm": 21183292,
-   "flyCm": 31388216,
-   "jumps": 98338,
-   "mined": 120501,
+   "distanceCm": 71549745,
+   "walkCm": 21187544,
+   "flyCm": 31388244,
+   "jumps": 98351,
+   "mined": 120506,
    "topMined": [
     [
      "stone",
-     42499
+     42504
     ],
     [
      "netherrack",
@@ -559,18 +559,18 @@
    "uuid": "ff1852cf-16a6-40fb-9143-444375845dea",
    "name": "BANANENKRIEGER69",
    "firstSeen": "2026-10-12T17:49:48Z",
-   "lastSeen": "2026-11-07T13:56:00Z",
-   "playTicks": 4969868,
+   "lastSeen": "2026-11-07T13:57:04Z",
+   "playTicks": 4971142,
    "deaths": 8,
    "mobKills": 5151,
    "playerKills": 1,
    "killedByPlayers": 1,
-   "damageDealt": 303032,
+   "damageDealt": 303112,
    "damageTaken": 47370,
-   "distanceCm": 37268212,
-   "walkCm": 16295441,
-   "flyCm": 11947100,
-   "jumps": 61269,
+   "distanceCm": 37377044,
+   "walkCm": 16299387,
+   "flyCm": 11960620,
+   "jumps": 61301,
    "mined": 57788,
    "topMined": [
     [
@@ -3131,8 +3131,8 @@
     "rendered": "2026-11-05T21:40:35Z"
    },
    "4.3": {
-    "mtime": "2026-11-05T20:30:24Z",
-    "rendered": "2026-11-05T21:44:17Z"
+    "mtime": "2026-11-07T13:55:08Z",
+    "rendered": "2026-11-07T13:57:55Z"
    },
    "5.2": {
     "mtime": "2026-11-05T18:40:42Z",
