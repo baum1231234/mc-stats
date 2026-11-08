@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-08T15:45:09Z",
+ "updated": "2026-11-08T15:48:31Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25762800,
+ "serverTicks": 25767551,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,18 +228,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-08T15:43:56Z",
-   "playTicks": 6441220,
+   "lastSeen": "2026-11-08T15:47:57Z",
+   "playTicks": 6446037,
    "deaths": 0,
-   "mobKills": 7125,
+   "mobKills": 7126,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 523288,
-   "damageTaken": 94535,
-   "distanceCm": 73912927,
-   "walkCm": 21845502,
-   "flyCm": 32917445,
-   "jumps": 100273,
+   "damageDealt": 523478,
+   "damageTaken": 94553,
+   "distanceCm": 73936387,
+   "walkCm": 21851368,
+   "flyCm": 32933052,
+   "jumps": 100285,
    "mined": 124537,
    "topMined": [
     [
@@ -281,7 +281,7 @@
     ],
     [
      "skeleton",
-     282
+     283
     ]
    ],
    "topKilledBy": [],
@@ -1859,8 +1859,8 @@
    "uuid": "3b74f13f-de10-416d-a821-9f0a9103e337",
    "name": "AFK",
    "firstSeen": "2026-11-08T15:14:09Z",
-   "lastSeen": "2026-11-08T15:43:56Z",
-   "playTicks": 42391,
+   "lastSeen": "2026-11-08T15:47:53Z",
+   "playTicks": 47142,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
@@ -1887,8 +1887,8 @@
    "uuid": "8edc0941-4e76-45a4-8eec-be61a981fded",
    "name": "AFK2",
    "firstSeen": "2026-11-08T15:19:36Z",
-   "lastSeen": "2026-11-08T15:43:56Z",
-   "playTicks": 31724,
+   "lastSeen": "2026-11-08T15:47:53Z",
+   "playTicks": 36475,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
