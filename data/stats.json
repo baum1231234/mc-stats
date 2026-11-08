@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-08T14:48:31Z",
+ "updated": "2026-11-08T14:53:22Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25696829,
+ "serverTicks": 25702829,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,23 +228,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-08T14:47:15Z",
-   "playTicks": 6376448,
+   "lastSeen": "2026-11-08T14:52:15Z",
+   "playTicks": 6382448,
    "deaths": 0,
-   "mobKills": 7111,
+   "mobKills": 7112,
    "playerKills": 0,
    "killedByPlayers": 0,
-   "damageDealt": 522228,
-   "damageTaken": 93491,
-   "distanceCm": 72999222,
-   "walkCm": 21570228,
-   "flyCm": 32344614,
-   "jumps": 99613,
-   "mined": 123033,
+   "damageDealt": 522418,
+   "damageTaken": 93614,
+   "distanceCm": 73046385,
+   "walkCm": 21585209,
+   "flyCm": 32375101,
+   "jumps": 99674,
+   "mined": 123058,
    "topMined": [
     [
      "stone",
-     44905
+     44914
     ],
     [
      "netherrack",
@@ -252,10 +252,10 @@
     ],
     [
      "snow_block",
-     4858
+     4865
     ]
    ],
-   "crafted": 109232,
+   "crafted": 110552,
    "topCrafted": [
     [
      "iron_ingot",
@@ -277,7 +277,7 @@
     ],
     [
      "zombie",
-     385
+     386
     ],
     [
      "skeleton",
