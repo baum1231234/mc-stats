@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-08T13:58:37Z",
+ "updated": "2026-11-08T14:03:29Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25638556,
+ "serverTicks": 25642829,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,23 +228,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-08T13:58:41Z",
-   "playTicks": 6318175,
+   "lastSeen": "2026-11-08T14:02:15Z",
+   "playTicks": 6322448,
    "deaths": 0,
    "mobKills": 7107,
    "playerKills": 0,
    "killedByPlayers": 0,
    "damageDealt": 521028,
-   "damageTaken": 93256,
-   "distanceCm": 72823584,
-   "walkCm": 21527410,
-   "flyCm": 32231975,
-   "jumps": 99438,
-   "mined": 122410,
+   "damageTaken": 93268,
+   "distanceCm": 72878168,
+   "walkCm": 21546331,
+   "flyCm": 32264108,
+   "jumps": 99488,
+   "mined": 122422,
    "topMined": [
     [
      "stone",
-     44293
+     44296
     ],
     [
      "netherrack",
@@ -255,7 +255,7 @@
      4858
     ]
    ],
-   "crafted": 108318,
+   "crafted": 108555,
    "topCrafted": [
     [
      "iron_ingot",
