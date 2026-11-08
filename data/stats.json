@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T15:48:31Z",
+ "updated": "2026-11-08T15:50:15Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 25767551,
  "players": [
@@ -228,7 +228,7 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-08T15:47:57Z",
+   "lastSeen": "2026-11-08T15:50:25Z",
    "playTicks": 6446037,
    "deaths": 0,
    "mobKills": 7126,
@@ -1859,8 +1859,8 @@
    "uuid": "3b74f13f-de10-416d-a821-9f0a9103e337",
    "name": "AFK",
    "firstSeen": "2026-11-08T15:14:09Z",
-   "lastSeen": "2026-11-08T15:47:53Z",
-   "playTicks": 47142,
+   "lastSeen": "2026-11-08T15:50:22Z",
+   "playTicks": 50124,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
@@ -1887,14 +1887,14 @@
    "uuid": "8edc0941-4e76-45a4-8eec-be61a981fded",
    "name": "AFK2",
    "firstSeen": "2026-11-08T15:19:36Z",
-   "lastSeen": "2026-11-08T15:47:53Z",
-   "playTicks": 36475,
-   "deaths": 0,
+   "lastSeen": "2026-11-08T15:50:04Z",
+   "playTicks": 38896,
+   "deaths": 1,
    "mobKills": 0,
    "playerKills": 0,
-   "killedByPlayers": 0,
+   "killedByPlayers": 1,
    "damageDealt": 0,
-   "damageTaken": 0,
+   "damageTaken": 300,
    "distanceCm": 0,
    "walkCm": 0,
    "flyCm": 0,
@@ -1904,11 +1904,23 @@
    "crafted": 0,
    "topCrafted": [],
    "topKilled": [],
-   "topKilledBy": [],
+   "topKilledBy": [
+    [
+     "player",
+     1
+    ]
+   ],
    "adv": {
-    "count": 0,
-    "byTab": {},
-    "recent": []
+    "count": 1,
+    "byTab": {
+     "adventure": 1
+    },
+    "recent": [
+     [
+      "adventure/root",
+      "2026-11-08T15:50:04Z"
+     ]
+    ]
    }
   }
  ],
