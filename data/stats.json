@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T18:58:36Z",
+ "updated": "2026-11-10T19:00:19Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 25842984,
  "players": [
@@ -334,19 +334,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-10T18:53:42Z",
-   "playTicks": 6087046,
+   "lastSeen": "2026-11-10T18:58:42Z",
+   "playTicks": 6093046,
    "deaths": 3,
-   "mobKills": 2169,
+   "mobKills": 2171,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 183733,
-   "damageTaken": 45125,
-   "distanceCm": 48337204,
-   "walkCm": 19704324,
-   "flyCm": 19074189,
-   "jumps": 84193,
-   "mined": 141209,
+   "damageDealt": 183923,
+   "damageTaken": 45186,
+   "distanceCm": 48503766,
+   "walkCm": 19728016,
+   "flyCm": 19204421,
+   "jumps": 84286,
+   "mined": 141212,
    "topMined": [
     [
      "netherrack",
@@ -387,7 +387,7 @@
     ],
     [
      "skeleton",
-     168
+     169
     ]
    ],
    "topKilledBy": [
@@ -405,15 +405,19 @@
     ]
    ],
    "adv": {
-    "count": 52,
+    "count": 53,
     "byTab": {
-     "story": 14,
+     "story": 15,
      "adventure": 13,
      "husbandry": 4,
      "nether": 16,
      "end": 5
     },
     "recent": [
+     [
+      "story/follow_ender_eye",
+      "2026-11-10T18:55:07Z"
+     ],
      [
       "adventure/voluntary_exile",
       "2026-10-29T14:40:30Z"
@@ -441,10 +445,6 @@
      [
       "story/enter_the_end",
       "2026-10-25T17:15:08Z"
-     ],
-     [
-      "nether/create_beacon",
-      "2026-10-18T16:00:07Z"
      ]
     ]
    }
