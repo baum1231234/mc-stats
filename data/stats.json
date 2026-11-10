@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T18:08:03Z",
+ "updated": "2026-11-10T18:09:51Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25776984,
+ "serverTicks": 25782984,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,19 +228,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-08T15:50:25Z",
-   "playTicks": 6448371,
+   "lastSeen": "2026-11-10T18:08:42Z",
+   "playTicks": 6454371,
    "deaths": 0,
    "mobKills": 7126,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 523486,
-   "damageTaken": 94553,
-   "distanceCm": 73966065,
-   "walkCm": 21852307,
-   "flyCm": 32960790,
-   "jumps": 100291,
-   "mined": 124537,
+   "damageTaken": 94682,
+   "distanceCm": 74069326,
+   "walkCm": 21861173,
+   "flyCm": 33045566,
+   "jumps": 100321,
+   "mined": 124541,
    "topMined": [
     [
      "stone",
@@ -255,7 +255,7 @@
      4865
     ]
    ],
-   "crafted": 112526,
+   "crafted": 112806,
    "topCrafted": [
     [
      "iron_ingot",
@@ -1922,6 +1922,34 @@
      ]
     ]
    }
+  },
+  {
+   "uuid": "aa62fa62-b185-4b14-adaa-62f1f3442493",
+   "name": "Hexe",
+   "firstSeen": "2026-11-10T18:09:51Z",
+   "lastSeen": "2026-11-10T18:08:42Z",
+   "playTicks": 1041,
+   "deaths": 0,
+   "mobKills": 0,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 0,
+   "damageTaken": 0,
+   "distanceCm": 0,
+   "walkCm": 0,
+   "flyCm": 0,
+   "jumps": 0,
+   "mined": 0,
+   "topMined": [],
+   "crafted": 0,
+   "topCrafted": [],
+   "topKilled": [],
+   "topKilledBy": [],
+   "adv": {
+    "count": 0,
+    "byTab": {},
+    "recent": []
+   }
   }
  ],
  "bases": [
@@ -2534,8 +2562,8 @@
     "rendered": "2026-11-10T18:08:03Z"
    },
    "-11.2": {
-    "mtime": "2026-11-08T15:15:59Z",
-    "rendered": "2026-11-08T16:24:51Z"
+    "mtime": "2026-11-10T18:08:27Z",
+    "rendered": "2026-11-10T18:09:51Z"
    },
    "-2.-6": {
     "mtime": "2026-11-05T19:52:45Z",
@@ -2666,12 +2694,12 @@
     "rendered": "2026-11-02T18:13:02Z"
    },
    "-12.0": {
-    "mtime": "2026-11-08T15:22:47Z",
-    "rendered": "2026-11-08T16:24:51Z"
+    "mtime": "2026-11-10T18:09:49Z",
+    "rendered": "2026-11-10T18:09:51Z"
    },
    "-12.2": {
-    "mtime": "2026-11-08T15:15:59Z",
-    "rendered": "2026-11-08T16:24:51Z"
+    "mtime": "2026-11-10T18:09:49Z",
+    "rendered": "2026-11-10T18:09:51Z"
    },
    "-13.1": {
     "mtime": "2026-11-07T14:10:07Z",
@@ -2694,8 +2722,8 @@
     "rendered": "2026-10-29T22:49:02Z"
    },
    "-10.0": {
-    "mtime": "2026-11-08T15:37:44Z",
-    "rendered": "2026-11-08T16:24:51Z"
+    "mtime": "2026-11-10T18:08:58Z",
+    "rendered": "2026-11-10T18:09:51Z"
    },
    "-10.2": {
     "mtime": "2026-11-08T15:16:00Z",
