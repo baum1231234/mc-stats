@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T19:15:36Z",
+ "updated": "2026-11-10T19:17:16Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25860984,
+ "serverTicks": 25865735,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -343,18 +343,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-10T19:13:42Z",
-   "playTicks": 6097540,
+   "lastSeen": "2026-11-10T19:17:06Z",
+   "playTicks": 6101624,
    "deaths": 3,
-   "mobKills": 2173,
+   "mobKills": 2174,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 184278,
-   "damageTaken": 45229,
-   "distanceCm": 48647167,
-   "walkCm": 19743487,
-   "flyCm": 19315009,
-   "jumps": 84362,
+   "damageDealt": 184404,
+   "damageTaken": 45403,
+   "distanceCm": 48724330,
+   "walkCm": 19760945,
+   "flyCm": 19366609,
+   "jumps": 84534,
    "mined": 141212,
    "topMined": [
     [
@@ -392,7 +392,7 @@
     ],
     [
      "zombie",
-     192
+     193
     ],
     [
      "skeleton",
@@ -1868,8 +1868,8 @@
    "uuid": "aa62fa62-b185-4b14-adaa-62f1f3442493",
    "name": "Hexe",
    "firstSeen": "2026-11-10T18:09:51Z",
-   "lastSeen": "2026-11-10T19:13:42Z",
-   "playTicks": 79041,
+   "lastSeen": "2026-11-10T19:16:55Z",
+   "playTicks": 82889,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
@@ -1924,7 +1924,7 @@
    "uuid": "36c7cb37-b1aa-49d1-b48f-17768b59d71c",
    "name": "Holz",
    "firstSeen": "2026-11-10T18:14:34Z",
-   "lastSeen": "2026-11-10T19:13:42Z",
+   "lastSeen": "2026-11-10T19:17:40Z",
    "playTicks": 75869,
    "deaths": 0,
    "mobKills": 0,
