@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T18:33:48Z",
+ "updated": "2026-11-10T18:38:46Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25812984,
+ "serverTicks": 25818984,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,23 +228,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-10T18:33:42Z",
-   "playTicks": 6484371,
+   "lastSeen": "2026-11-10T18:38:42Z",
+   "playTicks": 6490371,
    "deaths": 0,
    "mobKills": 7127,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 523687,
-   "damageTaken": 94950,
-   "distanceCm": 74451494,
-   "walkCm": 21982038,
-   "flyCm": 33270744,
-   "jumps": 100824,
-   "mined": 124703,
+   "damageTaken": 94978,
+   "distanceCm": 74512652,
+   "walkCm": 22012414,
+   "flyCm": 33292574,
+   "jumps": 100938,
+   "mined": 124726,
    "topMined": [
     [
      "stone",
-     45911
+     45918
     ],
     [
      "netherrack",
@@ -255,7 +255,7 @@
      4865
     ]
    ],
-   "crafted": 112860,
+   "crafted": 112948,
    "topCrafted": [
     [
      "iron_ingot",
@@ -1927,8 +1927,8 @@
    "uuid": "aa62fa62-b185-4b14-adaa-62f1f3442493",
    "name": "Hexe",
    "firstSeen": "2026-11-10T18:09:51Z",
-   "lastSeen": "2026-11-10T18:33:42Z",
-   "playTicks": 31041,
+   "lastSeen": "2026-11-10T18:38:42Z",
+   "playTicks": 37041,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
@@ -1955,8 +1955,8 @@
    "uuid": "1888bf36-e00d-46eb-b8fd-6fd3f311408e",
    "name": "Eisen",
    "firstSeen": "2026-11-10T18:14:34Z",
-   "lastSeen": "2026-11-10T18:33:42Z",
-   "playTicks": 29826,
+   "lastSeen": "2026-11-10T18:38:42Z",
+   "playTicks": 35826,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
@@ -1983,8 +1983,8 @@
    "uuid": "36c7cb37-b1aa-49d1-b48f-17768b59d71c",
    "name": "Holz",
    "firstSeen": "2026-11-10T18:14:34Z",
-   "lastSeen": "2026-11-10T18:33:42Z",
-   "playTicks": 27869,
+   "lastSeen": "2026-11-10T18:38:42Z",
+   "playTicks": 33869,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
