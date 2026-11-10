@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T23:18:51Z",
+ "updated": "2026-11-10T23:25:24Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 26154984,
+ "serverTicks": 26160984,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1746,6 +1746,62 @@
    }
   },
   {
+   "uuid": "1888bf36-e00d-46eb-b8fd-6fd3f311408e",
+   "name": "Eisen",
+   "firstSeen": "2026-11-10T18:14:34Z",
+   "lastSeen": "2026-11-10T23:23:42Z",
+   "playTicks": 377826,
+   "deaths": 0,
+   "mobKills": 0,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 0,
+   "damageTaken": 0,
+   "distanceCm": 0,
+   "walkCm": 0,
+   "flyCm": 0,
+   "jumps": 0,
+   "mined": 0,
+   "topMined": [],
+   "crafted": 0,
+   "topCrafted": [],
+   "topKilled": [],
+   "topKilledBy": [],
+   "adv": {
+    "count": 0,
+    "byTab": {},
+    "recent": []
+   }
+  },
+  {
+   "uuid": "36c7cb37-b1aa-49d1-b48f-17768b59d71c",
+   "name": "Holz",
+   "firstSeen": "2026-11-10T18:14:34Z",
+   "lastSeen": "2026-11-10T23:23:42Z",
+   "playTicks": 375869,
+   "deaths": 0,
+   "mobKills": 0,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 0,
+   "damageTaken": 0,
+   "distanceCm": 0,
+   "walkCm": 0,
+   "flyCm": 0,
+   "jumps": 0,
+   "mined": 0,
+   "topMined": [],
+   "crafted": 0,
+   "topCrafted": [],
+   "topKilled": [],
+   "topKilledBy": [],
+   "adv": {
+    "count": 0,
+    "byTab": {},
+    "recent": []
+   }
+  },
+  {
    "uuid": "33ea52e3-86de-4e6b-9526-ef4483a31005",
    "name": "mcGammler",
    "firstSeen": "2026-10-17T17:31:12Z",
@@ -1862,62 +1918,6 @@
       "2026-10-24T20:24:12Z"
      ]
     ]
-   }
-  },
-  {
-   "uuid": "1888bf36-e00d-46eb-b8fd-6fd3f311408e",
-   "name": "Eisen",
-   "firstSeen": "2026-11-10T18:14:34Z",
-   "lastSeen": "2026-11-10T23:18:42Z",
-   "playTicks": 371826,
-   "deaths": 0,
-   "mobKills": 0,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 0,
-   "damageTaken": 0,
-   "distanceCm": 0,
-   "walkCm": 0,
-   "flyCm": 0,
-   "jumps": 0,
-   "mined": 0,
-   "topMined": [],
-   "crafted": 0,
-   "topCrafted": [],
-   "topKilled": [],
-   "topKilledBy": [],
-   "adv": {
-    "count": 0,
-    "byTab": {},
-    "recent": []
-   }
-  },
-  {
-   "uuid": "36c7cb37-b1aa-49d1-b48f-17768b59d71c",
-   "name": "Holz",
-   "firstSeen": "2026-11-10T18:14:34Z",
-   "lastSeen": "2026-11-10T23:18:42Z",
-   "playTicks": 369869,
-   "deaths": 0,
-   "mobKills": 0,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 0,
-   "damageTaken": 0,
-   "distanceCm": 0,
-   "walkCm": 0,
-   "flyCm": 0,
-   "jumps": 0,
-   "mined": 0,
-   "topMined": [],
-   "crafted": 0,
-   "topCrafted": [],
-   "topKilled": [],
-   "topKilledBy": [],
-   "adv": {
-    "count": 0,
-    "byTab": {},
-    "recent": []
    }
   },
   {
