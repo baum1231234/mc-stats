@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T18:44:47Z",
+ "updated": "2026-11-10T18:48:07Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 25824984,
+ "serverTicks": 25829681,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,23 +228,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-10T18:43:42Z",
-   "playTicks": 6496371,
+   "lastSeen": "2026-11-10T18:47:37Z",
+   "playTicks": 6501068,
    "deaths": 0,
    "mobKills": 7127,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 523687,
-   "damageTaken": 95072,
-   "distanceCm": 74630260,
-   "walkCm": 22046302,
-   "flyCm": 33367986,
-   "jumps": 101077,
-   "mined": 124741,
+   "damageTaken": 95109,
+   "distanceCm": 74713340,
+   "walkCm": 22062511,
+   "flyCm": 33431162,
+   "jumps": 101111,
+   "mined": 124756,
    "topMined": [
     [
      "stone",
-     45923
+     45927
     ],
     [
      "netherrack",
@@ -255,11 +255,11 @@
      4865
     ]
    ],
-   "crafted": 112948,
+   "crafted": 112968,
    "topCrafted": [
     [
      "iron_ingot",
-     22741
+     22750
     ],
     [
      "stick",
@@ -1887,8 +1887,8 @@
    "uuid": "aa62fa62-b185-4b14-adaa-62f1f3442493",
    "name": "Hexe",
    "firstSeen": "2026-11-10T18:09:51Z",
-   "lastSeen": "2026-11-10T18:43:42Z",
-   "playTicks": 43041,
+   "lastSeen": "2026-11-10T18:47:37Z",
+   "playTicks": 47738,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
@@ -1915,8 +1915,8 @@
    "uuid": "1888bf36-e00d-46eb-b8fd-6fd3f311408e",
    "name": "Eisen",
    "firstSeen": "2026-11-10T18:14:34Z",
-   "lastSeen": "2026-11-10T18:43:42Z",
-   "playTicks": 41826,
+   "lastSeen": "2026-11-10T18:47:37Z",
+   "playTicks": 46523,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
@@ -1943,8 +1943,8 @@
    "uuid": "36c7cb37-b1aa-49d1-b48f-17768b59d71c",
    "name": "Holz",
    "firstSeen": "2026-11-10T18:14:34Z",
-   "lastSeen": "2026-11-10T18:43:42Z",
-   "playTicks": 39869,
+   "lastSeen": "2026-11-10T18:47:37Z",
+   "playTicks": 44566,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
