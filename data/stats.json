@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-11T18:19:55Z",
+ "updated": "2026-11-11T18:24:55Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 26449082,
+ "serverTicks": 26454138,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,23 +228,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-11T18:19:24Z",
-   "playTicks": 6590250,
+   "lastSeen": "2026-11-11T18:23:36Z",
+   "playTicks": 6595306,
    "deaths": 3,
    "mobKills": 7129,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 524098,
-   "damageTaken": 97128,
-   "distanceCm": 76032583,
-   "walkCm": 22363038,
-   "flyCm": 34362611,
-   "jumps": 101891,
-   "mined": 125413,
+   "damageTaken": 97158,
+   "distanceCm": 76095832,
+   "walkCm": 22385260,
+   "flyCm": 34398230,
+   "jumps": 101932,
+   "mined": 125464,
    "topMined": [
     [
      "stone",
-     46077
+     46120
     ],
     [
      "netherrack",
@@ -255,7 +255,7 @@
      4866
     ]
    ],
-   "crafted": 122202,
+   "crafted": 126062,
    "topCrafted": [
     [
      "iron_ingot",
@@ -267,7 +267,7 @@
     ],
     [
      "bamboo_planks",
-     15352
+     18296
     ]
    ],
    "topKilled": [
@@ -343,19 +343,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-11T18:19:24Z",
-   "playTicks": 6180568,
+   "lastSeen": "2026-11-11T18:23:36Z",
+   "playTicks": 6185624,
    "deaths": 3,
    "mobKills": 2184,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 185898,
    "damageTaken": 45611,
-   "distanceCm": 49577957,
-   "walkCm": 20201167,
-   "flyCm": 19707613,
-   "jumps": 86455,
-   "mined": 142740,
+   "distanceCm": 49581625,
+   "walkCm": 20203489,
+   "flyCm": 19708300,
+   "jumps": 86473,
+   "mined": 142746,
    "topMined": [
     [
      "netherrack",
