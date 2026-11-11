@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-11T17:46:12Z",
+ "updated": "2026-11-11T17:49:31Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 26406138,
+ "serverTicks": 26412939,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,23 +228,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-11T17:43:36Z",
-   "playTicks": 6547306,
+   "lastSeen": "2026-11-11T17:49:16Z",
+   "playTicks": 6554107,
    "deaths": 3,
    "mobKills": 7129,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 524098,
-   "damageTaken": 96558,
-   "distanceCm": 75199898,
-   "walkCm": 22167134,
-   "flyCm": 33783693,
-   "jumps": 101462,
-   "mined": 124872,
+   "damageTaken": 96696,
+   "distanceCm": 75326008,
+   "walkCm": 22202676,
+   "flyCm": 33858971,
+   "jumps": 101607,
+   "mined": 124983,
    "topMined": [
     [
      "stone",
-     45965
+     45973
     ],
     [
      "netherrack",
@@ -252,10 +252,10 @@
     ],
     [
      "snow_block",
-     4865
+     4866
     ]
    ],
-   "crafted": 113743,
+   "crafted": 113935,
    "topCrafted": [
     [
      "iron_ingot",
@@ -343,19 +343,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-11T17:43:36Z",
-   "playTicks": 6137624,
+   "lastSeen": "2026-11-11T17:49:16Z",
+   "playTicks": 6144425,
    "deaths": 3,
-   "mobKills": 2181,
+   "mobKills": 2182,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 185421,
-   "damageTaken": 45505,
-   "distanceCm": 49070289,
-   "walkCm": 19926106,
-   "flyCm": 19521730,
-   "jumps": 85499,
-   "mined": 141852,
+   "damageDealt": 185508,
+   "damageTaken": 45533,
+   "distanceCm": 49167885,
+   "walkCm": 19961966,
+   "flyCm": 19575234,
+   "jumps": 85693,
+   "mined": 141952,
    "topMined": [
     [
      "netherrack",
@@ -370,7 +370,7 @@
      3152
     ]
    ],
-   "crafted": 26668,
+   "crafted": 27114,
    "topCrafted": [
     [
      "stick",
@@ -378,7 +378,7 @@
     ],
     [
      "spruce_planks",
-     3596
+     3876
     ],
     [
      "bamboo_planks",
@@ -392,7 +392,7 @@
     ],
     [
      "zombie",
-     194
+     195
     ],
     [
      "skeleton",
