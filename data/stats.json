@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-11T20:24:42Z",
+ "updated": "2026-11-11T20:29:44Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 26598138,
+ "serverTicks": 26604138,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1643,8 +1643,8 @@
    "uuid": "1888bf36-e00d-46eb-b8fd-6fd3f311408e",
    "name": "Eisen",
    "firstSeen": "2026-11-10T18:14:34Z",
-   "lastSeen": "2026-11-11T20:23:36Z",
-   "playTicks": 709830,
+   "lastSeen": "2026-11-11T20:28:36Z",
+   "playTicks": 715830,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
@@ -1949,11 +1949,11 @@
    }
   },
   {
-   "uuid": "3b74f13f-de10-416d-a821-9f0a9103e337",
-   "name": "AFK",
-   "firstSeen": "2026-11-08T15:14:09Z",
-   "lastSeen": "2026-11-08T15:50:22Z",
-   "playTicks": 50124,
+   "uuid": "7354a652-b03b-4c7c-bfaf-06eaf49d57bf",
+   "name": "Bambus",
+   "firstSeen": "2026-11-11T19:49:14Z",
+   "lastSeen": "2026-11-11T20:28:36Z",
+   "playTicks": 53953,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
@@ -1977,11 +1977,11 @@
    }
   },
   {
-   "uuid": "7354a652-b03b-4c7c-bfaf-06eaf49d57bf",
-   "name": "Bambus",
-   "firstSeen": "2026-11-11T19:49:14Z",
-   "lastSeen": "2026-11-11T20:23:36Z",
-   "playTicks": 47953,
+   "uuid": "3b74f13f-de10-416d-a821-9f0a9103e337",
+   "name": "AFK",
+   "firstSeen": "2026-11-08T15:14:09Z",
+   "lastSeen": "2026-11-08T15:50:22Z",
+   "playTicks": 50124,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
