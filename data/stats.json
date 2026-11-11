@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-11T20:05:52Z",
+ "updated": "2026-11-11T20:09:14Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 26575347,
+ "serverTicks": 26580138,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,18 +228,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-11T20:04:37Z",
-   "playTicks": 6639885,
+   "lastSeen": "2026-11-11T20:07:57Z",
+   "playTicks": 6643890,
    "deaths": 3,
-   "mobKills": 7184,
+   "mobKills": 7305,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 525612,
-   "damageTaken": 97764,
-   "distanceCm": 76603493,
-   "walkCm": 22606065,
-   "flyCm": 34647184,
-   "jumps": 102481,
+   "damageDealt": 526222,
+   "damageTaken": 97870,
+   "distanceCm": 76684560,
+   "walkCm": 22608485,
+   "flyCm": 34722358,
+   "jumps": 102502,
    "mined": 125962,
    "topMined": [
     [
@@ -273,7 +273,7 @@
    "topKilled": [
     [
      "guardian",
-     4886
+     5007
     ],
     [
      "zombie",
@@ -1749,8 +1749,8 @@
    "uuid": "1888bf36-e00d-46eb-b8fd-6fd3f311408e",
    "name": "Eisen",
    "firstSeen": "2026-11-10T18:14:34Z",
-   "lastSeen": "2026-11-11T20:04:37Z",
-   "playTicks": 687039,
+   "lastSeen": "2026-11-11T20:08:36Z",
+   "playTicks": 691830,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
@@ -2020,8 +2020,8 @@
    "uuid": "7354a652-b03b-4c7c-bfaf-06eaf49d57bf",
    "name": "Bambus",
    "firstSeen": "2026-11-11T19:49:14Z",
-   "lastSeen": "2026-11-11T20:04:37Z",
-   "playTicks": 25162,
+   "lastSeen": "2026-11-11T20:08:36Z",
+   "playTicks": 29953,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
