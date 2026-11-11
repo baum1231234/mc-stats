@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T18:43:20Z",
+ "updated": "2026-11-11T18:45:01Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 26478138,
  "players": [
@@ -228,23 +228,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-11T18:38:36Z",
-   "playTicks": 6613306,
+   "lastSeen": "2026-11-11T18:44:17Z",
+   "playTicks": 6620123,
    "deaths": 3,
    "mobKills": 7135,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 525232,
-   "damageTaken": 97328,
-   "distanceCm": 76259913,
-   "walkCm": 22493506,
-   "flyCm": 34437992,
-   "jumps": 102166,
-   "mined": 125696,
+   "damageTaken": 97386,
+   "distanceCm": 76372451,
+   "walkCm": 22536393,
+   "flyCm": 34498700,
+   "jumps": 102314,
+   "mined": 125777,
    "topMined": [
     [
      "stone",
-     46315
+     46376
     ],
     [
      "netherrack",
@@ -255,11 +255,11 @@
      4866
     ]
    ],
-   "crafted": 126630,
+   "crafted": 126916,
    "topCrafted": [
     [
      "iron_ingot",
-     22795
+     22822
     ],
     [
      "stick",
@@ -343,19 +343,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-11T18:38:36Z",
-   "playTicks": 6191246,
+   "lastSeen": "2026-11-11T18:43:36Z",
+   "playTicks": 6197246,
    "deaths": 3,
    "mobKills": 2184,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 185898,
    "damageTaken": 45611,
-   "distanceCm": 49626216,
-   "walkCm": 20224592,
-   "flyCm": 19727238,
-   "jumps": 86577,
-   "mined": 142754,
+   "distanceCm": 49715346,
+   "walkCm": 20263626,
+   "flyCm": 19768488,
+   "jumps": 86790,
+   "mined": 142778,
    "topMined": [
     [
      "netherrack",
@@ -363,14 +363,14 @@
     ],
     [
      "stone",
-     54432
+     54435
     ],
     [
      "waxed_copper_block",
      3154
     ]
    ],
-   "crafted": 27763,
+   "crafted": 27891,
    "topCrafted": [
     [
      "stick",
@@ -378,7 +378,7 @@
     ],
     [
      "spruce_planks",
-     4132
+     4260
     ],
     [
      "bamboo_planks",
