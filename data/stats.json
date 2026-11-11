@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T18:08:02Z",
+ "updated": "2026-11-11T18:09:53Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 26436138,
  "players": [
@@ -228,27 +228,27 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-11T18:04:20Z",
-   "playTicks": 6572172,
+   "lastSeen": "2026-11-11T18:08:36Z",
+   "playTicks": 6577306,
    "deaths": 3,
    "mobKills": 7129,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 524098,
-   "damageTaken": 96836,
-   "distanceCm": 75542281,
-   "walkCm": 22303928,
-   "flyCm": 33957589,
-   "jumps": 101760,
-   "mined": 125158,
+   "damageTaken": 97035,
+   "distanceCm": 75879674,
+   "walkCm": 22321751,
+   "flyCm": 34257465,
+   "jumps": 101805,
+   "mined": 125361,
    "topMined": [
     [
      "stone",
-     46048
+     46051
     ],
     [
      "netherrack",
-     25953
+     26025
     ],
     [
      "snow_block",
@@ -343,27 +343,27 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-11T18:04:20Z",
-   "playTicks": 6162490,
+   "lastSeen": "2026-11-11T18:08:36Z",
+   "playTicks": 6167624,
    "deaths": 3,
    "mobKills": 2184,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 185898,
-   "damageTaken": 45573,
-   "distanceCm": 49388564,
-   "walkCm": 20101274,
-   "flyCm": 19638429,
-   "jumps": 86054,
-   "mined": 142420,
+   "damageTaken": 45586,
+   "distanceCm": 49452768,
+   "walkCm": 20135741,
+   "flyCm": 19664438,
+   "jumps": 86160,
+   "mined": 142638,
    "topMined": [
     [
      "netherrack",
-     57146
+     57147
     ],
     [
      "stone",
-     54196
+     54395
     ],
     [
      "waxed_copper_block",
@@ -3156,8 +3156,8 @@
     "rendered": "2026-11-11T07:53:15Z"
    },
    "-14.2": {
-    "mtime": "2026-11-04T02:17:13Z",
-    "rendered": "2026-11-11T07:53:15Z"
+    "mtime": "2026-11-11T18:07:42Z",
+    "rendered": "2026-11-11T18:09:53Z"
    },
    "-15.1": {
     "mtime": "2026-10-18T18:22:33Z",
@@ -3382,8 +3382,8 @@
     "rendered": "2026-11-11T07:59:09Z"
    },
    "-14.3": {
-    "mtime": "2026-11-04T02:17:13Z",
-    "rendered": "2026-11-11T07:59:09Z"
+    "mtime": "2026-11-11T18:07:42Z",
+    "rendered": "2026-11-11T18:09:53Z"
    },
    "-13.4": {
     "mtime": "2026-10-21T01:17:16Z",
