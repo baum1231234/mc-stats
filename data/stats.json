@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T11:34:24Z",
+ "updated": "2026-11-12T11:36:07Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 27023796,
+ "serverTicks": 27027364,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,23 +228,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-11T20:07:57Z",
-   "playTicks": 6643890,
+   "lastSeen": "2026-11-12T11:35:49Z",
+   "playTicks": 6647507,
    "deaths": 3,
-   "mobKills": 7305,
+   "mobKills": 7306,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 526222,
-   "damageTaken": 97870,
-   "distanceCm": 76684560,
-   "walkCm": 22608485,
-   "flyCm": 34722358,
-   "jumps": 102502,
-   "mined": 125962,
+   "damageDealt": 526273,
+   "damageTaken": 97993,
+   "distanceCm": 76724281,
+   "walkCm": 22617374,
+   "flyCm": 34745156,
+   "jumps": 102556,
+   "mined": 125971,
    "topMined": [
     [
      "stone",
-     46536
+     46545
     ],
     [
      "netherrack",
@@ -281,7 +281,7 @@
     ],
     [
      "skeleton",
-     283
+     284
     ]
    ],
    "topKilledBy": [
@@ -1643,8 +1643,8 @@
    "uuid": "1888bf36-e00d-46eb-b8fd-6fd3f311408e",
    "name": "EISEN",
    "firstSeen": "2026-11-10T18:14:34Z",
-   "lastSeen": "2026-11-12T02:17:19Z",
-   "playTicks": 1134289,
+   "lastSeen": "2026-11-12T11:35:47Z",
+   "playTicks": 1135986,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
@@ -2042,6 +2042,34 @@
       "2026-11-08T15:50:04Z"
      ]
     ]
+   }
+  },
+  {
+   "uuid": "c4bdcd4c-9da0-40b4-9f00-67d95602a42c",
+   "name": "Bambooooooo",
+   "firstSeen": "2026-11-12T11:36:07Z",
+   "lastSeen": "2026-11-12T11:35:47Z",
+   "playTicks": 1087,
+   "deaths": 0,
+   "mobKills": 0,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 0,
+   "damageTaken": 0,
+   "distanceCm": 0,
+   "walkCm": 0,
+   "flyCm": 0,
+   "jumps": 0,
+   "mined": 0,
+   "topMined": [],
+   "crafted": 0,
+   "topCrafted": [],
+   "topKilled": [],
+   "topKilledBy": [],
+   "adv": {
+    "count": 0,
+    "byTab": {},
+    "recent": []
    }
   }
  ],
@@ -2824,8 +2852,8 @@
     "rendered": "2026-11-12T11:34:24Z"
    },
    "-10.2": {
-    "mtime": "2026-11-11T18:40:54Z",
-    "rendered": "2026-11-11T20:18:03Z"
+    "mtime": "2026-11-12T11:34:04Z",
+    "rendered": "2026-11-12T11:36:07Z"
    },
    "-11.-1": {
     "mtime": "2026-11-08T13:22:29Z",
