@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T16:42:42Z",
+ "updated": "2026-11-12T16:47:57Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 27395796,
+ "serverTicks": 27401796,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -1643,8 +1643,8 @@
    "uuid": "1888bf36-e00d-46eb-b8fd-6fd3f311408e",
    "name": "EISEN",
    "firstSeen": "2026-11-10T18:14:34Z",
-   "lastSeen": "2026-11-12T16:42:48Z",
-   "playTicks": 1504418,
+   "lastSeen": "2026-11-12T16:47:48Z",
+   "playTicks": 1510418,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
@@ -1830,6 +1830,34 @@
    }
   },
   {
+   "uuid": "c4bdcd4c-9da0-40b4-9f00-67d95602a42c",
+   "name": "Bambooooooo",
+   "firstSeen": "2026-11-12T11:36:07Z",
+   "lastSeen": "2026-11-12T16:47:48Z",
+   "playTicks": 375519,
+   "deaths": 0,
+   "mobKills": 0,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 0,
+   "damageTaken": 0,
+   "distanceCm": 0,
+   "walkCm": 0,
+   "flyCm": 0,
+   "jumps": 0,
+   "mined": 0,
+   "topMined": [],
+   "crafted": 0,
+   "topCrafted": [],
+   "topKilled": [],
+   "topKilledBy": [],
+   "adv": {
+    "count": 0,
+    "byTab": {},
+    "recent": []
+   }
+  },
+  {
    "uuid": "33ea52e3-86de-4e6b-9526-ef4483a31005",
    "name": "mcGammler",
    "firstSeen": "2026-10-17T17:31:12Z",
@@ -1946,34 +1974,6 @@
       "2026-10-24T20:24:12Z"
      ]
     ]
-   }
-  },
-  {
-   "uuid": "c4bdcd4c-9da0-40b4-9f00-67d95602a42c",
-   "name": "Bambooooooo",
-   "firstSeen": "2026-11-12T11:36:07Z",
-   "lastSeen": "2026-11-12T16:42:48Z",
-   "playTicks": 369519,
-   "deaths": 0,
-   "mobKills": 0,
-   "playerKills": 0,
-   "killedByPlayers": 0,
-   "damageDealt": 0,
-   "damageTaken": 0,
-   "distanceCm": 0,
-   "walkCm": 0,
-   "flyCm": 0,
-   "jumps": 0,
-   "mined": 0,
-   "topMined": [],
-   "crafted": 0,
-   "topCrafted": [],
-   "topKilled": [],
-   "topKilledBy": [],
-   "adv": {
-    "count": 0,
-    "byTab": {},
-    "recent": []
    }
   },
   {
