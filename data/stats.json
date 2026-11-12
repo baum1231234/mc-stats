@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T17:37:54Z",
+ "updated": "2026-11-12T17:43:17Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 27461796,
+ "serverTicks": 27467796,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,23 +228,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-12T17:37:48Z",
-   "playTicks": 6720101,
+   "lastSeen": "2026-11-12T17:42:48Z",
+   "playTicks": 6726101,
    "deaths": 3,
-   "mobKills": 7312,
+   "mobKills": 7315,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 527173,
-   "damageTaken": 98404,
-   "distanceCm": 77322412,
-   "walkCm": 22850286,
-   "flyCm": 35072337,
-   "jumps": 103171,
-   "mined": 126739,
+   "damageDealt": 527744,
+   "damageTaken": 98412,
+   "distanceCm": 77400514,
+   "walkCm": 22892298,
+   "flyCm": 35106129,
+   "jumps": 103239,
+   "mined": 127027,
    "topMined": [
     [
      "stone",
-     46890
+     47016
     ],
     [
      "netherrack",
@@ -255,7 +255,7 @@
      4866
     ]
    ],
-   "crafted": 127466,
+   "crafted": 127467,
    "topCrafted": [
     [
      "iron_ingot",
@@ -343,19 +343,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-12T17:37:48Z",
-   "playTicks": 6228582,
+   "lastSeen": "2026-11-12T17:42:48Z",
+   "playTicks": 6234582,
    "deaths": 3,
    "mobKills": 2186,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 186391,
    "damageTaken": 45649,
-   "distanceCm": 49958676,
-   "walkCm": 20386434,
-   "flyCm": 19870097,
-   "jumps": 87383,
-   "mined": 143030,
+   "distanceCm": 50041739,
+   "walkCm": 20433321,
+   "flyCm": 19902683,
+   "jumps": 87551,
+   "mined": 143147,
    "topMined": [
     [
      "netherrack",
@@ -363,7 +363,7 @@
     ],
     [
      "stone",
-     54603
+     54676
     ],
     [
      "waxed_copper_block",
@@ -1643,8 +1643,8 @@
    "uuid": "1888bf36-e00d-46eb-b8fd-6fd3f311408e",
    "name": "EISEN",
    "firstSeen": "2026-11-10T18:14:34Z",
-   "lastSeen": "2026-11-12T17:37:48Z",
-   "playTicks": 1570418,
+   "lastSeen": "2026-11-12T17:42:48Z",
+   "playTicks": 1576418,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
@@ -1833,8 +1833,8 @@
    "uuid": "c4bdcd4c-9da0-40b4-9f00-67d95602a42c",
    "name": "Bambooooooo",
    "firstSeen": "2026-11-12T11:36:07Z",
-   "lastSeen": "2026-11-12T17:37:48Z",
-   "playTicks": 435519,
+   "lastSeen": "2026-11-12T17:42:48Z",
+   "playTicks": 441519,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
@@ -2823,8 +2823,8 @@
     "rendered": "2026-11-02T18:13:02Z"
    },
    "-12.0": {
-    "mtime": "2026-11-12T13:38:13Z",
-    "rendered": "2026-11-12T14:35:36Z"
+    "mtime": "2026-11-12T17:43:22Z",
+    "rendered": "2026-11-12T17:43:17Z"
    },
    "-12.2": {
     "mtime": "2026-11-12T17:34:37Z",
