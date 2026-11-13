@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13T18:26:23Z",
+ "updated": "2026-11-13T18:32:45Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 27866168,
+ "serverTicks": 27872168,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,19 +228,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-13T18:25:18Z",
-   "playTicks": 6879375,
+   "lastSeen": "2026-11-13T18:31:39Z",
+   "playTicks": 6885375,
    "deaths": 3,
-   "mobKills": 8280,
+   "mobKills": 8283,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 537367,
-   "damageTaken": 98766,
-   "distanceCm": 77727553,
-   "walkCm": 23069052,
-   "flyCm": 35248642,
-   "jumps": 103493,
-   "mined": 130662,
+   "damageDealt": 537959,
+   "damageTaken": 98857,
+   "distanceCm": 77824258,
+   "walkCm": 23088956,
+   "flyCm": 35319060,
+   "jumps": 103608,
+   "mined": 130663,
    "topMined": [
     [
      "stone",
@@ -255,7 +255,7 @@
      4901
     ]
    ],
-   "crafted": 127467,
+   "crafted": 127975,
    "topCrafted": [
     [
      "iron_ingot",
@@ -277,11 +277,11 @@
     ],
     [
      "zombie",
-     392
+     393
     ],
     [
      "skeleton",
-     284
+     285
     ]
    ],
    "topKilledBy": [
