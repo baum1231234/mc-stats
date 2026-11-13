@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13T19:05:53Z",
+ "updated": "2026-11-13T19:07:38Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 27908168,
+ "serverTicks": 27916057,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,19 +228,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-13T19:01:39Z",
-   "playTicks": 6921375,
+   "lastSeen": "2026-11-13T19:06:39Z",
+   "playTicks": 6927375,
    "deaths": 3,
    "mobKills": 8300,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 540934,
-   "damageTaken": 99765,
-   "distanceCm": 78280551,
-   "walkCm": 23271860,
-   "flyCm": 35557850,
-   "jumps": 104058,
-   "mined": 130829,
+   "damageTaken": 99795,
+   "distanceCm": 78499212,
+   "walkCm": 23306760,
+   "flyCm": 35738185,
+   "jumps": 104176,
+   "mined": 130836,
    "topMined": [
     [
      "stone",
@@ -255,11 +255,11 @@
      4901
     ]
    ],
-   "crafted": 129177,
+   "crafted": 129873,
    "topCrafted": [
     [
      "iron_ingot",
-     22886
+     23462
     ],
     [
      "stick",
@@ -2755,28 +2755,28 @@
     "rendered": "2026-11-13T19:05:53Z"
    },
    "3.-1": {
-    "mtime": "2026-11-07T10:52:33Z",
-    "rendered": "2026-11-07T13:06:02Z"
+    "mtime": "2026-11-13T19:04:49Z",
+    "rendered": "2026-11-13T19:07:38Z"
    },
    "4.0": {
     "mtime": "2026-11-05T19:10:32Z",
     "rendered": "2026-11-05T21:42:26Z"
    },
    "0.0": {
-    "mtime": "2026-11-07T10:31:32Z",
-    "rendered": "2026-11-07T10:32:31Z"
+    "mtime": "2026-11-13T19:03:03Z",
+    "rendered": "2026-11-13T19:07:38Z"
    },
    "1.-1": {
-    "mtime": "2026-11-12T14:12:32Z",
-    "rendered": "2026-11-12T14:15:16Z"
+    "mtime": "2026-11-13T19:06:51Z",
+    "rendered": "2026-11-13T19:07:38Z"
    },
    "0.-3": {
     "mtime": "2026-11-12T14:12:38Z",
     "rendered": "2026-11-12T14:15:16Z"
    },
    "1.-2": {
-    "mtime": "2026-11-12T14:12:38Z",
-    "rendered": "2026-11-12T14:17:21Z"
+    "mtime": "2026-11-13T19:05:15Z",
+    "rendered": "2026-11-13T19:07:38Z"
    },
    "0.1": {
     "mtime": "2026-11-05T19:54:42Z",
