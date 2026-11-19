@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T16:03:59Z",
+ "updated": "2026-11-19T16:05:54Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28258009,
+ "serverTicks": 28260820,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,18 +228,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-13T19:31:42Z",
-   "playTicks": 6957417,
+   "lastSeen": "2026-11-19T16:05:36Z",
+   "playTicks": 6959328,
    "deaths": 3,
    "mobKills": 8316,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 541985,
    "damageTaken": 100271,
-   "distanceCm": 79116398,
-   "walkCm": 23496946,
-   "flyCm": 36126404,
-   "jumps": 104646,
+   "distanceCm": 79141012,
+   "walkCm": 23499941,
+   "flyCm": 36147667,
+   "jumps": 104658,
    "mined": 131862,
    "topMined": [
     [
@@ -2703,8 +2703,8 @@
     "rendered": "2026-11-19T16:03:59Z"
    },
    "-11.2": {
-    "mtime": "2026-11-13T22:36:16Z",
-    "rendered": "2026-11-14T00:24:06Z"
+    "mtime": "2026-11-19T16:05:33Z",
+    "rendered": "2026-11-19T16:05:54Z"
    },
    "-2.-6": {
     "mtime": "2026-11-05T19:52:45Z",
@@ -2835,12 +2835,12 @@
     "rendered": "2026-11-02T18:13:02Z"
    },
    "-12.0": {
-    "mtime": "2026-11-13T19:31:04Z",
-    "rendered": "2026-11-13T21:24:49Z"
+    "mtime": "2026-11-19T16:04:22Z",
+    "rendered": "2026-11-19T16:05:54Z"
    },
    "-12.2": {
-    "mtime": "2026-11-13T22:36:16Z",
-    "rendered": "2026-11-14T00:17:51Z"
+    "mtime": "2026-11-19T16:05:33Z",
+    "rendered": "2026-11-19T16:05:54Z"
    },
    "-13.1": {
     "mtime": "2026-11-13T22:36:16Z",
@@ -2863,8 +2863,8 @@
     "rendered": "2026-10-29T22:49:02Z"
    },
    "-10.0": {
-    "mtime": "2026-11-13T19:26:08Z",
-    "rendered": "2026-11-13T21:26:36Z"
+    "mtime": "2026-11-19T16:05:37Z",
+    "rendered": "2026-11-19T16:05:54Z"
    },
    "-10.2": {
     "mtime": "2026-11-13T19:31:42Z",
