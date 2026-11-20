@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T21:03:30Z",
+ "updated": "2026-11-20T21:05:43Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28311227,
+ "serverTicks": 28314024,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,23 +228,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-20T20:59:16Z",
-   "playTicks": 6982492,
+   "lastSeen": "2026-11-20T21:04:16Z",
+   "playTicks": 6988492,
    "deaths": 3,
    "mobKills": 8318,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 542525,
-   "damageTaken": 100704,
-   "distanceCm": 79726454,
-   "walkCm": 23585616,
-   "flyCm": 36619707,
-   "jumps": 105015,
-   "mined": 132771,
+   "damageTaken": 100726,
+   "distanceCm": 79808698,
+   "walkCm": 23616240,
+   "flyCm": 36667311,
+   "jumps": 105104,
+   "mined": 132789,
    "topMined": [
     [
      "stone",
-     51225
+     51228
     ],
     [
      "netherrack",
@@ -255,7 +255,7 @@
      4907
     ]
    ],
-   "crafted": 135382,
+   "crafted": 135611,
    "topCrafted": [
     [
      "iron_ingot",
@@ -343,19 +343,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-20T20:59:16Z",
-   "playTicks": 6276354,
+   "lastSeen": "2026-11-20T21:04:16Z",
+   "playTicks": 6282354,
    "deaths": 3,
    "mobKills": 2187,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 186582,
-   "damageTaken": 45704,
-   "distanceCm": 50472340,
-   "walkCm": 20622231,
-   "flyCm": 20111588,
-   "jumps": 88458,
-   "mined": 143358,
+   "damageTaken": 45716,
+   "distanceCm": 50536848,
+   "walkCm": 20658174,
+   "flyCm": 20135883,
+   "jumps": 88581,
+   "mined": 143450,
    "topMined": [
     [
      "netherrack",
@@ -363,7 +363,7 @@
     ],
     [
      "stone",
-     54836
+     54838
     ],
     [
      "waxed_copper_block",
@@ -4183,6 +4183,10 @@
     "rendered": "2026-11-20T21:03:30Z",
     "empty": true
    },
+   "2.9": {
+    "mtime": "2026-10-30T02:17:08Z",
+    "rendered": "2026-11-20T21:05:43Z"
+   },
    "3.8": {
     "mtime": "2026-11-03T19:19:40Z",
     "rendered": "2026-11-03T22:18:14Z"
@@ -4194,6 +4198,18 @@
    "5.6": {
     "mtime": "2026-11-02T02:17:11Z",
     "rendered": "2026-11-02T02:19:47Z"
+   },
+   "6.5": {
+    "mtime": "2026-10-20T01:16:52Z",
+    "rendered": "2026-11-20T21:05:43Z"
+   },
+   "7.4": {
+    "mtime": "2026-10-20T14:07:41Z",
+    "rendered": "2026-11-20T21:05:43Z"
+   },
+   "8.3": {
+    "mtime": "2026-10-20T14:07:49Z",
+    "rendered": "2026-11-20T21:05:43Z"
    }
   }
  }
