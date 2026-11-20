@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T21:49:44Z",
+ "updated": "2026-11-20T21:51:47Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28365227,
+ "serverTicks": 28368221,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,23 +228,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-20T21:49:16Z",
-   "playTicks": 7042492,
+   "lastSeen": "2026-11-20T21:51:45Z",
+   "playTicks": 7045486,
    "deaths": 3,
    "mobKills": 8318,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 542525,
-   "damageTaken": 101203,
-   "distanceCm": 80441925,
-   "walkCm": 23822672,
-   "flyCm": 37037721,
-   "jumps": 105791,
-   "mined": 132967,
+   "damageTaken": 101219,
+   "distanceCm": 80472042,
+   "walkCm": 23838973,
+   "flyCm": 37049381,
+   "jumps": 105820,
+   "mined": 132973,
    "topMined": [
     [
      "stone",
-     51261
+     51263
     ],
     [
      "netherrack",
@@ -343,19 +343,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-20T21:49:16Z",
-   "playTicks": 6336354,
+   "lastSeen": "2026-11-20T21:51:45Z",
+   "playTicks": 6339348,
    "deaths": 3,
-   "mobKills": 2189,
+   "mobKills": 2191,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 186922,
-   "damageTaken": 45818,
-   "distanceCm": 50935122,
-   "walkCm": 20869423,
-   "flyCm": 20273683,
-   "jumps": 89319,
-   "mined": 144143,
+   "damageDealt": 187321,
+   "damageTaken": 45834,
+   "distanceCm": 50985571,
+   "walkCm": 20889584,
+   "flyCm": 20302752,
+   "jumps": 89393,
+   "mined": 144153,
    "topMined": [
     [
      "netherrack",
@@ -363,7 +363,7 @@
     ],
     [
      "stone",
-     55465
+     55466
     ],
     [
      "waxed_copper_block",
@@ -396,7 +396,7 @@
     ],
     [
      "skeleton",
-     175
+     176
     ]
    ],
    "topKilledBy": [
@@ -1641,10 +1641,10 @@
   },
   {
    "uuid": "1888bf36-e00d-46eb-b8fd-6fd3f311408e",
-   "name": "EISEN",
+   "name": "Eisen",
    "firstSeen": "2026-11-10T18:14:34Z",
-   "lastSeen": "2026-11-12T19:42:50Z",
-   "playTicks": 1720454,
+   "lastSeen": "2026-11-20T21:51:45Z",
+   "playTicks": 1721101,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
