@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T21:20:26Z",
+ "updated": "2026-11-20T21:22:29Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28329227,
+ "serverTicks": 28332168,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,19 +228,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-20T21:19:16Z",
-   "playTicks": 7006492,
+   "lastSeen": "2026-11-20T21:21:43Z",
+   "playTicks": 7009433,
    "deaths": 3,
    "mobKills": 8318,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 542525,
-   "damageTaken": 100825,
-   "distanceCm": 79949394,
-   "walkCm": 23699759,
-   "flyCm": 36718280,
-   "jumps": 105292,
-   "mined": 132912,
+   "damageTaken": 100881,
+   "distanceCm": 79992502,
+   "walkCm": 23711715,
+   "flyCm": 36741682,
+   "jumps": 105403,
+   "mined": 132916,
    "topMined": [
     [
      "stone",
@@ -255,7 +255,7 @@
      4907
     ]
    ],
-   "crafted": 135659,
+   "crafted": 136027,
    "topCrafted": [
     [
      "iron_ingot",
@@ -343,8 +343,8 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-20T21:19:16Z",
-   "playTicks": 6300354,
+   "lastSeen": "2026-11-20T21:21:43Z",
+   "playTicks": 6303295,
    "deaths": 3,
    "mobKills": 2189,
    "playerKills": 0,
@@ -2846,8 +2846,8 @@
     "rendered": "2026-11-20T20:38:53Z"
    },
    "-13.1": {
-    "mtime": "2026-11-13T22:36:16Z",
-    "rendered": "2026-11-14T00:24:06Z"
+    "mtime": "2026-11-20T21:22:23Z",
+    "rendered": "2026-11-20T21:22:29Z"
    },
    "-3.3": {
     "mtime": "2026-11-10T19:13:35Z",
@@ -3022,12 +3022,12 @@
     "rendered": "2026-11-11T21:07:02Z"
    },
    "-13.0": {
-    "mtime": "2026-11-13T18:23:52Z",
-    "rendered": "2026-11-13T18:26:23Z"
+    "mtime": "2026-11-20T21:22:05Z",
+    "rendered": "2026-11-20T21:22:29Z"
    },
    "-13.2": {
-    "mtime": "2026-11-13T22:32:11Z",
-    "rendered": "2026-11-14T01:21:17Z"
+    "mtime": "2026-11-20T21:22:23Z",
+    "rendered": "2026-11-20T21:22:29Z"
    },
    "-14.1": {
     "mtime": "2026-11-12T02:17:20Z",
