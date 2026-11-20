@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T21:24:43Z",
+ "updated": "2026-11-20T21:30:35Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28335227,
+ "serverTicks": 28341227,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,19 +228,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-20T21:24:16Z",
-   "playTicks": 7012492,
+   "lastSeen": "2026-11-20T21:29:16Z",
+   "playTicks": 7018492,
    "deaths": 3,
    "mobKills": 8318,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 542525,
-   "damageTaken": 100906,
-   "distanceCm": 80116459,
-   "walkCm": 23720578,
-   "flyCm": 36855498,
-   "jumps": 105425,
-   "mined": 132919,
+   "damageTaken": 100932,
+   "distanceCm": 80174264,
+   "walkCm": 23745356,
+   "flyCm": 36885612,
+   "jumps": 105479,
+   "mined": 132925,
    "topMined": [
     [
      "stone",
@@ -255,11 +255,11 @@
      4907
     ]
    ],
-   "crafted": 136027,
+   "crafted": 136718,
    "topCrafted": [
     [
      "iron_ingot",
-     27302
+     27878
     ],
     [
      "stick",
@@ -343,19 +343,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-20T21:24:16Z",
-   "playTicks": 6306354,
+   "lastSeen": "2026-11-20T21:29:16Z",
+   "playTicks": 6312354,
    "deaths": 3,
    "mobKills": 2189,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 186922,
-   "damageTaken": 45736,
-   "distanceCm": 50630418,
-   "walkCm": 20701011,
-   "flyCm": 20179650,
-   "jumps": 88788,
-   "mined": 143472,
+   "damageTaken": 45760,
+   "distanceCm": 50662224,
+   "walkCm": 20713811,
+   "flyCm": 20195881,
+   "jumps": 88843,
+   "mined": 143494,
    "topMined": [
     [
      "netherrack",
