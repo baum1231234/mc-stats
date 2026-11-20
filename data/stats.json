@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T22:19:03Z",
+ "updated": "2026-11-20T22:22:29Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28401227,
+ "serverTicks": 28404185,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,19 +228,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-20T22:19:16Z",
-   "playTicks": 7067417,
+   "lastSeen": "2026-11-20T22:21:44Z",
+   "playTicks": 7076375,
    "deaths": 3,
-   "mobKills": 8318,
+   "mobKills": 8319,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 542804,
-   "damageTaken": 101521,
-   "distanceCm": 80760360,
-   "walkCm": 23890882,
-   "flyCm": 37276092,
-   "jumps": 106049,
-   "mined": 132978,
+   "damageDealt": 542964,
+   "damageTaken": 101537,
+   "distanceCm": 80821686,
+   "walkCm": 23910390,
+   "flyCm": 37314745,
+   "jumps": 106110,
+   "mined": 132982,
    "topMined": [
     [
      "stone",
@@ -343,19 +343,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-20T22:14:16Z",
-   "playTicks": 6366354,
+   "lastSeen": "2026-11-20T22:21:44Z",
+   "playTicks": 6375312,
    "deaths": 3,
-   "mobKills": 2194,
+   "mobKills": 2195,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 187782,
-   "damageTaken": 46220,
-   "distanceCm": 51337764,
-   "walkCm": 21096283,
-   "flyCm": 20427838,
-   "jumps": 89975,
-   "mined": 144415,
+   "damageDealt": 187982,
+   "damageTaken": 46232,
+   "distanceCm": 51450738,
+   "walkCm": 21173066,
+   "flyCm": 20458711,
+   "jumps": 90166,
+   "mined": 144428,
    "topMined": [
     [
      "netherrack",
@@ -370,11 +370,11 @@
      3154
     ]
    ],
-   "crafted": 29422,
+   "crafted": 30147,
    "topCrafted": [
     [
      "stick",
-     6503
+     6631
     ],
     [
      "spruce_planks",
@@ -382,7 +382,7 @@
     ],
     [
      "bamboo_planks",
-     3200
+     3456
     ]
    ],
    "topKilled": [
@@ -392,7 +392,7 @@
     ],
     [
      "zombie",
-     199
+     200
     ],
     [
      "skeleton",
@@ -1643,8 +1643,8 @@
    "uuid": "1888bf36-e00d-46eb-b8fd-6fd3f311408e",
    "name": "Eisen",
    "firstSeen": "2026-11-10T18:14:34Z",
-   "lastSeen": "2026-11-20T22:19:16Z",
-   "playTicks": 1754107,
+   "lastSeen": "2026-11-20T22:21:44Z",
+   "playTicks": 1757065,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
