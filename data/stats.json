@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T21:55:51Z",
+ "updated": "2026-11-20T21:59:50Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28371227,
+ "serverTicks": 28377227,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,19 +228,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-20T21:54:16Z",
-   "playTicks": 7048492,
+   "lastSeen": "2026-11-20T21:59:16Z",
+   "playTicks": 7054492,
    "deaths": 3,
    "mobKills": 8318,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 542525,
-   "damageTaken": 101219,
-   "distanceCm": 80497368,
-   "walkCm": 23847819,
-   "flyCm": 37065411,
-   "jumps": 105842,
-   "mined": 132974,
+   "damageDealt": 542804,
+   "damageTaken": 101457,
+   "distanceCm": 80634775,
+   "walkCm": 23869330,
+   "flyCm": 37176157,
+   "jumps": 105970,
+   "mined": 132976,
    "topMined": [
     [
      "stone",
@@ -255,11 +255,11 @@
      4907
     ]
    ],
-   "crafted": 141920,
+   "crafted": 142207,
    "topCrafted": [
     [
      "iron_ingot",
-     28497
+     28753
     ],
     [
      "stick",
@@ -343,19 +343,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-20T21:54:16Z",
-   "playTicks": 6342354,
+   "lastSeen": "2026-11-20T21:59:16Z",
+   "playTicks": 6348354,
    "deaths": 3,
-   "mobKills": 2191,
+   "mobKills": 2193,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 187321,
-   "damageTaken": 45834,
-   "distanceCm": 51033457,
-   "walkCm": 20914866,
-   "flyCm": 20322962,
-   "jumps": 89475,
-   "mined": 144160,
+   "damageDealt": 187602,
+   "damageTaken": 46178,
+   "distanceCm": 51103085,
+   "walkCm": 20960311,
+   "flyCm": 20343963,
+   "jumps": 89602,
+   "mined": 144168,
    "topMined": [
     [
      "netherrack",
@@ -363,7 +363,7 @@
     ],
     [
      "stone",
-     55466
+     55467
     ],
     [
      "waxed_copper_block",
@@ -392,7 +392,7 @@
     ],
     [
      "zombie",
-     197
+     198
     ],
     [
      "skeleton",
@@ -1643,8 +1643,8 @@
    "uuid": "1888bf36-e00d-46eb-b8fd-6fd3f311408e",
    "name": "Eisen",
    "firstSeen": "2026-11-10T18:14:34Z",
-   "lastSeen": "2026-11-20T21:54:16Z",
-   "playTicks": 1724107,
+   "lastSeen": "2026-11-20T21:59:16Z",
+   "playTicks": 1730107,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
