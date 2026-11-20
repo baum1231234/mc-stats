@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T21:07:59Z",
+ "updated": "2026-11-20T21:10:14Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28314024,
+ "serverTicks": 28317227,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,23 +228,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-20T21:06:35Z",
-   "playTicks": 6991289,
+   "lastSeen": "2026-11-20T21:09:16Z",
+   "playTicks": 6994492,
    "deaths": 3,
    "mobKills": 8318,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 542525,
-   "damageTaken": 100726,
-   "distanceCm": 79830596,
-   "walkCm": 23628048,
-   "flyCm": 36677107,
-   "jumps": 105162,
-   "mined": 132834,
+   "damageTaken": 100734,
+   "distanceCm": 79847491,
+   "walkCm": 23638980,
+   "flyCm": 36681724,
+   "jumps": 105189,
+   "mined": 132843,
    "topMined": [
     [
      "stone",
-     51229
+     51230
     ],
     [
      "netherrack",
@@ -343,18 +343,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-20T21:06:35Z",
-   "playTicks": 6285151,
+   "lastSeen": "2026-11-20T21:09:16Z",
+   "playTicks": 6288354,
    "deaths": 3,
    "mobKills": 2187,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 186582,
-   "damageTaken": 45716,
-   "distanceCm": 50560057,
-   "walkCm": 20670308,
-   "flyCm": 20146514,
-   "jumps": 88626,
+   "damageTaken": 45720,
+   "distanceCm": 50586581,
+   "walkCm": 20681730,
+   "flyCm": 20158490,
+   "jumps": 88688,
    "mined": 143450,
    "topMined": [
     [
@@ -4226,6 +4226,22 @@
    "9.-2": {
     "mtime": "2026-10-17T17:32:12Z",
     "rendered": "2026-11-20T21:07:59Z"
+   },
+   "-3.13": {
+    "mtime": "2026-10-17T17:25:56Z",
+    "rendered": "2026-11-20T21:10:14Z"
+   },
+   "-4.12": {
+    "mtime": "2026-10-17T17:26:38Z",
+    "rendered": "2026-11-20T21:10:14Z"
+   },
+   "-5.11": {
+    "mtime": "2026-10-17T17:27:05Z",
+    "rendered": "2026-11-20T21:10:14Z"
+   },
+   "-6.10": {
+    "mtime": "2026-10-29T19:54:04Z",
+    "rendered": "2026-11-20T21:10:14Z"
    }
   }
  }
