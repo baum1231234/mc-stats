@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T22:09:55Z",
+ "updated": "2026-11-20T22:17:00Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28389227,
+ "serverTicks": 28395227,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,19 +228,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-20T22:09:05Z",
-   "playTicks": 7066286,
+   "lastSeen": "2026-11-20T22:14:16Z",
+   "playTicks": 7067417,
    "deaths": 3,
    "mobKills": 8318,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 542804,
    "damageTaken": 101521,
-   "distanceCm": 80751353,
-   "walkCm": 23886430,
-   "flyCm": 37272125,
-   "jumps": 106045,
-   "mined": 132976,
+   "distanceCm": 80760360,
+   "walkCm": 23890882,
+   "flyCm": 37276092,
+   "jumps": 106049,
+   "mined": 132978,
    "topMined": [
     [
      "stone",
@@ -343,19 +343,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-20T22:09:16Z",
-   "playTicks": 6360354,
+   "lastSeen": "2026-11-20T22:14:16Z",
+   "playTicks": 6366354,
    "deaths": 3,
    "mobKills": 2194,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 187782,
-   "damageTaken": 46194,
-   "distanceCm": 51260850,
-   "walkCm": 21053998,
-   "flyCm": 20401661,
-   "jumps": 89848,
-   "mined": 144407,
+   "damageTaken": 46220,
+   "distanceCm": 51337764,
+   "walkCm": 21096283,
+   "flyCm": 20427838,
+   "jumps": 89975,
+   "mined": 144415,
    "topMined": [
     [
      "netherrack",
@@ -370,7 +370,7 @@
      3154
     ]
    ],
-   "crafted": 29294,
+   "crafted": 29422,
    "topCrafted": [
     [
      "stick",
@@ -382,7 +382,7 @@
     ],
     [
      "bamboo_planks",
-     3072
+     3200
     ]
    ],
    "topKilled": [
@@ -1643,8 +1643,8 @@
    "uuid": "1888bf36-e00d-46eb-b8fd-6fd3f311408e",
    "name": "Eisen",
    "firstSeen": "2026-11-10T18:14:34Z",
-   "lastSeen": "2026-11-20T22:09:16Z",
-   "playTicks": 1742107,
+   "lastSeen": "2026-11-20T22:14:16Z",
+   "playTicks": 1748107,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
