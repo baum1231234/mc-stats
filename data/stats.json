@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T21:12:30Z",
+ "updated": "2026-11-20T21:14:32Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28317227,
+ "serverTicks": 28323227,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,23 +228,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-20T21:09:16Z",
-   "playTicks": 6994492,
+   "lastSeen": "2026-11-20T21:14:16Z",
+   "playTicks": 7000492,
    "deaths": 3,
    "mobKills": 8318,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 542525,
-   "damageTaken": 100734,
-   "distanceCm": 79847491,
-   "walkCm": 23638980,
-   "flyCm": 36681724,
-   "jumps": 105189,
-   "mined": 132843,
+   "damageTaken": 100817,
+   "distanceCm": 79912117,
+   "walkCm": 23670281,
+   "flyCm": 36712081,
+   "jumps": 105227,
+   "mined": 132899,
    "topMined": [
     [
      "stone",
-     51230
+     51237
     ],
     [
      "netherrack",
@@ -255,7 +255,7 @@
      4907
     ]
    ],
-   "crafted": 135611,
+   "crafted": 135659,
    "topCrafted": [
     [
      "iron_ingot",
@@ -343,19 +343,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-20T21:09:16Z",
-   "playTicks": 6288354,
+   "lastSeen": "2026-11-20T21:14:16Z",
+   "playTicks": 6294354,
    "deaths": 3,
-   "mobKills": 2187,
+   "mobKills": 2189,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 186582,
-   "damageTaken": 45720,
-   "distanceCm": 50586581,
-   "walkCm": 20681730,
-   "flyCm": 20158490,
-   "jumps": 88688,
-   "mined": 143450,
+   "damageDealt": 186922,
+   "damageTaken": 45732,
+   "distanceCm": 50612750,
+   "walkCm": 20695508,
+   "flyCm": 20169111,
+   "jumps": 88739,
+   "mined": 143459,
    "topMined": [
     [
      "netherrack",
@@ -363,7 +363,7 @@
     ],
     [
      "stone",
-     54838
+     54847
     ],
     [
      "waxed_copper_block",
@@ -396,7 +396,7 @@
     ],
     [
      "skeleton",
-     174
+     175
     ]
    ],
    "topKilledBy": [
