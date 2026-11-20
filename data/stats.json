@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T20:45:35Z",
+ "updated": "2026-11-20T20:47:49Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28292163,
+ "serverTicks": 28293227,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -343,19 +343,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-20T20:41:11Z",
-   "playTicks": 6258490,
+   "lastSeen": "2026-11-20T20:46:05Z",
+   "playTicks": 6264354,
    "deaths": 3,
    "mobKills": 2187,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 186582,
-   "damageTaken": 45686,
-   "distanceCm": 50347356,
-   "walkCm": 20578132,
-   "flyCm": 20040906,
-   "jumps": 88161,
-   "mined": 143356,
+   "damageTaken": 45700,
+   "distanceCm": 50391815,
+   "walkCm": 20593938,
+   "flyCm": 20064291,
+   "jumps": 88278,
+   "mined": 143358,
    "topMined": [
     [
      "netherrack",
@@ -370,7 +370,7 @@
      3154
     ]
    ],
-   "crafted": 28583,
+   "crafted": 29018,
    "topCrafted": [
     [
      "stick",
@@ -4073,6 +4073,22 @@
    "9.-3": {
     "mtime": "2026-10-17T19:52:06Z",
     "rendered": "2026-11-20T20:45:35Z"
+   },
+   "-16.-2": {
+    "mtime": "2026-10-17T17:24:16Z",
+    "rendered": "2026-11-20T20:47:49Z"
+   },
+   "-17.-1": {
+    "mtime": "2026-10-17T17:24:22Z",
+    "rendered": "2026-11-20T20:47:49Z"
+   },
+   "-1.11": {
+    "mtime": "2026-10-30T02:17:08Z",
+    "rendered": "2026-11-20T20:47:49Z"
+   },
+   "-2.12": {
+    "mtime": "2026-10-17T17:24:49Z",
+    "rendered": "2026-11-20T20:47:49Z"
    },
    "-7.-3": {
     "mtime": "2026-11-08T15:35:11Z",
