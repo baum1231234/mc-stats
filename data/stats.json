@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T13:46:00Z",
+ "updated": "2026-11-22T13:47:46Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 28665294,
  "players": [
@@ -2048,15 +2048,15 @@
    "uuid": "920186e8-3f9b-35b4-a09f-1e6c4578786e",
    "name": "leckmeinenhoden",
    "firstSeen": "2026-11-22T13:09:50Z",
-   "lastSeen": "2026-11-22T13:43:35Z",
-   "playTicks": 45701,
-   "deaths": 0,
+   "lastSeen": "2026-11-22T13:46:50Z",
+   "playTicks": 49589,
+   "deaths": 1,
    "mobKills": 0,
    "playerKills": 0,
-   "killedByPlayers": 0,
+   "killedByPlayers": 1,
    "damageDealt": 0,
-   "damageTaken": 0,
-   "distanceCm": 0,
+   "damageTaken": 1337,
+   "distanceCm": 11670,
    "walkCm": 0,
    "flyCm": 0,
    "jumps": 0,
@@ -2065,11 +2065,23 @@
    "crafted": 0,
    "topCrafted": [],
    "topKilled": [],
-   "topKilledBy": [],
+   "topKilledBy": [
+    [
+     "player",
+     1
+    ]
+   ],
    "adv": {
-    "count": 0,
-    "byTab": {},
-    "recent": []
+    "count": 1,
+    "byTab": {
+     "adventure": 1
+    },
+    "recent": [
+     [
+      "adventure/root",
+      "2026-11-22T13:46:50Z"
+     ]
+    ]
    }
   },
   {
@@ -3072,20 +3084,20 @@
     "rendered": "2026-11-22T13:46:00Z"
    },
    "-13.2": {
-    "mtime": "2026-11-21T22:21:30Z",
-    "rendered": "2026-11-21T22:24:15Z"
+    "mtime": "2026-11-22T13:42:06Z",
+    "rendered": "2026-11-22T13:47:46Z"
    },
    "-14.1": {
     "mtime": "2026-11-12T02:17:20Z",
     "rendered": "2026-11-21T23:45:33Z"
    },
    "-4.3": {
-    "mtime": "2026-11-10T19:13:14Z",
-    "rendered": "2026-11-10T19:13:35Z"
+    "mtime": "2026-11-22T13:39:48Z",
+    "rendered": "2026-11-22T13:47:46Z"
    },
    "-5.4": {
-    "mtime": "2026-10-29T20:06:27Z",
-    "rendered": "2026-10-29T22:58:38Z"
+    "mtime": "2026-11-22T13:39:25Z",
+    "rendered": "2026-11-22T13:47:46Z"
    },
    "-1.6": {
     "mtime": "2026-10-29T19:46:07Z",
@@ -3112,8 +3124,8 @@
     "rendered": "2026-11-08T13:26:09Z"
    },
    "-8.1": {
-    "mtime": "2026-11-03T14:36:50Z",
-    "rendered": "2026-11-03T14:48:28Z"
+    "mtime": "2026-11-22T13:41:39Z",
+    "rendered": "2026-11-22T13:47:46Z"
    },
    "-9.0": {
     "mtime": "2026-11-19T16:07:41Z",
