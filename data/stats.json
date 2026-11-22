@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T14:25:42Z",
+ "updated": "2026-11-22T14:28:54Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28714743,
+ "serverTicks": 28719294,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -113,19 +113,19 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-11-22T14:24:48Z",
-   "playTicks": 9012093,
+   "lastSeen": "2026-11-22T14:28:35Z",
+   "playTicks": 9016644,
    "deaths": 2,
    "mobKills": 6901,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 608780,
    "damageTaken": 33008,
-   "distanceCm": 99926126,
-   "walkCm": 38534724,
-   "flyCm": 44342064,
-   "jumps": 80656,
-   "mined": 161306,
+   "distanceCm": 99962568,
+   "walkCm": 38547155,
+   "flyCm": 44363638,
+   "jumps": 80693,
+   "mined": 161311,
    "topMined": [
     [
      "netherrack",
@@ -343,18 +343,18 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-22T14:22:44Z",
-   "playTicks": 6488636,
+   "lastSeen": "2026-11-22T14:28:35Z",
+   "playTicks": 6491552,
    "deaths": 3,
    "mobKills": 2201,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 189203,
-   "damageTaken": 46636,
-   "distanceCm": 53009704,
-   "walkCm": 21910584,
-   "flyCm": 21208984,
-   "jumps": 92429,
+   "damageTaken": 46646,
+   "distanceCm": 53053824,
+   "walkCm": 21926547,
+   "flyCm": 21233010,
+   "jumps": 92568,
    "mined": 146001,
    "topMined": [
     [
@@ -820,19 +820,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-11-22T14:24:48Z",
-   "playTicks": 4241004,
+   "lastSeen": "2026-11-22T14:28:35Z",
+   "playTicks": 4245555,
    "deaths": 10,
    "mobKills": 9157,
    "playerKills": 7,
    "killedByPlayers": 3,
    "damageDealt": 390616,
-   "damageTaken": 62898,
-   "distanceCm": 74486587,
-   "walkCm": 19028237,
-   "flyCm": 44113137,
-   "jumps": 59195,
-   "mined": 101917,
+   "damageTaken": 62912,
+   "distanceCm": 74679582,
+   "walkCm": 19045406,
+   "flyCm": 44283434,
+   "jumps": 59219,
+   "mined": 102006,
    "topMined": [
     [
      "netherrack",
@@ -847,7 +847,7 @@
      11925
     ]
    ],
-   "crafted": 96703,
+   "crafted": 96713,
    "topCrafted": [
     [
      "stick",
@@ -859,7 +859,7 @@
     ],
     [
      "iron_ingot",
-     8884
+     8893
     ]
    ],
    "topKilled": [
