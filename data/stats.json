@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T02:38:23Z",
+ "updated": "2026-11-22T02:40:03Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28588174,
+ "serverTicks": 28589375,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -113,18 +113,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-11-21T22:28:13Z",
-   "playTicks": 8930935,
+   "lastSeen": "2026-11-22T02:38:59Z",
+   "playTicks": 8932136,
    "deaths": 2,
    "mobKills": 6780,
    "playerKills": 1,
    "killedByPlayers": 0,
    "damageDealt": 608123,
    "damageTaken": 32565,
-   "distanceCm": 95866607,
-   "walkCm": 38307278,
-   "flyCm": 40609660,
-   "jumps": 79923,
+   "distanceCm": 95869825,
+   "walkCm": 38308720,
+   "flyCm": 40611436,
+   "jumps": 79926,
    "mined": 161203,
    "topMined": [
     [
@@ -140,7 +140,7 @@
      24842
     ]
    ],
-   "crafted": 60886,
+   "crafted": 60890,
    "topCrafted": [
     [
      "spruce_planks",
@@ -2874,8 +2874,8 @@
     "rendered": "2026-11-13T23:09:49Z"
    },
    "-1.5": {
-    "mtime": "2026-11-21T22:27:55Z",
-    "rendered": "2026-11-21T23:09:09Z"
+    "mtime": "2026-11-22T02:38:08Z",
+    "rendered": "2026-11-22T02:40:03Z"
    },
    "-2.6": {
     "mtime": "2026-10-29T20:09:58Z",
@@ -2918,8 +2918,8 @@
     "rendered": "2026-11-03T17:44:59Z"
    },
    "-1.4": {
-    "mtime": "2026-11-21T22:27:55Z",
-    "rendered": "2026-11-21T23:09:09Z"
+    "mtime": "2026-11-22T02:39:15Z",
+    "rendered": "2026-11-22T02:40:03Z"
    },
    "-2.3": {
     "mtime": "2026-11-10T19:13:35Z",
