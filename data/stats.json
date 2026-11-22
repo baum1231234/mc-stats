@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T12:55:56Z",
+ "updated": "2026-11-22T13:00:03Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28606679,
+ "serverTicks": 28611294,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,18 +228,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-20T22:27:08Z",
-   "playTicks": 7082863,
+   "lastSeen": "2026-11-22T13:00:01Z",
+   "playTicks": 7086851,
    "deaths": 3,
    "mobKills": 8320,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 543164,
-   "damageTaken": 101647,
-   "distanceCm": 80930787,
-   "walkCm": 23935655,
-   "flyCm": 37384591,
-   "jumps": 106316,
+   "damageTaken": 101651,
+   "distanceCm": 80944227,
+   "walkCm": 23941690,
+   "flyCm": 37390458,
+   "jumps": 106353,
    "mined": 132984,
    "topMined": [
     [
@@ -255,7 +255,7 @@
      4907
     ]
    ],
-   "crafted": 142207,
+   "crafted": 144265,
    "topCrafted": [
     [
      "iron_ingot",
@@ -263,7 +263,7 @@
     ],
     [
      "stick",
-     22582
+     22870
     ],
     [
      "bamboo_planks",
@@ -343,19 +343,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-22T12:54:44Z",
-   "playTicks": 6383037,
+   "lastSeen": "2026-11-22T12:58:35Z",
+   "playTicks": 6387652,
    "deaths": 3,
    "mobKills": 2195,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 187982,
-   "damageTaken": 46268,
-   "distanceCm": 51537503,
-   "walkCm": 21209536,
-   "flyCm": 20505405,
-   "jumps": 90341,
-   "mined": 144433,
+   "damageTaken": 46270,
+   "distanceCm": 51610615,
+   "walkCm": 21240225,
+   "flyCm": 20543856,
+   "jumps": 90481,
+   "mined": 144436,
    "topMined": [
     [
      "netherrack",
@@ -370,7 +370,7 @@
      3154
     ]
    ],
-   "crafted": 30147,
+   "crafted": 30403,
    "topCrafted": [
     [
      "stick",
@@ -382,7 +382,7 @@
     ],
     [
      "bamboo_planks",
-     3456
+     3712
     ]
    ],
    "topKilled": [
@@ -2887,8 +2887,8 @@
     "rendered": "2026-11-22T12:55:56Z"
    },
    "-10.2": {
-    "mtime": "2026-11-20T22:05:26Z",
-    "rendered": "2026-11-20T23:42:47Z"
+    "mtime": "2026-11-22T12:59:39Z",
+    "rendered": "2026-11-22T13:00:03Z"
    },
    "-11.-1": {
     "mtime": "2026-11-08T13:22:29Z",
