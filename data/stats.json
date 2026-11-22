@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T15:10:04Z",
+ "updated": "2026-11-22T15:14:49Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28768961,
+ "serverTicks": 28773294,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -113,8 +113,8 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-11-22T15:09:59Z",
-   "playTicks": 9060940,
+   "lastSeen": "2026-11-22T15:13:35Z",
+   "playTicks": 9065273,
    "deaths": 2,
    "mobKills": 6908,
    "playerKills": 1,
@@ -820,19 +820,19 @@
    "uuid": "352c465e-946c-446b-874b-79b08cfe7009",
    "name": "mcMinemanny",
    "firstSeen": "2026-10-11T10:41:59Z",
-   "lastSeen": "2026-11-22T15:09:59Z",
-   "playTicks": 4295222,
-   "deaths": 11,
-   "mobKills": 9208,
+   "lastSeen": "2026-11-22T15:13:35Z",
+   "playTicks": 4299555,
+   "deaths": 12,
+   "mobKills": 9209,
    "playerKills": 7,
    "killedByPlayers": 3,
-   "damageDealt": 396274,
-   "damageTaken": 63803,
-   "distanceCm": 77007213,
-   "walkCm": 19127289,
-   "flyCm": 46427027,
-   "jumps": 59698,
-   "mined": 102177,
+   "damageDealt": 396874,
+   "damageTaken": 64002,
+   "distanceCm": 77118310,
+   "walkCm": 19145898,
+   "flyCm": 46494590,
+   "jumps": 59895,
+   "mined": 102351,
    "topMined": [
     [
      "netherrack",
@@ -840,7 +840,7 @@
     ],
     [
      "stone",
-     18372
+     18388
     ],
     [
      "grass_block",
@@ -887,6 +887,10 @@
     ],
     [
      "creeper",
+     1
+    ],
+    [
+     "evoker",
      1
     ]
    ],
@@ -1401,18 +1405,18 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-11-22T15:09:59Z",
-   "playTicks": 2509826,
+   "lastSeen": "2026-11-22T15:13:35Z",
+   "playTicks": 2514159,
    "deaths": 43,
-   "mobKills": 961,
+   "mobKills": 973,
    "playerKills": 0,
    "killedByPlayers": 7,
-   "damageDealt": 56629,
-   "damageTaken": 39379,
-   "distanceCm": 29895962,
-   "walkCm": 11499889,
-   "flyCm": 12534400,
-   "jumps": 31934,
+   "damageDealt": 58677,
+   "damageTaken": 39643,
+   "distanceCm": 29957754,
+   "walkCm": 11529121,
+   "flyCm": 12562245,
+   "jumps": 32061,
    "mined": 23702,
    "topMined": [
     [
@@ -1450,11 +1454,11 @@
     ],
     [
      "zombie",
-     117
+     121
     ],
     [
      "skeleton",
-     74
+     76
     ]
    ],
    "topKilledBy": [
