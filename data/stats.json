@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T13:19:30Z",
+ "updated": "2026-11-22T13:24:17Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28635294,
+ "serverTicks": 28642634,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,19 +228,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-22T13:18:35Z",
-   "playTicks": 7107457,
+   "lastSeen": "2026-11-22T13:23:35Z",
+   "playTicks": 7113457,
    "deaths": 3,
    "mobKills": 8348,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 545256,
-   "damageTaken": 102718,
-   "distanceCm": 81224960,
-   "walkCm": 23989984,
-   "flyCm": 37582155,
-   "jumps": 106598,
-   "mined": 133001,
+   "damageTaken": 102798,
+   "distanceCm": 81321679,
+   "walkCm": 24019156,
+   "flyCm": 37643480,
+   "jumps": 106719,
+   "mined": 133003,
    "topMined": [
     [
      "stone",
@@ -255,19 +255,19 @@
      4907
     ]
    ],
-   "crafted": 151568,
+   "crafted": 156648,
    "topCrafted": [
     [
      "iron_ingot",
-     29644
+     30796
+    ],
+    [
+     "bamboo_planks",
+     26358
     ],
     [
      "stick",
      23382
-    ],
-    [
-     "bamboo_planks",
-     23350
     ]
    ],
    "topKilled": [
@@ -343,19 +343,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-22T13:18:35Z",
-   "playTicks": 6411652,
+   "lastSeen": "2026-11-22T13:23:35Z",
+   "playTicks": 6417652,
    "deaths": 3,
    "mobKills": 2195,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 187982,
    "damageTaken": 46296,
-   "distanceCm": 51914090,
-   "walkCm": 21408494,
-   "flyCm": 20666536,
-   "jumps": 90913,
-   "mined": 144808,
+   "distanceCm": 51985210,
+   "walkCm": 21462068,
+   "flyCm": 20681118,
+   "jumps": 91011,
+   "mined": 145304,
    "topMined": [
     [
      "netherrack",
@@ -363,14 +363,14 @@
     ],
     [
      "stone",
-     55923
+     56364
     ],
     [
      "waxed_copper_block",
      3154
     ]
    ],
-   "crafted": 32963,
+   "crafted": 33091,
    "topCrafted": [
     [
      "stick",
@@ -378,7 +378,7 @@
     ],
     [
      "bamboo_planks",
-     6016
+     6144
     ],
     [
      "spruce_planks",
@@ -2088,8 +2088,8 @@
    "uuid": "920186e8-3f9b-35b4-a09f-1e6c4578786e",
    "name": "leckmeinenhoden",
    "firstSeen": "2026-11-22T13:09:50Z",
-   "lastSeen": "2026-11-22T13:18:35Z",
-   "playTicks": 15701,
+   "lastSeen": "2026-11-22T13:23:35Z",
+   "playTicks": 21701,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
