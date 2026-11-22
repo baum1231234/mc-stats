@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T13:06:37Z",
+ "updated": "2026-11-22T13:09:50Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28617294,
+ "serverTicks": 28624692,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,19 +228,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-22T13:03:35Z",
-   "playTicks": 7089457,
+   "lastSeen": "2026-11-22T13:09:45Z",
+   "playTicks": 7096855,
    "deaths": 3,
-   "mobKills": 8320,
+   "mobKills": 8346,
    "playerKills": 2,
    "killedByPlayers": 0,
-   "damageDealt": 543164,
-   "damageTaken": 101733,
-   "distanceCm": 80971053,
-   "walkCm": 23947378,
-   "flyCm": 37410171,
-   "jumps": 106374,
-   "mined": 132984,
+   "damageDealt": 544887,
+   "damageTaken": 102005,
+   "distanceCm": 81054373,
+   "walkCm": 23961753,
+   "flyCm": 37466294,
+   "jumps": 106457,
+   "mined": 132985,
    "topMined": [
     [
      "stone",
@@ -255,7 +255,7 @@
      4907
     ]
    ],
-   "crafted": 144265,
+   "crafted": 147061,
    "topCrafted": [
     [
      "iron_ingot",
@@ -263,11 +263,11 @@
     ],
     [
      "stick",
-     22870
+     23382
     ],
     [
      "bamboo_planks",
-     19190
+     20086
     ]
    ],
    "topKilled": [
@@ -277,11 +277,11 @@
     ],
     [
      "zombie",
-     404
+     407
     ],
     [
      "skeleton",
-     289
+     290
     ]
    ],
    "topKilledBy": [
@@ -343,19 +343,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-22T13:03:35Z",
-   "playTicks": 6393652,
+   "lastSeen": "2026-11-22T13:09:45Z",
+   "playTicks": 6401050,
    "deaths": 3,
    "mobKills": 2195,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 187982,
    "damageTaken": 46272,
-   "distanceCm": 51664883,
-   "walkCm": 21271030,
-   "flyCm": 20563914,
-   "jumps": 90599,
-   "mined": 144446,
+   "distanceCm": 51773372,
+   "walkCm": 21319079,
+   "flyCm": 20621518,
+   "jumps": 90683,
+   "mined": 144777,
    "topMined": [
     [
      "netherrack",
@@ -363,26 +363,26 @@
     ],
     [
      "stone",
-     55625
+     55922
     ],
     [
      "waxed_copper_block",
      3154
     ]
    ],
-   "crafted": 30787,
+   "crafted": 32963,
    "topCrafted": [
     [
      "stick",
      6631
     ],
     [
-     "spruce_planks",
-     4592
+     "bamboo_planks",
+     6016
     ],
     [
-     "bamboo_planks",
-     4096
+     "spruce_planks",
+     4592
     ]
    ],
    "topKilled": [
@@ -2082,6 +2082,34 @@
       "2026-11-08T15:50:04Z"
      ]
     ]
+   }
+  },
+  {
+   "uuid": "920186e8-3f9b-35b4-a09f-1e6c4578786e",
+   "name": "leckmeinenhoden",
+   "firstSeen": "2026-11-22T13:09:50Z",
+   "lastSeen": "2026-11-22T13:09:45Z",
+   "playTicks": 5099,
+   "deaths": 0,
+   "mobKills": 0,
+   "playerKills": 0,
+   "killedByPlayers": 0,
+   "damageDealt": 0,
+   "damageTaken": 0,
+   "distanceCm": 0,
+   "walkCm": 0,
+   "flyCm": 0,
+   "jumps": 0,
+   "mined": 0,
+   "topMined": [],
+   "crafted": 0,
+   "topCrafted": [],
+   "topKilled": [],
+   "topKilledBy": [],
+   "adv": {
+    "count": 0,
+    "byTab": {},
+    "recent": []
    }
   }
  ],
