@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T13:32:24Z",
+ "updated": "2026-11-22T13:34:09Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28647294,
+ "serverTicks": 28653294,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -113,18 +113,18 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-11-22T02:51:15Z",
-   "playTicks": 8946855,
+   "lastSeen": "2026-11-22T13:33:35Z",
+   "playTicks": 8950644,
    "deaths": 2,
    "mobKills": 6780,
    "playerKills": 1,
    "killedByPlayers": 0,
-   "damageDealt": 608140,
+   "damageDealt": 608141,
    "damageTaken": 32565,
-   "distanceCm": 96231147,
-   "walkCm": 38317285,
-   "flyCm": 40929577,
-   "jumps": 79938,
+   "distanceCm": 96391805,
+   "walkCm": 38335671,
+   "flyCm": 41071849,
+   "jumps": 80035,
    "mined": 161203,
    "topMined": [
     [
@@ -228,23 +228,23 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-22T13:28:35Z",
-   "playTicks": 7119457,
+   "lastSeen": "2026-11-22T13:33:35Z",
+   "playTicks": 7125457,
    "deaths": 3,
    "mobKills": 8350,
    "playerKills": 2,
    "killedByPlayers": 0,
    "damageDealt": 545256,
-   "damageTaken": 102934,
-   "distanceCm": 81412527,
-   "walkCm": 24041991,
-   "flyCm": 37704978,
-   "jumps": 106815,
-   "mined": 133057,
+   "damageTaken": 102983,
+   "distanceCm": 81547583,
+   "walkCm": 24069192,
+   "flyCm": 37804071,
+   "jumps": 106940,
+   "mined": 133145,
    "topMined": [
     [
      "stone",
-     51273
+     51284
     ],
     [
      "netherrack",
@@ -255,7 +255,7 @@
      4907
     ]
    ],
-   "crafted": 157636,
+   "crafted": 157843,
    "topCrafted": [
     [
      "iron_ingot",
@@ -343,19 +343,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-22T13:28:35Z",
-   "playTicks": 6423652,
+   "lastSeen": "2026-11-22T13:33:35Z",
+   "playTicks": 6429652,
    "deaths": 3,
    "mobKills": 2195,
    "playerKills": 0,
    "killedByPlayers": 1,
    "damageDealt": 187982,
-   "damageTaken": 46296,
-   "distanceCm": 52053996,
-   "walkCm": 21511093,
-   "flyCm": 20699751,
-   "jumps": 91080,
-   "mined": 145315,
+   "damageTaken": 46314,
+   "distanceCm": 52156480,
+   "walkCm": 21560462,
+   "flyCm": 20748192,
+   "jumps": 91196,
+   "mined": 145331,
    "topMined": [
     [
      "netherrack",
@@ -363,14 +363,14 @@
     ],
     [
      "stone",
-     56364
+     56368
     ],
     [
      "waxed_copper_block",
      3154
     ]
    ],
-   "crafted": 33219,
+   "crafted": 33475,
    "topCrafted": [
     [
      "stick",
@@ -378,7 +378,7 @@
     ],
     [
      "bamboo_planks",
-     6272
+     6528
     ],
     [
      "spruce_planks",
@@ -2088,8 +2088,8 @@
    "uuid": "920186e8-3f9b-35b4-a09f-1e6c4578786e",
    "name": "leckmeinenhoden",
    "firstSeen": "2026-11-22T13:09:50Z",
-   "lastSeen": "2026-11-22T13:28:35Z",
-   "playTicks": 27701,
+   "lastSeen": "2026-11-22T13:33:35Z",
+   "playTicks": 33701,
    "deaths": 0,
    "mobKills": 0,
    "playerKills": 0,
@@ -2903,8 +2903,8 @@
     "rendered": "2026-11-22T13:32:24Z"
    },
    "-1.5": {
-    "mtime": "2026-11-22T02:51:00Z",
-    "rendered": "2026-11-22T05:41:15Z"
+    "mtime": "2026-11-22T13:33:24Z",
+    "rendered": "2026-11-22T13:34:09Z"
    },
    "-2.6": {
     "mtime": "2026-11-22T13:31:57Z",
@@ -2947,8 +2947,8 @@
     "rendered": "2026-11-03T17:44:59Z"
    },
    "-1.4": {
-    "mtime": "2026-11-22T02:51:00Z",
-    "rendered": "2026-11-22T05:41:15Z"
+    "mtime": "2026-11-22T13:33:35Z",
+    "rendered": "2026-11-22T13:34:09Z"
    },
    "-2.3": {
     "mtime": "2026-11-10T19:13:35Z",
@@ -3047,8 +3047,8 @@
     "rendered": "2026-10-29T22:49:02Z"
    },
    "-4.6": {
-    "mtime": "2026-11-22T02:48:48Z",
-    "rendered": "2026-11-22T05:47:30Z"
+    "mtime": "2026-11-22T13:31:50Z",
+    "rendered": "2026-11-22T13:34:09Z"
    },
    "-5.5": {
     "mtime": "2026-10-30T02:17:08Z",
