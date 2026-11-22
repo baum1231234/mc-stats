@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T15:06:52Z",
+ "updated": "2026-11-22T15:08:28Z",
  "source": "minecraftotherpacks/world2/players/stats",
  "serverTicks": 28761294,
  "players": [
@@ -113,8 +113,8 @@
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
    "name": "TheWinterSolgier",
    "firstSeen": null,
-   "lastSeen": "2026-11-22T15:03:35Z",
-   "playTicks": 9053273,
+   "lastSeen": "2026-11-22T15:08:35Z",
+   "playTicks": 9059273,
    "deaths": 2,
    "mobKills": 6908,
    "playerKills": 1,
@@ -1401,18 +1401,18 @@
    "uuid": "f4e7b48b-04bd-4731-b97f-a6b5d304463a",
    "name": "ZorroMC12",
    "firstSeen": "2026-10-11T11:11:10Z",
-   "lastSeen": "2026-11-22T15:03:35Z",
-   "playTicks": 2502159,
+   "lastSeen": "2026-11-22T15:08:35Z",
+   "playTicks": 2508159,
    "deaths": 43,
-   "mobKills": 955,
+   "mobKills": 961,
    "playerKills": 0,
    "killedByPlayers": 7,
-   "damageDealt": 55532,
-   "damageTaken": 39081,
-   "distanceCm": 29784564,
-   "walkCm": 11467491,
-   "flyCm": 12488602,
-   "jumps": 31739,
+   "damageDealt": 56629,
+   "damageTaken": 39289,
+   "distanceCm": 29870046,
+   "walkCm": 11494371,
+   "flyCm": 12521356,
+   "jumps": 31886,
    "mined": 23702,
    "topMined": [
     [
@@ -1450,7 +1450,7 @@
     ],
     [
      "zombie",
-     113
+     117
     ],
     [
      "skeleton",
