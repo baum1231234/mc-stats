@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T13:36:21Z",
+ "updated": "2026-11-23T13:41:18Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28828793,
+ "serverTicks": 28835783,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,19 +228,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-23T13:35:44Z",
-   "playTicks": 7200213,
+   "lastSeen": "2026-11-23T13:40:44Z",
+   "playTicks": 7206213,
    "deaths": 3,
-   "mobKills": 8415,
+   "mobKills": 8427,
    "playerKills": 3,
    "killedByPlayers": 0,
-   "damageDealt": 550079,
-   "damageTaken": 104976,
-   "distanceCm": 83342646,
-   "walkCm": 24377743,
-   "flyCm": 39144851,
-   "jumps": 108459,
-   "mined": 134345,
+   "damageDealt": 550729,
+   "damageTaken": 104997,
+   "distanceCm": 83400637,
+   "walkCm": 24431125,
+   "flyCm": 39148125,
+   "jumps": 108482,
+   "mined": 134797,
    "topMined": [
     [
      "stone",
@@ -295,15 +295,19 @@
     ]
    ],
    "adv": {
-    "count": 56,
+    "count": 57,
     "byTab": {
      "story": 14,
-     "adventure": 15,
+     "adventure": 16,
      "husbandry": 7,
      "nether": 15,
      "end": 5
     },
     "recent": [
+     [
+      "adventure/under_lock_and_key",
+      "2026-11-23T13:36:19Z"
+     ],
      [
       "story/follow_ender_eye",
       "2026-11-10T18:55:00Z"
@@ -330,10 +334,6 @@
      ],
      [
       "end/root",
-      "2026-10-25T17:15:10Z"
-     ],
-     [
-      "story/enter_the_end",
       "2026-10-25T17:15:10Z"
      ]
     ]
