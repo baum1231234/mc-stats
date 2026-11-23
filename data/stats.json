@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T13:21:18Z",
+ "updated": "2026-11-23T13:25:53Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28810793,
+ "serverTicks": 28817789,
  "players": [
   {
    "uuid": "5719c3b9-dc7d-4ece-ad63-992ea3ff581a",
@@ -228,18 +228,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-22T14:23:16Z",
-   "playTicks": 7182213,
+   "lastSeen": "2026-11-23T13:25:44Z",
+   "playTicks": 7188213,
    "deaths": 3,
-   "mobKills": 8410,
+   "mobKills": 8413,
    "playerKills": 3,
    "killedByPlayers": 0,
-   "damageDealt": 549107,
-   "damageTaken": 104245,
-   "distanceCm": 82781597,
-   "walkCm": 24318368,
-   "flyCm": 38697799,
-   "jumps": 107994,
+   "damageDealt": 549689,
+   "damageTaken": 104614,
+   "distanceCm": 82906061,
+   "walkCm": 24334231,
+   "flyCm": 38794977,
+   "jumps": 108108,
    "mined": 134267,
    "topMined": [
     [
@@ -277,7 +277,7 @@
     ],
     [
      "zombie",
-     417
+     420
     ],
     [
      "skeleton",
@@ -2613,11 +2613,12 @@
      "2026-11-19",
      "2026-11-20",
      "2026-11-21",
-     "2026-11-22"
+     "2026-11-22",
+     "2026-11-23"
     ],
-    "rendered": "2026-11-22T15:54:20Z",
+    "rendered": "2026-11-23T13:25:53Z",
     "regions": {
-     "r.-11.1.mca": "2026-11-22T15:06:15Z"
+     "r.-11.1.mca": "2026-11-23T13:26:19Z"
     }
    }
   },
@@ -2696,8 +2697,8 @@
   "dir": "data/tiles/overworld",
   "regions": {
    "-11.1": {
-    "mtime": "2026-11-22T15:06:15Z",
-    "rendered": "2026-11-22T15:54:20Z"
+    "mtime": "2026-11-23T13:26:24Z",
+    "rendered": "2026-11-23T13:25:53Z"
    },
    "-1.-6": {
     "mtime": "2026-11-22T14:33:24Z",
@@ -2756,8 +2757,8 @@
     "rendered": "2026-11-22T14:03:56Z"
    },
    "-12.1": {
-    "mtime": "2026-11-22T15:05:26Z",
-    "rendered": "2026-11-22T15:54:20Z"
+    "mtime": "2026-11-23T13:26:14Z",
+    "rendered": "2026-11-23T13:25:53Z"
    },
    "-3.4": {
     "mtime": "2026-11-23T13:21:55Z",
@@ -2768,12 +2769,12 @@
     "rendered": "2026-11-23T13:21:18Z"
    },
    "-10.1": {
-    "mtime": "2026-11-22T14:58:36Z",
-    "rendered": "2026-11-22T15:54:20Z"
+    "mtime": "2026-11-23T13:26:25Z",
+    "rendered": "2026-11-23T13:25:53Z"
    },
    "-11.0": {
-    "mtime": "2026-11-22T14:50:36Z",
-    "rendered": "2026-11-22T15:54:20Z"
+    "mtime": "2026-11-23T13:26:02Z",
+    "rendered": "2026-11-23T13:25:53Z"
    },
    "-11.2": {
     "mtime": "2026-11-22T14:53:42Z",
