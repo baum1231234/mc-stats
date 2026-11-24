@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T18:16:18Z",
+ "updated": "2026-11-24T18:20:55Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28914691,
+ "serverTicks": 28920691,
  "players": [
   {
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
@@ -343,19 +343,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-24T18:15:32Z",
-   "playTicks": 6524591,
+   "lastSeen": "2026-11-24T18:20:32Z",
+   "playTicks": 6530591,
    "deaths": 3,
-   "mobKills": 2216,
+   "mobKills": 2218,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 191282,
-   "damageTaken": 46868,
-   "distanceCm": 53523516,
-   "walkCm": 22110733,
-   "flyCm": 21469783,
-   "jumps": 93695,
-   "mined": 146032,
+   "damageDealt": 191672,
+   "damageTaken": 46970,
+   "distanceCm": 53593138,
+   "walkCm": 22139451,
+   "flyCm": 21498505,
+   "jumps": 93847,
+   "mined": 146047,
    "topMined": [
     [
      "netherrack",
@@ -370,11 +370,11 @@
      3154
     ]
    ],
-   "crafted": 34992,
+   "crafted": 36439,
    "topCrafted": [
     [
      "bamboo_planks",
-     7552
+     8142
     ],
     [
      "stick",
@@ -392,11 +392,11 @@
     ],
     [
      "zombie",
-     208
+     209
     ],
     [
      "skeleton",
-     182
+     183
     ]
    ],
    "topKilledBy": [
