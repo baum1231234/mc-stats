@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T18:11:36Z",
+ "updated": "2026-11-24T18:14:43Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28908691,
+ "serverTicks": 28912550,
  "players": [
   {
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
@@ -228,19 +228,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-24T18:10:32Z",
-   "playTicks": 7258769,
+   "lastSeen": "2026-11-24T18:14:44Z",
+   "playTicks": 7263819,
    "deaths": 3,
    "mobKills": 8557,
    "playerKills": 3,
    "killedByPlayers": 0,
    "damageDealt": 556610,
-   "damageTaken": 105842,
-   "distanceCm": 84137399,
-   "walkCm": 24768378,
-   "flyCm": 39448263,
-   "jumps": 109068,
-   "mined": 139929,
+   "damageTaken": 105907,
+   "distanceCm": 84211294,
+   "walkCm": 24794747,
+   "flyCm": 39490620,
+   "jumps": 109151,
+   "mined": 139952,
    "topMined": [
     [
      "stone",
@@ -255,7 +255,7 @@
      4907
     ]
    ],
-   "crafted": 170504,
+   "crafted": 170505,
    "topCrafted": [
     [
      "iron_ingot",
@@ -343,19 +343,19 @@
    "uuid": "3836f5a5-92f0-447b-8761-b57ca1441a8b",
    "name": "Ogerxy",
    "firstSeen": "2026-10-11T15:50:26Z",
-   "lastSeen": "2026-11-24T18:10:32Z",
-   "playTicks": 6518591,
+   "lastSeen": "2026-11-24T18:13:45Z",
+   "playTicks": 6522450,
    "deaths": 3,
-   "mobKills": 2215,
+   "mobKills": 2216,
    "playerKills": 0,
    "killedByPlayers": 1,
-   "damageDealt": 191082,
-   "damageTaken": 46802,
-   "distanceCm": 53449327,
-   "walkCm": 22079186,
-   "flyCm": 21437524,
-   "jumps": 93543,
-   "mined": 146019,
+   "damageDealt": 191282,
+   "damageTaken": 46866,
+   "distanceCm": 53498859,
+   "walkCm": 22099203,
+   "flyCm": 21458286,
+   "jumps": 93636,
+   "mined": 146027,
    "topMined": [
     [
      "netherrack",
@@ -370,11 +370,11 @@
      3154
     ]
    ],
-   "crafted": 34356,
+   "crafted": 34740,
    "topCrafted": [
     [
      "bamboo_planks",
-     7168
+     7552
     ],
     [
      "stick",
@@ -396,7 +396,7 @@
     ],
     [
      "skeleton",
-     181
+     182
     ]
    ],
    "topKilledBy": [
