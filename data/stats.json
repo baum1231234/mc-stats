@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T18:30:10Z",
+ "updated": "2026-11-24T18:34:48Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 28931892,
+ "serverTicks": 28937892,
  "players": [
   {
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
@@ -228,18 +228,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-24T18:14:44Z",
-   "playTicks": 7263819,
+   "lastSeen": "2026-11-24T18:34:52Z",
+   "playTicks": 7269819,
    "deaths": 3,
-   "mobKills": 8557,
+   "mobKills": 8574,
    "playerKills": 3,
    "killedByPlayers": 0,
-   "damageDealt": 556610,
-   "damageTaken": 105907,
-   "distanceCm": 84211294,
-   "walkCm": 24794747,
-   "flyCm": 39490620,
-   "jumps": 109151,
+   "damageDealt": 557936,
+   "damageTaken": 106074,
+   "distanceCm": 84278675,
+   "walkCm": 24805508,
+   "flyCm": 39541488,
+   "jumps": 109200,
    "mined": 139952,
    "topMined": [
     [
@@ -255,15 +255,15 @@
      4907
     ]
    ],
-   "crafted": 170505,
+   "crafted": 177398,
    "topCrafted": [
     [
-     "iron_ingot",
-     32965
+     "bamboo_planks",
+     35709
     ],
     [
-     "bamboo_planks",
-     32253
+     "iron_ingot",
+     35491
     ],
     [
      "stick",
