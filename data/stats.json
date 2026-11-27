@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-27T18:24:07Z",
+ "updated": "2026-11-27T18:26:11Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 29015751,
+ "serverTicks": 29021751,
  "players": [
   {
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
@@ -228,18 +228,18 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-27T18:21:04Z",
-   "playTicks": 7340481,
+   "lastSeen": "2026-11-27T18:26:04Z",
+   "playTicks": 7346481,
    "deaths": 3,
-   "mobKills": 8679,
+   "mobKills": 8803,
    "playerKills": 3,
    "killedByPlayers": 0,
-   "damageDealt": 570236,
-   "damageTaken": 108228,
-   "distanceCm": 85734830,
-   "walkCm": 25174256,
-   "flyCm": 40488994,
-   "jumps": 110062,
+   "damageDealt": 572086,
+   "damageTaken": 108337,
+   "distanceCm": 85928595,
+   "walkCm": 25181355,
+   "flyCm": 40661770,
+   "jumps": 110098,
    "mined": 144180,
    "topMined": [
     [
@@ -255,7 +255,7 @@
      7560
     ]
    ],
-   "crafted": 177481,
+   "crafted": 177881,
    "topCrafted": [
     [
      "bamboo_planks",
@@ -273,7 +273,7 @@
    "topKilled": [
     [
      "guardian",
-     6065
+     6189
     ],
     [
      "zombie",
@@ -3103,8 +3103,8 @@
     "rendered": "2026-11-11T21:07:02Z"
    },
    "-13.0": {
-    "mtime": "2026-11-22T13:50:30Z",
-    "rendered": "2026-11-22T16:47:52Z"
+    "mtime": "2026-11-27T18:25:12Z",
+    "rendered": "2026-11-27T18:26:11Z"
    },
    "-13.2": {
     "mtime": "2026-11-27T18:21:28Z",
