@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-27T18:26:11Z",
+ "updated": "2026-11-27T18:30:18Z",
  "source": "minecraftotherpacks/world2/players/stats",
- "serverTicks": 29021751,
+ "serverTicks": 29027260,
  "players": [
   {
    "uuid": "9df12299-a1e8-427c-9a1a-6b398f94d238",
@@ -228,19 +228,19 @@
    "uuid": "880f5688-94d3-44ee-873c-d05d49ff035d",
    "name": "Ahxibrause",
    "firstSeen": null,
-   "lastSeen": "2026-11-27T18:26:04Z",
-   "playTicks": 7346481,
+   "lastSeen": "2026-11-27T18:29:39Z",
+   "playTicks": 7350790,
    "deaths": 3,
-   "mobKills": 8803,
+   "mobKills": 8806,
    "playerKills": 3,
    "killedByPlayers": 0,
-   "damageDealt": 572086,
-   "damageTaken": 108337,
-   "distanceCm": 85928595,
-   "walkCm": 25181355,
-   "flyCm": 40661770,
-   "jumps": 110098,
-   "mined": 144180,
+   "damageDealt": 572426,
+   "damageTaken": 108423,
+   "distanceCm": 86006991,
+   "walkCm": 25228698,
+   "flyCm": 40688693,
+   "jumps": 110161,
+   "mined": 144882,
    "topMined": [
     [
      "stone",
@@ -252,7 +252,7 @@
     ],
     [
      "tuff_bricks",
-     7560
+     8192
     ]
    ],
    "crafted": 177881,
